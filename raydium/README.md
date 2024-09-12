@@ -1,8 +1,9 @@
 # Scripts for gathering data from Raydium
 
 * [get_token_names.py](get_token_names.py) Reads transactions from 'data/raydiumTxsProcessed.csv,' gets a list of all tokens traded checks [data/tokens.csv](data/tokens.csv) to see which token symbols are known for tokens without known symbols, it calls get_symbol (from [token_utils.py](token_utils.py) to add the symbol.
-* [get_transactions.py](get_transactions.py)
-* [process_raydium_txs.py](process_raydium_txs.py)
+* [get_transactions.py](get_transactions.py) Gets all transactions related to the [Raydium AMM](https://solscan.io/account/675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8).  It writes the Tx signatures as a list (one per line) to [data/raydiumSigs.csv](data/raydiumSigs.csv).  It then gets the transaction details for each of these transactions, 
+    and writes the data to [data/raydiumTxs.csv](https://upenn.box.com/s/5tstk731l4oxw9rdo977e6ihmzi9aejb).
+* [process_raydium_txs.py](process_raydium_txs.py) Takes the transactions from [data/raydiumTxs.csv](https://upenn.box.com/s/5tstk731l4oxw9rdo977e6ihmzi9aejb) and parses them and writes them to [data/raydiumTxsProcessed.csv](data/raydiumTxsProcessed).
 * [token_utils.py](token_utils.py) Provides functions for reading token metadata (e.g, name, symbol, or metadata from NFTs).  Adapted from [solana_metadata_assets_from_wallet.py](https://gist.githubusercontent.com/CrackerHax/61882cf814cde4d9cbc6f5a709e51c34/raw/38d0f11f6f394f7aea0be788f1760f5302b59c91/solana_metadata_assets_from_wallet.py).
 
 # Data

@@ -137,7 +137,7 @@ def getTxSigs( PubKey, batch_size, num_sigs, last_signature):
 
 
 json_cols = ['transaction.signatures','transaction.message.accountKeys','meta.preBalances','meta.postBalances','meta.preTokenBalances','transaction.message.instructions','meta.innerInstructions','meta.logMessages','meta.preTokenBalances','meta.postTokenBalances','meta.loadedAddresses.writable' ]
-tx_df = pd.read_csv( "data/raydiumTxs.csv",  converters={ c : ast.literal_eval for c in json_cols } )
+tx_df = pd.read_csv( tx_file,  converters={ c : ast.literal_eval for c in json_cols } )
 known_sigs = set( tx_df.signature.unique() )
 
 getTxSigs( RaydiumPubKey, batch_size, num_sigs, last_signature )
