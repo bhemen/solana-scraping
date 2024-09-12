@@ -1,0 +1,7 @@
+*.log
+*.out
+*.blg
+*.tmp
+raydium/data/raydiumTxs.csv
+raydium/api_key
+
