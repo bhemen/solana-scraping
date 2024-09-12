@@ -11,10 +11,6 @@ import struct
 import json
 from urllib.request import Request, urlopen
 
-#TODO: get your own solana rpc node
-#devnet
-#solana_client = Client("https://api.devnet.solana.com")
-
 with open('api_key', 'r') as file:
     api_key = file.read().replace('\n', '')
 
