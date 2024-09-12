@@ -3,7 +3,7 @@
 * [get_token_names.py](get_token_names.py) Reads transactions from 'data/raydiumTxsProcessed.csv,' gets a list of all tokens traded checks [data/tokens.csv](data/tokens.csv) to see which token symbols are known for tokens without known symbols, it calls get_symbol (from [token_utils.py](token_utils.py) to add the symbol.
 * [get_transactions.py](get_transactions.py)
 * [process_raydium_txs.py](process_raydium_txs.py)
-* [token_utils.py](token_utils.py)
+* [token_utils.py](token_utils.py) Provides functions for reading token metadata (e.g, name, symbol, or metadata from NFTs).  Adapted from [https://gist.githubusercontent.com/CrackerHax/61882cf814cde4d9cbc6f5a709e51c34/raw/38d0f11f6f394f7aea0be788f1760f5302b59c91/solana_metadata_assets_from_wallet.py](solana_metadata_assets_from_wallet.py).
 
 # Data
 
