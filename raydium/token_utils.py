@@ -1,11 +1,11 @@
 """
+    Utilities for reading token metadata
 """
 
 import sys
 from solana.rpc.api import Client, Pubkey
 from solana.rpc.types import TokenAccountOpts
 from spl.token._layouts import MINT_LAYOUT, ACCOUNT_LAYOUT
-import base64
 import base58
 import struct
 import json
