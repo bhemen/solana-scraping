@@ -1,6 +1,6 @@
 # Scripts for gathering data from Raydium
 
-* [get_token_names.py](get_token_names.py)
+* [get_token_names.py](get_token_names.py) Reads transactions from 'data/raydiumTxsProcessed.csv,' gets a list of all tokens traded checks [data/tokens.csv](data/tokens.csv) to see which token symbols are known for tokens without known symbols, it calls get_symbol (from [token_utils.py](token_utils.py) to add the symbol.
 * [get_transactions.py](get_transactions.py)
 * [process_raydium_txs.py](process_raydium_txs.py)
 * [token_utils.py](token_utils.py)
