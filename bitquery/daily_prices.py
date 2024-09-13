@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+    Scrape all token trades on the current day from the Bitquery API 
+    Saves the data to the CSV data/token_prices_{current_date}.csv
+"""
 import requests 
 import pandas as pd
 from tqdm import tqdm
