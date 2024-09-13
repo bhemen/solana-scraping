@@ -1,5 +1,8 @@
 # Scripts for gathering data from Raydium
 
+These scripts connect to a Solana node.  I used Chainstack for my testing.  To run these scripts, you'll have to [sign up](https://chainstack.com/pricing/) for a Chainstack account, 
+and place your API key in the file `api_key.'
+
 * [get_token_names.py](get_token_names.py) Reads transactions from 'data/raydiumTxsProcessed.csv,' gets a list of all tokens traded checks [data/tokens.csv](data/tokens.csv) to see which token symbols are known for tokens without known symbols, it calls get_symbol (from [token_utils.py](token_utils.py) to add the symbol.
 * [get_transactions.py](get_transactions.py) Gets all transactions related to the [Raydium AMM](https://solscan.io/account/675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8).  It writes the Tx signatures as a list (one per line) to [data/raydiumSigs.csv](data/raydiumSigs.csv).  It then gets the transaction details for each of these transactions, 
     and writes the data to [data/raydiumTxs.csv](https://upenn.box.com/s/5tstk731l4oxw9rdo977e6ihmzi9aejb).
