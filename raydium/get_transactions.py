@@ -44,10 +44,12 @@ error_file = "errors.txt"
 if os.path.isfile(sig_file):
     with open(sig_file) as f:
         known_sigs = f.read().splitlines()
-    last_signature = known_sigs[-1]
+    first_signature = known_sigs[-1]
+    most_recent_signature = known_sigs[0]
 else:
     known_sigs = []
-    last_signature = None
+    first_signature = None
+    most_recent_signature = None
 
 def getTxDetail(txSignature):
     """
@@ -81,8 +83,8 @@ def getTxSigs( PubKey, batch_size, num_sigs, last_signature):
         lastSignature
     """
     print("getting transactions")
-    if isinstance( last_signature, str ):
-        lastSignature = solana.transaction.Signature.from_string(last_signature)
+    if isinstance( first_signature, str ):
+        lastSignature = solana.transaction.Signature.from_string(first_signature)
     else:
         lastSignature = None
     rounds = 0
@@ -91,7 +93,6 @@ def getTxSigs( PubKey, batch_size, num_sigs, last_signature):
         print("round-"+str(rounds+1))
         try:
             txs = http_client.get_signatures_for_address(PubKey,limit=batch_size,before=lastSignature).to_json()
-            print( txs )
         except Exception as e:
             print( f"Error getting signatures" )
             print( e )
@@ -99,7 +100,25 @@ def getTxSigs( PubKey, batch_size, num_sigs, last_signature):
             continue
         txs = json.loads(txs)["result"]
         if len( txs ) == 0:
+            print( f"No signatures before {lastSignature}" )
+            #At this point, see if there are any new signatures that have been generated since the last run of the program
+            if isinstance( most_recent_signature, str ):
+                mostRecent = solana.transaction.Signature.from_string(most_recent_signature)
+            else:
+                mostRecent = None
+            try:
+                txs = http_client.get_signatures_for_address(PubKey,limit=batch_size,until=mostRecent).to_json()
+            except Exception as e:
+                print( f"Error getting signatures" )
+                print( e )
+                time.sleep(5)
+                continue
+            txs = json.loads(txs)["result"]
+
+        if len( txs ) == 0:
+            print( f'No signatures before {lastSignature} or after {mostRecent}' )
             break
+
         print("processing signatures")
         signatures = [o["signature"] for o in txs]
         with open( sig_file, 'a' ) as f:
