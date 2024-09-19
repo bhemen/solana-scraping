@@ -91,6 +91,7 @@ def getTxSigs( PubKey, batch_size, num_sigs, last_signature):
         print("round-"+str(rounds+1))
         try:
             txs = http_client.get_signatures_for_address(PubKey,limit=batch_size,before=lastSignature).to_json()
+            print( txs )
         except Exception as e:
             print( f"Error getting signatures" )
             print( e )
