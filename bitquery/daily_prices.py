@@ -32,9 +32,12 @@ query MyQuery {
         datefield: Date(interval: {in: days, count: 1 })
       }
       volume: sum(of: Trade_AmountInUSD)
-      med: median(of: Trade_AmountInUSD)
-      low: quantile(of: Trade_AmountInUSD, level: 0.025)
-      high: quantile(of: Trade_AmountInUSD, level: 0.975)
+      medAmt: median(of: Trade_AmountInUSD)
+      lowAmt: quantile(of: Trade_AmountInUSD, level: 0.025)
+      highAmt: quantile(of: Trade_AmountInUSD, level: 0.975)
+      medPrice: median(of: Trade_PriceInUSD)
+      lowPrice: quantile(of: Trade_PriceInUSD, level: 0.025)
+      highPrice: quantile(of: Trade_PriceInUSD, level: 0.975)
       Trade {
         Currency {
           Symbol
@@ -82,7 +85,7 @@ for i in tqdm( range( num_records//batch_size ) ):
     time.sleep(5)
     d = resp['data']['Solana']['DEXTradeByTokens']
     for r in d:
-        row = { 'Date': r['Block']['datefield'], 'Dex': r['Trade']['Dex']['ProtocolName'], 'symbol': r['Trade']['Currency']['Symbol'], 'TokenAddress': r['Trade']['Currency']['MintAddress'], 'count': r['count'], 'high': r['high'], 'median': r['med'], 'volume': r['volume']  }
+        row = { 'Date': r['Block']['datefield'], 'Dex': r['Trade']['Dex']['ProtocolName'], 'symbol': r['Trade']['Currency']['Symbol'], 'TokenAddress': r['Trade']['Currency']['MintAddress'], 'count': r['count'],'lowPrice': r['lowPrice'],'highPrice': r['highPrice'], 'medianPrice': r['medPrice'], 'lowAmount': r['lowAmt'],'highAmount': r['highAmt'], 'medianAmount': r['medAmt'], 'volume': r['volume']  }
         rows.append( row )
 
 print( f"\nWriting to {outfile}" )
