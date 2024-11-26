@@ -4,12 +4,27 @@
     Saves the data to the CSV data/token_prices_{current_date}.csv
 """
 import requests 
-import pandas as pd
 from tqdm import tqdm
 import time
 from datetime import datetime
 import csv
-import os 
+import os
+import sys
+
+#Disable tqdm if running from cron / ipython
+#https://github.com/tqdm/tqdm/issues/506
+try:
+	ipy_str = str(type(get_ipython()))
+    if 'zmqshell' in ipy_str:
+        from tqdm import tqdm_notebook as tqdm
+    if 'terminal' in ipy_str:
+        from tqdm import tqdm
+except:
+    if sys.stderr.isatty():
+        from tqdm import tqdm
+    else:
+        def tqdm(iterable, **kwargs):
+            return iterable 
 
 #If we call this from cron, it will run it from a different CWD, so relative paths won't work
 dir_path = os.path.dirname(os.path.realpath(__file__))
