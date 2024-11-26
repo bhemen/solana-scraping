@@ -8,6 +8,7 @@ import pandas as pd
 from tqdm import tqdm
 import time
 from datetime import datetime
+import csv
 import os 
 
 #If we call this from cron, it will run it from a different CWD, so relative paths won't work
@@ -47,7 +48,7 @@ query MyQuery {
           ProtocolName
         }
       }
-      count
+      tradeCount: count(distinct: Transaction_Signature)
     }
   }
 }
@@ -75,6 +76,14 @@ batch_size = 5
 today = datetime.today().strftime('%Y-%m-%d')
 outfile = f"/{dir_path}/data/token_prices_{today}.csv"
 
+print( f"\nWriting to {outfile}" )
+
+columns = ['Date', 'Dex', 'symbol', 'TokenAddress', 'count', 'lowPrice', 'highPrice', 'medianPrice', 'lowAmount', 'highAmount', 'medianAmount', 'volume']
+
+with open(outfile, 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=columns)
+    writer.writeheader()
+
 rows = []
 for i in tqdm( range( num_records//batch_size ) ):
     variables = {   'OFFSET': i*batch_size, 
@@ -84,12 +93,16 @@ for i in tqdm( range( num_records//batch_size ) ):
     resp = run_query(query )
     time.sleep(5)
     d = resp['data']['Solana']['DEXTradeByTokens']
-    for r in d:
-        row = { 'Date': r['Block']['datefield'], 'Dex': r['Trade']['Dex']['ProtocolName'], 'symbol': r['Trade']['Currency']['Symbol'], 'TokenAddress': r['Trade']['Currency']['MintAddress'], 'count': r['count'],'lowPrice': r['lowPrice'],'highPrice': r['highPrice'], 'medianPrice': r['medPrice'], 'lowAmount': r['lowAmt'],'highAmount': r['highAmt'], 'medianAmount': r['medAmt'], 'volume': r['volume']  }
-        rows.append( row )
-
-print( f"\nWriting to {outfile}" )
-df = pd.DataFrame( rows )
-df.to_csv( outfile, index=False )
+    if d is None:
+        continue
+    with open('people.csv', 'w', newline='') as csvfile:
+        for r in d:
+            try:
+                row = { 'Date': r['Block']['datefield'], 'Dex': r['Trade']['Dex']['ProtocolName'], 'symbol': r['Trade']['Currency']['Symbol'], 'TokenAddress': r['Trade']['Currency']['MintAddress'], 'count': r['tradeCount'],'lowPrice': r['lowPrice'],'highPrice': r['highPrice'], 'medianPrice': r['medPrice'], 'lowAmount': r['lowAmt'],'highAmount': r['highAmt'], 'medianAmount': r['medAmt'], 'volume': r['volume']  }
+                writer = csv.DictWriter(csvfile, fieldnames=row.keys())
+                writer.writerow( row )
+            except Exception as e:
+                print( f"Error writing row to {outfile}" )
+                print( e )
 
 
