@@ -14,7 +14,7 @@ import sys
 #Disable tqdm if running from cron / ipython
 #https://github.com/tqdm/tqdm/issues/506
 try:
-	ipy_str = str(type(get_ipython()))
+    ipy_str = str(type(get_ipython()))
     if 'zmqshell' in ipy_str:
         from tqdm import tqdm_notebook as tqdm
     if 'terminal' in ipy_str:
