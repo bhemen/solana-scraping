@@ -110,7 +110,7 @@ for i in tqdm( range( num_records//batch_size ) ):
     d = resp['data']['Solana']['DEXTradeByTokens']
     if d is None:
         continue
-    with open('people.csv', 'w', newline='') as csvfile:
+    with open(outfile, 'a', newline='') as csvfile:
         for r in d:
             try:
                 row = { 'Date': r['Block']['datefield'], 'Dex': r['Trade']['Dex']['ProtocolName'], 'symbol': r['Trade']['Currency']['Symbol'], 'TokenAddress': r['Trade']['Currency']['MintAddress'], 'count': r['tradeCount'],'lowPrice': r['lowPrice'],'highPrice': r['highPrice'], 'medianPrice': r['medPrice'], 'lowAmount': r['lowAmt'],'highAmount': r['highAmt'], 'medianAmount': r['medAmt'], 'volume': r['volume']  }
