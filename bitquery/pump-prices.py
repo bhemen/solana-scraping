@@ -43,6 +43,11 @@ query MyQuery {
     DEXTradeByTokens(
       orderBy: {descendingByField: "volume"}
       limit: {count: COUNT, offset: OFFSET}
+      where: {
+        Trade: {
+          Dex: { ProtocolName: { is: "pump" } }
+  			}
+      }
     ) {
       Block {
         datefield: Date(interval: {in: days, count: 1 })
@@ -86,10 +91,10 @@ def run_query(query):
     else:
         raise Exception('Query failed and return code is {}.    {}'.format(request.status_code, query))
 
-num_records = 3000
-batch_size = 100
+num_records = 5000
+batch_size = 200
 today = datetime.today().strftime('%Y-%m-%d')
-outfile = f"/{dir_path}/data/token_prices_{today}.csv"
+outfile = f"/{dir_path}/data/pump_prices_{today}.csv"
 
 print( f"\nWriting to {outfile}" )
 
