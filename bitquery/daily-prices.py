@@ -29,8 +29,19 @@ except:
 #If we call this from cron, it will run it from a different CWD, so relative paths won't work
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-with open(f'{dir_path}/api_key', 'r') as file:
-    api_key = file.read().replace('\n', '')
+try:
+    with open(f'{dir_path}/api_key', 'r') as file:
+        api_key = file.read().rstrip()
+except Exception as e:
+    api_key = None
+    print( e )
+
+try:
+    with open(f'{dir_path}/access_token', 'r') as file:
+        access_token = file.read().rstrip()
+except Exception as e:
+    access_token = None
+    print( e )
   
 v1_endpoint = "https://graphql.bitquery.io"
 v2_endpoint = "https://streaming.bitquery.io/graphql"
