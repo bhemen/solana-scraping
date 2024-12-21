@@ -92,7 +92,8 @@ def replace_vars( query, var_dict ):
     return q
 
 def run_query(query):
-    headers = {'X-API-KEY': api_key, 'Authorization': f'Bearer {access_token}' }
+    #headers = {'X-API-KEY': api_key, 'Authorization': f'Bearer {access_token}' }
+    headers = {'X-API-KEY': api_key }
     request = requests.post(eap_endpoint, json={'query': query }, headers=headers)
     if request.status_code == 200:
         return request.json()
