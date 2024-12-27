@@ -106,7 +106,7 @@ def run_query(query):
 num_records = 5000
 batch_size = 200
 today = datetime.today().strftime('%Y-%m-%d')
-outfile = f"/{dir_path}/data/pump_prices_{today}.csv"
+outfile = f"{dir_path}/data/pump_prices_{today}.csv"
 
 print( f"\nWriting to {outfile}" )
 
