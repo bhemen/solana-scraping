@@ -115,22 +115,11 @@ async def main():
     # Define the subscription query
     query = gql(subscription_query)
 
-    async def subscribe_and_print():
-        try:
-            async for result in transport.subscribe(query):
-                handle_result(result)
-        except asyncio.CancelledError:
-            print("Subscription cancelled.")
-
-    # Run the subscription and stop after 100 seconds
     try:
-        await asyncio.wait_for(subscribe_and_print(), timeout=100)
-    except asyncio.TimeoutError:
-        print("Stopping subscription after 100 seconds.")
-
-    # Close the connection
-    await transport.close()
-    print("Transport closed")
+        async for result in transport.subscribe(query):
+            handle_result(result)
+    except asyncio.CancelledError:
+        print("Subscription cancelled.")
 
 
 # Run the asyncio event loop
