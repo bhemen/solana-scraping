@@ -13,10 +13,14 @@ output_dir = 'data'
 
 def handle_result( result ):
     rows = []
+#    print( json.dumps( result.data['Solana'], indent=2 ) )
     for r in result.data['Solana']['TokenSupplyUpdates']:
         base_level = ['Amount','PostBalance']
         d = { k : r['TokenSupplyUpdate'][k] for k in base_level }
         d.update( r['TokenSupplyUpdate']['Currency'] )
+        d['TokenCreator'] = d['TokenCreator']['Address']
+        d['Time'] = r['Block']['Time']
+        d['Height'] = r['Block']['Height']
         rows.append(d )
 
     df = pd.DataFrame( rows )
@@ -67,37 +71,45 @@ async def main():
     print("Connected")
 	
     subscription_query = """
-		subscription {
-		  Solana {
-			TokenSupplyUpdates(
-			  where: {Instruction: {Program: {Address: {is: "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"}, Method: {is: "create"}}}}
-			) {
-			  TokenSupplyUpdate {
-				Amount
-				Currency {
-				  Symbol
-				  ProgramAddress
-				  PrimarySaleHappened
-				  Native
-				  Name
-				  MintAddress
-				  MetadataAddress
-				  Key
-				  IsMutable
-				  Fungible
-				  EditionNonce
-				  Decimals
-				  Wrapped
-				  VerifiedCollection
-				  Uri
-				  UpdateAuthority
-				  TokenStandard
-				}
-				PostBalance
-			  }
-			}
-		  }
-		}
+        subscription {
+          Solana {
+            TokenSupplyUpdates(
+              where: {Instruction: {Program: {Address: {is: "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"}, Method: {is: "create"}}}}
+            ) {
+              TokenSupplyUpdate {
+                Amount
+                Currency {
+                  Symbol
+                  ProgramAddress
+                  PrimarySaleHappened
+                  Native
+                  Name
+                  MintAddress
+                  MetadataAddress
+                  Key
+                  IsMutable
+                  Fungible
+                  EditionNonce
+                  Decimals
+                  Wrapped
+                  VerifiedCollection
+                  Uri
+                  UpdateAuthority
+                  TokenStandard
+                  TokenCreator {
+                    Address
+                  }
+                }
+                PostBalance
+              }
+              Block {
+                Date
+                Height
+                Time
+              }
+            }
+          }
+        }
     """
 
     # Define the subscription query
