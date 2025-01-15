@@ -4,6 +4,11 @@ import base58
 from spl.token.constants import TOKEN_PROGRAM_ID
 from spl.token.instructions import get_associated_token_address
 import requests
+from pathlib import Path
+import pandas as pd
+from tqdm import tqdm
+import csv
+import time
 
 def bytes_to_string( byte_array ):
     bs = byte_array.strip(b'\x00')
@@ -19,6 +24,52 @@ def bytes_to_string( byte_array ):
         return ""
 
     return s
+
+def fetch_metadata( uri, retry=0, backoff=1):
+
+    if uri.startswith('ipfs://'):
+        ipfs = True
+        cid = uri[7:]
+    else:
+        ipfs = False
+    try:
+        ipfs = True
+        cid = uri.split("/ipfs/")[1]
+    except IndexError:
+        ipfs = False
+
+    if ipfs:
+        gateways = ['https://ipfs.io/ipfs/','https://gateway.pinata.cloud/ipfs/','https://cloudflare-ipfs.com/ipfs/']
+        for gateway in gateways:
+            full_uri = f"{gateway}{cid}"
+            try:
+                response = requests.get(full_uri,timeout=10)
+                response.raise_for_status()
+                return response.json()
+            except Exception as e:
+                print(f"Warning: Could not fetch additional metadata from {full_uri}")
+                print( e )
+        if retry < 5:
+            time.sleep(backoff)
+            return fetch_metadata( uri, retry=retry+1, backoff=backoff*2 )
+        else:
+            return {}
+    else: 
+        if uri.startswith("http"):
+            try:
+                response = requests.get(uri,timeout=10)
+                response.raise_for_status()
+                return response.json()
+            except Exception as e:
+                print(f"Warning: Could not fetch additional metadata from {uri}")
+                print( e )
+                if retry < 5:
+                    time.sleep(backoff)
+                    return fetch_metadata( uri, retry=retry+1, backoff=backoff*2 )
+                else:
+                    return {}
+        return {}
+    
 
 def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-beta.solana.com"):
     """
@@ -87,33 +138,59 @@ def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-b
         uri = bytes_to_string( data[current_index:current_index+uri_length] )
         
         metadata = {
+            "address": token_address,
             "name": name,
             "symbol": symbol,
             "uri": uri
         }
 
-        print( metadata )
-        
         # If there's a URI, fetch additional metadata
-        if uri.startswith("http"):
-            try:
-                additional_metadata = requests.get(uri).json()
-                metadata["additional_metadata"] = additional_metadata
-            except Exception as e:
-                print(f"Warning: Could not fetch additional metadata from URI: {e}")
+        additional_metadata = fetch_metadata(uri)
+        for e in extra_cols:
+            if e in additional_metadata.keys():
+                metadata.update( {e: additional_metadata[e].rstrip().replace('\n','')} )
         
         return metadata
         
     except Exception as e:
         raise ValueError(f"Error parsing metadata: {e}")
 
-# Example usage
-if __name__ == "__main__":
-    # Example token address (replace with your token's mint address)
-    token_address = "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump"  # USDC on Solana
-    
+
+data_path = Path("bitquery/data")
+csv_files = list(data_path.glob("token_prices*.csv"))
+token_addresses = set()
+for f in csv_files:
+    df = pd.read_csv( f )
+    if 'TokenAddress' in df.columns:
+        token_addresses = token_addresses.union( df.TokenAddress )
+
+outfile = "data/token_metadata.csv"
+
+try:
+    df = pd.read_csv(outfile)
+    known_addresses = df.address.unique()
+    print( f'{len(known_addresses)} known addresses' )
+except Exception as e:
+    known_addresses = []
+
+unknown_addresses = token_addresses.difference(known_addresses)
+extra_cols = ['description','image','createdOn']
+columns = ['address','name','symbol','uri'] + extra_cols
+
+if not Path(outfile).is_file():
+    with open( outfile, 'w' ) as f:
+        writer = csv.DictWriter( f, fieldnames=columns )
+        writer.writeheader()
+
+for a in tqdm(unknown_addresses):
     try:
-        metadata = get_token_metadata(token_address)
-        print(f"Token Metadata: {metadata}")
+        metadata = get_token_metadata(a)
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error getting token metadata for {a}")
+        print( e )
+        continue
+
+    with open( outfile, 'a') as f:
+        writer = csv.DictWriter( f, fieldnames=columns )
+        writer.writerow(metadata)
+
