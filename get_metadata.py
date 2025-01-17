@@ -1,7 +1,7 @@
 from solana.rpc.api import Client
 from solders.pubkey import Pubkey
 import base58
-from spl.token.constants import TOKEN_PROGRAM_ID
+from spl.token.constants import TOKEN_PROGRAM_ID, TOKEN_2022_PROGRAM_ID, ASSOCIATED_TOKEN_PROGRAM_ID
 from spl.token.instructions import get_associated_token_address
 import requests
 from pathlib import Path
@@ -26,7 +26,6 @@ def bytes_to_string( byte_array ):
     return s
 
 def fetch_metadata( uri, retry=0, backoff=1):
-
     if uri.startswith('ipfs://'):
         ipfs = True
         cid = uri[7:]
@@ -71,7 +70,7 @@ def fetch_metadata( uri, retry=0, backoff=1):
         return {}
     
 
-def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-beta.solana.com"):
+def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-beta.solana.com", retry=1, backoff=2):
     """
     Fetch metadata for a Solana token using its mint address.
     
@@ -102,11 +101,21 @@ def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-b
     )[0]
     
     # Get metadata account info
-    metadata_info = client.get_account_info(metadata_account)
+    try:
+        metadata_info = client.get_account_info(metadata_account)
+    except Exception as e:
+        time.sleep(1)
+        if retry < 5:
+            time.sleep(backoff)
+            return get_token_metadata( token_address, rpc_url, retry+1, backoff=backoff*2 )
+        else:
+            print( f"get_account_info({metadata_account}) failed after 5 retries" )
+            print( e )
     
     if not metadata_info.value:
-        raise ValueError("Metadata account not found")
-    
+        print( f"No metaplex data for {token_pubkey}" )
+        raise ValueError("No metadata found")
+
     # Parse metadata
     data = metadata_info.value.data
     
@@ -145,7 +154,11 @@ def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-b
         }
 
         # If there's a URI, fetch additional metadata
-        additional_metadata = fetch_metadata(uri)
+        try:
+            additional_metadata = fetch_metadata(uri)
+        except Exception as e:
+            print( f"Failed to fetch metadata from {uri}" )
+            return metadata 
         for e in extra_cols:
             if e in additional_metadata.keys():
                 metadata.update( {e: additional_metadata[e].rstrip().replace('\n','')} )
@@ -153,8 +166,21 @@ def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-b
         return metadata
         
     except Exception as e:
+        print( f"Error parsing metadata: {data}" )
         raise ValueError(f"Error parsing metadata: {e}")
 
+provider='chainstack'
+
+endPoint = "https://api.mainnet-beta.solana.com"
+
+if provider == 'alchemy':
+    with open('alchemy_api_key', 'r') as file:
+        api_key = file.read().replace('\n', '')
+    endPoint = f"https://solana-mainnet.g.alchemy.com/v2/{api_key}"
+if provider == 'chainstack':
+    with open('chainstack_api_key', 'r') as file:
+        api_key = file.read().replace('\n', '')
+    endPoint = f"https://solana-mainnet.core.chainstack.com/{api_key}"
 
 data_path = Path("bitquery/data")
 csv_files = list(data_path.glob("token_prices*.csv"))
@@ -184,8 +210,10 @@ if not Path(outfile).is_file():
 
 for a in tqdm(unknown_addresses):
     try:
-        metadata = get_token_metadata(a)
+        metadata = get_token_metadata(a,rpc_url=endPoint)
+        time.sleep(1)
     except Exception as e:
+        time.sleep(2)
         print(f"Error getting token metadata for {a}")
         print( e )
         continue
