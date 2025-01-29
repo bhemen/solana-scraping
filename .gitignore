@@ -4,5 +4,7 @@
 *.tmp
 raydium/data/raydiumTxs.csv
 raydium/api_key
-bit_query/api_key
-
+bitquery/api_key
+bitquery/api_key_brett
+bitquery/access_token
+data/images/*
