@@ -8,5 +8,7 @@ raydium/api_key
 bitquery/api_key
 bitquery/api_key_brett
 bitquery/access_token
+bitquery/pp-errs.txt
+bitquery/dp-errs.txt
 data/images/*
 .env
