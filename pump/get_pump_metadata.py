@@ -5,7 +5,7 @@ from tqdm import tqdm
 import csv
 import time
 
-def get_pump_metadata(token_address,retry=0,backoff=5):
+def get_pump_metadata(token_address,retry=0,backoff=10):
     url = f"https://frontend-api.pump.fun/coins/{token_address}"
     try:
         response = requests.get(url)
@@ -48,7 +48,7 @@ except Exception as e:
     pass
 
 addresses_to_get = list(set(token_addresses).difference(known_addresses))
-max_retries = 3
+max_retries = 5
 
 for address in tqdm(addresses_to_get):
     try:
@@ -66,4 +66,4 @@ for address in tqdm(addresses_to_get):
                 csv_writer = csv.DictWriter(f, fieldnames=metadata.keys())
                 csv_writer.writeheader()
                 csv_writer.writerow(metadata)
-    time.sleep(2)
+    time.sleep(5)
