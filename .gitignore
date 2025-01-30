@@ -2,9 +2,11 @@
 *.out
 *.blg
 *.tmp
+*_api_key
 raydium/data/raydiumTxs.csv
 raydium/api_key
 bitquery/api_key
 bitquery/api_key_brett
 bitquery/access_token
 data/images/*
+.env
