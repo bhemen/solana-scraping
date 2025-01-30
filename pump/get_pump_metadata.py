@@ -51,6 +51,8 @@ addresses_to_get = list(set(token_addresses).difference(known_addresses))
 max_retries = 5
 
 for address in tqdm(addresses_to_get):
+    if not address.endswith('pump'):
+        continue
     try:
         metadata = get_pump_metadata(address)
     except Exception as e:
