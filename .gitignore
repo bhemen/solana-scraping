@@ -2,7 +2,7 @@
 *.out
 *.blg
 *.tmp
-*_api_key
+*api_key
 raydium/data/raydiumTxs.csv
 raydium/api_key
 bitquery/api_key
