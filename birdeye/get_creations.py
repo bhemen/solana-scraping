@@ -84,7 +84,10 @@ def get_token_creation_info( address, retry=0, wait=5):
             return None
 
 for address in tqdm(set(token_addresses).difference(completed_addresses)):
+
     info = get_token_creation_info( address )
+    if info is None:
+        continue
 
     if Path( outfile ).is_file():
         with open( outfile, "a" ) as f:
