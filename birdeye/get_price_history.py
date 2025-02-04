@@ -72,7 +72,7 @@ def get_price_history( address, start_ts, end_ts, retry=0, wait=5):
                     'value': 'price'
                 }, inplace=True )
                 #df = df[[ 'ts', 'price' ]]
-                df['date'] = pd.to_datetime( df.ts, unit='s' ).date()
+                df['date'] = pd.to_datetime( df.ts, unit='s' ).dt.date
                 #df['tokenAddress'] = address
                 return df
             else:
@@ -143,26 +143,25 @@ for address in tqdm(set(token_addresses).difference(completed_addresses)):
     while start_ts < datetime.now().timestamp():
         trading_history = get_price_history( address, start_ts, end_ts )
         if trading_history is None:
-            tqdm.write( f"Error getting trading history for {address} in {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d')} - {datetime.fromtimestamp(end_ts).strftime('%Y-%m-%d')}" )
+            tqdm.write( f"Error getting price history for {address} in {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d')} - {datetime.fromtimestamp(end_ts).strftime('%Y-%m-%d')}" )
             time.sleep( 10 )
-            continue
-
-        if len(trading_history) > 0:
-            tqdm.write( f"Got {len(trading_history)} rows for {address}" )
-            tqdm.write( f"Columns are {trading_history.columns}" )
-            if Path( outfile ).is_file():
-                with open( outfile, "a" ) as f:
-                    dw = csv.DictWriter( f, trading_history.columns )
-                    for rd in trading_history.to_dict( orient='records' ):
-                        dw.writerow( rd )
-            else:
-                with open( outfile, "w" ) as f:
-                    dw = csv.DictWriter( f, trading_history.columns )
-                    dw.writeheader()
-                    for rd in trading_history.to_dict( orient='records' ):
-                        dw.writerow( rd )
         else:
-            tqdm.write( f"No trades for {address} in {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d')} - {datetime.fromtimestamp(end_ts).strftime('%Y-%m-%d')}" )
+            if len(trading_history) > 0:
+                tqdm.write( f"Got {len(trading_history)} rows for {address}" )
+                tqdm.write( f"Columns are {trading_history.columns}" )
+                if Path( outfile ).is_file():
+                    with open( outfile, "a" ) as f:
+                        dw = csv.DictWriter( f, trading_history.columns )
+                        for rd in trading_history.to_dict( orient='records' ):
+                            dw.writerow( rd )
+                else:
+                    with open( outfile, "w" ) as f:
+                        dw = csv.DictWriter( f, trading_history.columns )
+                        dw.writeheader()
+                        for rd in trading_history.to_dict( orient='records' ):
+                            dw.writerow( rd )
+            else:
+                tqdm.write( f"No trades for {address} in {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d')} - {datetime.fromtimestamp(end_ts).strftime('%Y-%m-%d')}" )
 
         start_ts = end_ts
         end_ts = start_ts + period
