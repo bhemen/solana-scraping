@@ -21,6 +21,13 @@ with open( "data/token_list.csv", "w" ) as f:
     for address in token_addresses:
         csv_writer.writerow([address])
 
+data_path = Path("data")
+csv_files = list(data_path.glob("trading_history_*.csv"))
+completed_addresses = set()
+for f in csv_files:
+    address = f.stem.split("_")[-1]
+    completed_addresses.add( address )
+
 dir_path = os.path.dirname(os.path.realpath(__file__))
 try:
     with open(f'{dir_path}/api_key', 'r') as file:
@@ -30,17 +37,8 @@ except Exception as e:
     print( e )
 
 
-address = "D7rcV8SPxbv94s3kJETkrfMrWqHFs6qrmtbiu6saaany"
-base_url = f"https://public-api.birdeye.so/defi/token_creation_info"
-outfile = "data/token_creation_info.csv"
 errfile = "birdeye_errors.csv"
 max_retries = 3
-
-if os.path.exists( outfile ):
-    df = pd.read_csv( outfile )
-    completed_addresses = set( df.tokenAddress )
-else:
-    completed_addresses = set()
 
 def get_price_history( address, start_ts, end_ts, retry=0, wait=5):
     base_url = f"https://public-api.birdeye.so/defi/history_price"
@@ -73,9 +71,14 @@ def get_price_history( address, start_ts, end_ts, retry=0, wait=5):
                     'unixTime': 'ts',
                     'value': 'price'
                 }, inplace=True )
+                df = df[[ 'ts', 'price' ]]
+                df['date'] = pd.to_datetime( df.ts, unit='s' )
                 #df['tokenAddress'] = address
                 return df
-            return None
+            else:
+                with open( errfile, "a" ) as f:
+                    f.write(f"Error in get_price_history: {address},{response.json()}\n")
+                return None
 
         except Exception as e:
             with open( errfile, "a" ) as f:
@@ -124,32 +127,42 @@ for address in tqdm(set(token_addresses).difference(completed_addresses)):
     if earliest_ts is None:
         earliest_ts = datetime( 2024, 1, 1 ).timestamp()
     if latest_ts is None:
-        latest_ts = datetime.now().timestamp()
+        latest_ts = datetime( 2024, 1, 1 ).timestamp()
+        #latest_ts = datetime.now().timestamp()
 
-
-    period = 7 * 24 * 60 * 60
-    start_ts = latest_ts
+    period = 30 * 24 * 60 * 60
+    start_ts = earliest_ts
     launch_ts = get_token_launch_ts( address )
     if launch_ts is not None:
+        tqdm.write( f"Token launched at {datetime.fromtimestamp(launch_ts).strftime('%Y-%m-%d')}" )
         start_ts = max(start_ts,launch_ts)
+        if launch_ts > datetime.now().timestamp() - period:
+            tqdm.write( f"Token launched in the last 30 days" )
     end_ts = start_ts + period
 
     while start_ts < datetime.now().timestamp():
         trading_history = get_price_history( address, start_ts, end_ts )
         if trading_history is None:
+            tqdm.write( f"Error getting trading history for {address} in {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d')} - {datetime.fromtimestamp(end_ts).strftime('%Y-%m-%d')}" )
+            time.sleep( 10 )
             continue
 
-        if Path( outfile ).is_file():
-            with open( outfile, "a" ) as f:
-                dw = csv.DictWriter( f, trading_history.columns )
-                for rd in trading_history.to_dict( orient='records' ):
-                    dw.writerow( rd )
+        if len(trading_history) > 0:
+            tqdm.write( f"Got {len(trading_history)} rows for {address}" )
+            tqdm.write( f"Columns are {trading_history.columns}" )
+            if Path( outfile ).is_file():
+                with open( outfile, "a" ) as f:
+                    dw = csv.DictWriter( f, trading_history.columns )
+                    for rd in trading_history.to_dict( orient='records' ):
+                        dw.writerow( rd )
+            else:
+                with open( outfile, "w" ) as f:
+                    dw = csv.DictWriter( f, trading_history.columns )
+                    dw.writeheader()
+                    for rd in trading_history.to_dict( orient='records' ):
+                        dw.writerow( rd )
         else:
-            with open( outfile, "w" ) as f:
-                dw = csv.DictWriter( f, trading_history.columns )
-                dw.writeheader()
-                for rd in trading_history.to_dict( orient='records' ):
-                    dw.writerow( rd )
+            tqdm.write( f"No trades for {address} in {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d')} - {datetime.fromtimestamp(end_ts).strftime('%Y-%m-%d')}" )
 
         start_ts = end_ts
         end_ts = start_ts + period
