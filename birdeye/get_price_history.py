@@ -151,7 +151,7 @@ for address in tqdm(set(token_addresses).difference(completed_addresses)):
         else:
             if len(trading_history) > 0:
                 tqdm.write( f"Got {len(trading_history)} rows for {address}" )
-                tqdm.write( f"Columns are {trading_history.columns}" )
+                #tqdm.write( f"Columns are {trading_history.columns}" )
                 if Path( outfile ).is_file():
                     with open( outfile, "a" ) as f:
                         dw = csv.DictWriter( f, trading_history.columns )
