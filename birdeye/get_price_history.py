@@ -74,8 +74,6 @@ def get_price_history( address, start_ts, end_ts, retry=0, wait=5):
                 #df = df[[ 'ts', 'price' ]]
                 if 'ts' in df.columns:
                     df['date'] = pd.to_datetime( df['ts'], unit='s' ).dt.date
-                else:
-                    tqdm.write(f'Columns are {list(df.columns)}' )
                 #df['tokenAddress'] = address
                 return df
             else:
