@@ -1,10 +1,12 @@
+#!/usr/bin/python3
+
 import requests
 import os
 from pathlib import Path
 import csv
-import pandas as pd
 import json
 from datetime import datetime
+import sys
 
 #Disable tqdm if running from cron / ipython
 #https://github.com/tqdm/tqdm/issues/506
@@ -37,7 +39,7 @@ headers = {
 
 offset = 0
 limit = 20
-num_tokens = 1000
+num_tokens = 10000
 
 base_url = "https://public-api.birdeye.so/defi/token_trending"
 url = f"{base_url}?sort_by=rank&sort_type=desc&offset={offset}&limit={limit}"
