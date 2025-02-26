@@ -107,13 +107,14 @@ def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-b
         time.sleep(1)
         if retry < 5:
             time.sleep(backoff)
-            return get_token_metadata( token_address, rpc_url, retry+1, backoff=backoff*2 )
+            return get_token_metadata(token_address, rpc_url, retry+1, backoff=backoff*2)
         else:
-            print( f"get_account_info({metadata_account}) failed after 5 retries" )
-            print( e )
-    
+            print(f"get_account_info({metadata_account}) failed after 5 retries")
+            print(e)
+            raise ValueError("Failed to get account info after 5 retries")
+
     if not metadata_info.value:
-        print( f"No metaplex data for {token_pubkey}" )
+        print(f"No metaplex data for {token_pubkey}")
         raise ValueError("No metadata found")
 
     # Parse metadata
