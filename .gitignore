@@ -12,3 +12,4 @@ bitquery/pp-errs.txt
 bitquery/dp-errs.txt
 data/images/*
 *.env
+.DS_STORE
