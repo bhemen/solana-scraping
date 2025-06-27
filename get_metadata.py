@@ -184,7 +184,7 @@ if provider == 'chainstack':
     endPoint = f"https://solana-mainnet.core.chainstack.com/{api_key}"
 
 data_path = Path("bitquery/data")
-csv_files = list(data_path.glob("token_prices*.csv"))
+csv_files = list(data_path.glob("all_by_volume*.csv")) + list(data_path.glob("all_by_count*.csv")) + list(data_path.glob("pump_by_volume*.csv")) + list(data_path.glob("pump_by_price*.csv"))
 token_addresses = set()
 for f in csv_files:
     df = pd.read_csv( f )
