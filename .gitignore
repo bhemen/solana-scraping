@@ -11,5 +11,6 @@ bitquery/access_token
 bitquery/pp-errs.txt
 bitquery/dp-errs.txt
 data/images/*
+data/token_metadata.csv
 *.env
 .DS_STORE
