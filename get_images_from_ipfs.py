@@ -88,7 +88,7 @@ def fetch_image( token_address, uri, retry=0, backoff=1):
         file_extension = content_type.split('/')[-1]  # Use the RHS of the Content-Type
     else:
         file_extension = 'bin'  # Fallback extension if Content-Type is missing or empty
-        tqdm.write(f"Warning: No Content-Type for {url}. Using '.bin' as the extension.")
+        tqdm.write(f"Warning: No Content-Type for {uri}. Using '.bin' as the extension.")
 
     # Update the file path with the determined extension
     file_path = f"data/images/{token_address}.{file_extension}"
