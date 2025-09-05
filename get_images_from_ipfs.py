@@ -21,6 +21,36 @@ def file_exists_with_name(folder_path, filename_without_extension):
     # If no match is found, return False
     return False
 
+def get_from_local_ipfs(cid, api_url='http://localhost:5001', timeout=30 ):
+
+    cid = cid.lstrip( 'ipfs://' )
+
+    try:
+        response = requests.post(f"{api_url}/api/v0/cat", params={'arg': cid}, timeout=timeout)
+    except Exception as e:
+        print( e )
+        return None
+
+    return response
+
+def get_from_ipfs_gateway( token_address, uri, retry=0, backoff=1 ):
+    gateways = ['https://ipfs.io/ipfs/','https://gateway.pinata.cloud/ipfs/','https://cloudflare-ipfs.com/ipfs/']
+    for gateway in gateways:
+        full_uri = f"{gateway}{cid}"
+        try:
+            response = requests.get(full_uri,timeout=10)
+            response.raise_for_status()
+            return response
+        except Exception as e:
+            tqdm.write(f"Failed to get image from {full_uri}")
+            response = None
+    if (response is None) and (retry < max_retries):
+        time.sleep(backoff)
+        tqdm.write(f"Attempt {retry + 1} of {max_retries} for {full_uri}")
+        return get_from_ipfs_gateway( token_address, uri, retry=retry+1, backoff=backoff*2 )
+    elif response is None:
+        tqdm.write(f"Reached max attempts ({max_retries}) trying to get {cid} from a gateway" )
+        return False
 
 def fetch_image( token_address, uri, retry=0, backoff=1):
     if not isinstance( uri, str ):
@@ -50,23 +80,10 @@ def fetch_image( token_address, uri, retry=0, backoff=1):
 
     response = None
     if ipfs:
-        gateways = ['https://ipfs.io/ipfs/','https://gateway.pinata.cloud/ipfs/','https://cloudflare-ipfs.com/ipfs/']
-        for gateway in gateways:
-            full_uri = f"{gateway}{cid}"
-            try:
-                response = requests.get(full_uri,timeout=10)
-                response.raise_for_status()
-                break
-            except Exception as e:
-                tqdm.write(f"Failed to get image from {full_uri}")
-                response = None
-        if (response is None) and (retry < max_retries):
-            time.sleep(backoff)
-            tqdm.write(f"Attempt {retry + 1} of {max_retries} for {full_uri}")
-            return fetch_image( token_address, uri, retry=retry+1, backoff=backoff*2 )
-        elif response is None:
-            tqdm.write(f"Reached max attempts ({max_retries}) for CID {cid}" )
-            return False
+        response = get_from_local_ipfs( cid )
+        if response is None:
+            tqdm.write( f'Failed to get {cid} from local IPFS node' ) 
+            #response = get_from_ipfs_gateway( token_address, uri )
     else: 
         if uri.startswith("http"):
             try:
