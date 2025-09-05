@@ -4,6 +4,7 @@ from pathlib import Path
 import pandas as pd
 import time
 import re
+import swifter
 
 def file_exists_with_name(folder_path, filename_without_extension):
     # Convert folder_path to a Path object if it's a string
@@ -33,7 +34,7 @@ def get_from_local_ipfs(cid, api_url='http://localhost:5001', timeout=30 ):
 
     return response
 
-def get_from_ipfs_gateway( token_address, uri, retry=0, backoff=1 ):
+def get_from_ipfs_gateway( cid, retry=0, backoff=1 ):
     gateways = ['https://ipfs.io/ipfs/','https://gateway.pinata.cloud/ipfs/','https://cloudflare-ipfs.com/ipfs/']
     for gateway in gateways:
         full_uri = f"{gateway}{cid}"
@@ -57,8 +58,8 @@ def fetch_image( token_address, uri, retry=0, backoff=1):
         tqdm.write( f'Error uri for {token_address} is {uri}' )
         return False
 
-    if file_exists_with_name( image_dir, token_address ): #Skip images we've already downloaded
-        return True
+    #if file_exists_with_name( image_dir, token_address ): #Skip images we've already downloaded
+    #    return True
 
     if uri.startswith('ipfs://'):
         ipfs = True
@@ -83,7 +84,7 @@ def fetch_image( token_address, uri, retry=0, backoff=1):
         response = get_from_local_ipfs( cid )
         if response is None:
             tqdm.write( f'Failed to get {cid} from local IPFS node' ) 
-            #response = get_from_ipfs_gateway( token_address, uri )
+            #response = get_from_ipfs_gateway( cid )
     else: 
         if uri.startswith("http"):
             try:
@@ -118,7 +119,15 @@ image_dir = 'data/images'
 max_retries = 5
 
 df = pd.read_csv('data/token_metadata.csv')
-tqdm.pandas()
-df.progress_apply( lambda row: fetch_image( row['address'], row['image'] ), axis=1 )
+
+df['already_fetched'] = df.apply( lambda row: file_exists_with_name( image_dir, row['address'] ), axis=1 )
+
+print( f'{len(df)} tokens' )
+print( f'{len(df[df["already_fetched"]])} tokens already fetched' )
+df = df[~df['already_fetched']]
+print( f'{len(df)} tokens to fetch' )
+
+# Use swifter for parallel processing
+df.swifter.progress_bar(enable=True).apply( lambda row: fetch_image( row['address'], row['image'] ), axis=1 )
 
 
