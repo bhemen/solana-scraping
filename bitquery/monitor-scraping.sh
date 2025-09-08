@@ -6,7 +6,7 @@ DIR="/home/brett/sandbox/solana-scraping/bitquery/"
 
 SCRIPT_NAME="pump-creation-subscription.py"
 
-COMMAND=".env/bin/python3 $SCRIPT_NAME"
+COMMAND="uv run $SCRIPT_NAME"
 
 # Function to check if the script is running
 is_running() {
