@@ -107,6 +107,10 @@ class BirdeyeAPI:
                     time.sleep(wait)
                     return self._make_request(url, identifier, retry + 1, wait * 2)
                 return None
+        elif response.status_code == 401:
+            # Permission denied - don't retry, this won't succeed
+            self._log_error(identifier, f"HTTP 401: {response.text}", url)
+            return None
         elif response.status_code == 429:
             # Rate limit hit - use longer backoff
             self._log_error(identifier, f"Rate limit (429)", url)
@@ -125,7 +129,9 @@ class BirdeyeAPI:
 
     def _get_token_creation_time(self, address: str) -> Optional[int]:
         """
-        Get the creation time for a token from metadata.
+        Get the creation time for a token from metadata or token_creation_info.csv.
+
+        First tries to get from metadata API, then falls back to token_creation_info.csv.
 
         Args:
             address: Token address
@@ -133,21 +139,33 @@ class BirdeyeAPI:
         Returns:
             Unix timestamp of token creation, or None if not available
         """
+        # First, try to get from metadata API
         metadata = self.get_token_metadata(address)
 
-        if metadata is None:
-            print(f"Warning: Could not retrieve metadata for {address}")
-            return None
+        if metadata is not None:
+            # Try to extract creation_time from meme_info
+            try:
+                if 'meme_info' in metadata and 'creation_time' in metadata['meme_info']:
+                    creation_time = metadata['meme_info']['creation_time']
+                    # Handle both int and string timestamps
+                    return int(creation_time) if creation_time else None
+            except (KeyError, TypeError, ValueError) as e:
+                print(f"Warning: Could not extract creation_time from metadata for {address}: {e}")
 
-        # Try to extract creation_time from meme_info
+        # Fall back to token_creation_info.csv
         try:
-            if 'meme_info' in metadata and 'creation_time' in metadata['meme_info']:
-                creation_time = metadata['meme_info']['creation_time']
-                # Handle both int and string timestamps
-                return int(creation_time) if creation_time else None
-        except (KeyError, TypeError, ValueError) as e:
-            print(f"Warning: Could not extract creation_time from metadata for {address}: {e}")
+            creation_info_file = "data/token_creation_info.csv"
+            if Path(creation_info_file).exists():
+                df = pd.read_csv(creation_info_file)
+                df_filtered = df[df.tokenAddress == address]
+                if len(df_filtered) > 0:
+                    block_time = int(df_filtered.blockUnixTime.values[0])
+                    print(f"Using creation time from token_creation_info.csv: {datetime.fromtimestamp(block_time).strftime('%Y-%m-%d %H:%M:%S')}")
+                    return block_time
+        except Exception as e:
+            print(f"Warning: Could not get creation time from token_creation_info.csv for {address}: {e}")
 
+        print(f"Warning: Could not determine creation time for {address} from any source")
         return None
 
     def get_price_history(
