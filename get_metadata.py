@@ -196,6 +196,7 @@ for f in csv_files:
     if 'TokenAddress' in df.columns:
         token_addresses = token_addresses.union( df.TokenAddress )
 
+#Writes columns: address,name,symbol,uri,description,image,createdOn
 outfile = "data/token_metadata.csv"
 
 try:
