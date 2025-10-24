@@ -120,7 +120,13 @@ max_retries = 5
 
 df = pd.read_csv('data/token_metadata.csv')
 
-df['already_fetched'] = df.apply( lambda row: file_exists_with_name( image_dir, row['address'] ), axis=1 )
+folder = Path(image_dir)
+files = list(folder.glob('*'))
+existing_files = [file.stem for file in files]
+
+print( f'Checking existing downloads' )
+df['already_fetched'] = df.swifter.progress_bar(enable=True).apply( lambda row: row['address'] in existing_files, axis=1 )
+print( f'Done' )
 
 print( f'{len(df)} tokens' )
 print( f'{len(df[df["already_fetched"]])} tokens already fetched' )
