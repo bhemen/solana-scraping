@@ -295,7 +295,7 @@ async def main():
     parser.add_argument('--query', '-q', default='', help='Search query')
     parser.add_argument('--sort', '-s', default='market_cap', help='Sort by (default: market_cap)')
     parser.add_argument('--pages', '-p', type=int, default=1, help='Number of pages to scrape (default: 1, each page = ~48 coins)')
-    parser.add_argument('--output', '-o', default='', help='Output file (default: data/<query>.csv or data/pump_coins.csv)')
+    parser.add_argument('--output', '-o', default='', help='Output file (default: data/coin_search/<query>.csv)')
     parser.add_argument('--debug', '-d', action='store_true', help='Debug mode')
 
     args = parser.parse_args()
@@ -307,9 +307,10 @@ async def main():
         # Use query as filename, sanitize it
         import re
         safe_query = re.sub(r'[^\w\s-]', '', args.query).strip().replace(' ', '_')
-        output_file = f"data/{safe_query}.csv"
+        os.makedirs("data/coin_search/", exist_ok=True)
+        output_file = f"data/coin_search/{safe_query}.csv"
     else:
-        output_file = "data/pump_coins.csv"
+        output_file = "data/coin_search/pump_coins.csv"
 
     # Build base URL (without offset - that's handled by scrape_pump_fun)
     url = f"https://pump.fun/?sort={args.sort}&view=table"

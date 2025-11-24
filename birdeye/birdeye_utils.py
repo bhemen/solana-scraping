@@ -16,6 +16,7 @@ import time
 from pathlib import Path
 from datetime import datetime
 from typing import Optional, Dict, Any, List
+from dotenv import load_dotenv
 
 
 class BirdeyeAPI:
@@ -25,29 +26,45 @@ class BirdeyeAPI:
     DEFAULT_MAX_RETRIES = 3
     DEFAULT_WAIT_TIME = 5
 
-    def __init__(self, api_key: Optional[str] = None, max_retries: int = DEFAULT_MAX_RETRIES):
+    def __init__(self, api_key: Optional[str] = None, max_retries: int = DEFAULT_MAX_RETRIES, verbose: bool = True):
         """
         Initialize the Birdeye API client.
 
         Args:
             api_key: Birdeye API key. If None, will try to load from 'api_key' file.
             max_retries: Maximum number of retry attempts for failed requests.
+            verbose: If True, print status messages. If False, suppress output.
         """
         self.api_key = api_key or self._load_api_key()
         self.max_retries = max_retries
+        self.verbose = verbose
         self.error_file = "data/birdeye_errors.csv"
 
         # Ensure data directory exists
         Path("data").mkdir(exist_ok=True)
 
+    def _print(self, message: str):
+        """Print message only if verbose mode is enabled."""
+        if self.verbose:
+            print(message)
+
     def _load_api_key(self) -> Optional[str]:
-        """Load API key from file."""
+        """Load API key from .env.api file using dotenv."""
         dir_path = os.path.dirname(os.path.realpath(__file__))
+        env_file = os.path.join(dir_path, '.env.api')
+
         try:
-            with open(f'{dir_path}/api_key', 'r') as file:
-                return file.read().rstrip()
+            # Load environment variables from .env.api file
+            load_dotenv(env_file)
+            api_key = os.getenv('BIRDEYE_API_KEY')
+
+            if api_key:
+                return api_key
+            else:
+                print(f"Warning: BIRDEYE_API_KEY not found in {env_file}")
+                return None
         except Exception as e:
-            print(f"Warning: Could not load API key from file: {e}")
+            print(f"Warning: Could not load API key from {env_file}: {e}")
             return None
 
     def _get_headers(self, chain: str = "solana") -> Dict[str, str]:
@@ -129,9 +146,12 @@ class BirdeyeAPI:
 
     def _get_token_creation_time(self, address: str) -> Optional[int]:
         """
-        Get the creation time for a token from metadata or token_creation_info.csv.
+        Get the creation time for a token from security_details.csv, metadata, or token_creation_info.csv.
 
-        First tries to get from metadata API, then falls back to token_creation_info.csv.
+        Checks sources in this order:
+        1. security_details.csv (if exists)
+        2. metadata API
+        3. token_creation_info.csv
 
         Args:
             address: Token address
@@ -139,7 +159,22 @@ class BirdeyeAPI:
         Returns:
             Unix timestamp of token creation, or None if not available
         """
-        # First, try to get from metadata API
+        # First, check security_details.csv (fastest, no API call)
+        try:
+            security_csv = "data/security_details.csv"
+            if Path(security_csv).exists():
+                df = pd.read_csv(security_csv)
+                existing = df[df['address'] == address]
+                if len(existing) > 0:
+                    creation_time = existing.iloc[0].get('creationTime')
+                    if pd.notna(creation_time) and creation_time:
+                        creation_time = int(creation_time)
+                        self._print(f"Using creation time from security_details.csv: {datetime.fromtimestamp(creation_time).strftime('%Y-%m-%d %H:%M:%S')}")
+                        return creation_time
+        except Exception as e:
+            self._print(f"Warning: Could not get creation time from security_details.csv for {address}: {e}")
+
+        # Second, try to get from metadata API
         metadata = self.get_token_metadata(address)
 
         if metadata is not None:
@@ -150,7 +185,7 @@ class BirdeyeAPI:
                     # Handle both int and string timestamps
                     return int(creation_time) if creation_time else None
             except (KeyError, TypeError, ValueError) as e:
-                print(f"Warning: Could not extract creation_time from metadata for {address}: {e}")
+                self._print(f"Warning: Could not extract creation_time from metadata for {address}: {e}")
 
         # Fall back to token_creation_info.csv
         try:
@@ -160,12 +195,12 @@ class BirdeyeAPI:
                 df_filtered = df[df.tokenAddress == address]
                 if len(df_filtered) > 0:
                     block_time = int(df_filtered.blockUnixTime.values[0])
-                    print(f"Using creation time from token_creation_info.csv: {datetime.fromtimestamp(block_time).strftime('%Y-%m-%d %H:%M:%S')}")
+                    self._print(f"Using creation time from token_creation_info.csv: {datetime.fromtimestamp(block_time).strftime('%Y-%m-%d %H:%M:%S')}")
                     return block_time
         except Exception as e:
-            print(f"Warning: Could not get creation time from token_creation_info.csv for {address}: {e}")
+            self._print(f"Warning: Could not get creation time from token_creation_info.csv for {address}: {e}")
 
-        print(f"Warning: Could not determine creation time for {address} from any source")
+        self._print(f"Warning: Could not determine creation time for {address} from any source")
         return None
 
     def get_price_history(
@@ -197,9 +232,9 @@ class BirdeyeAPI:
         if start_ts is None:
             start_ts = self._get_token_creation_time(address)
             if start_ts is None:
-                print(f"Warning: Could not determine start time for {address}, cannot fetch price history")
+                self._print(f"Warning: Could not determine start time for {address}, cannot fetch price history")
                 return None
-            print(f"Using token creation time as start: {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d %H:%M:%S')}")
+            self._print(f"Using token creation time as start: {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d %H:%M:%S')}")
 
         # Handle optional end_ts
         if end_ts is None:
@@ -373,6 +408,211 @@ class BirdeyeAPI:
         print(f"Saved metadata for {address} to {output_file}")
         return True
 
+    def get_token_security_details(
+        self,
+        address: str,
+        force_refresh: bool = False
+    ) -> Optional[Dict[str, Any]]:
+        """
+        Get security details for a token.
+
+        API Documentation: https://docs.birdeye.so/reference/get-defi-token_security
+
+        Args:
+            address: Token address
+            force_refresh: If True, fetch from API even if cached in CSV
+
+        Returns:
+            Dictionary containing token security details, or None if request failed.
+            Security details include: creator info, owner info, creation/mint info,
+            holder distribution, metadata mutability, supply info, and token flags.
+
+        Note: Results are automatically cached to data/security_details.csv
+        """
+        security_csv = "data/security_details.csv"
+
+        # Check if we have cached data (unless force refresh)
+        if not force_refresh and Path(security_csv).exists():
+            try:
+                df = pd.read_csv(security_csv)
+                # Check if this address already exists
+                existing = df[df['address'] == address]
+                if len(existing) > 0:
+                    self._print(f"Using cached security details for {address}")
+                    # Convert row to dictionary
+                    return existing.iloc[0].to_dict()
+            except Exception as e:
+                self._print(f"Warning: Could not read cached security details: {e}")
+
+        # Fetch from API
+        url = f"{self.BASE_URL}/defi/token_security?address={address}"
+
+        json_response = self._make_request(url, address)
+
+        if json_response is None:
+            return None
+
+        # Extract security data from response
+        if 'data' in json_response:
+            security_data = json_response['data']
+
+            # Add the address to the data
+            security_data['address'] = address
+
+            # Flatten nested dictionaries if any
+            flattened_data = self._flatten_dict(security_data)
+
+            # Append to CSV
+            try:
+                if Path(security_csv).exists():
+                    # Check if address already exists (in case of race condition)
+                    df = pd.read_csv(security_csv)
+                    if address not in df['address'].values:
+                        # Append new row
+                        new_df = pd.DataFrame([flattened_data])
+                        new_df.to_csv(security_csv, mode='a', header=False, index=False)
+                    else:
+                        # Update existing row
+                        df.loc[df['address'] == address] = pd.Series(flattened_data)
+                        df.to_csv(security_csv, index=False)
+                else:
+                    # Create new file
+                    new_df = pd.DataFrame([flattened_data])
+                    new_df.to_csv(security_csv, index=False)
+
+                self._print(f"Saved security details for {address} to {security_csv}")
+            except Exception as e:
+                self._print(f"Warning: Could not save security details to CSV: {e}")
+
+            return security_data
+        else:
+            self._log_error(address, f"No 'data' field in response: {json_response}", url)
+            return None
+
+    def get_token_trade_history(
+        self,
+        token_address: str,
+        sort_by: str = "block_unix_time",
+        after_time: Optional[int] = None,
+        before_time: Optional[int] = None,
+        after_block_number: Optional[int] = None,
+        before_block_number: Optional[int] = None,
+        limit_per_request: int = 100,
+        max_total_records: Optional[int] = None
+    ) -> Optional[pd.DataFrame]:
+        """
+        Get complete trading history for a token using pagination.
+
+        API Documentation: https://docs.birdeye.so/reference/get-defi-v3-token-txs
+
+        Args:
+            token_address: Token address to query
+            sort_by: Sort field - either "block_unix_time" or "block_number" (default: "block_unix_time")
+            after_time: Start timestamp (Unix timestamp in seconds). Use with sort_by="block_unix_time"
+            before_time: End timestamp (Unix timestamp in seconds). Use with sort_by="block_unix_time"
+                        Note: Max 30-day range when using time-based filters
+            after_block_number: Start block number. Use with sort_by="block_number"
+            before_block_number: End block number. Use with sort_by="block_number"
+                               Note: Max 500,000 block range when using block-based filters
+            limit_per_request: Number of records to fetch per API call (default: 100)
+            max_total_records: Maximum total records to fetch across all pages (default: None = unlimited)
+
+        Returns:
+            DataFrame with all trade records, or None if request failed
+
+        Note:
+            - Only one filter type allowed: either time range OR block number range
+            - Time-based filters require sort_by="block_unix_time"
+            - Block-based filters require sort_by="block_number"
+            - Default behavior: Last 7 days if sort_by="block_unix_time";
+              last 500,000 blocks if sort_by="block_number"
+        """
+        all_trades = []
+        offset = 0
+        total_fetched = 0
+
+        self._print(f"Fetching trade history for {token_address} (sort_by: {sort_by})...")
+
+        while True:
+            # Build URL with base parameters
+            url = (
+                f"{self.BASE_URL}/defi/v3/token/txs"
+                f"?address={token_address}"
+                f"&sort_by={sort_by}"
+                f"&offset={offset}"
+                f"&limit={limit_per_request}"
+            )
+
+            # Add time-based filters if using block_unix_time sorting
+            if sort_by == "block_unix_time":
+                if after_time is not None:
+                    url += f"&after_time={int(after_time)}"
+                if before_time is not None:
+                    url += f"&before_time={int(before_time)}"
+            # Add block-based filters if using block_number sorting
+            elif sort_by == "block_number":
+                if after_block_number is not None:
+                    url += f"&after_block_number={int(after_block_number)}"
+                if before_block_number is not None:
+                    url += f"&before_block_number={int(before_block_number)}"
+
+            # Make the request
+            json_response = self._make_request(url, token_address)
+
+            if json_response is None:
+                # If we already have some data, return it; otherwise return None
+                if all_trades:
+                    self._print(f"Request failed at offset {offset}, returning {total_fetched} records fetched so far")
+                    break
+                else:
+                    self._print(f"Failed to fetch trade history for {token_address}")
+                    return None
+
+            # Extract trades from response
+            if 'data' in json_response and 'items' in json_response['data']:
+                trades = json_response['data']['items']
+
+                if not trades or len(trades) == 0:
+                    # No more data available
+                    self._print(f"No more trades available. Total fetched: {total_fetched}")
+                    break
+
+                all_trades.extend(trades)
+                total_fetched += len(trades)
+                self._print(f"  Fetched {len(trades)} trades (offset: {offset}, total: {total_fetched})")
+
+                # Check if we've reached the maximum requested records
+                if max_total_records and total_fetched >= max_total_records:
+                    self._print(f"Reached maximum requested records ({max_total_records})")
+                    all_trades = all_trades[:max_total_records]
+                    break
+
+                # Check if we got fewer records than requested (last page)
+                if len(trades) < limit_per_request:
+                    self._print(f"Received fewer records than requested. Reached end of data.")
+                    break
+
+                # Increment offset for next page
+                offset += limit_per_request
+
+            else:
+                # Unexpected response format
+                self._log_error(token_address, f"Unexpected response format at offset {offset}: {json_response}", url)
+                if all_trades:
+                    self._print(f"Unexpected response at offset {offset}, returning {total_fetched} records fetched so far")
+                    break
+                else:
+                    return None
+
+        # Convert to DataFrame
+        if all_trades:
+            df = pd.DataFrame(all_trades)
+            self._print(f"Successfully fetched {len(df)} total trade records for {token_address}")
+            return df
+        else:
+            self._print(f"No trade records found for {token_address}")
+            return None
+
     @staticmethod
     def _flatten_dict(d: Dict[str, Any], parent_key: str = '', sep: str = '_') -> Dict[str, Any]:
         """
@@ -500,11 +740,54 @@ if __name__ == "__main__":
         print(price_df.head())
         api.save_price_history_to_csv(example_address, start_ts, end_ts)
 
-    # Get token metadata
-    print("\nFetching token metadata...")
+    # Example 3: Get token metadata
+    print("\nExample 3: Fetching token metadata...")
     metadata = api.get_token_metadata(example_address)
     if metadata is not None:
         print("Token metadata:")
         for key, value in list(metadata.items())[:5]:  # Show first 5 fields
             print(f"  {key}: {value}")
         api.save_token_metadata_to_csv(example_address)
+
+    # Example 4: Get complete trade history (last 7 days by default)
+    print("\nExample 4: Fetching complete trade history...")
+    trades_df = api.get_token_trade_history(example_address)
+    if trades_df is not None:
+        print(f"Retrieved {len(trades_df)} trade records")
+        print(trades_df.head())
+        # Save to CSV
+        trades_df.to_csv(f"data/trades_{example_address}.csv", index=False)
+        print(f"Saved to data/trades_{example_address}.csv")
+
+    # Example 5: Get trade history for a specific time range (last 3 days)
+    print("\nExample 5: Fetching trade history for the last 3 days...")
+    end_ts = int(datetime.now().timestamp())
+    start_ts = end_ts - (3 * 24 * 60 * 60)  # 3 days ago
+    trades_df = api.get_token_trade_history(
+        example_address,
+        sort_by="block_unix_time",
+        after_time=start_ts,
+        before_time=end_ts,
+        max_total_records=500  # Limit to 500 records for demo
+    )
+    if trades_df is not None:
+        print(f"Retrieved {len(trades_df)} trade records")
+        print(trades_df.head())
+
+    # Example 6: Get token security details
+    print("\nExample 6: Fetching token security details...")
+    security_details = api.get_token_security_details(example_address)
+    if security_details is not None:
+        print("Token security details:")
+        # Show some key security fields
+        key_fields = ['creatorPercentage', 'ownerPercentage', 'top10HolderPercent',
+                      'mutableMetadata', 'freezeable', 'totalSupply', 'jupStrictList']
+        for field in key_fields:
+            if field in security_details:
+                print(f"  {field}: {security_details[field]}")
+
+    # Example 7: Get security details again (should use cached data)
+    print("\nExample 7: Fetching security details again (should use cache)...")
+    security_details = api.get_token_security_details(example_address)
+    if security_details is not None:
+        print("Successfully retrieved from cache")
