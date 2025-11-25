@@ -11,9 +11,7 @@ bitquery/access_token
 bitquery/pp-errs.txt
 bitquery/dp-errs.txt
 data/images/*
-<<<<<<< HEAD
-=======
 data/token_metadata.csv
->>>>>>> cd1827e4e297c14d1ad77b05356dcd8680d3a281
 *.env
 .DS_STORE
+*.env.*

@@ -489,6 +489,61 @@ class BirdeyeAPI:
             self._log_error(address, f"No 'data' field in response: {json_response}", url)
             return None
 
+    def get_token_trending(
+        self,
+        sort_by: str = "rank",
+        sort_type: str = "asc",
+        offset: int = 0,
+        limit: int = 50,
+        ui_amount_mode: str = "scaled"
+    ) -> Optional[pd.DataFrame]:
+        """
+        Get trending tokens from Birdeye.
+
+        API Documentation: https://docs.birdeye.so/reference/get-defi-token_trending
+
+        Args:
+            sort_by: Field to sort by (default: "rank")
+                    Options: "rank", "volume24hUSD", "price24hChangePercent", etc.
+            sort_type: Sort direction - "asc" or "desc" (default: "asc")
+            offset: Pagination offset (default: 0)
+            limit: Number of tokens to return (default: 50, max typically 100)
+            ui_amount_mode: Amount display mode - "scaled" or "raw" (default: "scaled")
+
+        Returns:
+            DataFrame with trending token data, or None if request failed.
+            Columns include: address, name, symbol, price, volume24hUSD,
+            price24hChangePercent, rank, liquidity, fdv, marketcap, etc.
+        """
+        url = (
+            f"{self.BASE_URL}/defi/token_trending"
+            f"?sort_by={sort_by}"
+            f"&sort_type={sort_type}"
+            f"&offset={offset}"
+            f"&limit={limit}"
+            f"&ui_amount_mode={ui_amount_mode}"
+        )
+
+        json_response = self._make_request(url, "trending_tokens")
+
+        if json_response is None:
+            return None
+
+        # Extract tokens from response
+        if 'data' in json_response and 'tokens' in json_response['data']:
+            tokens = json_response['data']['tokens']
+
+            if tokens:
+                df = pd.DataFrame(tokens)
+                self._print(f"Retrieved {len(df)} trending tokens")
+                return df
+            else:
+                self._print("No trending tokens found")
+                return None
+        else:
+            self._log_error("trending_tokens", f"Unexpected response format: {json_response}", url)
+            return None
+
     def get_token_trade_history(
         self,
         token_address: str,
@@ -791,3 +846,14 @@ if __name__ == "__main__":
     security_details = api.get_token_security_details(example_address)
     if security_details is not None:
         print("Successfully retrieved from cache")
+
+    # Example 8: Get trending tokens
+    print("\nExample 8: Fetching top 10 trending tokens...")
+    trending_df = api.get_token_trending(limit=10, sort_by="rank", sort_type="asc")
+    if trending_df is not None:
+        print(f"Retrieved {len(trending_df)} trending tokens")
+        print("\nTop 5 trending tokens:")
+        print(trending_df[['rank', 'symbol', 'name', 'price', 'volume24hUSD', 'price24hChangePercent']].head())
+        # Save to CSV
+        trending_df.to_csv("data/trending_tokens.csv", index=False)
+        print("Saved to data/trending_tokens.csv")
