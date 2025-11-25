@@ -14,14 +14,18 @@ from birdeye_utils import BirdeyeAPI
 data_path = Path("../bitquery/data")
 
 # Find all token addresses from CSV files
-csv_files = list(data_path.glob("token_prices*.csv"))
+csv_files = list(data_path.glob("*.csv"))
 token_addresses = set()
 
 print(f"Reading token addresses from {len(csv_files)} CSV files...")
 for f in csv_files:
-    df = pd.read_csv(f)
-    if 'TokenAddress' in df.columns:
-        token_addresses = token_addresses.union(df.TokenAddress)
+    try:
+        df = pd.read_csv(f)
+        if 'TokenAddress' in df.columns:
+            token_addresses = token_addresses.union(df.TokenAddress)
+    except Exception as e:
+        print( f'Failed to read {f}' )
+        print( e )
 
 print(f"Found {len(token_addresses)} unique token addresses")
 
@@ -39,7 +43,7 @@ api = BirdeyeAPI(verbose=False)
 # Check which addresses already have security details
 security_csv = "data/security_details.csv"
 if Path(security_csv).exists():
-    df = pd.read_csv(security_csv)
+    df = pd.read_csv(security_csv, on_bad_lines='warn')
     completed_addresses = set(df['address'])
     print(f"Found {len(completed_addresses)} tokens with existing security details")
 else:

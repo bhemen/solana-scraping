@@ -11,6 +11,7 @@ Includes automatic retry logic with exponential backoff for rate limiting.
 import requests
 import os
 import csv
+import json
 import pandas as pd
 import time
 from pathlib import Path
@@ -687,8 +688,8 @@ class BirdeyeAPI:
             if isinstance(v, dict):
                 items.extend(BirdeyeAPI._flatten_dict(v, new_key, sep=sep).items())
             elif isinstance(v, list):
-                # Convert lists to comma-separated strings
-                items.append((new_key, ','.join(map(str, v))))
+                # Convert lists to JSON strings to preserve structure and avoid CSV issues
+                items.append((new_key, json.dumps(v)))
             else:
                 items.append((new_key, v))
         return dict(items)
