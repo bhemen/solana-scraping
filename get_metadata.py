@@ -185,6 +185,7 @@ if provider == 'chainstack':
 
 data_path = Path("bitquery/data")
 csv_files = list(data_path.glob("all_by_volume*.csv")) + list(data_path.glob("all_by_count*.csv")) + list(data_path.glob("pump_by_volume*.csv")) + list(data_path.glob("pump_by_price*.csv"))
+csv_files += list(Path("pump/data/coin_search").glob("*.csv"))
 token_addresses = set()
 for f in csv_files:
     try:
@@ -195,6 +196,8 @@ for f in csv_files:
         df = pd.DataFrame()
     if 'TokenAddress' in df.columns:
         token_addresses = token_addresses.union( df.TokenAddress )
+    if 'address' in df.columns:
+        token_addresses = token_addresses.union( df.address )
 
 #Writes columns: address,name,symbol,uri,description,image,createdOn
 outfile = "data/token_metadata.csv"

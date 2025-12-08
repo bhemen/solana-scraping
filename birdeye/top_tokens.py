@@ -1,16 +1,17 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+"""
+Fetch trending tokens from Birdeye using pagination.
+Uses the BirdeyeAPI get_token_trending function.
+"""
 
 
-import requests
-import os
-from pathlib import Path
-import csv
-import json
-from datetime import datetime
 import sys
+from pathlib import Path
+from datetime import datetime
+from birdeye_utils import BirdeyeAPI
 
-#Disable tqdm if running from cron / ipython
-#https://github.com/tqdm/tqdm/issues/506
+# Disable tqdm if running from cron / ipython
+# https://github.com/tqdm/tqdm/issues/506
 try:
     ipy_str = str(type(get_ipython()))
     if 'zmqshell' in ipy_str:
@@ -24,64 +25,61 @@ except:
         def tqdm(iterable, **kwargs):
             return iterable
 
-dir_path = os.path.dirname(os.path.realpath(__file__))
-try:
-    with open(f'{dir_path}/api_key', 'r') as file:
-        api_key = file.read().rstrip()
-except Exception as e:
-    api_key = None
-    print( e )
+# Configuration
+LIMIT_PER_REQUEST = 20
+NUM_TOKENS = 10000
 
-headers = {
-    "accept": "application/json",
-    "x-chain": "solana",
-    "X-API-KEY": api_key
-}
-
-offset = 0
-limit = 20
-num_tokens = 10000
-
-base_url = "https://public-api.birdeye.so/defi/token_trending"
-url = f"{base_url}?sort_by=rank&sort_type=desc&offset={offset}&limit={limit}"
-error_file = f"{dir_path}/top_tokens_errors.csv"
+# Output file with today's date
 today = datetime.today().strftime('%Y-%m-%d')
-outfile = f"{dir_path}/data/top_tokens-{today}.csv"
+outfile = f"data/top_tokens-{today}.csv"
 
-def get_top_tokens(offset, limit):
-    url = f"{base_url}?sort_by=rank&sort_type=desc&offset={offset}&limit={limit}"
-    try:
-        response = requests.get(url, headers=headers)
-        json_response = response.json()['data']
-        return json_response
-    except Exception as e:
-        with open(error_file, 'a') as f:
-            f.write(f"{offset},{limit},{e}\n")
-        return []
+# Initialize API client
+api = BirdeyeAPI(verbose=False)
 
-for i in tqdm(range(num_tokens // limit)):
-    response = get_top_tokens(offset, limit)
-    ts = response['updateUnixTime']
-    tokens = response['tokens']
+print(f"Fetching {NUM_TOKENS} trending tokens...")
+print(f"Output file: {outfile}")
 
-    if Path(outfile).is_file():
-        with open(outfile, 'a') as f:
-            all_keys = set().union(*(t.keys() for t in tokens))
-            all_keys.add('ts')
-            dw = csv.DictWriter(f, all_keys)
-            for token in tokens:
-                row = token.copy()
-                row.update( {'ts': ts} )
-                dw.writerow(row)
-    else:
-        with open(outfile, 'w') as f:
-            all_keys = set().union(*(t.keys() for t in tokens))
-            all_keys.add('ts')
-            dw = csv.DictWriter(f, all_keys)
-            dw.writeheader()
-            for token in tokens:
-                row = token.copy()
-                row.update( {'ts': ts} )
-                dw.writerow(row)
+# Track all tokens
+all_tokens = []
+offset = 0
 
-    offset += limit
+# Fetch tokens with pagination
+for i in tqdm(range(NUM_TOKENS // LIMIT_PER_REQUEST), desc="Fetching trending tokens"):
+    # Get trending tokens for this page
+    df = api.get_token_trending(
+        sort_by="rank",
+        sort_type="asc",
+        offset=offset,
+        limit=LIMIT_PER_REQUEST
+    )
+
+    if df is None or len(df) == 0:
+        print(f"\nNo more tokens available at offset {offset}")
+        break
+
+    # Add to collection
+    all_tokens.append(df)
+
+    # Increment offset for next page
+    offset += LIMIT_PER_REQUEST
+
+# Combine all tokens into one DataFrame
+if all_tokens:
+    import pandas as pd
+    combined_df = pd.concat(all_tokens, ignore_index=True)
+
+    # Add timestamp
+    combined_df['ts'] = int(datetime.now().timestamp())
+
+    # Save to CSV
+    combined_df.to_csv(outfile, index=False)
+
+    print(f"\n{'='*60}")
+    print(f"SUCCESS")
+    print(f"{'='*60}")
+    print(f"Fetched {len(combined_df)} tokens")
+    print(f"Saved to: {outfile}")
+    print(f"\nTop 5 tokens by rank:")
+    print(combined_df[['rank', 'symbol', 'name', 'price', 'volume24hUSD']].head())
+else:
+    print("No tokens fetched")

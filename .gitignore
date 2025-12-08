@@ -13,3 +13,5 @@ bitquery/dp-errs.txt
 data/images/*
 data/token_metadata.csv
 *.env
+.DS_STORE
+*.env.*
