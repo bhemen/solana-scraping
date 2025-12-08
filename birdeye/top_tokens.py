@@ -1,10 +1,28 @@
+#!/usr/bin/python3
+
+
 import requests
 import os
 from pathlib import Path
 import csv
-import pandas as pd
 import json
-from tqdm import tqdm
+from datetime import datetime
+import sys
+
+#Disable tqdm if running from cron / ipython
+#https://github.com/tqdm/tqdm/issues/506
+try:
+    ipy_str = str(type(get_ipython()))
+    if 'zmqshell' in ipy_str:
+        from tqdm import tqdm_notebook as tqdm
+    if 'terminal' in ipy_str:
+        from tqdm import tqdm
+except:
+    if sys.stderr.isatty():
+        from tqdm import tqdm
+    else:
+        def tqdm(iterable, **kwargs):
+            return iterable
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 try:
@@ -22,12 +40,13 @@ headers = {
 
 offset = 0
 limit = 20
-num_tokens = 1000
+num_tokens = 10000
 
 base_url = "https://public-api.birdeye.so/defi/token_trending"
 url = f"{base_url}?sort_by=rank&sort_type=desc&offset={offset}&limit={limit}"
-error_file = "top_tokens_errors.csv"
-outfile = "data/top_tokens.csv"
+error_file = f"{dir_path}/top_tokens_errors.csv"
+today = datetime.today().strftime('%Y-%m-%d')
+outfile = f"{dir_path}/data/top_tokens-{today}.csv"
 
 def get_top_tokens(offset, limit):
     url = f"{base_url}?sort_by=rank&sort_type=desc&offset={offset}&limit={limit}"

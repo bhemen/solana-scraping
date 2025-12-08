@@ -107,13 +107,14 @@ def get_token_metadata(token_address: str, rpc_url: str = "https://api.mainnet-b
         time.sleep(1)
         if retry < 5:
             time.sleep(backoff)
-            return get_token_metadata( token_address, rpc_url, retry+1, backoff=backoff*2 )
+            return get_token_metadata(token_address, rpc_url, retry+1, backoff=backoff*2)
         else:
-            print( f"get_account_info({metadata_account}) failed after 5 retries" )
-            print( e )
-    
+            print(f"get_account_info({metadata_account}) failed after 5 retries")
+            print(e)
+            raise ValueError("Failed to get account info after 5 retries")
+
     if not metadata_info.value:
-        print( f"No metaplex data for {token_pubkey}" )
+        print(f"No metaplex data for {token_pubkey}")
         raise ValueError("No metadata found")
 
     # Parse metadata
@@ -183,13 +184,19 @@ if provider == 'chainstack':
     endPoint = f"https://solana-mainnet.core.chainstack.com/{api_key}"
 
 data_path = Path("bitquery/data")
-csv_files = list(data_path.glob("token_prices*.csv"))
+csv_files = list(data_path.glob("all_by_volume*.csv")) + list(data_path.glob("all_by_count*.csv")) + list(data_path.glob("pump_by_volume*.csv")) + list(data_path.glob("pump_by_price*.csv"))
 token_addresses = set()
 for f in csv_files:
-    df = pd.read_csv( f )
+    try:
+        df = pd.read_csv( f )
+    except Exception as e:
+        print( f'failed to read {f}' )
+        print( e )
+        df = pd.DataFrame()
     if 'TokenAddress' in df.columns:
         token_addresses = token_addresses.union( df.TokenAddress )
 
+#Writes columns: address,name,symbol,uri,description,image,createdOn
 outfile = "data/token_metadata.csv"
 
 try:

@@ -10,6 +10,24 @@ from datetime import datetime
 import csv
 import os
 import sys
+import argparse
+
+def replace_vars( query, var_dict ):
+    q = query
+    for k,v in var_dict.items():
+        q = q.replace( k, str(v) )
+    return q
+
+def run_query(query):
+    headers = {'X-API-KEY': api_key}
+    request = requests.post(eap_endpoint, json={'query': query }, headers=headers)
+    if request.status_code == 200:
+        return request.json()
+    elif request.status_code == 429: #Too many request
+        time.sleep(10)
+        return run_query(query)
+    else:
+        raise Exception('Query failed and return code is {}.    {}'.format(request.status_code, query))
 
 #Disable tqdm if running from cron / ipython
 #https://github.com/tqdm/tqdm/issues/506
@@ -28,6 +46,17 @@ except:
 
 #If we call this from cron, it will run it from a different CWD, so relative paths won't work
 dir_path = os.path.dirname(os.path.realpath(__file__))
+
+# Parse command line arguments
+parser = argparse.ArgumentParser(description='Scrape token trades from Bitquery API')
+parser.add_argument('--descfield', default='volume', help='Field to sort by (default: volume)')
+parser.add_argument('--protocol', default='all', help='Protocol name to filter by (default: all)')
+parser.add_argument('--numrecords', default='4000', help='Total number of records to scrape (default: 4000)')
+args = parser.parse_args()
+
+DESCFIELD = args.descfield
+PROTOCOLNAME = args.protocol
+NUMRECORDS = int(args.numrecords)
 
 try:
     with open(f'{dir_path}/api_key', 'r') as file:
@@ -48,59 +77,20 @@ v2_endpoint = "https://streaming.bitquery.io/graphql"
 eap_endpoint = "https://streaming.bitquery.io/eap"
 
 #https://docs.bitquery.io/docs/examples/Solana/Solana-Raydium-DEX-API/#latest-price-of-a-token
-dex_query = """ 
-query MyQuery {
-  Solana {
-    DEXTradeByTokens(
-      orderBy: {descendingByField: "volume"}
-      limit: {count: COUNT, offset: OFFSET}
-    ) {
-      Block {
-        datefield: Date(interval: {in: days, count: 1 })
-      }
-      volume: sum(of: Trade_AmountInUSD)
-      medAmt: median(of: Trade_AmountInUSD)
-      lowAmt: quantile(of: Trade_AmountInUSD, level: 0.025)
-      highAmt: quantile(of: Trade_AmountInUSD, level: 0.975)
-      medPrice: median(of: Trade_PriceInUSD)
-      lowPrice: quantile(of: Trade_PriceInUSD, level: 0.025)
-      highPrice: quantile(of: Trade_PriceInUSD, level: 0.975)
-      Trade {
-        Currency {
-          Symbol
-          MintAddress
-        }
-        Dex {
-          ProtocolName
-        }
-      }
-      tradeCount: count(distinct: Transaction_Signature)
-    }
-  }
-}
-"""
+with open(f'{dir_path}/base_query.gql', 'r') as file:
+    base_query = file.read()
 
-def replace_vars( query, var_dict ):
-    q = query
-    for k,v in var_dict.items():
-        q = q.replace( k, str(v) )
-    return q
+dex_query = base_query.replace('DESCFIELD', f'"{DESCFIELD}"')
+if (PROTOCOLNAME != 'all') and (PROTOCOLNAME != 'any'):
+    dex_query = dex_query.replace('PROTOCOLNAME', f'is: "{PROTOCOLNAME}"')
+else:
+    dex_query = dex_query.replace('PROTOCOLNAME', '')
 
-def run_query(query):
-    headers = {'X-API-KEY': api_key}
-    request = requests.post(eap_endpoint, json={'query': query }, headers=headers)
-    if request.status_code == 200:
-        return request.json()
-    elif request.status_code == 429: #Too many request
-        time.sleep(10)
-        return run_query(query)
-    else:
-        raise Exception('Query failed and return code is {}.    {}'.format(request.status_code, query))
+print( dex_query )
 
-num_records = 3000
 batch_size = 100
 today = datetime.today().strftime('%Y-%m-%d')
-outfile = f"{dir_path}/data/token_prices_{today}.csv"
+outfile = f"{dir_path}/data/{PROTOCOLNAME}_by_{DESCFIELD}_{today}.csv"
 
 print( f"\nWriting to {outfile}" )
 
@@ -111,7 +101,7 @@ with open(outfile, 'w', newline='') as csvfile:
     writer.writeheader()
 
 rows = []
-for i in tqdm( range( num_records//batch_size ) ):
+for i in tqdm( range( NUMRECORDS//batch_size ) ):
     variables = {   'OFFSET': i*batch_size, 
                     'COUNT': batch_size }
 
