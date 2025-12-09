@@ -27,6 +27,7 @@ class BirdeyeAPI:
     BASE_URL = "https://public-api.birdeye.so"
     DEFAULT_MAX_RETRIES = 3
     DEFAULT_WAIT_TIME = 5
+    DEFAULT_TIMEOUT = 30  # Request timeout in seconds
 
     def __init__(self, api_key: Optional[str] = None, max_retries: int = DEFAULT_MAX_RETRIES, verbose: bool = True):
         """
@@ -94,7 +95,8 @@ class BirdeyeAPI:
         url: str,
         identifier: str,
         retry: int = 0,
-        wait: int = DEFAULT_WAIT_TIME
+        wait: int = DEFAULT_WAIT_TIME,
+        timeout: int = DEFAULT_TIMEOUT
     ) -> Optional[Dict[str, Any]]:
         """
         Make an API request with exponential backoff retry logic.
@@ -104,17 +106,24 @@ class BirdeyeAPI:
             identifier: An identifier (e.g., token address) for error logging
             retry: Current retry attempt number
             wait: Wait time in seconds before retry
+            timeout: Request timeout in seconds
 
         Returns:
             JSON response as dict, or None if request failed
         """
         try:
-            response = requests.get(url, headers=self._get_headers())
+            response = requests.get(url, headers=self._get_headers(), timeout=timeout)
+        except requests.exceptions.Timeout:
+            self._log_error(identifier, f"Request timeout after {timeout}s", url)
+            if retry < self.max_retries:
+                time.sleep(wait)
+                return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
+            return None
         except Exception as e:
             self._log_error(identifier, str(e), url)
             if retry < self.max_retries:
                 time.sleep(wait)
-                return self._make_request(url, identifier, retry + 1, wait * 2)
+                return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
             return None
 
         if response.status_code == 200:
@@ -124,7 +133,7 @@ class BirdeyeAPI:
                 self._log_error(identifier, f"JSON decode error: {e}", url)
                 if retry < self.max_retries:
                     time.sleep(wait)
-                    return self._make_request(url, identifier, retry + 1, wait * 2)
+                    return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
                 return None
         elif response.status_code == 401:
             # Permission denied - don't retry, this won't succeed
@@ -137,13 +146,13 @@ class BirdeyeAPI:
                 wait_time = wait * 3  # Extra long wait for rate limits
                 print(f"Rate limit hit. Waiting {wait_time} seconds before retry...")
                 time.sleep(wait_time)
-                return self._make_request(url, identifier, retry + 1, wait_time * 2)
+                return self._make_request(url, identifier, retry + 1, wait_time * 2, timeout)
             return None
         else:
             self._log_error(identifier, f"HTTP {response.status_code}: {response.text}", url)
             if retry < self.max_retries:
                 time.sleep(wait)
-                return self._make_request(url, identifier, retry + 1, wait * 2)
+                return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
             return None
 
     def _get_token_creation_time(self, address: str) -> Optional[int]:
