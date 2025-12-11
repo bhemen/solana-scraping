@@ -3,6 +3,7 @@ Utility functions for interacting with the Birdeye API.
 
 This module provides functions to query the Birdeye API for:
 - Historical price data
+- Historical OHLCV data (Open, High, Low, Close, Volume)
 - Token metadata (meme tokens)
 
 Includes automatic retry logic with exponential backoff for rate limiting.
@@ -26,6 +27,7 @@ class BirdeyeAPI:
     BASE_URL = "https://public-api.birdeye.so"
     DEFAULT_MAX_RETRIES = 3
     DEFAULT_WAIT_TIME = 5
+    DEFAULT_TIMEOUT = 30  # Request timeout in seconds
 
     def __init__(self, api_key: Optional[str] = None, max_retries: int = DEFAULT_MAX_RETRIES, verbose: bool = True):
         """
@@ -93,7 +95,8 @@ class BirdeyeAPI:
         url: str,
         identifier: str,
         retry: int = 0,
-        wait: int = DEFAULT_WAIT_TIME
+        wait: int = DEFAULT_WAIT_TIME,
+        timeout: int = DEFAULT_TIMEOUT
     ) -> Optional[Dict[str, Any]]:
         """
         Make an API request with exponential backoff retry logic.
@@ -103,17 +106,24 @@ class BirdeyeAPI:
             identifier: An identifier (e.g., token address) for error logging
             retry: Current retry attempt number
             wait: Wait time in seconds before retry
+            timeout: Request timeout in seconds
 
         Returns:
             JSON response as dict, or None if request failed
         """
         try:
-            response = requests.get(url, headers=self._get_headers())
+            response = requests.get(url, headers=self._get_headers(), timeout=timeout)
+        except requests.exceptions.Timeout:
+            self._log_error(identifier, f"Request timeout after {timeout}s", url)
+            if retry < self.max_retries:
+                time.sleep(wait)
+                return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
+            return None
         except Exception as e:
             self._log_error(identifier, str(e), url)
             if retry < self.max_retries:
                 time.sleep(wait)
-                return self._make_request(url, identifier, retry + 1, wait * 2)
+                return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
             return None
 
         if response.status_code == 200:
@@ -123,7 +133,7 @@ class BirdeyeAPI:
                 self._log_error(identifier, f"JSON decode error: {e}", url)
                 if retry < self.max_retries:
                     time.sleep(wait)
-                    return self._make_request(url, identifier, retry + 1, wait * 2)
+                    return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
                 return None
         elif response.status_code == 401:
             # Permission denied - don't retry, this won't succeed
@@ -136,13 +146,13 @@ class BirdeyeAPI:
                 wait_time = wait * 3  # Extra long wait for rate limits
                 print(f"Rate limit hit. Waiting {wait_time} seconds before retry...")
                 time.sleep(wait_time)
-                return self._make_request(url, identifier, retry + 1, wait_time * 2)
+                return self._make_request(url, identifier, retry + 1, wait_time * 2, timeout)
             return None
         else:
             self._log_error(identifier, f"HTTP {response.status_code}: {response.text}", url)
             if retry < self.max_retries:
                 time.sleep(wait)
-                return self._make_request(url, identifier, retry + 1, wait * 2)
+                return self._make_request(url, identifier, retry + 1, wait * 2, timeout)
             return None
 
     def _get_token_creation_time(self, address: str) -> Optional[int]:
@@ -203,6 +213,133 @@ class BirdeyeAPI:
 
         self._print(f"Warning: Could not determine creation time for {address} from any source")
         return None
+
+    def get_ohlcv_history(
+        self,
+        address: str,
+        start_ts: Optional[int] = None,
+        end_ts: Optional[int] = None,
+        interval: str = "1D"
+    ) -> Optional[pd.DataFrame]:
+        """
+        Get historical OHLCV (Open, High, Low, Close, Volume) data for a token.
+
+        API Documentation: https://docs.birdeye.so/reference/get-defi-ohlcv
+
+        Args:
+            address: Token address
+            start_ts: Start timestamp (Unix timestamp in seconds).
+                     If None, uses token creation time from metadata.
+            end_ts: End timestamp (Unix timestamp in seconds).
+                   If None, uses current time.
+            interval: Time interval granularity. Options:
+                     "1m", "3m", "5m", "15m", "30m", "1H", "2H", "4H",
+                     "6H", "8H", "12H", "1D", "3D", "1W", "1M"
+
+        Returns:
+            DataFrame with columns: ts, open, high, low, close, volume, date
+            (or None if request failed)
+
+        Note: Maximum 1000 records per request. For longer time ranges,
+              consider using larger intervals or making multiple requests.
+        """
+        # Handle optional start_ts
+        if start_ts is None:
+            start_ts = self._get_token_creation_time(address)
+            if start_ts is None:
+                self._print(f"Warning: Could not determine start time for {address}, cannot fetch OHLCV history")
+                return None
+            self._print(f"Using token creation time as start: {datetime.fromtimestamp(start_ts).strftime('%Y-%m-%d %H:%M:%S')}")
+
+        # Handle optional end_ts
+        if end_ts is None:
+            end_ts = int(datetime.now().timestamp())
+
+        url = (
+            f"{self.BASE_URL}/defi/ohlcv"
+            f"?address={address}"
+            f"&type={interval}"
+            f"&time_from={int(start_ts)}"
+            f"&time_to={int(end_ts)}"
+        )
+
+        json_response = self._make_request(url, address)
+
+        if json_response is None:
+            return None
+
+        # Extract OHLCV data from response
+        if 'data' in json_response and 'items' in json_response['data']:
+            items = json_response['data']['items']
+
+            if not items:
+                self._print(f"No OHLCV data found for {address}")
+                return None
+
+            df = pd.DataFrame(items)
+
+            # Rename columns to standard format
+            column_mapping = {
+                'unixTime': 'ts',
+                'o': 'open',
+                'h': 'high',
+                'l': 'low',
+                'c': 'close',
+                'v': 'volume'
+            }
+            df.rename(columns=column_mapping, inplace=True)
+
+            # Add date column if timestamp exists
+            if 'ts' in df.columns:
+                df['date'] = pd.to_datetime(df['ts'], unit='s').dt.date
+
+            return df
+        else:
+            self._log_error(address, f"Unexpected response format: {json_response}", url)
+            return None
+
+    def save_ohlcv_history_to_csv(
+        self,
+        address: str,
+        start_ts: Optional[int] = None,
+        end_ts: Optional[int] = None,
+        output_file: Optional[str] = None,
+        interval: str = "1D"
+    ) -> bool:
+        """
+        Fetch OHLCV history and save it to a CSV file.
+
+        Args:
+            address: Token address
+            start_ts: Start timestamp (Unix timestamp in seconds).
+                     If None, uses token creation time from metadata.
+            end_ts: End timestamp (Unix timestamp in seconds).
+                   If None, uses current time.
+            output_file: Path to output CSV file (default: data/OHLCV_history_{address}.csv)
+            interval: Time interval granularity (default: "1D")
+
+        Returns:
+            True if successful, False otherwise
+        """
+        if output_file is None:
+            output_file = f"data/OHLCV_history_{address}.csv"
+
+        df = self.get_ohlcv_history(address, start_ts, end_ts, interval)
+
+        if df is None or len(df) == 0:
+            print(f"No OHLCV history data retrieved for {address}")
+            return False
+
+        # Append or create new file
+        if Path(output_file).is_file():
+            # Append without header
+            df.to_csv(output_file, mode='a', header=False, index=False)
+        else:
+            # Create new file with header
+            df.to_csv(output_file, mode='w', header=True, index=False)
+
+        print(f"Saved {len(df)} OHLCV records for {address} to {output_file}")
+        return True
 
     def get_price_history(
         self,
@@ -737,6 +874,48 @@ def batch_get_price_history(
     return results
 
 
+def batch_get_ohlcv_history(
+    addresses: List[str],
+    start_ts: Optional[int] = None,
+    end_ts: Optional[int] = None,
+    interval: str = "1D",
+    sleep_between_requests: float = 1.0,
+    api_key: Optional[str] = None
+) -> Dict[str, pd.DataFrame]:
+    """
+    Batch fetch OHLCV history for multiple token addresses.
+
+    Args:
+        addresses: List of token addresses
+        start_ts: Start timestamp (Unix timestamp in seconds).
+                 If None, uses token creation time from metadata for each token.
+        end_ts: End timestamp (Unix timestamp in seconds).
+               If None, uses current time.
+        interval: Time interval granularity (default: "1D")
+        sleep_between_requests: Seconds to sleep between requests (default: 1.0)
+        api_key: Optional API key (if not provided, loads from file)
+
+    Returns:
+        Dictionary mapping addresses to their OHLCV history DataFrames
+    """
+    api = BirdeyeAPI(api_key=api_key)
+    results = {}
+
+    for address in addresses:
+        print(f"Fetching OHLCV history for {address}...")
+        df = api.get_ohlcv_history(address, start_ts, end_ts, interval)
+
+        if df is not None:
+            results[address] = df
+            print(f"  Retrieved {len(df)} records")
+        else:
+            print(f"  Failed to retrieve data")
+
+        time.sleep(sleep_between_requests)
+
+    return results
+
+
 def batch_get_token_metadata(
     addresses: List[str],
     sleep_between_requests: float = 1.0,
@@ -858,3 +1037,15 @@ if __name__ == "__main__":
         # Save to CSV
         trending_df.to_csv("data/trending_tokens.csv", index=False)
         print("Saved to data/trending_tokens.csv")
+
+    # Example 9: Get OHLCV history (Open, High, Low, Close, Volume)
+    print("\nExample 9: Fetching OHLCV history for the last 30 days...")
+    end_ts = int(datetime.now().timestamp())
+    start_ts = end_ts - (30 * 24 * 60 * 60)  # 30 days ago
+    ohlcv_df = api.get_ohlcv_history(example_address, start_ts, end_ts, interval="1D")
+    if ohlcv_df is not None:
+        print(f"Retrieved {len(ohlcv_df)} OHLCV records")
+        print(ohlcv_df.head())
+        # Save to CSV
+        api.save_ohlcv_history_to_csv(example_address, start_ts, end_ts)
+        print(f"Saved to data/OHLCV_history_{example_address}.csv")
