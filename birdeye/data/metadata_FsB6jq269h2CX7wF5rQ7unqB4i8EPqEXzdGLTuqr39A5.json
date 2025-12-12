@@ -1,0 +1,38 @@
+{
+  "address": "FsB6jq269h2CX7wF5rQ7unqB4i8EPqEXzdGLTuqr39A5",
+  "name": "Justice For Luigi",
+  "symbol": "Luigi",
+  "decimals": 6,
+  "extensions": {
+    "twitter": "https://twitter.com/LeadingReport/status/1980774480659030291"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/G30f44TW0AAOezf.jpg",
+  "price": 5.1887617901600866e-06,
+  "liquidity": 0.7447782179362351,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5188.761790160087,
+  "market_cap": 5188.761790160087,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1761088423,
+      "slot": 374931470,
+      "tx_hash": "4g2AkQq8mA5MiixB9zTVkfJ5Ar2CGzD7ksVVxex7TjBeGsKtqjkLgDhios12xz3YYSGbfZ8JvRzKi89Dqm6H7VEL"
+    },
+    "creator": "5xVUcHhatRN26cAZ8FdvBdy3PfNHpfM2EeLm7hLdK48B",
+    "address": "FsB6jq269h2CX7wF5rQ7unqB4i8EPqEXzdGLTuqr39A5",
+    "creation_time": 1761088423,
+    "graduated": false,
+    "pool": {
+      "address": "4zKWLsJBnsRZgLge7F3Y6JGroFtxyunyQueTN3RdRboe",
+      "real_sol_reserves": "8",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "address": "DxCweKSrvutwMvJv6PgdbeP7meaHWUzEAjueMXPG8hat",
+  "name": "Luigi Mangione AI",
+  "symbol": "MANGIONE",
+  "decimals": 6,
+  "extensions": {
+    "description": "We used twitter analyzers to define Luigi's personality and then parsed that data to train the agent.",
+    "twitter": "https://x.com/AiLuigiMangione",
+    "telegram": "https://t.me/AILuigiMangione"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZyTq1zEGzWpT2RXq3N2ZNwX3QYJXmEuv9cZoHHH89VDy",
+  "price": 3.6819371384261627e-06,
+  "liquidity": 7201.432685708858,
+  "total_supply": 997894737.491459,
+  "circulating_supply": 997894737.491459,
+  "fdv": 3674.1856942098293,
+  "market_cap": 3674.1856942098293
+}

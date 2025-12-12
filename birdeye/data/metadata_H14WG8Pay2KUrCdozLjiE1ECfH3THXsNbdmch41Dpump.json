@@ -1,0 +1,39 @@
+{
+  "address": "H14WG8Pay2KUrCdozLjiE1ECfH3THXsNbdmch41Dpump",
+  "name": "Ladyboy Lover",
+  "symbol": "Luigi",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://twitter.com/LeadingReport/status/1980774480659030291"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/G30f44TW0AAOezf.jpg",
+  "price": 5.611833708710086e-06,
+  "liquidity": 0.5548199266467942,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5611.833708710085,
+  "market_cap": 5611.833708710085,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1761088448,
+      "slot": 374931533,
+      "tx_hash": "3Z5zoXNdUkv2nb3Eb54fHGqQuTR7QXYz2wLMNFmmPbPWYTyE2uMvSyRmRthzPn8FAPe9VAkbmVWLy5JJYWwXLvAz"
+    },
+    "creator": "8Tvc58uAkUbpQ9w1a4dnayYjfrGAHqixNgPa9kBNUoNb",
+    "address": "H14WG8Pay2KUrCdozLjiE1ECfH3THXsNbdmch41Dpump",
+    "creation_time": 1761088448,
+    "graduated": false,
+    "pool": {
+      "address": "GQCLHW7xeaav94kinZZkxMmkAUbPbSKX1bGboECb3g9o",
+      "real_sol_reserves": "2",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

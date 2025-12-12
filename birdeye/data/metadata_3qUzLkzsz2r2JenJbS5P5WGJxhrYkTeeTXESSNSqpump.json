@@ -1,0 +1,17 @@
+{
+  "address": "3qUzLkzsz2r2JenJbS5P5WGJxhrYkTeeTXESSNSqpump",
+  "name": "Justice for Luigi Mangione",
+  "symbol": "HERO",
+  "decimals": 6,
+  "extensions": {
+    "description": "HE IS A HERO",
+    "twitter": "https://abcnews.go.com/US/unitedhealthcare-ceo-shooting-latest-net-closing-suspect-new/story?id=116591169??"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQFCPYxgxCNFTGWztH8xqiSswtL8WxVk8SYQnuFgqHeRn",
+  "price": 1.0655253151122486e-05,
+  "liquidity": 12914.961976125704,
+  "total_supply": 997263528.450205,
+  "circulating_supply": 997263528.450205,
+  "fdv": 10626.095354018576,
+  "market_cap": 10626.095354018576
+}

@@ -1,0 +1,41 @@
+{
+  "address": "3eSQjvB5Pn4jfpvEqMUMh9bTeg4qWEFsHXiGMyN1pump",
+  "name": "Luigis Tinder",
+  "symbol": "LUIGIRIZZ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/pepmangione",
+    "website": "https://x.com/pepmangione",
+    "telegram": "https://x.com/pepmangione"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVAJQCmzroEiAiqrWUwwc8wjqxNkkMXnZm2ntiQ8WK5P5",
+  "price": 5.209239650500536e-06,
+  "liquidity": 24.824652601950863,
+  "total_supply": 999267855.175055,
+  "circulating_supply": 999267855.175055,
+  "fdv": 5205.425732648524,
+  "market_cap": 5205.425732648524,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1733773659,
+      "slot": 306454653,
+      "tx_hash": "2T6XU5q7rnCr5Q4gayjZJw7LbFpSaFa8F8NxSPQfAtM9Kmp7cWvpsGzXg82ocXgsvNNRTa3cLrcwyoy3tkn4xL1w"
+    },
+    "creator": "BEoGXW5BHrp36zCgRvZfkwi6z8FuoXLfGP7bPq84fATg",
+    "address": "3eSQjvB5Pn4jfpvEqMUMh9bTeg4qWEFsHXiGMyN1pump",
+    "creation_time": 1733773659,
+    "graduated": false,
+    "pool": {
+      "address": "6KtcLsgJWN1DBuxh4a1fwUcPDgvXBYMGkHWRSKu4pEFY",
+      "real_sol_reserves": "64481922",
+      "real_token_reserves": "790798651587106",
+      "virtual_token_reserves": "1070698651587106",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0.29017,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

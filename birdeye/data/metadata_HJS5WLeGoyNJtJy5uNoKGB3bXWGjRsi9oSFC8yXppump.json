@@ -1,0 +1,44 @@
+{
+  "address": "HJS5WLeGoyNJtJy5uNoKGB3bXWGjRsi9oSFC8yXppump",
+  "name": "FREE LUIGI",
+  "symbol": "FREELUIGI",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1866185521514373427"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZyTq1zEGzWpT2RXq3N2ZNwX3QYJXmEuv9cZoHHH89VDy",
+  "price": 4.69075819197788e-06,
+  "liquidity": 346.1273413432295,
+  "total_supply": 997881970.10236,
+  "circulating_supply": 997881970.10236,
+  "fdv": 4680.823025884671,
+  "market_cap": 4680.823025884671,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1733769027,
+      "slot": 306443636,
+      "tx_hash": "CspEGhRN4SmyeFGEKKogjLmkswjFznEaBybRi97jZgSwfUvgioRRnqDdPCEw6seR4creyV7kVfwd5t1RyUsJVZi"
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": "4J6s4PqWhdy6t2HFKfnFcaGCyLrk1TPrtEVbZPrTc6LR",
+    "address": "HJS5WLeGoyNJtJy5uNoKGB3bXWGjRsi9oSFC8yXppump",
+    "creation_time": 1733769027,
+    "graduated": false,
+    "pool": {
+      "address": "eF48qDcFwDYQ9V6QdKkQjT6hMLQF8AgDWgR9sjCvvWK",
+      "real_sol_reserves": "1105512176",
+      "real_token_reserves": "754964836663135",
+      "virtual_token_reserves": "1034864836663135",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 4.80837,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

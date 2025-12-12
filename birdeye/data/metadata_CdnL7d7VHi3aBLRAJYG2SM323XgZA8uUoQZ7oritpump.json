@@ -1,0 +1,40 @@
+{
+  "address": "CdnL7d7VHi3aBLRAJYG2SM323XgZA8uUoQZ7oritpump",
+  "name": "VILLIAN STORY",
+  "symbol": "LUIGI",
+  "decimals": 6,
+  "extensions": {
+    "description": "test",
+    "twitter": "https://x.com/rawsalerts/status/1980754402626462110",
+    "website": "https://axiom.trade/pulse"
+  },
+  "logo_uri": "https://api-main.uxento.io/api/v1/proxy/image?url=https%3A%2F%2Fthumbnails.padre.gg%2FSOLANA-HYruWEAewS5yHTPSyy28e4XZmFNcu82Gk7Mv1xtcjHcp",
+  "price": 5.885472055385675e-06,
+  "liquidity": 0.7312968139906626,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5885.472055385675,
+  "market_cap": 5885.472055385675,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1761083767,
+      "slot": 374919752,
+      "tx_hash": "4QdK6yUrk4FQBm7rBuJU7u3Zc6L79B2bhMbgWgXaMJhFAwM2DTXtTr3MVqEpxhVhkdz5oFiDCUAP5MXXQv7nsPyS"
+    },
+    "creator": "6yAYZnf859ePLTryiZ82HW8oDD61upeZHKkedWvTFW1h",
+    "address": "CdnL7d7VHi3aBLRAJYG2SM323XgZA8uUoQZ7oritpump",
+    "creation_time": 1761083767,
+    "graduated": false,
+    "pool": {
+      "address": "A5NE3eUWnQPmgJg83UhiLyEzqZRf7ujdsagibp1Xs9PN",
+      "real_sol_reserves": "3000000002",
+      "real_token_reserves": "695554545454546",
+      "virtual_token_reserves": "975454545454546",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 13.38449,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

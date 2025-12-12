@@ -1,0 +1,40 @@
+{
+  "address": "F6t6dUaZJb3Ajopk4Y1av4dDVX7TyErJw5x4KVHMpump",
+  "name": "PRAY FOR LUIGI",
+  "symbol": "LUIGI",
+  "decimals": 6,
+  "extensions": {
+    "description": "test",
+    "twitter": "https://x.com/rawsalerts/status/1980754402626462110",
+    "website": "https://axiom.trade/pulse"
+  },
+  "logo_uri": "https://api-main.uxento.io/api/v1/proxy/image?url=https%3A%2F%2Fthumbnails.padre.gg%2FSOLANA-9uDDVGbHutHAhne9zUDtkjdahpT71BgWNdv7YAxEpump",
+  "price": 5.353361606373048e-06,
+  "liquidity": 0.731297191944881,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5353.361606373048,
+  "market_cap": 5353.361606373048,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1761083732,
+      "slot": 374919662,
+      "tx_hash": "46ubo9c2fEg4EFLUkLEHHbwFUZY3z8xzSQ6wxNTh2iDRPt4nRfaK2QdZxEEza2wfGNWu9uQ77XQ2KSG8iK7hYuCV"
+    },
+    "creator": "HiuMGV8EC9aVy8emrDxmkiNkQZfXCh2ZSNwHAAcKc7id",
+    "address": "F6t6dUaZJb3Ajopk4Y1av4dDVX7TyErJw5x4KVHMpump",
+    "creation_time": 1761083732,
+    "graduated": false,
+    "pool": {
+      "address": "2hgE4yoJFUWkf5BHwokPmm9TjGgZsjxEP5hP8MuNciK3",
+      "real_sol_reserves": "19980001",
+      "real_token_reserves": "792385857618850",
+      "virtual_token_reserves": "1072285857618850",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0.09004,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

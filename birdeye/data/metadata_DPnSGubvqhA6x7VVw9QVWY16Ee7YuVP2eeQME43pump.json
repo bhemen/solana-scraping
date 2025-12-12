@@ -1,0 +1,18 @@
+{
+  "address": "DPnSGubvqhA6x7VVw9QVWY16Ee7YuVP2eeQME43pump",
+  "name": "Luigi Mangione AI",
+  "symbol": "mangioneAI",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/dabit3/status/1866363442007089594",
+    "website": "https://x.com/dabit3/status/1866363442007089594"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWCkrbmWmwo9v5CgTS31XgA9AHLCiCXTyy7c5BvGBens9",
+  "price": 5.3965418275480025e-06,
+  "liquidity": 6.75133640398836e-06,
+  "total_supply": 996892391.519748,
+  "circulating_supply": 996892391.519748,
+  "fdv": 5379.771488400679,
+  "market_cap": 5379.771488400679
+}

@@ -1,0 +1,39 @@
+{
+  "address": "BJcgabXu2x6HTWqsaFNpbvRjrBeCfebXrrdkQpNQpump",
+  "name": "Standing On Biz",
+  "symbol": "LUIGI",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/mikerreports/status/1866264164747841628"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTWEGZNiJYKnAPCs4NSK6SGwEAYUXuw1pUJtAdViPV2BZ",
+  "price": 5.389880177694032e-06,
+  "liquidity": 121.93561268239371,
+  "total_supply": 999832162.830385,
+  "circulating_supply": 999832162.830385,
+  "fdv": 5388.9755554604435,
+  "market_cap": 5388.9755554604435,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1733787538,
+      "slot": 306487369,
+      "tx_hash": "4gD3W6H8Aoijj3HjyjAbGTT8WWuJZRNJC1RqXGnT1JGJJQHyMovbNeoSjckKvGb5FiujCfm1FHvyi24P4oYtha3b"
+    },
+    "creator": "9tBTfVvzpDiFTHZTPYkGv598o6AdXwA8z7fr2dh5t162",
+    "address": "BJcgabXu2x6HTWqsaFNpbvRjrBeCfebXrrdkQpNQpump",
+    "creation_time": 1733787538,
+    "graduated": false,
+    "pool": {
+      "address": "yykj66zEsJZHMQV5e177aZSkvN7RCiXSM6Gpe2gtvWh",
+      "real_sol_reserves": "320172794",
+      "real_token_reserves": "781769419511468",
+      "virtual_token_reserves": "1061669419511468",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 1.42864,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}
