@@ -44,6 +44,9 @@ class BirdeyeAPI:
         # Ensure data directory exists
         Path("data").mkdir(exist_ok=True)
 
+        # Cache of addresses with security details (loaded lazily)
+        self._security_cache = None
+
     def _print(self, message: str):
         """Print message only if verbose mode is enabled."""
         if self.verbose:
@@ -164,7 +167,7 @@ class BirdeyeAPI:
         try:
             security_csv = "data/security_details.csv"
             if Path(security_csv).exists():
-                df = pd.read_csv(security_csv)
+                df = pd.read_csv(security_csv, on_bad_lines='warn')
                 existing = df[df['address'] == address]
                 if len(existing) > 0:
                     creation_time = existing.iloc[0].get('creationTime')
@@ -432,18 +435,21 @@ class BirdeyeAPI:
         """
         security_csv = "data/security_details.csv"
 
+        # Load security cache once (lazily)
+        if self._security_cache is None:
+            self._security_cache = set()
+            if Path(security_csv).exists():
+                try:
+                    df = pd.read_csv(security_csv, usecols=['address'], on_bad_lines='warn')
+                    self._security_cache = set(df['address'].dropna())
+                    self._print(f"Loaded {len(self._security_cache)} cached addresses")
+                except Exception as e:
+                    self._print(f"Warning: Could not load security cache: {e}")
+
         # Check if we have cached data (unless force refresh)
-        if not force_refresh and Path(security_csv).exists():
-            try:
-                df = pd.read_csv(security_csv)
-                # Check if this address already exists
-                existing = df[df['address'] == address]
-                if len(existing) > 0:
-                    self._print(f"Using cached security details for {address}")
-                    # Convert row to dictionary
-                    return existing.iloc[0].to_dict()
-            except Exception as e:
-                self._print(f"Warning: Could not read cached security details: {e}")
+        if not force_refresh and address in self._security_cache:
+            self._print(f"Skipping {address} - already in cache")
+            return {'address': address, '_cached': True}
 
         # Fetch from API
         url = f"{self.BASE_URL}/defi/token_security?address={address}"
@@ -466,22 +472,23 @@ class BirdeyeAPI:
             # Append to CSV
             try:
                 if Path(security_csv).exists():
-                    # Check if address already exists (in case of race condition)
-                    df = pd.read_csv(security_csv)
-                    if address not in df['address'].values:
-                        # Append new row
-                        new_df = pd.DataFrame([flattened_data])
-                        new_df.to_csv(security_csv, mode='a', header=False, index=False)
-                    else:
-                        # Update existing row
-                        df.loc[df['address'] == address] = pd.Series(flattened_data)
-                        df.to_csv(security_csv, index=False)
+                    # Append new row directly without reading entire file
+                    # This is much faster and avoids issues with malformed rows
+                    new_df = pd.DataFrame([flattened_data])
+                    # Read header to ensure column order matches
+                    with open(security_csv, 'r') as f:
+                        header = f.readline().strip().split(',')
+                    # Reorder columns to match existing file
+                    new_df = new_df.reindex(columns=header)
+                    new_df.to_csv(security_csv, mode='a', header=False, index=False)
                 else:
                     # Create new file
                     new_df = pd.DataFrame([flattened_data])
                     new_df.to_csv(security_csv, index=False)
 
                 self._print(f"Saved security details for {address} to {security_csv}")
+                # Add to cache
+                self._security_cache.add(address)
             except Exception as e:
                 self._print(f"Warning: Could not save security details to CSV: {e}")
 

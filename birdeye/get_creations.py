@@ -74,7 +74,7 @@ for address in tqdm(remaining_addresses, desc="Fetching security details"):
         failed.append(address)
 
     # Sleep to avoid rate limits
-    time.sleep(1)
+    time.sleep(0.1)
 
 # Print summary
 print("\n" + "="*60)
