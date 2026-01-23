@@ -1,0 +1,35 @@
+{
+  "address": "HYruWEAewS5yHTPSyy28e4XZmFNcu82Gk7Mv1xtcjHcp",
+  "name": "JUSTICE FOR LUIGI",
+  "symbol": "LUIGI",
+  "decimals": 6,
+  "extensions": {},
+  "price": 4.421277061440971e-06,
+  "liquidity": 18.10085695226409,
+  "total_supply": 999969924.012817,
+  "circulating_supply": 999969924.012817,
+  "fdv": 4421.144087168739,
+  "market_cap": 4421.144087168739,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1761083677,
+      "slot": 374919525,
+      "tx_hash": "2oMkAfd9GjeKHjebtxU3kX2q6vBWX12YtsngDoSUAhicoaV6A4vTbd853QDFjqywthPkVSWQnhB73Pfb1fZAHe6U"
+    },
+    "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+    "address": "HYruWEAewS5yHTPSyy28e4XZmFNcu82Gk7Mv1xtcjHcp",
+    "creation_time": 1761083677,
+    "graduated": false,
+    "pool": {
+      "address": "6kPc1o28QKGivR9XxF9R9ooEkQtpWnHHFkCG2vbnD8La",
+      "real_sol_reserves": "55519089",
+      "real_token_reserves": "791117942801856",
+      "virtual_token_reserves": "1071017942801856",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0.24991,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

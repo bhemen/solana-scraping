@@ -5,8 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "base58>=2.1.1",
     "dotenv>=0.9.9",
     "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
     "requests>=2.32.5",
+    "solana>=0.36.10",
+    "solders>=0.27.1",
     "tqdm>=4.67.1",
 ]

@@ -1,0 +1,41 @@
+{
+  "address": "51XmRJ7JftwJBWk4WKLLXeCuBzLgaY2xW1gKBYyZpump",
+  "name": "Luigi Found Dead in Jail Cell",
+  "symbol": "RIP LUGI",
+  "decimals": 6,
+  "extensions": {
+    "description": "BREAKING: Luigi Mangione Found Dead in Jail Cell Following Arrest for CEO Murder",
+    "twitter": "https://cnbcnews.us/luigi-mangione-just-found-dead-in-jail-cell-following-arrest-for-ceo-murder",
+    "website": "https://cnbcnews.us/luigi-mangione-just-found-dead-in-jail-cell-following-arrest-for-ceo-murder",
+    "telegram": "https://cnbcnews.us/luigi-mangione-just-found-dead-in-jail-cell-following-arrest-for-ceo-murder"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVy3oZqxJX7siumpaBiuSnhB57zVXUcuk9H5xNZJmGfg8",
+  "price": 5.393149495793783e-06,
+  "liquidity": 155.8046590802745,
+  "total_supply": 999633741.602389,
+  "circulating_supply": 999633741.602389,
+  "fdv": 5391.174209501377,
+  "market_cap": 5391.174209501377,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1734263671,
+      "slot": 307627062,
+      "tx_hash": "33ncWfaWqcahxdbxzWJ9M1pWyhBQRckFGj74cNZDmNmfK4QQuB9cHyc65aHSMmnbZizEzHywLTB4pXfvcmdeUF7o"
+    },
+    "creator": "2roRjerSpqj2qYZ1KNCuJkVnv9qSh73BeFzFYQxhQQwn",
+    "address": "51XmRJ7JftwJBWk4WKLLXeCuBzLgaY2xW1gKBYyZpump",
+    "creation_time": 1734263671,
+    "graduated": false,
+    "pool": {
+      "address": "Cq7GzLrWPLnMamHbkPYF7GkxAmNmChbfJDxPBpRi5N55",
+      "real_sol_reserves": "413694268",
+      "real_token_reserves": "778504807319458",
+      "virtual_token_reserves": "1058404807319458",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 1.84027,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

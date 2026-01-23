@@ -4,6 +4,7 @@ Fetch trending tokens from Birdeye using pagination.
 Uses the BirdeyeAPI get_token_trending function.
 """
 
+
 import sys
 from pathlib import Path
 from datetime import datetime

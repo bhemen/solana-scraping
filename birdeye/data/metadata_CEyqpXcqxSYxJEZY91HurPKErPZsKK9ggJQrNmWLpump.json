@@ -1,0 +1,18 @@
+{
+  "address": "CEyqpXcqxSYxJEZY91HurPKErPZsKK9ggJQrNmWLpump",
+  "name": "DENY DEFEND DEPOSE",
+  "symbol": "DDD",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/ABC/status/1864531338126110935",
+    "website": "https://x.com/ABC/status/1864531338126110935"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRXuVDHk4D3qVuzAD9bCHUqU8xRbLTP1jYagpt8vB7fv2",
+  "price": 1.338419802934967e-05,
+  "liquidity": 16965.935749629127,
+  "total_supply": 998653678.339818,
+  "circulating_supply": 998653678.339818,
+  "fdv": 13366.178593638591,
+  "market_cap": 13366.178593638591
+}

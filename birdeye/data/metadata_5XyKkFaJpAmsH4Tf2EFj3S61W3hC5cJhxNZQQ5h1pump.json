@@ -1,0 +1,16 @@
+{
+  "address": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+  "name": "Luigi Mangione",
+  "symbol": "Luigi",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRAbhqKqemWGskRCYjiVoMTHA6uzY5FGD9tbc7PQ1XXzq",
+  "price": 0.0003846361586157238,
+  "liquidity": 212057.27579520043,
+  "total_supply": 999884668.896617,
+  "circulating_supply": 999884668.896617,
+  "fdv": 384591.7981031497,
+  "market_cap": 384591.7981031497
+}
