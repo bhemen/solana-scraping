@@ -15,3 +15,4 @@ data/token_metadata.csv
 *.env
 .DS_STORE
 *.env.*
+birdeye/data/security_details.csv
