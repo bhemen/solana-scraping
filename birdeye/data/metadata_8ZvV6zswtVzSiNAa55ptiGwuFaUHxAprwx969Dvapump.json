@@ -1,0 +1,17 @@
+{
+  "address": "8ZvV6zswtVzSiNAa55ptiGwuFaUHxAprwx969Dvapump",
+  "name": "Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelensky cannot claim to represent the will of the people of Ukraine unless he restores freedom of the press and stops canceling elections!",
+    "twitter": "https://x.com/elonmusk/status/1892292753314181582"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRqHTSvDCy43s2zoUnbtHeFrL3W81fpykJRmAEuW6vC3t",
+  "price": 4.712779582914081e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4712.779582914081,
+  "market_cap": 4712.779582914081
+}

@@ -1,0 +1,17 @@
+{
+  "address": "61r3xwKxRvbkRCC18eXtZYGaU5F6SRDhZS8WVeg2MMsf",
+  "name": "DIDDY TEACHER",
+  "symbol": "KEIVA",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.x.com/"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmX7MstsmgVjGhY8HpXnNcngTo5AE79FwfccqgGaZ8YwzB",
+  "price": 3.418835761122106e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3418.835761122106,
+  "market_cap": 3418.835761122106
+}

@@ -1,0 +1,17 @@
+{
+  "address": "5woPTWiJE3vK11SacSnnvghEP8hvC3khvu6KAWXJNscp",
+  "name": "CZ TEACHER",
+  "symbol": "LA",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.x.com/"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmaPjVLKfZQ3krBarkdqDuqsRZvHYaQ9Lg6E9hG2FKo24Q",
+  "price": 4.044437090636272e-06,
+  "liquidity": 0.31913293621780475,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4044.437090636272,
+  "market_cap": 4044.437090636272
+}

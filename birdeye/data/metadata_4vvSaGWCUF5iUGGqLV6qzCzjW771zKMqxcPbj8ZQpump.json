@@ -1,0 +1,16 @@
+{
+  "address": "4vvSaGWCUF5iUGGqLV6qzCzjW771zKMqxcPbj8ZQpump",
+  "name": "jail twitter hacker",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQRTMEXmCKuWwmAuJpgXMVdMB8i3ipKU4o1XWmaRvJu8A",
+  "price": 3.956754276728183e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3956.754276728183,
+  "market_cap": 3956.754276728183
+}

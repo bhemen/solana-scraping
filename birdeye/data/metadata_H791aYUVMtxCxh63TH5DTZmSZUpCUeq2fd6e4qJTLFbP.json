@@ -1,0 +1,17 @@
+{
+  "address": "H791aYUVMtxCxh63TH5DTZmSZUpCUeq2fd6e4qJTLFbP",
+  "name": "Teacher UWU",
+  "symbol": "MANUWU",
+  "decimals": 6,
+  "extensions": {
+    "description": "hm?",
+    "twitter": "https://twitter.com/MANUWUCOIN"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYN4Yf4anUCGTSGYqJXTts4YnMrwFjMkRUFsc339LyjTR",
+  "price": 5.684421357837343e-06,
+  "liquidity": 0.41667270331314754,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5684.421357837344,
+  "market_cap": 5684.421357837344
+}

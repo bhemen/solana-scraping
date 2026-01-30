@@ -1,0 +1,17 @@
+{
+  "address": "GAQzM2asZ4XTDJK7SPYGWoahqsoypNYdt9NgRYPnSDQR",
+  "name": "PAVEL DROPS SOAP",
+  "symbol": "PavelSoap",
+  "decimals": 6,
+  "extensions": {
+    "description": "PAVEL DROPS SOAP",
+    "twitter": "PavelSoap",
+    "website": "PavelSoap",
+    "telegram": "PavelSoap"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmTevoWbMoziYwijeyQDJjYMK8rGWdvkJ1XMjiZLD41vHV",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "9jjsyN9HjcefboyxW4bfptY3427eBdyU1hXwkhMzpump",
+  "name": "Teachers",
+  "symbol": "LOL",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/elonmusk/status/1823566118608625721",
+    "twitter": "https://x.com/elonmusk/status/1823566118608625721",
+    "website": "https://x.com/elonmusk/status/1823566118608625721",
+    "telegram": "https://x.com/elonmusk/status/1823566118608625721"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmUyUK6pkM3r8XN6HYDZZgaDMsToVKdj4zSqKgrc6XmF5P",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

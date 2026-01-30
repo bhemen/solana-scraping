@@ -1,0 +1,17 @@
+{
+  "address": "CmU4fB2y4BuBya8Mz4x411Mh2sSpdA3HYHfzoxHXpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pepe is back, Pepe coin for solana. Will burn most of supply.",
+    "twitter": "https://twitter.com/officialpepe?lang=fr",
+    "website": "https://www.pepecoin.io/",
+    "telegram": "https://t.me/s/enterpepe?before=31"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWoETfzdWpdMb9MNrttKnUx4oFPBViqYdyvXidTrQAHXZ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

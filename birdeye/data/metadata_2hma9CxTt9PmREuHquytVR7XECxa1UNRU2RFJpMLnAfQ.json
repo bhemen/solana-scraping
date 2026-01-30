@@ -1,0 +1,17 @@
+{
+  "address": "2hma9CxTt9PmREuHquytVR7XECxa1UNRU2RFJpMLnAfQ",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "What is pepe? Just coin or soul?",
+    "twitter": "https://x.com/DEVtokensolana",
+    "website": "https://devtoken.org/",
+    "telegram": "https://t.me/devportal_sol"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmUq4tCRqg4N8GdobtwUnXFE6rBJJsVjFEH12aJje2Du9Q",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

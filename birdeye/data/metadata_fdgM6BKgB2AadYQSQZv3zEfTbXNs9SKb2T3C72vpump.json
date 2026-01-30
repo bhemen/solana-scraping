@@ -1,0 +1,17 @@
+{
+  "address": "fdgM6BKgB2AadYQSQZv3zEfTbXNs9SKb2T3C72vpump",
+  "name": "Pavel Durov",
+  "symbol": "DUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel Durov",
+    "twitter": "https://x.com/PDurov_eth/",
+    "website": "https://t.me/PavelDurov_eth",
+    "telegram": "https://t.me/PavelDurov_eth"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmdbTbGkWv9pMgUTV7gsunqSymFMXhspW4jprpFnzFMf9V",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

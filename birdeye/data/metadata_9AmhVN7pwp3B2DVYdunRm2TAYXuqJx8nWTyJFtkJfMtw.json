@@ -1,0 +1,17 @@
+{
+  "address": "9AmhVN7pwp3B2DVYdunRm2TAYXuqJx8nWTyJFtkJfMtw",
+  "name": "Pavel Durov",
+  "symbol": "durov2025",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov2025"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmVUhRfVagcr5AKsjErw1bMdrBMzyLo7L9b8wYFfH5hRhk",
+  "price": 4.075528250176381e-06,
+  "liquidity": 0.42031737863402246,
+  "total_supply": 999999613.647387,
+  "circulating_supply": 999999613.647387,
+  "fdv": 4075.5266755853922,
+  "market_cap": 4075.5266755853922
+}

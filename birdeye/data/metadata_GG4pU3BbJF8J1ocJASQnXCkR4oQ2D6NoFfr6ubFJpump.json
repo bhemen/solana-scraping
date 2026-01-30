@@ -1,0 +1,14 @@
+{
+  "address": "GG4pU3BbJF8J1ocJASQnXCkR4oQ2D6NoFfr6ubFJpump",
+  "name": "NicK",
+  "symbol": "OME",
+  "decimals": 6,
+  "extensions": {
+    "description": "HandsOME"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQ1v9zPXij9mUFMD9PfDdpruhWcB232TAJ1GdYPvdUgLj",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

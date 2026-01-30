@@ -1,0 +1,16 @@
+{
+  "address": "55rd2AkPuXRzvRKGbKCkUfdbVKMQU5pbhmHh4vx4pump",
+  "name": "Zelenskiy",
+  "symbol": "ZELC",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskiy Token (ZELC) is an innovative digital asset created to support the ideas of freedom, democracy and new technologies. The project is inspired by images of determination and leadership. ZELC offers not only investment opportunities, but also participation in charitable initiatives aimed at helping victims of military conflicts and developing technology startups in Eastern Europe."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeBHe3LbWTYUq7B5YB8iNKd6enQZPi5fCzd6oNyG9LmUA",
+  "price": 5.575817817090298e-06,
+  "liquidity": 1.751903174861439,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5575.8178170902975,
+  "market_cap": 5575.8178170902975
+}

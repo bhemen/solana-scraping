@@ -1,0 +1,16 @@
+{
+  "address": "H4P4hiWEDEGsE2UVMrjo7HEG9rCHWvW8HUzxBc9Npump",
+  "name": "La Casa De Pavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "La Casa De Pavel \r\n#FreePavel \r\nTG : https://t.me/LaCasaDePavel \r\nX : https://x.com/CasaDePavel",
+    "twitter": "https://x.com/CasaDePavel",
+    "telegram": "https://t.me/LaCasaDePavel "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdPFxjkpE3stfDaQok2fXRcXSM1BzGQtVEDCcnsspS4y3",
+  "price": null,
+  "total_supply": 999999999.454546,
+  "circulating_supply": 999999999.454546,
+  "meme_info": null
+}

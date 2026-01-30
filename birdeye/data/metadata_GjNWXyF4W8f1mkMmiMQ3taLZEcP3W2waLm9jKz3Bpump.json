@@ -1,0 +1,17 @@
+{
+  "address": "GjNWXyF4W8f1mkMmiMQ3taLZEcP3W2waLm9jKz3Bpump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "\"Forgot to check my portfolio last night. Checked her texts instead. Guess you could say I've invested in a relationship that's tanked worse than Bitcoin.",
+    "twitter": "https://x.com/nickmyrobot?s=21",
+    "telegram": "https://x.com/nickmyrobot?s=21"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcC5WTisbMmqkWA6j5aJqicV4NtsvvK3X1DSoNbtJaNHp",
+  "price": null,
+  "liquidity": 0.5416131421815514,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

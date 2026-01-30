@@ -1,0 +1,14 @@
+{
+  "address": "kkedrRM4XairwufE2JaKBMJt7aZPoiGyAt92dhSpump",
+  "name": "Pavel Durov",
+  "symbol": "Durov",
+  "decimals": 6,
+  "extensions": {
+    "description": "Safe me I love $DOGS."
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmUFaVtL2eFdcWDQcHwRfDAP1kbQtno8w8qkMJCcnwL12d",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

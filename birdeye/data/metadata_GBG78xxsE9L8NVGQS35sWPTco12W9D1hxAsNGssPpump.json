@@ -1,0 +1,17 @@
+{
+  "address": "GBG78xxsE9L8NVGQS35sWPTco12W9D1hxAsNGssPpump",
+  "name": "Truth Teacher",
+  "symbol": "opus_tutor",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1721431183-scenario-terminal-of-truths-txt",
+    "website": "https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1721431183-scenario-terminal-of-truths-txt",
+    "telegram": "https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1721431183-scenario-terminal-of-truths-txt"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmapAq9WtNrtyaDtjZPAHHNYmpSZAQU6HywwvfSWq4dQVV",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

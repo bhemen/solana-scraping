@@ -1,0 +1,15 @@
+{
+  "address": "r9W7ouguJgaTEH6ADihGKTWw3QAti4hMpfC5ELmpump",
+  "name": "AI Teacher",
+  "symbol": "Alice",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://nypost.com/video/bot-for-teacher-ai-instructor-assists-college-kids-in-india/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmU9UR7VwgncsUoMRMamdpNP2HywsCZpJ3LV2w26S4uSeA",
+  "price": null,
+  "total_supply": 999999999.998973,
+  "circulating_supply": 999999999.998973,
+  "meme_info": null
+}

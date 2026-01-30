@@ -1,0 +1,14 @@
+{
+  "address": "oFxFzoRvRAzX42DBm1pynjPEdgGinexJ1fmbUpspump",
+  "name": "Pavel Durov",
+  "symbol": "TGJAIL",
+  "decimals": 6,
+  "extensions": {
+    "description": "free Pavel Durov"
+  },
+  "logo_uri": "https://gateway.irys.xyz/CxXS_XzQf3wikDv9r0oxhjItCWScIIaCgRc3Rmh3z5c",
+  "price": null,
+  "total_supply": 999999997.601246,
+  "circulating_supply": 999999997.601246,
+  "meme_info": null
+}

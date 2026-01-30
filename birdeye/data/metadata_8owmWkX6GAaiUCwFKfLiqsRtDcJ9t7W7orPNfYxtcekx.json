@@ -1,0 +1,18 @@
+{
+  "address": "8owmWkX6GAaiUCwFKfLiqsRtDcJ9t7W7orPNfYxtcekx",
+  "name": "PUMP TEACHER",
+  "symbol": "PEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/boldleonidas/status/1918328338462208260",
+    "website": "https://x.com/boldleonidas/status/1918328338462208260"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXrxrLdBjVPb5GQLe1S5YhDRGiLXG1cicwYsbRrb15tT4",
+  "price": 4.139209101160806e-06,
+  "liquidity": 0.36313343558508254,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4139.209101160805,
+  "market_cap": 4139.209101160805
+}

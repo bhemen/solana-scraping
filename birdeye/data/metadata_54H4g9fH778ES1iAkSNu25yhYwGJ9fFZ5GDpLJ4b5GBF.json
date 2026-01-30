@@ -1,0 +1,39 @@
+{
+  "address": "54H4g9fH778ES1iAkSNu25yhYwGJ9fFZ5GDpLJ4b5GBF",
+  "name": "Saint Tyler Robinson",
+  "symbol": "Saint",
+  "decimals": 6,
+  "extensions": {
+    "description": "When he will be executed for his sin, Lefties will worship him.",
+    "twitter": "https://x.com/357EDC/status/1966711188957364588"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreidyx5y4a3dejdewgxyy2fhfsicf5haj3aegawksva5uoigs3cyprm",
+  "price": 6.7048912167257305e-06,
+  "liquidity": 0.9022003678401015,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6704.89121672573,
+  "market_cap": 6704.89121672573,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 366573498,
+      "tx_hash": "5BQYeGn7D29GsYFyMHBEwCrB7CaT1ZisVjVqLRmMS4DREK28cN9Ge29w4MoMpVe5HpzmHqcaTyNRKV3Ahi1d6pPh",
+      "block_time": 1757777116
+    },
+    "creation_time": 1757777116,
+    "creator": "F1DbBevKYeYAkYwwi6Mh2kJvCpdszVVXxKEjM5JmjjZ8",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "2HPXcM1un1GaD7xyfBu51cpLxDaPFzzMuBEEb92Wa9fv",
+      "real_sol_reserves": "2",
+      "real_token_reserves": "793100000000000",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1073000000000000"
+    },
+    "progress_percent": 0,
+    "address": "54H4g9fH778ES1iAkSNu25yhYwGJ9fFZ5GDpLJ4b5GBF"
+  }
+}

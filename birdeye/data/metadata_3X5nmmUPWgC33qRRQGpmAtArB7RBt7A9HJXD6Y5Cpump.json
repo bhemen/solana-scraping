@@ -1,0 +1,17 @@
+{
+  "address": "3X5nmmUPWgC33qRRQGpmAtArB7RBt7A9HJXD6Y5Cpump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pepe",
+    "twitter": "https://x.com/PepePigToken",
+    "website": "https://www.pepe-pig.xyz/",
+    "telegram": "https://t.me/pepepigoffical"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmes96QP4dWMXUxa2jgDrHJ7Wofzqht3T1BS8dEobjGGPh",
+  "price": null,
+  "total_supply": 999999999.990477,
+  "circulating_supply": 999999999.990477,
+  "meme_info": null
+}

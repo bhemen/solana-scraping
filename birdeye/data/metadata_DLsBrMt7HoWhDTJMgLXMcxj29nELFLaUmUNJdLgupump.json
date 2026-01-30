@@ -1,0 +1,16 @@
+{
+  "address": "DLsBrMt7HoWhDTJMgLXMcxj29nELFLaUmUNJdLgupump",
+  "name": "Zelensky The Trencher",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYk52j7p4kUZhxBiHYW3ajdZautcyAdM31hTDDF4AHkzY",
+  "price": 4.0108548660169665e-06,
+  "liquidity": 0.391777116728427,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4010.8548660169663,
+  "market_cap": 4010.8548660169663
+}

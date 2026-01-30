@@ -1,0 +1,16 @@
+{
+  "address": "EsLAwcfYqbsQfKYFMjKzmCDv6PizMrc2xD3xronEpump",
+  "name": "ZELENSKI",
+  "symbol": "ZEN",
+  "decimals": 6,
+  "extensions": {
+    "description": "FREE UKRAINA"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSy21FD3pAV3t5XnGukvxCgN23RiwCnbBbUoH2Mj3svgw",
+  "price": 7.5461058416438475e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7546.105841643847,
+  "market_cap": 7546.105841643847
+}

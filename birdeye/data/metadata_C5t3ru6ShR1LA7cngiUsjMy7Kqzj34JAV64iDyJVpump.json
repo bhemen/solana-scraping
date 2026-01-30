@@ -1,0 +1,18 @@
+{
+  "address": "C5t3ru6ShR1LA7cngiUsjMy7Kqzj34JAV64iDyJVpump",
+  "name": "Pope Leo New Ring",
+  "symbol": "Piscatory ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/VaticanNews/status/1924041812127121845",
+    "website": "https://www.vaticannews.va/en/pope/news/2025-05/what-exactly-is-the-fishermans-ring.html"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWbwTWmvKS53NpBmtMJcSUg3uf98kEr69xE7DqgEP1X2i",
+  "price": 4.760459683174022e-06,
+  "liquidity": 0.640766996550818,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4760.459683174022,
+  "market_cap": 4760.459683174022
+}

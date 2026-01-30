@@ -1,0 +1,20 @@
+{
+  "address": "G1Ft5zQUWSeKbHHwZpN2yDFes1qXukJcoToLQSEapump",
+  "name": "pepe",
+  "symbol": "pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Cult of Pepe (COPE)\r\nThe Cult of Pepe $COPE is a memecoin movement uniting fans of Pepe the Frog in a quest for profits and fun.",
+    "twitter": "@pumpdotfun",
+    "website": "@pumpdotfun",
+    "telegram": "@https://t.co/GnqSDkEWla"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZzN6TW8Yc5SrnGqmFJ9ttwUbazi1jP9cvtQnuidk5xmn",
+  "price": 7.881804685368509e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7881.804685368509,
+  "market_cap": 7881.804685368509,
+  "meme_info": null
+}

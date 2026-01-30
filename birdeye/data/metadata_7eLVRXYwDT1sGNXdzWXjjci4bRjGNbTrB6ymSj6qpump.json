@@ -1,0 +1,16 @@
+{
+  "address": "7eLVRXYwDT1sGNXdzWXjjci4bRjGNbTrB6ymSj6qpump",
+  "name": "Trump Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Trump and Vance erupt at Zelensky in tense Oval Office meeting"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTiJ8DEM6ZXQJ2ZQHZibrdxVQGb98AvQ8U5xg6PMJAWmr",
+  "price": 4.082307418249367e-06,
+  "liquidity": 0.4298660022955246,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4082.307418249367,
+  "market_cap": 4082.307418249367
+}

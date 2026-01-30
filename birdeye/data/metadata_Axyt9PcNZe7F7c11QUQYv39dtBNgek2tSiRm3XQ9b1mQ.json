@@ -1,0 +1,16 @@
+{
+  "address": "Axyt9PcNZe7F7c11QUQYv39dtBNgek2tSiRm3XQ9b1mQ",
+  "name": "Teacher Lee",
+  "symbol": "TeacherLee",
+  "decimals": 6,
+  "extensions": {
+    "description": "Lee: This is a teacher Li's token"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRDecdcJrYraPfCkAsg2NEigBmB6FR7haJvx1MA3n8C2Z",
+  "price": 5.274138004439192e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5274.138004439192,
+  "market_cap": 5274.138004439192
+}

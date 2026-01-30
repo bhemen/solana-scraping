@@ -1,0 +1,14 @@
+{
+  "address": "CBj5q76Fv25yKnYSkY2dvHEiq6h6tEXc2pE4GTLbpump",
+  "name": "teacher",
+  "symbol": "TCH",
+  "decimals": 6,
+  "extensions": {
+    "description": "The hard-working teacher is teaching you the trend of altcoins, study hard together"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSDYUXX64vvcaoJFJssRpZQVd3R5ddnWXJtMM1RDFp64Y",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,14 @@
+{
+  "address": "y4k1vtoUdQBkBaLq4nWpHgRU9y9pXGnM8gfPcCjpump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "NICK"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQ3o1qi3MZdQ4J58g7Yn52tJKky3a8e9VPVvdQn5LPpkH",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

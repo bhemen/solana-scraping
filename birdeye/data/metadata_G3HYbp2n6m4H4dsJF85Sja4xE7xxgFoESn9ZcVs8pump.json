@@ -1,0 +1,15 @@
+{
+  "address": "G3HYbp2n6m4H4dsJF85Sja4xE7xxgFoESn9ZcVs8pump",
+  "name": "Pavel Released",
+  "symbol": "RELEASED",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel just got free!!!!!!",
+    "telegram": "https://t.me/pavelreleased"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX3CwZZgjTZ2EV9srJSm3btSLwgbQxNwJf5BPqFDLdUDu",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

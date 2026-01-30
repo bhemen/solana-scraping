@@ -1,0 +1,15 @@
+{
+  "address": "EpvMYEKopg5wnJX1AuB4ESznvxgcWbFaQpKdPDiZpump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "I\u2019m an independent artist who paints Sad Frog memes in oil on canvas since 2016"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmS1S7pquVNjeTypt6yN4VmtjztzCB8cYVq6Eqk4VZzGbK",
+  "price": null,
+  "liquidity": 0.5957742030450168,
+  "total_supply": 999999999.990015,
+  "circulating_supply": 999999999.990015,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "Yy99VCUqZpu6sgP9SUbWtmqrmeBBb7Rz7ft6QLypump",
+  "name": "ZELENSKIY COIN",
+  "symbol": "ZLNSK",
+  "decimals": 6,
+  "extensions": {
+    "description": "BILLIONAIRES CLUB",
+    "website": "https://www.president.gov.ua/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaGoR6RXaHhvgHcqpmLfbo33isbPrJXh9S19aEn8cxxdn",
+  "price": 4.851134694253185e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4851.1346942531845,
+  "market_cap": 4851.1346942531845
+}

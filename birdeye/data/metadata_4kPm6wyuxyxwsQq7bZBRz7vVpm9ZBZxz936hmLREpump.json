@@ -1,0 +1,18 @@
+{
+  "address": "4kPm6wyuxyxwsQq7bZBRz7vVpm9ZBZxz936hmLREpump",
+  "name": "1st AI Teacher",
+  "symbol": "IRIS",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/IndianTechGuide/status/1765587491715993819",
+    "website": "https://x.com/IndianTechGuide/status/1765587491715993819"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSy49cx9vNCQ3HbzLCTyWn11vTG9xr9PS56xV9jZSGhHZ",
+  "price": 3.020989570803237e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 3020.989570803234,
+  "market_cap": 3020.989570803234
+}

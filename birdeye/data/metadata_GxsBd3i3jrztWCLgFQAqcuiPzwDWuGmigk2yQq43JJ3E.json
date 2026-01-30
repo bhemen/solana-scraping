@@ -1,0 +1,15 @@
+{
+  "address": "GxsBd3i3jrztWCLgFQAqcuiPzwDWuGmigk2yQq43JJ3E",
+  "name": "Pavelfree",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel is free! We are safe!",
+    "twitter": "https://x.com/fs0c131y/status/1828889371442831601?s=46&t=o6iWad1aNpK74gurv3bT4A"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWmrC3UMLgBmDhtzMaUugCmy12wLgxeiwsyDu8Hh1nD1k",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

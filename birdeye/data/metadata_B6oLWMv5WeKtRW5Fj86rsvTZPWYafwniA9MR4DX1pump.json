@@ -1,0 +1,14 @@
+{
+  "address": "B6oLWMv5WeKtRW5Fj86rsvTZPWYafwniA9MR4DX1pump",
+  "name": "PAVEL DUROV",
+  "symbol": "PDR",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcQSLG7LMCAgtvxqN9v3KMRDGxLD8V3Sq3HVUUiVWnXRW",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

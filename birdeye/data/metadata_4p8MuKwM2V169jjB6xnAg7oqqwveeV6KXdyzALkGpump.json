@@ -1,0 +1,18 @@
+{
+  "address": "4p8MuKwM2V169jjB6xnAg7oqqwveeV6KXdyzALkGpump",
+  "name": "NICK CANNONS DOG BOSS",
+  "symbol": "BOSS DOG",
+  "decimals": 6,
+  "extensions": {
+    "description": "NICK CANNONS DOG BOSS",
+    "twitter": "https://x.com/NickCannon",
+    "website": "https://www.instagram.com/bre_tiesi/p/DES6NFQTGfg/?img_index=1"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmb2nY3aNaLHo3wn6CmvBtAn95pDx1z7TioQ2J3iJv4khz",
+  "price": 3.983801404712283e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3983.801404712283,
+  "market_cap": 3983.801404712283
+}

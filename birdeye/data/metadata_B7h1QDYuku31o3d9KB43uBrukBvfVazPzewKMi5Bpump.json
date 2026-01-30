@@ -1,0 +1,44 @@
+{
+  "address": "B7h1QDYuku31o3d9KB43uBrukBvfVazPzewKMi5Bpump",
+  "name": "Teacher of Fart",
+  "symbol": "Allie",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1734796095-scenario-terminal-videogames-txt"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreibuhcdomr6fs7ej3pc46cuv3misckzshyfg2sf2hzhjryzzmewo6e",
+  "price": 4.36691009626807e-06,
+  "liquidity": 0.642887498076716,
+  "total_supply": 999999999.870455,
+  "circulating_supply": 999999999.870455,
+  "fdv": 4366.910095702358,
+  "market_cap": 4366.910095702358,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1749472429,
+      "slot": 345657321,
+      "tx_hash": "3TCC668RzUWHRTLkkjTaFYVYTgw6rQRxrUjobjKwATZLYzCgGH6cjTj1u3KZHfryuuYdehHVNDth4HKGEb3Y5QTT"
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": "G8BSMbgHtycR4zDvVmmgQtN2bpLQVuhqRMtzQHj4e3mv",
+    "address": "B7h1QDYuku31o3d9KB43uBrukBvfVazPzewKMi5Bpump",
+    "creation_time": 1749472429,
+    "graduated": false,
+    "pool": {
+      "address": "FGSwcU7ocXHa61gKod3d4un1eZGy1hi7pkLmyxXeUV1a",
+      "real_sol_reserves": "10",
+      "real_token_reserves": "793099999870454",
+      "virtual_token_reserves": "1072999999870454",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

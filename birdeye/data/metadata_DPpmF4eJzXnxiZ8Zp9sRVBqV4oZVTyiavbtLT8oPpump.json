@@ -1,0 +1,15 @@
+{
+  "address": "DPpmF4eJzXnxiZ8Zp9sRVBqV4oZVTyiavbtLT8oPpump",
+  "name": "PAVEL DUROV",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "\u00bfOlv\u00eddate de Twitter, Facebook y TikTok? Esta cripto no necesita de likes ni bailes virales. \u00a1Es una verdadera meme-coin inspirada en el mism\u00edsimo fundador de Telegram, Pavel Durov! \u00bfC\u00f3mo funciona? F\u00e1cil: solo necesitas Telegram y un buen caso de FOMO. Mientras el resto del mundo se pelea por seguidores, nosotros estamos construyendo una comunidad secreta en Telegram, donde el hype se cocina a fuego lento. \u00bfEl secreto? \u00a1Pavel lo sabe! Con una mezcla de humor, trolls y la paranoia de perderte la pr\u00f3xima gran oportunidad, esta criptomoneda sube como cohete, solo para aquellos en el 'know'. Telegram + FOMO = To the Moon!\"",
+    "telegram": "https://t.me/paveldurovmemecoon"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUrjjEQzS9SN4ktv4cvXdemDQmdJFSS2ikAkVgzvc28pT",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

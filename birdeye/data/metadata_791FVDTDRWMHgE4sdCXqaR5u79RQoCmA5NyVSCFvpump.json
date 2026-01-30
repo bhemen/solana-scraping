@@ -1,0 +1,17 @@
+{
+  "address": "791FVDTDRWMHgE4sdCXqaR5u79RQoCmA5NyVSCFvpump",
+  "name": "PAVEL DUROV",
+  "symbol": "DUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "INSHALLAH PAVEL DUROV WILL BE FINE",
+    "twitter": "https://t.me/durovisol",
+    "website": "https://t.me/durovisol",
+    "telegram": "https://t.me/durovisol"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmSqVSHwAMMsNJcbsrx4EPwZCGeR9hLgPyjoda1i5RWhDt",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

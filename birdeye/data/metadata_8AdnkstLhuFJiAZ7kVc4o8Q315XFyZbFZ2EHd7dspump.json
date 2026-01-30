@@ -1,0 +1,16 @@
+{
+  "address": "8AdnkstLhuFJiAZ7kVc4o8Q315XFyZbFZ2EHd7dspump",
+  "name": "Zelensky",
+  "symbol": "Actor",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelensky is an actor"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUgBDxTnEjr9agqryvinkPYGbSiNaZgxPowbWFMJZndUX",
+  "price": 3.995277130268629e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3995.277130268629,
+  "market_cap": 3995.277130268629
+}

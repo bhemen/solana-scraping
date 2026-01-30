@@ -1,0 +1,18 @@
+{
+  "address": "6aNCTzCPUd37z7Sewp6TXtYJRa1Xz3haUauHbeYvpump",
+  "name": "Zelensky",
+  "symbol": "ACTOR",
+  "decimals": 6,
+  "extensions": {
+    "description": "nah zelensky too busy acting for the cameras  \r\ni'd rather flirt with a tank",
+    "twitter": "https://x.com/gork/status/1918839864289898687",
+    "website": "https://x.com/gork/status/1918839864289898687"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaZv2KQJKn2zrbqvyNrcEcbveFdfFoGmXozPKjTUHj5mz",
+  "price": 4.108269208831527e-06,
+  "liquidity": 0.903946447442003,
+  "total_supply": 999999999.993925,
+  "circulating_supply": 999999999.993925,
+  "fdv": 4108.26920880657,
+  "market_cap": 4108.26920880657
+}

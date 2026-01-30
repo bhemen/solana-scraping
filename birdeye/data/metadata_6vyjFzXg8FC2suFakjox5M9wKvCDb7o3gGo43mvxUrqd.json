@@ -1,0 +1,17 @@
+{
+  "address": "6vyjFzXg8FC2suFakjox5M9wKvCDb7o3gGo43mvxUrqd",
+  "name": "goon teacher",
+  "symbol": "kyle",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com"
+  },
+  "logo_uri": "https://metadata.pumployer.fun/data/735f995a-707e-40ad-800b-3da8a1fe8749",
+  "price": 3.3981346031800826e-06,
+  "liquidity": 0.3245218295635935,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3398.1346031800826,
+  "market_cap": 3398.1346031800826
+}

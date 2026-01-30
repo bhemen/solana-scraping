@@ -1,0 +1,19 @@
+{
+  "address": "Bh3LkuxwsVfYKSb8wJYNi1uEvpiD6tGo2RoULnSkpump",
+  "name": "ARNOLD",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": "ARNOLD agent uses AI powered scrypt algorithms to help offload transactions",
+    "twitter": "https://x.com/meetarnold_",
+    "website": "https://www.meetarnold.xyz",
+    "telegram": "https://t.me/+UHusbuakpP9mZWM1"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZ3eHV2CYTsr1QHXV4tVV6bsBqufPwSbpXK8LdJHjjhyg",
+  "price": 5.21523471983839e-06,
+  "liquidity": 0.5335220455410633,
+  "total_supply": 999999999.988827,
+  "circulating_supply": 999999999.988827,
+  "fdv": 5215.23471978012,
+  "market_cap": 5215.23471978012
+}

@@ -1,0 +1,38 @@
+{
+  "address": "DqV28bXJCmJtZyJCok26dtkfYb57PBwRfnqdsgrjpump",
+  "name": "Tyler Robinson",
+  "symbol": "FUCKTYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "Fuck this guy, we need justice!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeiexp7y7atjeo5cfw6fjmnd3e7byeaa7xgasi7g42vcpvcznlyvafi",
+  "price": 6.709112090303736e-06,
+  "liquidity": 0.936453332266521,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6709.112090303736,
+  "market_cap": 6709.112090303736,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757684402,
+      "slot": 366338510,
+      "tx_hash": "2vEXJjjd6Qjh26WtGcfGscqgF94x1CWoZg6Z5BJLhM4fk5Bqc6vQRKwNEjy68VcF4K7DSz77jJymtcEvHrW5sRQ9"
+    },
+    "creator": "G8Nm4R4UvDqRwoevbUnLrwPmbDd6798951nqyxzMzBKA",
+    "address": "DqV28bXJCmJtZyJCok26dtkfYb57PBwRfnqdsgrjpump",
+    "creation_time": 1757684402,
+    "graduated": false,
+    "pool": {
+      "address": "CyEu5hjbuGGvHX25aGbBWh5aXruvCTveU9DWgTqg8Cqw",
+      "real_sol_reserves": "9",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

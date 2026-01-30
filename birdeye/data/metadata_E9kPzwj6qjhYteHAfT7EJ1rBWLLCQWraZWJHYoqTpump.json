@@ -1,0 +1,17 @@
+{
+  "address": "E9kPzwj6qjhYteHAfT7EJ1rBWLLCQWraZWJHYoqTpump",
+  "name": "POPE LEO's PORTRAIT",
+  "symbol": "POPETRAIT",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/VaticanNews/status/1923349159949590744"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZksoLz1gkVzYxHyq3kgH6Bas1zUzcZWMSJF8tcG4k5dB",
+  "price": 4.7613980456997105e-06,
+  "liquidity": 0.6583629344827507,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4761.398045699711,
+  "market_cap": 4761.398045699711
+}

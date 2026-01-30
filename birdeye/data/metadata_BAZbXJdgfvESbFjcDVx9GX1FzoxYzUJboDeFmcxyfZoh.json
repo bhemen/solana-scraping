@@ -1,0 +1,17 @@
+{
+  "address": "BAZbXJdgfvESbFjcDVx9GX1FzoxYzUJboDeFmcxyfZoh",
+  "name": "Pavel Durov",
+  "symbol": "PD",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://axiom.trade/@enga"
+  },
+  "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29.jpg/330px-TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29.jpg",
+  "price": 4.074847137588575e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4074.847137588575,
+  "market_cap": 4074.847137588575
+}

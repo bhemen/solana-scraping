@@ -1,0 +1,17 @@
+{
+  "address": "64MnS6bwKxxaJVv3nWhEwKshYqUyDQpnQ3LxPRFEpump",
+  "name": "HABEMUS CRYPTO POPE LEO XIV",
+  "symbol": "CRYPTOPOPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "1 billon marketcap soon!",
+    "twitter": "https://x.com/pepecoineth"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSjoFEiQ7TGp5ycUKjxRsnQomm7Q34uEanbeTo1TbPzKv",
+  "price": 4.792336656821723e-06,
+  "liquidity": 0.9039467856635436,
+  "total_supply": 999999999.992499,
+  "circulating_supply": 999999999.992499,
+  "fdv": 4792.336656785776,
+  "market_cap": 4792.336656785776
+}

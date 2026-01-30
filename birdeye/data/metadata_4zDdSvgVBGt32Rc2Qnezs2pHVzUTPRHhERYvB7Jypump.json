@@ -1,0 +1,17 @@
+{
+  "address": "4zDdSvgVBGt32Rc2Qnezs2pHVzUTPRHhERYvB7Jypump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "First pepe on paper launchpad (PEPE)",
+    "twitter": "https://x.com/mongraalabc1/status/1923865597923709158?2"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma1ZZSDN3NkXNfY9kfVpZnrhL3uqFJSzMwTLFSSmRShWS",
+  "price": 4.798064715462799e-06,
+  "liquidity": 0.6987722508730146,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4798.0647154627995,
+  "market_cap": 4798.0647154627995
+}

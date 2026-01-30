@@ -1,0 +1,17 @@
+{
+  "address": "3iKUmVzpdpsCnk7RqFSFBxDV4oNfrCPo2Y4Xv6jnpump",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Progress: 14.5% complete",
+    "website": "https://x.com/pepe_fgm"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmby9uMPtpit7zHupeZGGS7oqeKW7JvcQkTn2YFtwp17GR",
+  "price": 4.169044504971005e-06,
+  "liquidity": 0.4166683064331205,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4169.044504971004,
+  "market_cap": 4169.044504971004
+}

@@ -1,0 +1,14 @@
+{
+  "address": "2Xi2ZQKvLFMy3W4G1jYg1spZReYQmM3oQAzPGwV6pump",
+  "name": "HARO",
+  "symbol": "haro",
+  "decimals": 6,
+  "extensions": {
+    "description": "where are we going now?"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZ1tjRjLSj5WFCTVZNh6JdUa4y4WFVKwhC1nZS4UNEfVw",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

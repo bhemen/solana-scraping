@@ -1,0 +1,19 @@
+{
+  "address": "5Ttj36yuaXoJ1bPh2cwqCc1dgTbvAwxjNWfmVfvApump",
+  "name": "Telegram Owner Pavel Durov",
+  "symbol": "DUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov",
+    "website": "https://en.wikipedia.org/wiki/Pavel_Durov",
+    "telegram": "https://t.me/durov"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUo2MitiF6DkbGCzb75nXHKNWXrtdzLqT6squFZWXkgK1",
+  "price": 3.8539211404547335e-06,
+  "liquidity": 0.4467750968644197,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3853.9211404547336,
+  "market_cap": 3853.9211404547336
+}

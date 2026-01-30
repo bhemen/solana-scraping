@@ -1,0 +1,16 @@
+{
+  "address": "J798oSq36im6vipsC5pjpn66nJy7F5Q9hDBcSr6Gpump",
+  "name": "President of The United States",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVfwsHz3vt9hNNn9ovdaLmFTowkRPSC2JkXTs4P9fowtr",
+  "price": 4.473431690543291e-06,
+  "liquidity": 0.9039450945558409,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4473.431690543291,
+  "market_cap": 4473.431690543291
+}

@@ -1,0 +1,16 @@
+{
+  "address": "2B7tpbmnvkwHRdsPSU3DuNtjLYGuwY47341vdtzbpump",
+  "name": "Zelenskyy",
+  "symbol": "ZLNSK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Make money fuck Russia."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmf58noUnkKCdNx2nwmwJWaQY7bk7Pa4DtFwZayLBWiRvC",
+  "price": 5.567120780606609e-06,
+  "liquidity": 0.48360549089549953,
+  "total_supply": 999999999.99473,
+  "circulating_supply": 999999999.99473,
+  "fdv": 5567.12078057727,
+  "market_cap": 5567.12078057727
+}

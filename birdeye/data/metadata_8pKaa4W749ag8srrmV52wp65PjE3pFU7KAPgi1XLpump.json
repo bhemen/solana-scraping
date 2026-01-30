@@ -1,0 +1,16 @@
+{
+  "address": "8pKaa4W749ag8srrmV52wp65PjE3pFU7KAPgi1XLpump",
+  "name": "Teacher Gary",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "Teach students - OK?"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX2jmbKaLRgRzdvhYbhTzSMKbVYe5HwQqfiQC5mVPeRMm",
+  "price": 6.709264065506342e-06,
+  "liquidity": 0.5654308586906543,
+  "total_supply": 999999999.992128,
+  "circulating_supply": 999999999.992128,
+  "fdv": 6709.264065453526,
+  "market_cap": 6709.264065453526
+}

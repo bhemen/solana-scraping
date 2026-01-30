@@ -1,0 +1,17 @@
+{
+  "address": "HSHnigh4LJquxvsZTo5baBxuYbtoUYp8JoMMc67u5Re9",
+  "name": "AI teacher",
+  "symbol": "AI teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com"
+  },
+  "logo_uri": "https://metadata.pumployer.fun/data/84ee71ce-2049-466d-a39f-c31411ffcf24",
+  "price": 5.4202423201767245e-06,
+  "liquidity": 0.43854939177679997,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5420.242320176724,
+  "market_cap": 5420.242320176724
+}

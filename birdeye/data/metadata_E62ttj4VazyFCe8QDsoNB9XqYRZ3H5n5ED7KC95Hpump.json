@@ -1,0 +1,16 @@
+{
+  "address": "E62ttj4VazyFCe8QDsoNB9XqYRZ3H5n5ED7KC95Hpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "pepe is here to flip bitcoin",
+    "twitter": "https://x.com/i/broadcasts/1mrGmMeklmzGy",
+    "website": "https://x.com/i/broadcasts/1mrGmMeklmzGy"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQPf2d7ik7eGhyrfTogfWQShvkHaPCij4Y2ur9hK4aa1M",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

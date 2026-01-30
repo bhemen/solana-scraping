@@ -1,0 +1,38 @@
+{
+  "address": "C8SnoG9V1bgJks8ZzrYFeFDzaYikw2bosMzvoSP9gMmX",
+  "name": "Arnold",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "http://159.65.198.85:4500/api/v1/public/image/C8SnoG9V1bgJks8ZzrYFeFDzaYikw2bosMzvoSP9gMmX.jpg",
+  "price": 4.136118269599854e-06,
+  "liquidity": 0.4451414519274939,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4136.118269599854,
+  "market_cap": 4136.118269599854,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1751335453,
+      "slot": 350315392,
+      "tx_hash": "5QERgctPRxP4MLefn6SMe2STBSpJ8wtBoeWTBBQcqtcwxfefRnBsgi3rnYqZNzMxuxNcbRwFdZSiW8VfZ6sopiei"
+    },
+    "creator": "7GaE86n5rk3Pcn3wb6GWHscgvjGc4Cxz4EujbngUunJQ",
+    "address": "C8SnoG9V1bgJks8ZzrYFeFDzaYikw2bosMzvoSP9gMmX",
+    "creation_time": 1751335453,
+    "graduated": false,
+    "pool": {
+      "address": "BKvwXSRFxBS2xuYvmfXZtmaYFqG8XyxUpr1xdg52U2TV",
+      "real_sol_reserves": "7",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

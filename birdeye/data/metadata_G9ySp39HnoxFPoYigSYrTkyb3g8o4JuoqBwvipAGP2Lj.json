@@ -1,0 +1,40 @@
+{
+  "address": "G9ySp39HnoxFPoYigSYrTkyb3g8o4JuoqBwvipAGP2Lj",
+  "name": "Zelenskini Bombardini",
+  "symbol": "Zelenskini",
+  "decimals": 6,
+  "extensions": {
+    "description": "Meet Zelenskini Bombardini (Zelenskini)!",
+    "twitter": "https://x.com/kiraLsama/status/1957271058165223765",
+    "website": "https://www.tiktok.com/@gondon_345/video/7538911177695366418?lang=en-GB"
+  },
+  "logo_uri": "https://gateway.pinata.cloud/ipfs/QmafwkNa4ACASmHyWt8uw4yiBHwCDts1XF3w3ThefGFah9",
+  "price": 5.201156785327602e-06,
+  "liquidity": 0.5362251191843689,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5201.156785327602,
+  "market_cap": 5201.156785327602,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1755538785,
+      "slot": 360925546,
+      "tx_hash": "3XBhG4iY74ERrPirLEcdCnKmnNWLmFkGbTfqqHGKq92kk8r1SRGVUyPY25iT6iccxF8FTWK8pmPJxsPGWSeUzoU1"
+    },
+    "creator": "4Lm2uqHgauVS1gzzNCd1F4FeGNwzUp6dXp5uqHxmrnDX",
+    "address": "G9ySp39HnoxFPoYigSYrTkyb3g8o4JuoqBwvipAGP2Lj",
+    "creation_time": 1755538785,
+    "graduated": false,
+    "pool": {
+      "address": "CLT4snxu5isatL5uVp6AKGJbYQM1wAKSgd6sVxGfk76s",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "A179KL6AzgoBrnfgtQMWNaAuPG6JXh43JnKPeUCYpump",
+  "name": "TEACHER GREG",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/greg16676935420/status/1867002314675945981",
+    "website": "https://x.com/greg16676935420/status/1867002314675945981"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWZS2UvHiz7avHd82mxmVaAJV2PB8kvJE7Hii7z5j18xm",
+  "price": 6.372598033921145e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6372.598033921145,
+  "market_cap": 6372.598033921145,
+  "meme_info": null
+}

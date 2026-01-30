@@ -1,0 +1,14 @@
+{
+  "address": "CV5dGyLY7wceRsAgw5n87zSXCYBMMLCbDHJ6or3epump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Nick, the coolest cactus"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPhtoiKBR1U4fqSqppZfUyoSYvsjqgahbZb47se1jRavR",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

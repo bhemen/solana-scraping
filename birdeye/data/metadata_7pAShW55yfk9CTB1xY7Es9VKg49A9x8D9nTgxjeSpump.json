@@ -1,0 +1,17 @@
+{
+  "address": "7pAShW55yfk9CTB1xY7Es9VKg49A9x8D9nTgxjeSpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://chibawan.net/dogdetails/no3247-pepe",
+    "website": "https://chibawan.net/dogdetails/no3247-pepe",
+    "telegram": "https://chibawan.net/dogdetails/no3247-pepe"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfQ5VHgUMYYiuB6kbhxCcmLBvVd9Dd6b3ryQKNUYL4eMS",
+  "price": null,
+  "total_supply": 999999999.09091,
+  "circulating_supply": 999999999.09091,
+  "meme_info": null
+}

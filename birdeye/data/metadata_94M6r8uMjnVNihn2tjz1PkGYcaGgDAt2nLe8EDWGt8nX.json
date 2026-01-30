@@ -1,0 +1,17 @@
+{
+  "address": "94M6r8uMjnVNihn2tjz1PkGYcaGgDAt2nLe8EDWGt8nX",
+  "name": "diddy teacher",
+  "symbol": "ryan",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1892330714592419940"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmUB5WGHJssx8Uf8hskGYAmijXXb626dq6FXhE7CN74d7J",
+  "price": 4.657111004875796e-06,
+  "liquidity": 0.41669976103639095,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4657.111004875796,
+  "market_cap": 4657.111004875796
+}

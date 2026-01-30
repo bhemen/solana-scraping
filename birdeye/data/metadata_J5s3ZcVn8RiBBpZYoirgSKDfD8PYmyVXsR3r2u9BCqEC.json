@@ -1,0 +1,17 @@
+{
+  "address": "J5s3ZcVn8RiBBpZYoirgSKDfD8PYmyVXsR3r2u9BCqEC",
+  "name": "diddy teacher",
+  "symbol": "CHRISTINA",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1907843238649532822#ref=de652466-9294-41a3-9c8c-c6c56c1a89cf"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmNf4HqvAvAXzsK4GGLu1Q45xViGhrrmrnc1xEVyaAt3qu",
+  "price": 3.188193130685385e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3188.193130685385,
+  "market_cap": 3188.193130685385
+}

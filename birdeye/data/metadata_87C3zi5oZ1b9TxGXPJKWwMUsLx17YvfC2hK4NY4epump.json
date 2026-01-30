@@ -1,0 +1,16 @@
+{
+  "address": "87C3zi5oZ1b9TxGXPJKWwMUsLx17YvfC2hK4NY4epump",
+  "name": "Telegram FOUNDER",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Telegram FOUNDER Pavel",
+    "twitter": "Telegram FOUNDER Pavel",
+    "telegram": "Telegram FOUNDER Pavel"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmRG7qtkvmMX8PXCLUmkfg7Mui2uWggqF3qVAMMKRi6Var",
+  "price": null,
+  "total_supply": 999999999.000001,
+  "circulating_supply": 999999999.000001,
+  "meme_info": null
+}

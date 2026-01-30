@@ -1,0 +1,17 @@
+{
+  "address": "4Bsdhnr35ULJQr3RRxnDzDXA2hzecvhLGCHRsDUNpump",
+  "name": "Doge TEACHER",
+  "symbol": "MR.DEEZ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.pageant.dog/member/mrdeez",
+    "website": "https://www.pageant.dog/member/mrdeez",
+    "telegram": "https://www.pageant.dog/member/mrdeez"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZJPzCocnAUqvSiiikSurzGDZuGBuGbffbi9ZggPC6dLq",
+  "price": null,
+  "total_supply": 999999998.210523,
+  "circulating_supply": 999999998.210523,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "9gSZm2uoYemp65H25qxpyGfRs9kto9mQHEn9oJ67pump",
+  "name": "Anti-Trump Pope",
+  "symbol": "POPE LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/RollingStone/status/1920567518009118907"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qme6BZWT6kCf2frC7aXFj225Ysxa8rrf8goGTGWvpEVVga",
+  "price": 4.5588156306735585e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4558.815630673558,
+  "market_cap": 4558.815630673558
+}

@@ -1,0 +1,17 @@
+{
+  "address": "3Gmn4cW7uhrF2XWH6rnh7aDqMB8xijCrdhQjRhREpump",
+  "name": "ZELENSKIY",
+  "symbol": "ZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "GIVE US MORE MONEY",
+    "telegram": "https://t.me/zelsol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcQcguwSrcnqfdrHTgDEzsfyfPoqe8bSaUDLbMFq7o9Tf",
+  "price": 6.206051059752939e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6206.051059752939,
+  "market_cap": 6206.051059752939
+}

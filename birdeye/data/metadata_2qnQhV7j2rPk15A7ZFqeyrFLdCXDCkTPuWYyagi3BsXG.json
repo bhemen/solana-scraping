@@ -1,0 +1,17 @@
+{
+  "address": "2qnQhV7j2rPk15A7ZFqeyrFLdCXDCkTPuWYyagi3BsXG",
+  "name": "Diddy Teacher",
+  "symbol": "Jackie",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com"
+  },
+  "logo_uri": "https://metadata.pumployer.fun/data/e6e28ff5-e3ec-4ca4-8d35-1f2e86ed63f1",
+  "price": 3.5758147677659804e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3575.8147677659804,
+  "market_cap": 3575.8147677659804
+}

@@ -1,0 +1,18 @@
+{
+  "address": "4y3HBgP7U1ZPKNR2Gn5F2JVViZstjU7CkjqUSjx7pump",
+  "name": "Zelenskyy",
+  "symbol": "Suka",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/elonmusk/status/1895566498158313727",
+    "website": "https://x.com/AutismCapital/status/1895564283284787202"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQbFbSFZs1TKxMW7TKSXkDLvGgL1z5SRMzRDNtWwcb5G9",
+  "price": 4.6888099100297246e-06,
+  "liquidity": 2.0352663841714973,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4688.809910029725,
+  "market_cap": 4688.809910029725
+}

@@ -1,0 +1,14 @@
+{
+  "address": "CGXRGHZFhbAdr4ae9FfbKVccztti59Ygma6o8VxPpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "$PEPE on Solana \ud83d\udc38"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmevZqreZWnK7fRWGZsNSdP6wZunFV6ykHG15xRphCYNqw",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

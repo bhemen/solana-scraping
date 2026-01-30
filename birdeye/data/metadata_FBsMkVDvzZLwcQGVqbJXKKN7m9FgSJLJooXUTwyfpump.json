@@ -1,0 +1,17 @@
+{
+  "address": "FBsMkVDvzZLwcQGVqbJXKKN7m9FgSJLJooXUTwyfpump",
+  "name": "Cannon",
+  "symbol": "NON",
+  "decimals": 6,
+  "extensions": {
+    "description": "cumque tristis suasoria vestigium universe acceptus subiungo solutio repellat audeo vespillo",
+    "website": "https://cannobw.org"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNXHfKkWj83PEZeekUw8pVJzGJLL1L6pAxVhMR1FQNhGw",
+  "price": 6.4774841712992835e-06,
+  "liquidity": 0.5009665469755373,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6477.484171299284,
+  "market_cap": 6477.484171299284
+}

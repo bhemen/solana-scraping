@@ -1,0 +1,39 @@
+{
+  "address": "2vGA4iek5iCxuZ6Q1Z2PH4dSHXesf266K2r7CwYrpump",
+  "name": "Zelensky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/zerohedge/status/1966602757533553002"
+  },
+  "logo_uri": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
+  "price": 6.755281814671747e-06,
+  "liquidity": 0.7033498969579959,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6755.281814671747,
+  "market_cap": 6755.281814671747,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757709618,
+      "slot": 366402281,
+      "tx_hash": "5EQXFoXxYo7LPYNCS6S9aFx6MYhjGnwr7N5GApEMb9cNmVLy1M3gdbM496wtULDZntKw9otd8pMB8kDbRDgZbxtD"
+    },
+    "creator": "TYiPrJW4d4LUh1myMzLchZesgtRfkRYBF5UjM2v8RQe",
+    "address": "2vGA4iek5iCxuZ6Q1Z2PH4dSHXesf266K2r7CwYrpump",
+    "creation_time": 1757709618,
+    "graduated": false,
+    "pool": {
+      "address": "9nUkdTHXGdfXiS1NZvit9AYANaxVkeAxrxs1ZD8gFtz2",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 14.4632,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

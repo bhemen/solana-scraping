@@ -1,0 +1,18 @@
+{
+  "address": "EidZhpnwsWPvZrLkQgscQjXmE4UR9M6e4wtYcsC9pump",
+  "name": "Pope Prevost",
+  "symbol": "Prevost",
+  "decimals": 6,
+  "extensions": {
+    "description": "New pope is here",
+    "twitter": "https://x.com/PopBase/status/1920528280324546965",
+    "website": "https://www.cbsnews.com/news/new-pope-could-it-be-american-cardinal-robert-prevost/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmas1ARXcPB5QqFDsmwTvy4VXkpLcNe6vPRaFwogVQXaSw",
+  "price": 4.481797968357033e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4481.797968357033,
+  "market_cap": 4481.797968357033
+}

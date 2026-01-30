@@ -1,0 +1,17 @@
+{
+  "address": "8dLFRNvDdCTV94zFexUfyZhxSoGKH9uMcpnM9M6xpump",
+  "name": "mascot first project Pavel Durov",
+  "symbol": "SPOTTY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.unisender.com/ru/blog/top-klassnyh-maskotov-brendov/",
+    "website": "https://tonresear.ch/t/spotty-mascot-of-vk-draw-by-durov-ol-application/26630",
+    "telegram": "https://t.me/spottythedogPavel"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPNsxmRaHyBBn5sPdEBhV2EPRxk1rR6W36sR6aFs8Ne1M",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

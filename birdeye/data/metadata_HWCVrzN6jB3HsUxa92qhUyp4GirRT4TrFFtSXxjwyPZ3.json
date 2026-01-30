@@ -1,0 +1,14 @@
+{
+  "address": "HWCVrzN6jB3HsUxa92qhUyp4GirRT4TrFFtSXxjwyPZ3",
+  "name": "Meth Teacher",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": "Meth Teacher"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPTEibkbihz9bfCZgfkZh1xdXwTGBZgR1MmXn2hiSDBvh",
+  "price": null,
+  "total_supply": 999999999.936275,
+  "circulating_supply": 999999999.936275,
+  "meme_info": null
+}

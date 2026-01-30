@@ -1,0 +1,40 @@
+{
+  "address": "GSXS5CZJXLxBkjqFMFBFDLjbx7qw9JawKLexAws8pump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/vibhu/status/1946268867329728611?s=20",
+    "website": "https://x.com/nickducoff"
+  },
+  "logo_uri": "https://metadata.rapidlaunch.io/images/8c3eb23e-1b29-4033-b0af-0ffde6a63fe6.png",
+  "price": 3.668295124316353e-06,
+  "liquidity": 0.5079563783057662,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3668.295124316353,
+  "market_cap": 3668.295124316353,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "tx_hash": "2WapdWXLow8uRaZ9k94krsycLSjkAnHumA4TFrQt6oGs46wZDxKCu6npxYtrV5hXMTSivrh8SFvQkZqMggVNLVTr",
+      "slot": 381645797,
+      "block_time": 1763768074
+    },
+    "creation_time": 1763768074,
+    "creator": "DLQC7ts2HsWnvDwUxVerYLiwudDzK8mYsKNBGAptXi6E",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "3fbpUb429J96SG5LBTqGUxbVKXQAYtLigVrp5nY8w2FZ",
+      "real_sol_reserves": "13",
+      "real_token_reserves": "793100000000000",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1073000000000000"
+    },
+    "progress_percent": 0,
+    "address": "GSXS5CZJXLxBkjqFMFBFDLjbx7qw9JawKLexAws8pump"
+  }
+}

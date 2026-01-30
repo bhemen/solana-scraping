@@ -1,0 +1,40 @@
+{
+  "address": "7Zay1pBou4WwAHLtEEmfYPXJ1VsuP5xnBjKvrjn1pump",
+  "name": "Justice for Tyler Robinson",
+  "symbol": "TYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/i/communities/1973034901914911008",
+    "website": "https://www.youtube.com/live/ZGxnf5cj4Uw"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeiesfuivvehftkxbwmarxjllujoc5avvucvgh3bh64jprggivr74c4",
+  "price": 6.090115160469652e-06,
+  "liquidity": 0.6781802312248723,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6090.115160469652,
+  "market_cap": 6090.115160469652,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1759267704,
+      "slot": 370341615,
+      "tx_hash": "Kw8eFTjkpLdLSC2AME7F9g8omJPpzbmDxnRBEau3cYU1nRbjX8vtcmjrbhK1F79RNNFF4f1k3dceJF9BDfJG6hT"
+    },
+    "creator": "G82qWMUkV1edSy2vTFyLwafEtKkXVMnupxExCQFDR81A",
+    "address": "7Zay1pBou4WwAHLtEEmfYPXJ1VsuP5xnBjKvrjn1pump",
+    "creation_time": 1759267704,
+    "graduated": false,
+    "pool": {
+      "address": "5r6P1gVMWpiRx9qD29e9c8jQqmouFnHGnJTFLMdn5Egu",
+      "real_sol_reserves": "1111888847",
+      "real_token_reserves": "754752708036248",
+      "virtual_token_reserves": "1034652708036248",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 4.83511,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

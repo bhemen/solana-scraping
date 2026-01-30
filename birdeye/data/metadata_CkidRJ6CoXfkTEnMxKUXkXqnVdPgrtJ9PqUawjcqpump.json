@@ -1,0 +1,19 @@
+{
+  "address": "CkidRJ6CoXfkTEnMxKUXkXqnVdPgrtJ9PqUawjcqpump",
+  "name": "ARNOLD",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": "Hey! It's Arnold. Just hanging out here! having 3.84 M subscribers on YouTube, now on Solana - Automated by AI.",
+    "twitter": "https://x.com/meetarn0ld",
+    "website": "https://www.meetarnold.xyz/",
+    "telegram": "https://t.me/meetarn"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZ8XawiuKmccqZz3AErgY12MHDiV6UMgMQHNR9VfpAq5G",
+  "price": 5.252597148824352e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 999999999.982123,
+  "circulating_supply": 999999999.982123,
+  "fdv": 5252.597148730451,
+  "market_cap": 5252.597148730451
+}

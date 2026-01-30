@@ -1,0 +1,39 @@
+{
+  "address": "BaGZxnvUyoVkyYsGddXuwEueNfyTZfkhVcgJoqYGpump",
+  "name": "BombiniZelensiny",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.tiktok.com/@avationguy757/video/7443505818399526187?is_from_webapp=1&sender_device=pc&web_id=7315558280368293382"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreidzwrrskaew33fsxwiawzl7ody2wtxmnqhcbmv4irxb3nzgczist4",
+  "price": 5.191216652293265e-06,
+  "liquidity": 0.7154553196201917,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5191.216652293265,
+  "market_cap": 5191.216652293265,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 360926169,
+      "tx_hash": "4a6VKyFdmawWe5rbzXjJAEUH6i1SKNtTkeLNg581dnupdkMef57ox4x5F2kRxgTH2BrazT1pbT9C3iCJkDbowxrg",
+      "block_time": 1755539027
+    },
+    "creation_time": 1755539027,
+    "creator": "2i9LvMUq5oUsTs5zSJ3haAvgd4kn6rgUCZAGQymaBajL",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "6Xuw4b868G2LaEdYkhNa8wrKCJGT1eaSuN1JCnhfoMev",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793100000000000",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1073000000000000"
+    },
+    "progress_percent": 0,
+    "address": "BaGZxnvUyoVkyYsGddXuwEueNfyTZfkhVcgJoqYGpump"
+  }
+}

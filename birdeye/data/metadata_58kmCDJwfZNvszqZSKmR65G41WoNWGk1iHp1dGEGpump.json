@@ -1,0 +1,17 @@
+{
+  "address": "58kmCDJwfZNvszqZSKmR65G41WoNWGk1iHp1dGEGpump",
+  "name": "CANNON",
+  "symbol": "$CANNON",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/shark5677/status/1872743594970218789"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYcfKzPNMfzGZeJvZBfnaJsdwUBkZ4VmPX7nnB9nvHFoK",
+  "price": 5.216441182101871e-06,
+  "liquidity": 0.41666560066079616,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5216.441182101871,
+  "market_cap": 5216.441182101871
+}

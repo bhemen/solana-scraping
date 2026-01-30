@@ -1,0 +1,19 @@
+{
+  "address": "GMkkskxmKwbnaW4VxUGC1YDLM9VXuR5xEtbQMaqqpump",
+  "name": "Pepe",
+  "symbol": "SRLA",
+  "decimals": 6,
+  "extensions": {
+    "description": "Purplae Pepe is the coolest color of Pepe, obviously!",
+    "twitter": "https://x.com/SRLA",
+    "website": "https://ofertaspanama.com"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfFKg5AfUMzth53bYdXT1EwhdzFDLfv7j344Ba2ryMAae",
+  "price": 6.596797137195164e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6596.797137195164,
+  "market_cap": 6596.797137195164,
+  "meme_info": null
+}

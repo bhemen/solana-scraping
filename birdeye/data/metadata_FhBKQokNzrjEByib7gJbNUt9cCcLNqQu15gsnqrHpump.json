@@ -1,0 +1,16 @@
+{
+  "address": "FhBKQokNzrjEByib7gJbNUt9cCcLNqQu15gsnqrHpump",
+  "name": "Cutie Teacher!",
+  "symbol": "TEACHai",
+  "decimals": 6,
+  "extensions": {
+    "description": "Tech me something in AI!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVahxJM9CQ4cbQkbavUnyxLcvo8u68sqPMmtX1PncxbhA",
+  "price": 5.131118266201052e-06,
+  "liquidity": 0.4166666153254179,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5131.1182662010515,
+  "market_cap": 5131.1182662010515
+}

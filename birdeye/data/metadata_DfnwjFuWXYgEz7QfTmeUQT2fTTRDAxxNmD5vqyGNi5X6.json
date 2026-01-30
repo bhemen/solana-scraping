@@ -1,0 +1,39 @@
+{
+  "address": "DfnwjFuWXYgEz7QfTmeUQT2fTTRDAxxNmD5vqyGNi5X6",
+  "name": "Pavel Durov",
+  "symbol": "PavelDurov",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel Durov\r\n@durov2025\r\n",
+    "twitter": "https://x.com/durov2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWZnEreT7L2PtBrWtK17CwJe4G4ZUvZuLrLYz3jDQd1uu",
+  "price": 5.266739603351401e-06,
+  "liquidity": 1.0265596801679675,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5266.739603351401,
+  "market_cap": 5266.739603351401,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1745782328,
+      "slot": 336306368,
+      "tx_hash": "5uoGVcqWPUp1JZx3asnAu1J5NZFazbzWfDDLqaif88FZxcojPqYcq5h1azf9s412pooMWWpeFh968gzPjLF7GLrE"
+    },
+    "creator": "979gU7v6TB4KVauWr8Y7TTV4jB3iKL8brNJz9rznhKRo",
+    "address": "DfnwjFuWXYgEz7QfTmeUQT2fTTRDAxxNmD5vqyGNi5X6",
+    "creation_time": 1745782328,
+    "graduated": false,
+    "pool": {
+      "address": "5vqrn7pDx8pZyLyz1UobvDTVQQGx3SCaJipzN7FztcLA",
+      "real_sol_reserves": "71",
+      "real_token_reserves": "793099997724768",
+      "virtual_token_reserves": "1072999997724768",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

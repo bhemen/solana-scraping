@@ -1,0 +1,40 @@
+{
+  "address": "3FH56czVmhQMQStpbBqnDpufFhaS7EcvNYT7mXFwpump",
+  "name": "ZEWENSKIY",
+  "symbol": "ZEWENSKIY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/yolodymyr",
+    "website": "https://x.com/Polymarket/status/1957494586731078094?q=zelenskyy%20said%20thank%20you&src=typed_query&f=live"
+  },
+  "logo_uri": "http://45.77.98.90:8080/ipfs/QmcYfrkKk4pEXFRnhHdTz7bvH2Ztt3KE8xYC4WyC9XaEML",
+  "price": 5.223420861362245e-06,
+  "liquidity": 0.5363562549833,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 5223.4208613622395,
+  "market_cap": 5223.4208613622395,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1755538214,
+      "slot": 360924104,
+      "tx_hash": "3LackR4kHz6EQc5TwDKcKJ4ifNoLuVSkZjW1swdgni6RJ3x9cFpjxwBZj3jn8dGbn5aRoEpLUAS7k7x6oghHrdef"
+    },
+    "creator": "F1FcXPYzgyunGJuEb1AvD4LAZZmGTcARQkyhrzgLJSky",
+    "address": "3FH56czVmhQMQStpbBqnDpufFhaS7EcvNYT7mXFwpump",
+    "creation_time": 1755538214,
+    "graduated": false,
+    "pool": {
+      "address": "6EXijUDXPDCWvqW5uiq4q4cswNkRiSB47VM1Ho2MF6aH",
+      "real_sol_reserves": "8",
+      "real_token_reserves": "793099999999999",
+      "virtual_token_reserves": "1072999999999999",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

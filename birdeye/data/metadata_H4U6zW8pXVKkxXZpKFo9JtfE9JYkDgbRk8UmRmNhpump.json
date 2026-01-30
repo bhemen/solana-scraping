@@ -1,0 +1,19 @@
+{
+  "address": "H4U6zW8pXVKkxXZpKFo9JtfE9JYkDgbRk8UmRmNhpump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Today, \r\n@AlloraNetwork\r\n launches Dev Mainnet\u2014the final step before full public release.",
+    "twitter": "https://x.com/nick_emmons",
+    "website": "https://allora.network",
+    "telegram": "https://t.me/alloranetwork"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma5hqcnntLC16niZiWr7w9JA4irGzuoGUTK3wsV8fXCeZ",
+  "price": 4.748981831654552e-06,
+  "liquidity": 0.68160668832225,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4748.981831654552,
+  "market_cap": 4748.981831654552
+}

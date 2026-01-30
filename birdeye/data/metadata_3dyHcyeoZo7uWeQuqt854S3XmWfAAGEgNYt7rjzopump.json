@@ -1,0 +1,20 @@
+{
+  "address": "3dyHcyeoZo7uWeQuqt854S3XmWfAAGEgNYt7rjzopump",
+  "name": "Arnold",
+  "symbol": "HeyArnold",
+  "decimals": 6,
+  "extensions": {
+    "description": "$HeyArnold CTO Lets push to moon!",
+    "twitter": "https://x.com/heyarnoldCTO",
+    "website": "https://heyarnold.us/",
+    "telegram": "https://t.me/HeyArnoldSOL"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQuTqdy9SPvDz7T3Zzwydvt1ZwtxXsrVvNJ3fa7PLkEBa",
+  "price": 6.093086170023182e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6093.086170023183,
+  "market_cap": 6093.086170023183,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "BLg9kKUxGdqytJwYbmVQ7C2AKPyi7BvmzGuWNqqTWoJt",
+  "name": "Diddy Teacher",
+  "symbol": "anna",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/dailystar/status/1922940278362501565"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmUHpVHjCz5B4CjiHNceYSSAP5XPUzTgKBHonta98wLfCA",
+  "price": 5.601293372651072e-06,
+  "liquidity": 0.6498750993686169,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5601.293372651072,
+  "market_cap": 5601.293372651072
+}

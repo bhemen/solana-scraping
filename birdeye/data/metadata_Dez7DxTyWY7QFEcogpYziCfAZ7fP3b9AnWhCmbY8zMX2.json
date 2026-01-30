@@ -1,0 +1,17 @@
+{
+  "address": "Dez7DxTyWY7QFEcogpYziCfAZ7fP3b9AnWhCmbY8zMX2",
+  "name": "Nick",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/_DowngoesFraser/status/1882572832615669878"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYw9CgF2oTyEE8ZLBMBGodmFRGgWuDwyYoFcxxBEYNDYw",
+  "price": 7.397548903829895e-06,
+  "liquidity": 0.416712951676472,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7397.548903829895,
+  "market_cap": 7397.548903829895
+}

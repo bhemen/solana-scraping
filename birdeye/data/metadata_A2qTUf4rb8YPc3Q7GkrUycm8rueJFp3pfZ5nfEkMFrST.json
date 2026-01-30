@@ -1,0 +1,17 @@
+{
+  "address": "A2qTUf4rb8YPc3Q7GkrUycm8rueJFp3pfZ5nfEkMFrST",
+  "name": "Pavel Durov Arrested",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/EHunterChristie/status/1827444562903667035",
+    "website": "https://x.com/EHunterChristie/status/1827444562903667035",
+    "telegram": "https://x.com/EHunterChristie/status/1827444562903667035"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmQkh5mECgEsQCWyE8nBwAjjzp9HjqpaVnzFEXDVF5rkjH",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

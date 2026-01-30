@@ -1,0 +1,54 @@
+{
+  "address": "EA8WSoJPpjjCKG63oNBs5pw32hy5U2Sj24LKsNgPbonk",
+  "name": "HEY FASCIST! CATCH THIS",
+  "symbol": "CATCH",
+  "decimals": 6,
+  "extensions": {
+    "twitter": "https://x.com/EricLDaugh/status/1966505350959394857",
+    "website": "https://www.youtube.com/watch?v=jAN3LRfsPDM"
+  },
+  "logo_uri": "https://thumbnails.padre.gg/SOLANA-DXtUba9wL7eWn3jHXBz8kf7pKwaCeg5cd3YxpMkUpump",
+  "price": 6.901901361304735e-06,
+  "liquidity": 2.654842085152757,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6901.901361304735,
+  "market_cap": 6901.901361304735,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757687415,
+      "slot": 366346120,
+      "tx_hash": "2W2CgBmKKipZ9Nkx7iKWsAoLe3L26p51v3VBGt5Fyo5zKBdVgnW5Jn759uyQUNdULUkHpHkVi3im58eKESdHmBC2"
+    },
+    "creator": "5BhFu28V9ccbFqdU5768WpsQzC5c34TP3srhRsw7RLu",
+    "address": "EA8WSoJPpjjCKG63oNBs5pw32hy5U2Sj24LKsNgPbonk",
+    "creation_time": 1757687415,
+    "graduated": false,
+    "pool": {
+      "virtual_base": "1073025605596382",
+      "creator": "5BhFu28V9ccbFqdU5768WpsQzC5c34TP3srhRsw7RLu",
+      "address": "31L1fuewKbkGhrimTed2KBggdvDAgGgxjCo2PuyiFXME",
+      "base_decimals": 6,
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "auth_bump": 250,
+      "total_quote_fund_raising": "85000000000",
+      "supply": "1000000000000000",
+      "platform_fee": "0",
+      "quote_protocol_fee": "5464250",
+      "total_base_sell": "793100000000000",
+      "virtual_quote": "30000852951",
+      "base_mint": "EA8WSoJPpjjCKG63oNBs5pw32hy5U2Sj24LKsNgPbonk",
+      "base_vault": "6cTVPQJNK8nYijnU7AYzeBtmfASrenw6tYr2vUdXYCnM",
+      "platform_config": "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+      "quote_decimals": 9,
+      "real_quote": "1",
+      "quote_vault": "HRsDu664vZF4DgG12LDwrx9ZmijyPwsFX9wpkvpXxKgp",
+      "real_base": "0",
+      "status": 0
+    },
+    "progress_percent": 0,
+    "source": "raydium_launchlab",
+    "platform_id": "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+    "graduated_time": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "address": "2CyV5PMMGq6fBHo73Pj6SwV63yrowJog9i5t9ru7pump",
+  "name": "teacher cat",
+  "symbol": "teachercat",
+  "decimals": 6,
+  "extensions": {
+    "description": "In a university, a cat broke into a classroom and jumped onto the podium, teaching human students in cat language"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcWVxAj3pwXjw8evCeSmZg4a1Kn2bqRDKkbVa9abN815t",
+  "price": null,
+  "total_supply": 999999999.967184,
+  "circulating_supply": 999999999.967184,
+  "meme_info": null
+}

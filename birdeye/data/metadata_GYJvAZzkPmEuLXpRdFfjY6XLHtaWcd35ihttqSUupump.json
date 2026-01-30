@@ -1,0 +1,17 @@
+{
+  "address": "GYJvAZzkPmEuLXpRdFfjY6XLHtaWcd35ihttqSUupump",
+  "name": "OG POPE LEO XIV",
+  "symbol": "SlimePope",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/DailyNoud/status/1921970957897375774"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYskwoaEfv2wZq4uow5gWR7PT3PNmNwYnS7tSt8ymjbLS",
+  "price": 4.656526360126496e-06,
+  "liquidity": 0.6763481129088292,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4656.526360126496,
+  "market_cap": 4656.526360126496
+}

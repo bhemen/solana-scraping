@@ -1,0 +1,18 @@
+{
+  "address": "5za6R11NVEtq92iS4bM3SQtcwQYYsgBeVaDcSKapump",
+  "name": "Based Pope Leo XIV",
+  "symbol": "XIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/ResisttheMS/status/1922056135881732602",
+    "website": "https://x.com/ResisttheMS/status/1922056135881732602"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYt9DxUnsE5VUQ5S4hqju4Xzw991YvhPxe278Zbi68DCE",
+  "price": 4.856555358703533e-06,
+  "liquidity": 7.396351084758586,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4856.555358703533,
+  "market_cap": 4856.555358703533
+}

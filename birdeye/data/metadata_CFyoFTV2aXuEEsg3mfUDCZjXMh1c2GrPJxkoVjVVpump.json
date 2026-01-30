@@ -1,0 +1,16 @@
+{
+  "address": "CFyoFTV2aXuEEsg3mfUDCZjXMh1c2GrPJxkoVjVVpump",
+  "name": "Zelenskyy",
+  "symbol": "ZC",
+  "decimals": 6,
+  "extensions": {
+    "description": "The Zelenskyy coin!!!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQvdSRGngv97krvQNc9WrkB3HLLQ9YkaH5F6Vz8tmJWLd",
+  "price": 3.5459633985896163e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3545.963398589616,
+  "market_cap": 3545.963398589616
+}

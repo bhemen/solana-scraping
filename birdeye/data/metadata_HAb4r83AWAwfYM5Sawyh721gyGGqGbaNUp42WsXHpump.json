@@ -1,0 +1,16 @@
+{
+  "address": "HAb4r83AWAwfYM5Sawyh721gyGGqGbaNUp42WsXHpump",
+  "name": "Zelenskyy",
+  "symbol": "BEGGAR",
+  "decimals": 6,
+  "extensions": {
+    "description": "Bad comic. Bad president."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmY6wTkmYTzGwTjp9NCBxBjGPYvkPW12GAUmU3ExC6sZaG",
+  "price": 3.715053711950875e-06,
+  "liquidity": 5.819695860262758,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3715.053711950875,
+  "market_cap": 3715.053711950875
+}

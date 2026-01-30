@@ -1,0 +1,17 @@
+{
+  "address": "5gNEe1R7xsC6PKBbDwUzPjskXeaakkLtBcWV9zxupump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pepe the goat"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQJj69H8mdH7DfLscF7KYKpMfowGKWuNez1spevQiWcGx",
+  "price": 5.8493479852824575e-06,
+  "liquidity": 0.46911191214718845,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5849.347985282458,
+  "market_cap": 5849.347985282458,
+  "meme_info": null
+}

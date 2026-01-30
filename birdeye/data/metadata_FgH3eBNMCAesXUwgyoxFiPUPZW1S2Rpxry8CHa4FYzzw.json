@@ -1,0 +1,17 @@
+{
+  "address": "FgH3eBNMCAesXUwgyoxFiPUPZW1S2Rpxry8CHa4FYzzw",
+  "name": "pepe",
+  "symbol": "pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/alx/status/1891319077307638029"
+  },
+  "logo_uri": "https://metadata.pumployer.fun/data/3a9c0286-01ae-4886-8001-463f4168df79",
+  "price": 4.983412815358365e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4983.412815358365,
+  "market_cap": 4983.412815358365
+}

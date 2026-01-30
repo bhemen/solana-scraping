@@ -1,0 +1,14 @@
+{
+  "address": "FNE57RUhEUL1D57oef9abem6rvEsYNrGmyfjuMjxpump",
+  "name": "Nick ",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "Devil dog "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNUqTtdm7ekiHKrZKTx6XgcNt7FACVcywxMgCfXGwgHik",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

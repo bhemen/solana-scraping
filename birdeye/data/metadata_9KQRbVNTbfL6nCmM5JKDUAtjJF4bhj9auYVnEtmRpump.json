@@ -1,0 +1,14 @@
+{
+  "address": "9KQRbVNTbfL6nCmM5JKDUAtjJF4bhj9auYVnEtmRpump",
+  "name": "Lock Up Pavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free Pavel? More like Lock Up Pavel"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmUZAYdrdvcoXEy64vE7GCeNGMs1EH9XDjUEJY4AvPZJpd",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

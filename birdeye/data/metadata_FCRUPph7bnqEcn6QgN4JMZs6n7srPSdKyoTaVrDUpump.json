@@ -1,0 +1,17 @@
+{
+  "address": "FCRUPph7bnqEcn6QgN4JMZs6n7srPSdKyoTaVrDUpump",
+  "name": "Nicks 48inch Cannon",
+  "symbol": "NC",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/NickCannon"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbPB763MriiMAT9PvodQwLGhjRD225jCnsxjvMuY6PKnF",
+  "price": 4.152495843142088e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4152.495843142088,
+  "market_cap": 4152.495843142088
+}

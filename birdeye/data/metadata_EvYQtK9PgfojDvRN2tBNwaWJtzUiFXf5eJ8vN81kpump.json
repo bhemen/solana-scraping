@@ -1,0 +1,16 @@
+{
+  "address": "EvYQtK9PgfojDvRN2tBNwaWJtzUiFXf5eJ8vN81kpump",
+  "name": "ZELENSKYY",
+  "symbol": "ZLNSK",
+  "decimals": 6,
+  "extensions": {
+    "description": "We will fight for the survival!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVd7EC2vc5P7bYQAjKp98V35CMLRt6MRhw3AxsUEuTHoC",
+  "price": 4.826779910299327e-06,
+  "liquidity": 3.7988786385247333,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4826.779910299328,
+  "market_cap": 4826.779910299328
+}

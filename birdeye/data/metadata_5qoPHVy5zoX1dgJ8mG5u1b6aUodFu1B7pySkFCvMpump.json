@@ -1,0 +1,17 @@
+{
+  "address": "5qoPHVy5zoX1dgJ8mG5u1b6aUodFu1B7pySkFCvMpump",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "PEPE on SOL",
+    "twitter": "https://x.com/pepeonsol",
+    "website": "https://pepesol.io/",
+    "telegram": "t.me/PepeOnSol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQFA8BHYADxooJuVQRRZ3hTSuGktyejUBD3pHxG4pnMoc",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

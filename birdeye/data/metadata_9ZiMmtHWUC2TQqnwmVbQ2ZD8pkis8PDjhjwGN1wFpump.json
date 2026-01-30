@@ -1,0 +1,17 @@
+{
+  "address": "9ZiMmtHWUC2TQqnwmVbQ2ZD8pkis8PDjhjwGN1wFpump",
+  "name": "GOON TEACHER",
+  "symbol": "JAILMEGAN",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/MailOnline/status/1917868548770218268"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZrbzcPVrNL7jQaK6EHvopiQc2Bnm3DQu3SpHyRSJSnXT",
+  "price": 4.164491504653759e-06,
+  "liquidity": 0.7722658856808792,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4164.491504653759,
+  "market_cap": 4164.491504653759
+}

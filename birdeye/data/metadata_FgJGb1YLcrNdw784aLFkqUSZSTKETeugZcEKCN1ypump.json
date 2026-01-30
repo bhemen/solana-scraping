@@ -1,0 +1,16 @@
+{
+  "address": "FgJGb1YLcrNdw784aLFkqUSZSTKETeugZcEKCN1ypump",
+  "name": "YE TEACHER",
+  "symbol": "YETE",
+  "decimals": 6,
+  "extensions": {
+    "description": "YE'S TEACHER"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUDAayx4TocecAHquebQRygkXoyqHTCWZvYtufjtxQYc5",
+  "price": 5.71493179069471e-06,
+  "liquidity": 0.8384995646826067,
+  "total_supply": 999999999.031491,
+  "circulating_supply": 999999999.031491,
+  "fdv": 5714.931785159747,
+  "market_cap": 5714.931785159747
+}

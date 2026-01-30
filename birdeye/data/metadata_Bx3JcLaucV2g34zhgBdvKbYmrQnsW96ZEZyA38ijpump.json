@@ -1,0 +1,14 @@
+{
+  "address": "Bx3JcLaucV2g34zhgBdvKbYmrQnsW96ZEZyA38ijpump",
+  "name": "ZELENSKY",
+  "symbol": "GOOD",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmYj6JJqSyLgWYiuBbXtYB4gvbQh8sKah7aharDUK7UA9D",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

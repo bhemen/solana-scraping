@@ -1,0 +1,17 @@
+{
+  "address": "VbfdoQ2cHwQA5s9XvixF3xz6QFWqKYNCDZa77W5pump",
+  "name": "Pope Leo XIV Commemorative Coin",
+  "symbol": "XIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.jmbullion.com/2025-1-oz-pope-leo-xiv-commemorative-silver-round/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNt7ycbBdVABfRZQNWQpPRC72JQWwTpMZxZKc8BQCqBHL",
+  "price": 4.800789838749652e-06,
+  "liquidity": 0.903946447442003,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4800.789838749652,
+  "market_cap": 4800.789838749652
+}

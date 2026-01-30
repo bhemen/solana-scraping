@@ -1,0 +1,17 @@
+{
+  "address": "8mSADZSTpnBXWqBH6LXoqKeNRPL8sfaSN56Fh8Zopump",
+  "name": "PEPE",
+  "symbol": "\u200e ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://bbwroller.com/search/2afd28a90ec4b10fd4be918aa8d23a63359183fe9cf6129252a22749bd8ebe8f"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfFgvfGV1jCuFd8c6F11fPt6r6yp6xGaeLd7yMfroYyUz",
+  "price": 4.790226746595912e-06,
+  "liquidity": 0.9525270247670853,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4790.226746595912,
+  "market_cap": 4790.226746595912
+}

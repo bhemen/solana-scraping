@@ -1,0 +1,16 @@
+{
+  "address": "8M6T3cpoPjqYUJmDKsv2AfdZmFspukedWs8mjyoMpump",
+  "name": "Zelensky",
+  "symbol": "ZELE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Ukraine is now more likely than not to hold elections this year."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXYuhLWwvxjh2LiW2xAt4LiLwnbrbJJExgTsyeEE6G3Wu",
+  "price": 4.992765318151527e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 4992.7653181515225,
+  "market_cap": 4992.7653181515225
+}

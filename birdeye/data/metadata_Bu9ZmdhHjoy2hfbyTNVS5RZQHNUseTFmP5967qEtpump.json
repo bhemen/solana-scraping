@@ -1,0 +1,15 @@
+{
+  "address": "Bu9ZmdhHjoy2hfbyTNVS5RZQHNUseTFmP5967qEtpump",
+  "name": "Pavel Durov",
+  "symbol": "Durov",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/GeneralMCNews/status/1838232337651318974",
+    "twitter": "https://x.com/GeneralMCNews/status/1838232337651318974"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPtcp45DzbrfQyMxJUSX4RJ5T7u3W9tU1d6jrp9Mkq8Hj",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

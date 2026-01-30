@@ -1,0 +1,18 @@
+{
+  "address": "6XC77MagDVrzfGMWQ4M9x658TL4de1r6LtZ6iZFWpump",
+  "name": "Zelenskyi",
+  "symbol": "ZLSK",
+  "decimals": 6,
+  "extensions": {
+    "description": "The most courageous man in the world",
+    "twitter": "https://x.com/ZelenskyyUa",
+    "website": "https://www.president.gov.ua/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbcAFKKNrTziGvkCG7MAEpyQU7cJJkBc91QNogvxsDWoJ",
+  "price": 4.82405646375829e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4824.05646375829,
+  "market_cap": 4824.05646375829
+}

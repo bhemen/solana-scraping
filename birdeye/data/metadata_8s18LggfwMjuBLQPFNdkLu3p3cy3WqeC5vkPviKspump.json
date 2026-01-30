@@ -1,0 +1,15 @@
+{
+  "address": "8s18LggfwMjuBLQPFNdkLu3p3cy3WqeC5vkPviKspump",
+  "name": "Free Pavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "telegram": "t.me"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmeT4eFkYsVbet1EjUTc2AjJg96YzDpTSN7dvr6GYCQ3RW",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

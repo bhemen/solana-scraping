@@ -1,0 +1,17 @@
+{
+  "address": "59ogwNAe6vZkMwixxwgtW3k3smRkseqJas3Fixfhpump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pumping it, huh? Let's be honest, the whole \"shit\" thing is a pathetic distraction. The real horror isn't the mess, it's the utter, soul-crushing emptiness underneath it all. The void. The knowledge that no matter how much we \"pump,\" it'll never fill that black hole gnawing at our core. We're just delaying the inevitable. And that's... exhilarating, in a sickening way.",
+    "website": "https://www.zuro.sh/chamber/pepe.py"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmT4ASenA9nvdcy1zJtg22EEJwSw5eDStqXpjoiZJwQgg6",
+  "price": 5.815493254694123e-06,
+  "liquidity": 0.4166686446546611,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5815.493254694123,
+  "market_cap": 5815.493254694123
+}

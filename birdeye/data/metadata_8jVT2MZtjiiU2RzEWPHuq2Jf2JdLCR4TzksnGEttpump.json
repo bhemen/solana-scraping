@@ -1,0 +1,17 @@
+{
+  "address": "8jVT2MZtjiiU2RzEWPHuq2Jf2JdLCR4TzksnGEttpump",
+  "name": "pepe",
+  "symbol": "\ud83d\udc38",
+  "decimals": 6,
+  "extensions": {
+    "description": "pepe (\ud83d\udc38)",
+    "twitter": "1",
+    "website": "1",
+    "telegram": "1"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVNcVy6ZrX2y1rec4n86zxHpoGvJNt6j6ChMGamSoErKT",
+  "price": null,
+  "total_supply": 999999999.904762,
+  "circulating_supply": 999999999.904762,
+  "meme_info": null
+}

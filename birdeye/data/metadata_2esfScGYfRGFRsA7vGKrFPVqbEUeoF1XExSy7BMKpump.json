@@ -1,0 +1,14 @@
+{
+  "address": "2esfScGYfRGFRsA7vGKrFPVqbEUeoF1XExSy7BMKpump",
+  "name": "truth teacher",
+  "symbol": "opus_tutor",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWhwjrbFdt8Uw5AUEPixL3nYcWHB2jrpXqT4eTNsxgg8Q",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

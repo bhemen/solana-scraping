@@ -1,0 +1,14 @@
+{
+  "address": "EkDPPgGEheZVtRdh59FRAa9yQ6bxJZ4rifccU3Qupump",
+  "name": "pepe",
+  "symbol": "pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "is a meme token inspired by the iconic Pepe the Frog, which has captured the hearts of internet users around the world. We merge meme culture and the crypto space, creating a community where humor, creativity and finance go hand in hand."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXhtA8pkFcjuAesH4JzzDN2DKrx5eNSUeFzXC2pEHYMpX",
+  "price": null,
+  "total_supply": 999999999.995221,
+  "circulating_supply": 999999999.995221,
+  "meme_info": null
+}

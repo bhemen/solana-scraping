@@ -1,0 +1,15 @@
+{
+  "address": "BvQ4R4SicQrJY3zV7axoth38p4n4vvhKpggn9U8Vpump",
+  "name": "Pavel Wif Baguette",
+  "symbol": "PWB",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free Pavel Durov from the baguette police!",
+    "telegram": "https://t.me/PavelWifBaguette"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmT99PZD6iiY6GJRAKAV8TxTk3Lr1gxFdsPhZxGhFY4qnC",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

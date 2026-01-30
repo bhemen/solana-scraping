@@ -1,0 +1,17 @@
+{
+  "address": "4MJ6CL7GQFjCRViPfmUqWZ5KW1CGgQT3ha1knAXrSGHd",
+  "name": "Zelensky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelensky",
+    "twitter": "https://x.com/MarioNawfal/status/1916953065590005966"
+  },
+  "logo_uri": "https://api.wuupx.com/cdn/byhUMzbcVCtJ5cN6VWn2uTbCiB3oE7b8VwwIEzmizBbF872wUi2Iwff7OetK8LmF4MZrT5GX4OQLrAP3FRr6CbGY5m2PEjtMFpWx5CYYzgNqJcSPgvW4AhbDJNKJ0vmmy50slQtDFMt76wTLDy.jpg",
+  "price": 4.1387371434312054e-06,
+  "liquidity": 0.7998764378283437,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4138.737143431205,
+  "market_cap": 4138.737143431205
+}

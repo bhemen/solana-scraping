@@ -1,0 +1,20 @@
+{
+  "address": "TEd2v7XVePErDqZAAcsFdk9HExMFL7CZ8Csheqgpump",
+  "name": "1st AI Teacher",
+  "symbol": "CAPTCHA",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Reuters/status/1870211320722927912",
+    "website": "https://x.com/Reuters/status/1870211320722927912",
+    "telegram": "https://x.com/Reuters/status/1870211320722927912"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmT1n6zbuW1bmEHBgPFFXKj2AeKQSmdjJKJxSMmBCXSEN1",
+  "price": 5.485425461467018e-06,
+  "liquidity": 0.4166666153254179,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5485.425461467018,
+  "market_cap": 5485.425461467018,
+  "meme_info": null
+}

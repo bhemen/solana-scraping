@@ -1,0 +1,16 @@
+{
+  "address": "rQKubU2ySUveodiczP96QEisLwyTPTh4zrhDDoxpump",
+  "name": "#ZELENSKY",
+  "symbol": "#ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": " "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX4nz3JgSieUm6ncFmMSvtgTT6YCFkfHBKwf4JhzeX3fM",
+  "price": 4.071258274171039e-06,
+  "liquidity": 0.4325633382538773,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 4071.2582741710353,
+  "market_cap": 4071.2582741710353
+}

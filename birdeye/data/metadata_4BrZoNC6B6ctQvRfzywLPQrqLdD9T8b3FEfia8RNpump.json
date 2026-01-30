@@ -1,0 +1,15 @@
+{
+  "address": "4BrZoNC6B6ctQvRfzywLPQrqLdD9T8b3FEfia8RNpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nickmystic_?s=21"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbdTTWHHAi6s1p6GCwnxmREE8J8KCa3zx7joCFmAb5fzX",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

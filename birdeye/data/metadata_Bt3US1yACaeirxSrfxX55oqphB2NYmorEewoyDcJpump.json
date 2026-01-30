@@ -1,0 +1,17 @@
+{
+  "address": "Bt3US1yACaeirxSrfxX55oqphB2NYmorEewoyDcJpump",
+  "name": "A GREAT HONOUR",
+  "symbol": "POPE LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/SkyNews/status/1920548990040391727"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQznEKiKbaPpbvJaJBTACP8Pd6DDV78n6gene28irdC3H",
+  "price": 4.540946823873937e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4540.946823873937,
+  "market_cap": 4540.946823873937
+}

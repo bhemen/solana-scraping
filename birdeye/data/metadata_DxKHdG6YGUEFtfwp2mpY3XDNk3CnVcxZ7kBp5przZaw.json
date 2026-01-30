@@ -1,0 +1,17 @@
+{
+  "address": "DxKHdG6YGUEFtfwp2mpY3XDNk3CnVcxZ7kBp5przZaw",
+  "name": "Nick Cannon Coin",
+  "symbol": "NCC",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://twitter.com/calgaryzoo/status/1911132293730541598"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GoW5C4xXYAA5upF.jpg",
+  "price": 3.6741314596794123e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3674.1314596794123,
+  "market_cap": 3674.1314596794123
+}

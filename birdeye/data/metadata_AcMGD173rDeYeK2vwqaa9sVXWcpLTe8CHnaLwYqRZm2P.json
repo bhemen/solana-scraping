@@ -1,0 +1,18 @@
+{
+  "address": "AcMGD173rDeYeK2vwqaa9sVXWcpLTe8CHnaLwYqRZm2P",
+  "name": "Zelensky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/JohnStoll1977/status/1914738545383870688",
+    "website": "https://axiom.trade/@dsggag"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GpJ78IcWAAAyDX8.jpg",
+  "price": 4.035912276220742e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4035.9122762207417,
+  "market_cap": 4035.9122762207417
+}

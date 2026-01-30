@@ -1,0 +1,18 @@
+{
+  "address": "6FLbrJpY8dGZb9wxdLHirqWCP4dddSkWAa8D6Nncpump",
+  "name": "Arnold Haro",
+  "symbol": "Haro",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/MailOnline/status/1894410184975392787",
+    "website": "https://www.dailymail.co.uk/news/article-14433361/Crypto-gambler-killed-X-livestream-losing-500-memecoin-investment.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailus"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQrjw91GHPnwcUEWyQruK23rtnEuuyBAuRw556w36j4ek",
+  "price": 3.886267153195269e-06,
+  "liquidity": 0.41666796821158,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3886.267153195269,
+  "market_cap": 3886.267153195269
+}

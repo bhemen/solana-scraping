@@ -1,0 +1,38 @@
+{
+  "address": "9croL5YKg7fPucAAu1GHVe8MofC3ifMtUJikZ3MZp6AY",
+  "name": "Great Teacher",
+  "symbol": "GTO",
+  "decimals": 6,
+  "extensions": {
+    "description": "Eikichi Onizuka is a 22-year-old ex-gang member and virgin. "
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmWGJ3dJZ62rb2F2AQXAPTqemBiW4PnSY2XaJ8Ce7dj43k",
+  "price": 4.851160859596795e-06,
+  "liquidity": 0.7463815562926163,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4851.160859596795,
+  "market_cap": 4851.160859596795,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 259437358,
+      "tx_hash": "4HhnsioV25ysHXqD7S1xKY1QQmUgodzovmoVjtB4csqLkTpcwCXJjcSRvAabTDnj9AUBQE8XrE39jLY13CPRbiut",
+      "block_time": 1712789858
+    },
+    "creation_time": 1712789858,
+    "creator": "9w3YcF66odQsnHa3qksWTQbF97bkupLkrF9m5NdKLEym",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "5RVy58wSsSpJ7VwtiTdeJ9n2Gvdwj6hUQq2Scjs7qTQv",
+      "real_sol_reserves": "128053",
+      "real_token_reserves": "793095420375902",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1072995420375902"
+    },
+    "progress_percent": 0.00058,
+    "address": "9croL5YKg7fPucAAu1GHVe8MofC3ifMtUJikZ3MZp6AY"
+  }
+}

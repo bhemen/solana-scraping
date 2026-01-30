@@ -1,0 +1,14 @@
+{
+  "address": "6nev6gGcXudSqBK2ghJFHeZN5Ys87FwdKLJ7sH44pump",
+  "name": "Pixel Teacher",
+  "symbol": "PTR",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pixel Teacher"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTG5J3YUvAaJFDLevSqsywr3jrdHhMGRtZ8iq2Do8UHoT",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

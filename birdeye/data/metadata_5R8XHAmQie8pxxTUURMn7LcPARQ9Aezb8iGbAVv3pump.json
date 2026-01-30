@@ -1,0 +1,14 @@
+{
+  "address": "5R8XHAmQie8pxxTUURMn7LcPARQ9Aezb8iGbAVv3pump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pepe coin for solana. Will burn most of supply."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWoETfzdWpdMb9MNrttKnUx4oFPBViqYdyvXidTrQAHXZ",
+  "price": null,
+  "liquidity": 37.09570666062548,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000
+}

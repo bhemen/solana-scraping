@@ -1,0 +1,18 @@
+{
+  "address": "B9GWFVAnk7n1yfh9CZGPcy5rpvLTDzpYjVfjsZPApump",
+  "name": "DOGE AI Teacher",
+  "symbol": "GsAI",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/unusual_whales/status/1890183421701341212",
+    "website": "https://x.com/unusual_whales/status/1890183421701341212"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeMQwEcog4xwcjV6L42X1FvuXdZh1qXSRGY8QnNp1ee4L",
+  "price": 5.453915416998376e-06,
+  "liquidity": 0.48024826149787797,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5453.915416998376,
+  "market_cap": 5453.915416998376
+}

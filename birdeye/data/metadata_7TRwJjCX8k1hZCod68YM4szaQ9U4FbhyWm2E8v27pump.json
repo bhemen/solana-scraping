@@ -1,0 +1,17 @@
+{
+  "address": "7TRwJjCX8k1hZCod68YM4szaQ9U4FbhyWm2E8v27pump",
+  "name": "Meth Teacher",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": "Meth Teacher",
+    "twitter": "x.com",
+    "website": "pump.fun",
+    "telegram": "t.me"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPTEibkbihz9bfCZgfkZh1xdXwTGBZgR1MmXn2hiSDBvh",
+  "price": null,
+  "total_supply": 999999999.23077,
+  "circulating_supply": 999999999.23077,
+  "meme_info": null
+}

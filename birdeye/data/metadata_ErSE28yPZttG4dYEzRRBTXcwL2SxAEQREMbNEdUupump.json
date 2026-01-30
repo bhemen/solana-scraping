@@ -1,0 +1,16 @@
+{
+  "address": "ErSE28yPZttG4dYEzRRBTXcwL2SxAEQREMbNEdUupump",
+  "name": "Zelenski",
+  "symbol": "250B",
+  "decimals": 6,
+  "extensions": {
+    "description": "250 Billion Dollars!!!!!!!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfBWPZAyz39inRXLR2GtioJFTynBuAHhgVtbWubRd1aVC",
+  "price": 4.746596993912082e-06,
+  "liquidity": 0.4166686446546611,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4746.596993912081,
+  "market_cap": 4746.596993912081
+}

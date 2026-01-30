@@ -1,0 +1,17 @@
+{
+  "address": "78144yqjRHiE2yE3CALUso1VtEHbFAoTDCrps3kzbUPY",
+  "name": "Pavel Durev First Memecoin",
+  "symbol": "durov2025",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov2025"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmbdaB7XDt9dvF8tiefcnK3b72p9v8yGrh18Qi6csyVy5b",
+  "price": 4.0770764444267055e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4077.0764444267056,
+  "market_cap": 4077.0764444267056
+}

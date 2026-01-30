@@ -1,0 +1,16 @@
+{
+  "address": "4NsELV3ZwxrN91rhQp2sxxWGLmKNuRisge9mVhUZzDC1",
+  "name": "Pavel Durov",
+  "symbol": "$PDUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "The Pavel Durov Coin was created after Pavel Durov, the founder of Telegram, was arrested. With this coin, we want to express our solidarity for freedom of speech and democracy. In a time when independent voices are being silenced, it is more important than ever to stand together and defend the values that affect us all. The Pavel Durov Coin is our symbol of resistance and a call to protect individual freedom.",
+    "website": "https://paveldurov.my.canva.site",
+    "telegram": "https://t.me/PawelDurowSol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma3JooXZJZrEhL9AhZvmz3C8UV64iYFh96ESNxBkkmMsn",
+  "price": null,
+  "total_supply": 999999999.688192,
+  "circulating_supply": 999999999.688192,
+  "meme_info": null
+}

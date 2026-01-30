@@ -1,0 +1,14 @@
+{
+  "address": "9LbaSKpYsZEGQ2sQ6DpwmimhwU25q3GsHvqqnY9Xpump",
+  "name": "PEPE",
+  "symbol": "PP",
+  "decimals": 6,
+  "extensions": {
+    "description": "send $PP to ray"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmbi6oNbyjf3QNayypgqnHktDzBXNYYqUVNbCQmUMo347e",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

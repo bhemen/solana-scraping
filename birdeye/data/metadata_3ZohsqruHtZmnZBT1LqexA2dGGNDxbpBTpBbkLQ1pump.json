@@ -1,0 +1,16 @@
+{
+  "address": "3ZohsqruHtZmnZBT1LqexA2dGGNDxbpBTpBbkLQ1pump",
+  "name": "ZelenskyCoin",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "ZelenskyCoin is for the best ones only"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+  "price": 5.575976927331377e-06,
+  "liquidity": 0.4495495281614814,
+  "total_supply": 999996522.387549,
+  "circulating_supply": 999996522.387549,
+  "fdv": 5575.9575362445885,
+  "market_cap": 5575.9575362445885
+}

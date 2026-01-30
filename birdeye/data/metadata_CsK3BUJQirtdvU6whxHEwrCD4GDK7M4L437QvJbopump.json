@@ -1,0 +1,40 @@
+{
+  "address": "CsK3BUJQirtdvU6whxHEwrCD4GDK7M4L437QvJbopump",
+  "name": "Death Penalty For Tyler Robinson",
+  "symbol": "TYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/AZ_Intel_/status/1966505795035570658",
+    "website": "https://nypost.com/2025/09/12/us-news/we-have-him-trump-says-suspect-in-custody-for-charlie-kirk-assassination/"
+  },
+  "logo_uri": "https://thumbnails.padre.gg/SOLANA-DAhTRpBhdtNhKgb1ZnguykCFbkUQjo4apRAFMehopump",
+  "price": 7.409967433397369e-06,
+  "liquidity": 0.7113347453836008,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7409.967433397369,
+  "market_cap": 7409.967433397369,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757686545,
+      "slot": 366343915,
+      "tx_hash": "3fEGvzGXg2D8uVPeXey2GRuUZhH3VWffJKroRu2E82rertw3MqD9odfu3X9W2CiQXH6wxMRvCLkADwP3svR9LTCd"
+    },
+    "creator": "dASwmUjy5kuRe7VbdEzzZ7rh2o9xnaDH6B46m1G4SX1",
+    "address": "CsK3BUJQirtdvU6whxHEwrCD4GDK7M4L437QvJbopump",
+    "creation_time": 1757686545,
+    "graduated": false,
+    "pool": {
+      "address": "2o7od9rSmc3K4UJi572kqBTbdk8DNzAKYEqiXc7aCjyZ",
+      "real_sol_reserves": "3000000001",
+      "real_token_reserves": "695554545454546",
+      "virtual_token_reserves": "975454545454546",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 12.29926,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

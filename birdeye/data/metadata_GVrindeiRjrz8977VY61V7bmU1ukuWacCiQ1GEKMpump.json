@@ -1,0 +1,17 @@
+{
+  "address": "GVrindeiRjrz8977VY61V7bmU1ukuWacCiQ1GEKMpump",
+  "name": "CANNON",
+  "symbol": "CANNON",
+  "decimals": 6,
+  "extensions": {
+    "description": "BOOOOOOOM!",
+    "twitter": "twitter.com",
+    "website": "CANNON.COM",
+    "telegram": "telegram.com"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmYtdC2oEq6Eh4Gw1MbbDC12TDGKrhNj9bkaSvvoDLD9aF",
+  "price": null,
+  "total_supply": 999999998.607529,
+  "circulating_supply": 999999998.607529,
+  "meme_info": null
+}

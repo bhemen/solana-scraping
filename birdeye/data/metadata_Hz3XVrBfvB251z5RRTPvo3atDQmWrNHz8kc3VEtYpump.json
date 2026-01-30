@@ -1,0 +1,39 @@
+{
+  "address": "Hz3XVrBfvB251z5RRTPvo3atDQmWrNHz8kc3VEtYpump",
+  "name": "Tyler Robinson",
+  "symbol": "Tyler",
+  "decimals": 6,
+  "extensions": {
+    "description": "BREAKING: Mugshot released of 22-year-old Tyler Robinson, the suspect who assassinated Charlie Kirk.",
+    "twitter": "https://x.com/AZ_Intel_/status/1966505795035570658"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreiezwp3rg5rxsw56tqooilpwplqqothcdedtqqkdbqqvxhnchdylrq",
+  "price": 6.841716188019971e-06,
+  "liquidity": 0.9409072934194381,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6841.716188019971,
+  "market_cap": 6841.716188019971,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757687582,
+      "slot": 366346540,
+      "tx_hash": "cv59kZnfLLk7aaUijZKJXq5DKxsNW6hL7R6Kq456zG3t7p1RHLtHbPx1SVETdUYSdafiJbvct6eNwASLbtBwtTD"
+    },
+    "creator": "4YQNdoQFERpdHREST4jm7UuHj47adaPue26sX8ZgF3wN",
+    "address": "Hz3XVrBfvB251z5RRTPvo3atDQmWrNHz8kc3VEtYpump",
+    "creation_time": 1757687582,
+    "graduated": false,
+    "pool": {
+      "address": "8YCXRBj63fPYr67zYjaQTRotR4rxSjcZLzPhCyNzExbS",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

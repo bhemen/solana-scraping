@@ -1,0 +1,17 @@
+{
+  "address": "6QAe7iUqUPB62FZ4bgBSWL4w4ESE7heYwYi6bKK8LBK1",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Think about it Pepe is the greatest meme to ever exist, It's time we REALLY push it here on SOLANA, THIS IS WHERE THE COMMUNITY IS! THIS IS WHERE THE MAGIC HAPPENS",
+    "telegram": "ff"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNdFpewMpmCBFKYCMjUpYsaTbwEE6D5ggYEpGYqkrb2v4",
+  "price": 6.077500763898158e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6077.500763898159,
+  "market_cap": 6077.500763898159
+}

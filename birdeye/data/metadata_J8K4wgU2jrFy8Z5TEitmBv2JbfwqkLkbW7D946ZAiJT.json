@@ -1,0 +1,44 @@
+{
+  "address": "J8K4wgU2jrFy8Z5TEitmBv2JbfwqkLkbW7D946ZAiJT",
+  "name": "A Gentle Giant",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/WTHRcom/status/1927453077377839363"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPM9cr8wweTLon8EGMjXFfemWXreUnDVExFQ2Ycnkh6f2",
+  "price": 4.7705043467460384e-06,
+  "liquidity": 0.6160241546636559,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4770.504346746038,
+  "market_cap": 4770.504346746038,
+  "meme_info": {
+    "created_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": null,
+    "address": "J8K4wgU2jrFy8Z5TEitmBv2JbfwqkLkbW7D946ZAiJT",
+    "creation_time": null,
+    "graduated": false,
+    "pool": {
+      "address": "32F68tiAmY53LPVXsF9n5h9rF32cY6rocbUjVgBqDbGy",
+      "real_sol_reserves": "19",
+      "real_token_reserves": "793099999542270",
+      "virtual_token_reserves": "1072999999542270",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

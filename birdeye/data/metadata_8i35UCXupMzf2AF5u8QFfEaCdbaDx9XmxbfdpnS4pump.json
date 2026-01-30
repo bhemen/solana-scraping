@@ -1,0 +1,17 @@
+{
+  "address": "8i35UCXupMzf2AF5u8QFfEaCdbaDx9XmxbfdpnS4pump",
+  "name": "Pepe",
+  "symbol": "Potatoe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Just another pepe"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdVfm5jtVSqozt1DLaF917SryfBAkPrVwqq96Un148Ztq",
+  "price": 6.856067283271394e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6856.0672832713935,
+  "market_cap": 6856.0672832713935,
+  "meme_info": null
+}

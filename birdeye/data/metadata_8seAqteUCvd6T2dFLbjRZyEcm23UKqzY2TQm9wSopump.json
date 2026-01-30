@@ -1,0 +1,15 @@
+{
+  "address": "8seAqteUCvd6T2dFLbjRZyEcm23UKqzY2TQm9wSopump",
+  "name": "Pavel Durov",
+  "symbol": "$PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "PAVELDUROV - the memecoin. Join our X community for more info",
+    "twitter": "https://x.com/PAVELDUROVONSOL"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRBn5gH7dPuLYTL6RzbQzvD6FuAMAmopacSyjmuyvuHju",
+  "price": null,
+  "total_supply": 999999999.528187,
+  "circulating_supply": 999999999.528187,
+  "meme_info": null
+}

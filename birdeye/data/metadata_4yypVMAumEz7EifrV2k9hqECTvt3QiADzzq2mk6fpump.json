@@ -1,0 +1,18 @@
+{
+  "address": "4yypVMAumEz7EifrV2k9hqECTvt3QiADzzq2mk6fpump",
+  "name": "Trump Teacher",
+  "symbol": "TT",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Echinanews/status/1917897497634279608",
+    "website": "https://x.com/Echinanews/status/1917897497634279608"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRg8gu9DWfG9CEzDH2iDznVpvdWhgck5fFWSHzajdxjtp",
+  "price": 4.1984467098380724e-06,
+  "liquidity": 0.9039461092204626,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4198.44670983806,
+  "market_cap": 4198.44670983806
+}

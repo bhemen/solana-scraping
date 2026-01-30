@@ -1,0 +1,16 @@
+{
+  "address": "5VPfQ1JhS88stayfPuk8ySxonQh18WdncSrvhh3kpump",
+  "name": "nick ",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "nickcoin"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmR237Pxs4F7GmSTvS7ZGLVbSxoRTQDA9ChVZuBeELJYKM",
+  "price": 4.19978041276474e-06,
+  "liquidity": 4.0933529139048686,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4199.78041276474,
+  "market_cap": 4199.78041276474
+}

@@ -1,0 +1,16 @@
+{
+  "address": "7yd4RDXJAU3tRJwq4DeP4KiPPURiaMoEu6KohdAipump",
+  "name": "Zelenski Bong",
+  "symbol": "ZB",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pwease support his weed addiction"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcpY1oQrULf2su3jgmuo3ERPwym8ewWTi3X6YVebzqMh4",
+  "price": 4.005269578483625e-06,
+  "liquidity": 0.34708754123947605,
+  "total_supply": 999999983.216342,
+  "circulating_supply": 999999983.216342,
+  "fdv": 4005.26951126055,
+  "market_cap": 4005.26951126055
+}

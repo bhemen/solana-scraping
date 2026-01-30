@@ -1,0 +1,17 @@
+{
+  "address": "4ANf5r6b62pSDWkRyBrV9FEEUXBUSMP7wHuyGNecpump",
+  "name": "POPE LEO SIGNATURE",
+  "symbol": "POPE LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/VaticanNews/status/1921142467316928879"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWK1HuajRK12XbkQqD3ZmyLBjqt2VoR1C1ZhJTW8rnANj",
+  "price": 4.8153929323576485e-06,
+  "liquidity": 0.9039474621066248,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4815.3929323576485,
+  "market_cap": 4815.3929323576485
+}

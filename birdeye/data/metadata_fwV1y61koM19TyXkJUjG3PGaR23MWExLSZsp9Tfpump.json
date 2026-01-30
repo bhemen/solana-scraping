@@ -1,0 +1,16 @@
+{
+  "address": "fwV1y61koM19TyXkJUjG3PGaR23MWExLSZsp9Tfpump",
+  "name": "AI Teacher",
+  "symbol": "AT",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTCQpRSZxFDz3FED28htxx8U4qSv9Tjn3KHa6eBQExaaQ",
+  "price": 5.420126574972043e-06,
+  "liquidity": 0.43854796783192074,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5420.126574972043,
+  "market_cap": 5420.126574972043
+}

@@ -1,0 +1,18 @@
+{
+  "address": "AASXwwUVEdfheLm1ZBcbSy9GGW4KZEbtjhBrpbbXpump",
+  "name": "ZELENSKY",
+  "symbol": "ZLSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "Dictator? Or Leader",
+    "twitter": "https://x.com/VZelenskyUA",
+    "website": "https://www.ndtv.com/world-news/trump-hints-at-meeting-with-ukraines-zelensky-to-sign-minerals-deal-7788394"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYpj1BxJC3dx1gTtvunsCd9he3fZsfYFmTT3VUUedbN2v",
+  "price": 3.90997152899425e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3909.9715289942496,
+  "market_cap": 3909.9715289942496
+}

@@ -1,0 +1,17 @@
+{
+  "address": "2eFcXPc6ZAJ1U1GjsJmt6PMztGWiNy8kCWpufCpfpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaSCKgJAyUX5xnov2GGTdU2xWxDTFiZ7P8ubvVcAt2JQH",
+  "price": 6.05361748653505e-06,
+  "liquidity": 0.4166683064331205,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6053.6174865350495,
+  "market_cap": 6053.6174865350495,
+  "meme_info": null
+}

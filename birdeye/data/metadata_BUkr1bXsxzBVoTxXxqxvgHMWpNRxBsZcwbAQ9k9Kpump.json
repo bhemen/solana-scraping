@@ -1,0 +1,17 @@
+{
+  "address": "BUkr1bXsxzBVoTxXxqxvgHMWpNRxBsZcwbAQ9k9Kpump",
+  "name": "Nick Cannon Memecoin",
+  "symbol": "WILDNOUT",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1911137078009536789"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQkZEJPizXuZX6Gxr4enXCPbADriYndTr3NcaPoByTZBy",
+  "price": 3.642510020303379e-06,
+  "liquidity": 0.4166672917684989,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3642.510020303379,
+  "market_cap": 3642.510020303379
+}

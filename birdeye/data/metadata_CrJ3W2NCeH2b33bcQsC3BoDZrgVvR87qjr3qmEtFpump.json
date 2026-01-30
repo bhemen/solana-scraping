@@ -1,0 +1,16 @@
+{
+  "address": "CrJ3W2NCeH2b33bcQsC3BoDZrgVvR87qjr3qmEtFpump",
+  "name": "Zelensky",
+  "symbol": "Zen",
+  "decimals": 6,
+  "extensions": {
+    "description": "President of Ukraine official coin"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWBohBW3ojLPmzkA5c3RDeDUx1tZhbjfLnZ9WzwWg7vCe",
+  "price": 5.433435006637841e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 999999999.999402,
+  "circulating_supply": 999999999.999402,
+  "fdv": 5433.435006634592,
+  "market_cap": 5433.435006634592
+}

@@ -1,0 +1,38 @@
+{
+  "address": "5f1uGSgEKG4gptFVkofgVwQVjxkoWKYSc6WtiGggkEnu",
+  "name": "pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Token created via NemTech"
+  },
+  "logo_uri": "http://66.135.23.176:8888/ae0c9c3a-bcc4-4cc3-a5da-15a511311363.png",
+  "price": 4.411001502292078e-06,
+  "liquidity": 0.8142447718355422,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4411.001502292078,
+  "market_cap": 4411.001502292078,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1762640129,
+      "slot": 378817146,
+      "tx_hash": "59k23HdSLoJxg7sbYte86nHzK9pHN2Mave9Pb9Sx9jDRKDogS13YTxFufqJCGz9gocuxaMJysWRn7TrTnDjTrMF2"
+    },
+    "creator": "9oyJwKQiAh7btXnyNYqJh2mXTMEKSsXRNB1PJkH5VscK",
+    "address": "5f1uGSgEKG4gptFVkofgVwQVjxkoWKYSc6WtiGggkEnu",
+    "creation_time": 1762640129,
+    "graduated": false,
+    "pool": {
+      "address": "7fqvDMmdCuZHcaujehQt5wVb59VnpNNsJ1ZMJ99gbG1p",
+      "real_sol_reserves": "1000000",
+      "real_token_reserves": "793064234525516",
+      "virtual_token_reserves": "1072964234525516",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0.00451,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

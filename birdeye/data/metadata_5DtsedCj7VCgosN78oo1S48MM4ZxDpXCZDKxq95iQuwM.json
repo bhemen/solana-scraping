@@ -1,0 +1,44 @@
+{
+  "address": "5DtsedCj7VCgosN78oo1S48MM4ZxDpXCZDKxq95iQuwM",
+  "name": "Pope Leo XIV",
+  "symbol": "POPELEOXIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1932902098967920860"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdCeY1cJrB4dD28QZhhFLfZUBUf5mLpVPJwtGUua9D9h9",
+  "price": 4.482615756503988e-06,
+  "liquidity": 0.5671588501619764,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4482.615756503988,
+  "market_cap": 4482.615756503988,
+  "meme_info": {
+    "created_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": null,
+    "address": "5DtsedCj7VCgosN78oo1S48MM4ZxDpXCZDKxq95iQuwM",
+    "creation_time": null,
+    "graduated": false,
+    "pool": {
+      "address": "UwQTd4dzvH5fPFuBNCN4YaNFGRY8MZ89MdmS9bRx8eH",
+      "real_sol_reserves": "8",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

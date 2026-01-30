@@ -1,0 +1,14 @@
+{
+  "address": "Gz8GE7TQ3k45SUaPVM3DKdV37uiNy1dQFSTaiMHjgXz1",
+  "name": "pavel test token",
+  "symbol": "pavtest",
+  "decimals": 6,
+  "extensions": {
+    "description": "test desc for me bla bla"
+  },
+  "logo_uri": "https://arweave.net/tmcX1Qi6lHTvD40l6Hj83mDVrFPC4w-gx08r4mLaBTA",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "EPGcryumNmVW3qvXtSBstc53RoKqtY83ix7sGxe3pump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/watstray/status/1900299584527884344"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcZf912DYUKUDG6kEwhJrF533a7MQxBY5pqUZhD16KSKD",
+  "price": 3.4644223080990277e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3464.4223080990278,
+  "market_cap": 3464.4223080990278
+}

@@ -1,0 +1,17 @@
+{
+  "address": "BoTQLmikmUPZ7Nd8Z29ejyjq2Eyzuz2GRwC7TVYwe7sm",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "PEPE pixel meme, king of pixel meme coin collection"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmURDTvw2g5MpyuEECvcvAGq32m7PB2nkyHB9DMS7iy6RT",
+  "price": 6.094797017281455e-06,
+  "liquidity": 0.4166784530793368,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6094.797017281455,
+  "market_cap": 6094.797017281455,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "3awLvP5hb4JPXqPzecbQ4dZQKoC4ex1LDkduBuCtpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "pepe test"
+  },
+  "logo_uri": "https://gateway.irys.xyz/O5KVdAv0OVmBo7d8K0H4sBxT53DtjRE9rCh5YItfl6c",
+  "price": 6.715767071564996e-06,
+  "liquidity": 0.41667101220544484,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6715.7670715649965,
+  "market_cap": 6715.7670715649965,
+  "meme_info": null
+}

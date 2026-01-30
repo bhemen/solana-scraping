@@ -1,0 +1,20 @@
+{
+  "address": "C6WcgWLXuczx2W7BxAmpTid7NRUMh4KFxufX5zZe9zhz",
+  "name": "TEACHER",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/TEACHER",
+    "website": "https://TEACHER.ai",
+    "telegram": "https://t.me/TEACHER"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZnnPJUa6XhHHkeK6y1eppAVPj89N13ACjyZStRFDodxQ",
+  "price": 7.008120924224835e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7008.120924224835,
+  "market_cap": 7008.120924224835,
+  "meme_info": null
+}

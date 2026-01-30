@@ -1,0 +1,15 @@
+{
+  "address": "5YmFVNDHxNGyWBAPS2txnUDSapeH2J6qQrxKNbnyHVhH",
+  "name": "FreePavel",
+  "symbol": "FreePavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/zerohedge/status/1828883043731550632",
+    "twitter": "https://x.com/zerohedge/status/1828883043731550632"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPRqBXr7tkSkeLapLfBr4TYgeU2iBZcDkLPmfpk9PnEsQ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

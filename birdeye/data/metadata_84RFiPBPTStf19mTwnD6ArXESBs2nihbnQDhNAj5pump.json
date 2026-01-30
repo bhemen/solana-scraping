@@ -1,0 +1,17 @@
+{
+  "address": "84RFiPBPTStf19mTwnD6ArXESBs2nihbnQDhNAj5pump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "4iuA34 zxHtmJBC8oh7Lx6fhx6m4HntziA4EcxwVup mp",
+    "twitter": "https://x.com/pepethechadsol",
+    "website": "https://skeleton-closet.xyz/",
+    "telegram": "https://t.me/pepethechadsol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPArL7DjAsiS7neh2B9Y5Q2ECP49Dovj8mpLMKi4wD45b",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

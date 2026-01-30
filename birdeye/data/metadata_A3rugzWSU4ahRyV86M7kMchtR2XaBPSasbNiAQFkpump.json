@@ -1,0 +1,14 @@
+{
+  "address": "A3rugzWSU4ahRyV86M7kMchtR2XaBPSasbNiAQFkpump",
+  "name": "#freepavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free Pavel Durov\r\nCEO of Telegram "
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmYsrvkiNvH3ZvKZNaK9yYh1dNFC3hpF8rcQHobUnEfZrz",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

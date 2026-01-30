@@ -1,0 +1,16 @@
+{
+  "address": "G327MZmoLuve2v61M8PXhyNPUeuiG7DMhUYMexfDpump",
+  "name": "zelensky",
+  "symbol": "1000000000",
+  "decimals": 6,
+  "extensions": {
+    "description": "the spirit of resilience and boldness, inspired by Zelensky.\r\n\r\n\r\n\r\n"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVMPwLy6f8tvETeWqg1xrTUj6KFFfpF3tERY6uVk6TUFf",
+  "price": 4.255400280982438e-06,
+  "liquidity": 0.33641987135362234,
+  "total_supply": 999999999.997554,
+  "circulating_supply": 999999999.997554,
+  "fdv": 4255.400280972029,
+  "market_cap": 4255.400280972029
+}

@@ -1,0 +1,16 @@
+{
+  "address": "E9BWjvQ17f58namgAbY4XGAJ2MBRYVEufCRU4uM1pump",
+  "name": "Zelenskyy",
+  "symbol": "ZLSS",
+  "decimals": 6,
+  "extensions": {
+    "description": "Bro didn't even have a suit in the white house\ud83e\udd23"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRVGcxPbSFQpeWLnVf1UUCyymoXHEk7k6ni3qTBLwpLvG",
+  "price": 4.762758248027058e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4762.7582480270585,
+  "market_cap": 4762.7582480270585
+}

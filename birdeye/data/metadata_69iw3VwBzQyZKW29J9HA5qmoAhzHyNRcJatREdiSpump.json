@@ -1,0 +1,17 @@
+{
+  "address": "69iw3VwBzQyZKW29J9HA5qmoAhzHyNRcJatREdiSpump",
+  "name": "JUSTICE FOR ZELENSKY",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/unusual_whales/status/1895540963852054992"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmS8WdVhxoMH6fud8PtQpKcM7Xh5aZojyWtoVAk79QRLGc",
+  "price": 4.000145436858971e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4000.145436858971,
+  "market_cap": 4000.145436858971
+}

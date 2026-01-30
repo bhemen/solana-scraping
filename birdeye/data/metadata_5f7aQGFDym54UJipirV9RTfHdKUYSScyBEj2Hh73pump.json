@@ -1,0 +1,18 @@
+{
+  "address": "5f7aQGFDym54UJipirV9RTfHdKUYSScyBEj2Hh73pump",
+  "name": "PAVEL DUROV",
+  "symbol": "TGCEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov2025",
+    "website": "https://x.com/durov2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWZnEreT7L2PtBrWtK17CwJe4G4ZUvZuLrLYz3jDQd1uu",
+  "price": 4.080338904462766e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4080.3389044627656,
+  "market_cap": 4080.3389044627656
+}

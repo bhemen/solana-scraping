@@ -1,0 +1,18 @@
+{
+  "address": "FcaqouqFe6TcDYLL1VQMCCwZTXWn45GzdhUXosYXpump",
+  "name": "Zelenski",
+  "symbol": "Zen",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenski versi\u00f3n anime",
+    "twitter": "https://twitter.com/ai-collection/ai-collection",
+    "website": "https://github.com/ai-collection/ai-collection"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmURyTQYoEAumP4KTF1EgMpYFnYUnvcaC2LTRnSWmwfkHy",
+  "price": 5.220328078602958e-06,
+  "liquidity": 0.46800234387485645,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5220.328078602958,
+  "market_cap": 5220.328078602958
+}

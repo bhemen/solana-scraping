@@ -1,0 +1,14 @@
+{
+  "address": "EwWg9aLUsV3zV931FwDDvmXpTJBsN7E6MZFY3jqrpump",
+  "name": "PePe",
+  "symbol": "PePe",
+  "decimals": 6,
+  "extensions": {
+    "description": "PePe"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRQ4vEb2yTNa5uUGcKqZj5N6uPDLbhjtpEwMbDLssbQDv",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

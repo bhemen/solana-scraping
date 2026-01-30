@@ -1,0 +1,38 @@
+{
+  "address": "7TZ4s3VdCyjpFRFuua4L2PAzQBYVkGJPuhwxwnwypump",
+  "name": "Zelensky",
+  "symbol": "ZASS",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelensky leaves the pants rounder for Donald Trump today"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeif55w6bgeuwh7jqcuwsod5zsbthnuk5dlnb44axhm2eamh3m75oe4",
+  "price": 5.132066470131168e-06,
+  "liquidity": 0.7250002110690564,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5132.066470131168,
+  "market_cap": 5132.066470131168,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 360907098,
+      "tx_hash": "3uCZMdmcRQf4jpebchECYpkJf2iRGizNCK1P84imroUAnhaVLFzfDWAFgXs1LgJUBDSYnnCHMTPS2ee3yeJccUHD",
+      "block_time": 1755531536
+    },
+    "creation_time": 1755531536,
+    "creator": "AJEZGvAtFpxwuLxnLYp8pmQqFh1eCTYYrMLCrErM6Nvj",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "xnG98SHPcsgu5dt6zMgjVDYni1eBo2qjZWhoAkh4Abg",
+      "real_sol_reserves": "5",
+      "real_token_reserves": "793099999999999",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1072999999999999"
+    },
+    "progress_percent": 0,
+    "address": "7TZ4s3VdCyjpFRFuua4L2PAzQBYVkGJPuhwxwnwypump"
+  }
+}

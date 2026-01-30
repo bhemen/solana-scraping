@@ -1,0 +1,17 @@
+{
+  "address": "9dYYUzNh6qaC2t4ppHB4GDANXPsGWZLZJAG8ikNBcz5K",
+  "name": "nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "nick",
+    "twitter": "/",
+    "website": "/",
+    "telegram": "/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTZD7NydD33hBJQnHRQ2ty1mmg8LVvhiqE75Tr1HyKkgk",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

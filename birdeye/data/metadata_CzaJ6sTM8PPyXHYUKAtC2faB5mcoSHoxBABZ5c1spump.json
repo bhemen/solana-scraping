@@ -1,0 +1,14 @@
+{
+  "address": "CzaJ6sTM8PPyXHYUKAtC2faB5mcoSHoxBABZ5c1spump",
+  "name": "Pavel Durov Cat",
+  "symbol": "$PC",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmSdroxs6WZc5uB6y4L9uQs1FV1GdSL5foi8AesjxmLnkz",
+  "price": null,
+  "total_supply": 999999999.313687,
+  "circulating_supply": 999999999.313687,
+  "meme_info": null
+}

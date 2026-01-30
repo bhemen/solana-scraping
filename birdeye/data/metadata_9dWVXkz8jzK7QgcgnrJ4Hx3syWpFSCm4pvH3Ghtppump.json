@@ -1,0 +1,17 @@
+{
+  "address": "9dWVXkz8jzK7QgcgnrJ4Hx3syWpFSCm4pvH3Ghtppump",
+  "name": "PAVEL DUROV'S DOG",
+  "symbol": "MITTENS",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.instagram.com/p/0hq1xAL7Wx/",
+    "website": "https://www.instagram.com/p/0hq1xAL7Wx/",
+    "telegram": "https://www.instagram.com/p/0hq1xAL7Wx/"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmP6wyG8p5fgfzW39NWvw77SGrjSkbjRQvUDKX7w6ARRUY",
+  "price": null,
+  "total_supply": 999999999.000001,
+  "circulating_supply": 999999999.000001,
+  "meme_info": null
+}

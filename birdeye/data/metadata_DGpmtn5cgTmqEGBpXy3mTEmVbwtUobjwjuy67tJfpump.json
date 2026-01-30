@@ -1,0 +1,16 @@
+{
+  "address": "DGpmtn5cgTmqEGBpXy3mTEmVbwtUobjwjuy67tJfpump",
+  "name": "PEPE",
+  "symbol": "NIGHT",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYURCZCcRc249xTj5uUuVW4M2PSuDty2QVVstDa8AqUrx",
+  "price": 4.945787191780285e-06,
+  "liquidity": 0.35285594008371757,
+  "total_supply": 999999996.216209,
+  "circulating_supply": 999999996.216209,
+  "fdv": 4945.78717306646,
+  "market_cap": 4945.78717306646
+}

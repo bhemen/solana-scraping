@@ -1,0 +1,15 @@
+{
+  "address": "8LXkjfkYvkG9VQDxQD5g5Pf5hEHQeR4vCoTcWGFhpump",
+  "name": "Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskyi is the president of Ukraine",
+    "twitter": "https://x.com/ZelenskyyUa"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX1nUyANK3MM8gJxDnz2TMoPD4tUbaiREyBowVc58yoMj",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

@@ -1,0 +1,18 @@
+{
+  "address": "HHP2zi9sM57hzPrMKQB2jGAgLYQsqpZbumXnBbKwpump",
+  "name": "Justice for Zelensky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/MarioNawfal/status/1881716021360300171?t=iylj7LvDD7r6iHF2LTaLyg&s=19",
+    "website": "https://x.com/MarioNawfal/status/1881716021360300171?t=iylj7LvDD7r6iHF2LTaLyg&s=19"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmchQcqPN3mWuNhKKF8xa2Z3WDR8rM8urZXeWPY82PDUiD",
+  "price": 6.689621551253112e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6689.621551253113,
+  "market_cap": 6689.621551253113
+}

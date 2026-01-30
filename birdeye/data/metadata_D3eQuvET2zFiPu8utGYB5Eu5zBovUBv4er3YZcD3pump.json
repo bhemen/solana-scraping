@@ -1,0 +1,16 @@
+{
+  "address": "D3eQuvET2zFiPu8utGYB5Eu5zBovUBv4er3YZcD3pump",
+  "name": "ZelenskySos",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Memecoin for peace support all over the world"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWav99eA3fe4T5Q5fDgq9hAoFfyEZMzfU8qqcyTfWGb3s",
+  "price": 4.825570284569316e-06,
+  "liquidity": 0.4166764237500935,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4825.570284569316,
+  "market_cap": 4825.570284569316
+}

@@ -1,0 +1,17 @@
+{
+  "address": "FcoibSEjWwSCKNCmyAVaLFLHpkUDbRJ6zB4vMJntc9dA",
+  "name": "FREE",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "PLEASE",
+    "twitter": "https://t.me/jraeajaerajre",
+    "website": "https://t.me/jraeajaerajre",
+    "telegram": "https://t.me/jraeajaerajre"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPTqbLCWRr1A2wXEuwhBXwJsWBXTNVm71fmZJfMBDCHeZ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

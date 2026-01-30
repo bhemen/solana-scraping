@@ -1,0 +1,16 @@
+{
+  "address": "J7oiZm1e1yxumwWgtvbHcRTKZZVMkSTMzkYtNbecpump",
+  "name": "Zelensky",
+  "symbol": "Zl",
+  "decimals": 6,
+  "extensions": {
+    "description": "I would like to join the marathon and support the crypto community. This token is Ukraine's first step towards free finance!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSTV9jtYx4kmf9ND66PYvJGhs9ovZ9F3619zwcVUMkPzE",
+  "price": 4.713193642369423e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 999999999.997923,
+  "circulating_supply": 999999999.997923,
+  "fdv": 4713.1936423596335,
+  "market_cap": 4713.1936423596335
+}

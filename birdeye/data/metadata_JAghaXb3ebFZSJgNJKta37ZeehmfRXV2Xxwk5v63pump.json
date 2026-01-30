@@ -1,0 +1,17 @@
+{
+  "address": "JAghaXb3ebFZSJgNJKta37ZeehmfRXV2Xxwk5v63pump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Armored Pepe, fearless, determined, stands against all odds.\r\n",
+    "twitter": "https://x.com/pepewarriorcoin",
+    "website": "https://pepewarrior.live/",
+    "telegram": "https://t.me/pepewarriorcoin"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmc3neWF6emw5h2H6wgaVvEFAB67ksuV7B4jpWficQuqMz",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "6fN6mnCZ84fhviDWzGARxSkCWTH452iz8Fndqi5Spump",
+  "name": "Zelensky",
+  "symbol": "ZMC",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelensky Meme Coin (ZMC) is a fun yet symbolic cryptocurrency inspired by the unwavering resilience of Ukraine\u2019s President, Volodymyr Zelensky. This meme coin embodies courage, leadership, and the power of the people, rallying a global community that supports decentralization, freedom, and innovation.",
+    "website": "https://himalcoin.com"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX6d5DfzYhEf4aJEF1ZdQLLvKotWeWNDMUtU1uBkSG4fP",
+  "price": 4.020507398463301e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 999999999.998397,
+  "circulating_supply": 999999999.998397,
+  "fdv": 4020.5073984568558,
+  "market_cap": 4020.5073984568558
+}

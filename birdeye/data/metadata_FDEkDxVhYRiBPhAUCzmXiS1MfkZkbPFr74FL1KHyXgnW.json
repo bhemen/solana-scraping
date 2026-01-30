@@ -1,0 +1,19 @@
+{
+  "address": "FDEkDxVhYRiBPhAUCzmXiS1MfkZkbPFr74FL1KHyXgnW",
+  "name": "Pavel Durov",
+  "symbol": "Durov",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel Durov was born in Leningrad, but spent most of his childhood in Turin, Italy, where his father was employed. In 2006, he graduated from the Philology Department of the Saint Petersburg State University, where he received a first-class degree.",
+    "twitter": "https://x.com/durov",
+    "website": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOg-bg6KKGAxXppJUCHZh9DnYQFnoECCwQAQ&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPavel_Durov&usg=AOvVaw3zzCHwtIMIbd7MqrrQEX56&opi=89978449",
+    "telegram": "https://x.com/durov"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmY7RW19Bmi9QD53KbAoKQwruhwELYtij8AUvNQgsUaNdH",
+  "price": 4.30826581723282e-06,
+  "liquidity": 0.4166781148577962,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4308.265817232819,
+  "market_cap": 4308.265817232819
+}

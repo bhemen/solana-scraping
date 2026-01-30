@@ -1,0 +1,17 @@
+{
+  "address": "Ent3HUtVdHLv9HbFtPc5YrNqUTXZ38nMpZjuyeb4pump",
+  "name": "Zelensky Cult",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "The Collapse Of The Zelensky Cult",
+    "twitter": "https://x.com/zerohedge/status/1893702392929026516"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQumekjTrz1KJGLv4TSxZUnNcTmbF836AwKGnwuJBbqrz",
+  "price": 4.697182849256905e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4697.182849256905,
+  "market_cap": 4697.182849256905
+}

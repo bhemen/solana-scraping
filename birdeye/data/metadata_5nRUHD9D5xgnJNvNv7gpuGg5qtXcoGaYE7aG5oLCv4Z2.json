@@ -1,0 +1,17 @@
+{
+  "address": "5nRUHD9D5xgnJNvNv7gpuGg5qtXcoGaYE7aG5oLCv4Z2",
+  "name": "Pope Leo Xiv",
+  "symbol": "69",
+  "decimals": 6,
+  "extensions": {
+    "description": "Token Pope Leo Xiv created via PumpPortal",
+    "twitter": "https://x.com/greg16676935420/status/1920537076778287498"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZEA8Vstg7iZdCnTjJuBbArvieQ74PJ4PGDDgrsTJZFnX",
+  "price": 4.555755625093381e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4555.755625093381,
+  "market_cap": 4555.755625093381
+}

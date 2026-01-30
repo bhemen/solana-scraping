@@ -1,0 +1,17 @@
+{
+  "address": "DjFBPtqLeJzXtNwjpMjKMbgk6A9rupqbq62DyDFjpump",
+  "name": "teacher",
+  "symbol": "teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "this is how my teacher looked at me when i did not do my homework"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcNRoRNZGvP959o7KntBiuRVJg1Jd2fXZzpFvQs8n7Txs",
+  "price": 5.823007531617365e-06,
+  "liquidity": 0.416684202845526,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5823.007531617365,
+  "market_cap": 5823.007531617365,
+  "meme_info": null
+}

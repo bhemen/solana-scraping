@@ -1,0 +1,17 @@
+{
+  "address": "SZg4zj8xAdk3cNqiYxBbMMx7VVAcJ4y9u9VBGtCpump",
+  "name": "Pavel Durov",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Founder, CEO at \r\n@telegram\r\n (2013), founder, ex-CEO of \r\n@vkontakte\r\n (2006), part-time troll.",
+    "twitter": "https://x.com/durov",
+    "website": "durov.com",
+    "telegram": "https://t.me/durov"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmbpE5z1Uo66GEMGysvP6QwZ1A7ty45W2cWaQN4mhgzQ7c",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

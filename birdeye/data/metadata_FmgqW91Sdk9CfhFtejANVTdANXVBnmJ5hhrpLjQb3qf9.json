@@ -1,0 +1,19 @@
+{
+  "address": "FmgqW91Sdk9CfhFtejANVTdANXVBnmJ5hhrpLjQb3qf9",
+  "name": "pepe",
+  "symbol": "$PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pepe is here to make memecoins\r\ngreat again. Forked from ETH to PLS\r\non mainnet launch, $PEPE is a coin\r\nfor the people, forever. Fueled by\r\npure memetic power, let $PEPE show\r\nyou the way.\r\n",
+    "twitter": "https://twitter.com/PEPEELUXY",
+    "website": "https://bit.ly/4aOWXCQ",
+    "telegram": "https://t.me/+UpBKbkzpBLk3ZjUx"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmTq1LunWUZRtyTEcYgAzu6v9eq7SnqKnXnbQxMsmq8xHA",
+  "price": 5.526203303972091e-06,
+  "liquidity": 5.489994120327526,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5526.203303972091,
+  "market_cap": 5526.203303972091
+}

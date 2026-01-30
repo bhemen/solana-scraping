@@ -1,0 +1,17 @@
+{
+  "address": "GMzZtPSKk6SDoJGSh1Dgb3ey4csJXkoe3VLfeS77pump",
+  "name": "nick",
+  "symbol": "nick ",
+  "decimals": 6,
+  "extensions": {
+    "description": "nick the dog",
+    "twitter": "http://x.com",
+    "website": "http://x.com",
+    "telegram": "http://x.com"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTsArLFmgT9RjvPCB5AGRBkCaPfmoEpwyu8qBfBcYgq1p",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

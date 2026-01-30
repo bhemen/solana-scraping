@@ -1,0 +1,18 @@
+{
+  "address": "7fWJ6vGXjou4yxA4M92JyGnBAXWYXgiAzMSSS3FVpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "neural network interpretability, meditation, the void.",
+    "twitter": "https://x.com/nickcammarata"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQh7zHYgCWZ2fZktvvTBp1hJv1sFwvb76q2oij6CXhpg2",
+  "price": 6.873600504017491e-06,
+  "liquidity": 2.6475579709953188,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6873.600504017491,
+  "market_cap": 6873.600504017491,
+  "meme_info": null
+}

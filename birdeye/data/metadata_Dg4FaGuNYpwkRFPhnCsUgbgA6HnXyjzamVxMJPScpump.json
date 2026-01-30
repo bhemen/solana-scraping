@@ -1,0 +1,16 @@
+{
+  "address": "Dg4FaGuNYpwkRFPhnCsUgbgA6HnXyjzamVxMJPScpump",
+  "name": "ZELENSKY",
+  "symbol": "0.00002",
+  "decimals": 6,
+  "extensions": {
+    "description": "OFFICIAL CRYPTO ZELENSKY MEME COIN \r\nVS TRUMP UNTIL 15/03/2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbLd4tv2knAkeXhu45nshosmeW5jtw9uadpcvbdoi6Uro",
+  "price": 4.00787918011049e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4007.87918011049,
+  "market_cap": 4007.87918011049
+}

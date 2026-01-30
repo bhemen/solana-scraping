@@ -1,0 +1,15 @@
+{
+  "address": "FwKxcKDnTnQW3yaYXMc1weRdV7g3VWjFzeFdxv8Wpump",
+  "name": "Zelensky who is about to cry",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelensky who is about to cry",
+    "twitter": "https://x.com/realDonParody/status/1858361662274781670"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmbn1z6qn4713B4WGbRMxg6hbYNQ49wtBwFbthC83J5Y41",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

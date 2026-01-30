@@ -1,0 +1,18 @@
+{
+  "address": "48AqkTBTQydgogbFUvkixUzMD1m1E8dHmp5HjdKBpump",
+  "name": "Pavel Durov",
+  "symbol": "@durov2025",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov2025",
+    "website": "https://www.google.com/search?client=opera-gx&q=APVEL+DUROV&sourceid=opera&ie=UTF-8&oe=UTF-8#vhid=YzifME0qG9ir-M&vssid=_6oMOaNyEA-CswPAPw6K4mAo_41"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXPA2R4DFohCFWTz5YEFSkaWgq89nRGVt6QGEAYUFiWar",
+  "price": 4.055304489306552e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4055.3044893065517,
+  "market_cap": 4055.3044893065517
+}

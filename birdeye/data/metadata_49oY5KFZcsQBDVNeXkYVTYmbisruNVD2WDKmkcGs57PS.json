@@ -1,0 +1,17 @@
+{
+  "address": "49oY5KFZcsQBDVNeXkYVTYmbisruNVD2WDKmkcGs57PS",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Darkfarms1/status/1916514916644663536"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNn31hUFpvf4ezUsKiQjvQRWKZZW2GYugoaeuMmxdfVWD",
+  "price": 4.150408025653471e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4150.408025653472,
+  "market_cap": 4150.408025653472
+}

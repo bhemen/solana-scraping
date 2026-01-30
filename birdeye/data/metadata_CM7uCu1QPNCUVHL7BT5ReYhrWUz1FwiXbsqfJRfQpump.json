@@ -1,0 +1,17 @@
+{
+  "address": "CM7uCu1QPNCUVHL7BT5ReYhrWUz1FwiXbsqfJRfQpump",
+  "name": "PEPE",
+  "symbol": "racistfrog",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTDg5TkVCgtbZwVKXDBnfCGG74mnuXqv3kzAYyEnSNPMV",
+  "price": 6.407830933628772e-06,
+  "liquidity": 0.41666526243925567,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6407.830933628772,
+  "market_cap": 6407.830933628772,
+  "meme_info": null
+}

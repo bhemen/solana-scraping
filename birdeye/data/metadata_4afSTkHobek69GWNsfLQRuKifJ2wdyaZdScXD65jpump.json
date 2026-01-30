@@ -1,0 +1,17 @@
+{
+  "address": "4afSTkHobek69GWNsfLQRuKifJ2wdyaZdScXD65jpump",
+  "name": "@durov2025",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWZnEreT7L2PtBrWtK17CwJe4G4ZUvZuLrLYz3jDQd1uu",
+  "price": 4.102391625185439e-06,
+  "liquidity": 0.9039488149927869,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4102.391625185439,
+  "market_cap": 4102.391625185439
+}

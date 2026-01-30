@@ -1,0 +1,16 @@
+{
+  "address": "59a4UH4GzAAsRhsFcuXMNkkN7JC4Xxqnb55F5Rmrpump",
+  "name": "nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "they call me nick no neck",
+    "twitter": "https://t.me/",
+    "telegram": "https://t.me/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZYoBpMedUUn51vMzunQ9qe9vXmA7mUjRQXjk1NzH4fcf",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

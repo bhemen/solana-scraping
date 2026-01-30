@@ -1,0 +1,15 @@
+{
+  "address": "7RPbXTjqvmVCm75gD8UxmTz3goRsazV7d7PkH5mppump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "By Trump0x aka Pauly\r\n\r\n",
+    "telegram": "https://t.me/pepesol0x"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRDtYD5psZL3WupMcFPiFfsMFebfM7eSbQvcUrDfkJWUm",
+  "price": null,
+  "total_supply": 999999999.81006,
+  "circulating_supply": 999999999.81006,
+  "meme_info": null
+}

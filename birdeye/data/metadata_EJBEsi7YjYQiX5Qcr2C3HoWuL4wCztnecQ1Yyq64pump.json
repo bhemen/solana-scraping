@@ -1,0 +1,17 @@
+{
+  "address": "EJBEsi7YjYQiX5Qcr2C3HoWuL4wCztnecQ1Yyq64pump",
+  "name": "Nick",
+  "symbol": "NK",
+  "decimals": 6,
+  "extensions": {
+    "description": "blockchain maxi \u2022 meme coins \u2022 DM for Promos ",
+    "twitter": "https://x.com/NickXmeta"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVRKa31923DHu5JypBreRumjNjifLCszSeteAog9cRCRU",
+  "price": 7.248981190787437e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7248.981190787436,
+  "market_cap": 7248.981190787436
+}

@@ -1,0 +1,17 @@
+{
+  "address": "Ccwinq554FM9KpNmPoiDEgF2zy6Jt5UVSLca326upump",
+  "name": "arnold",
+  "symbol": "arnold",
+  "decimals": 6,
+  "extensions": {
+    "description": "glups",
+    "twitter": "https://x.com/arnold_the_fish"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmaemfig8ha7ZyC4KVhYwLGAFsRSFH8kvukppLD94JpZDm",
+  "price": 6.852892762344841e-06,
+  "liquidity": 0.6114386396043111,
+  "total_supply": 999999999.9903,
+  "circulating_supply": 999999999.9903,
+  "fdv": 6852.8927622783685,
+  "market_cap": 6852.8927622783685
+}

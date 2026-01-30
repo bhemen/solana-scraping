@@ -1,0 +1,17 @@
+{
+  "address": "AVTbZ14cdNkzrknhLJnWeE4v9fE8tD8BXNvwpPmLpump",
+  "name": "ZELENSKY",
+  "symbol": "NOWAR",
+  "decimals": 6,
+  "extensions": {
+    "description": "ZELENSKY: \u201cI\u2019D STEP DOWN IF IT MEANT PEACE\u201d",
+    "twitter": "https://x.com/MarioNawfal/status/1894292124251693533"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPrSdviHEWQx2vHA3FraexkMunyf55eNshqRpuHjz3yZN",
+  "price": 3.880846015611195e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3880.846015611195,
+  "market_cap": 3880.846015611195
+}

@@ -1,0 +1,17 @@
+{
+  "address": "BsnTvZtREye7iFF8Uqm2iGedYcBmDniFgSagiZHcgnh3",
+  "name": "ZELENSKI",
+  "symbol": "1",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcCC4vevUdH9CzRv5zxG2QKaUzNG1cemAXPtmQ1CSTRtZ",
+  "price": 6.161399857133496e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6161.399857133496,
+  "market_cap": 6161.399857133496,
+  "meme_info": null
+}

@@ -1,0 +1,14 @@
+{
+  "address": "BRNxKzWe8vKZBCjppHKd8QjXRNoY4Ptrrg2m3d9cAXbZ",
+  "name": "Arnold",
+  "symbol": "Arnold ",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbptpGptn37vbUk8ygKK2CruGqbH1ryTiW48h8sPpdXXG",
+  "price": null,
+  "liquidity": 0.5335985865524907,
+  "total_supply": 999999999.457339,
+  "circulating_supply": 999999999.457339
+}

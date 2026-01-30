@@ -1,0 +1,19 @@
+{
+  "address": "3Pu2HmCsexX9c7tMSZbSKYHNwWh55vcSRzbCbg9zpump",
+  "name": "Sexy Teacher",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "don't you love learning?",
+    "twitter": "http://twitter.com/itsamiachoi",
+    "website": "http://itsamiachoi.com",
+    "telegram": "https://t.me/miachoiai"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdjLHaBvG8vKUhfKVRqHwFkWJV6S1CcGu1Y2sW4fjSC1d",
+  "price": 4.845699204356767e-06,
+  "liquidity": 5.841613990631693,
+  "total_supply": 999320470.178107,
+  "circulating_supply": 999320470.178107,
+  "fdv": 4842.406407239483,
+  "market_cap": 4842.406407239483
+}

@@ -1,0 +1,17 @@
+{
+  "address": "8QwcsCvWw5MomLV4TjPHx27HTmY2zaQxE42yYG4Spump",
+  "name": "Zelenski FIRED",
+  "symbol": "FIRED",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/elonmusk/status/1893349319434015228"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmc9Yb8bCSgPmXob7Tit79juxMCh5ie3FtPVwDwpJhG3Fy",
+  "price": 3.9428031623765205e-06,
+  "liquidity": 0.4166676299900395,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3942.8031623765205,
+  "market_cap": 3942.8031623765205
+}

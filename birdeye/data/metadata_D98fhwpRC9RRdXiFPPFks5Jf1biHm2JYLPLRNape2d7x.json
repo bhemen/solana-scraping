@@ -1,0 +1,14 @@
+{
+  "address": "D98fhwpRC9RRdXiFPPFks5Jf1biHm2JYLPLRNape2d7x",
+  "name": "PEPE",
+  "symbol": "PED",
+  "decimals": 6,
+  "extensions": {
+    "description": "Woof woof fellow degens! Welcome to $DOGS on Solana. The shelter for all your beloved meme dogs."
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmUaMXhVJBF64eJUorDmhoVk4HRmRVpkTt9YcJHy21bhG7",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

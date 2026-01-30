@@ -1,0 +1,19 @@
+{
+  "address": "Da5EUeDb2J3RhGqdSGEtg2H3r2kq6g6YMSDtLx3Kpump",
+  "name": "Zelenskiy",
+  "symbol": "Zelya",
+  "decimals": 6,
+  "extensions": {
+    "description": "President Zelenskiy",
+    "twitter": "https://x.com/ZelenskyyUa",
+    "website": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy",
+    "telegram": "https://t.me/V_Zelenskiy_official"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmb69ajAavQE26nV2S3cBLCyKtxBn6PReMxd7kiL9xvbyP",
+  "price": 7.774807784192248e-06,
+  "liquidity": 0.5777848723716184,
+  "total_supply": 999999999.981974,
+  "circulating_supply": 999999999.981974,
+  "fdv": 7774.8077840521,
+  "market_cap": 7774.8077840521
+}

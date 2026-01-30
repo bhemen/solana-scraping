@@ -1,0 +1,17 @@
+{
+  "address": "BTY1nn1tAqNtSBW9krzS3TbmKptDKFryKRMXugdc9aEo",
+  "name": "Li Teacher Coin Real Ticker",
+  "symbol": "Li Vision",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.theguardian.com/world/2025/jan/17/teacher-li-memecoin-cryptocurrency-chinese-activist"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWmuZBhnqWytzmSSexgArbFTtjTM7gKgvGb2oK6PFBp31",
+  "price": 3.531968362836207e-06,
+  "liquidity": 0.41667067398390434,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3531.9683628362072,
+  "market_cap": 3531.9683628362072
+}

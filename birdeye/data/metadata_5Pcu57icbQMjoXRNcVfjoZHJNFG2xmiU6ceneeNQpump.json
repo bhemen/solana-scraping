@@ -1,0 +1,16 @@
+{
+  "address": "5Pcu57icbQMjoXRNcVfjoZHJNFG2xmiU6ceneeNQpump",
+  "name": "ARNOLD",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeEPx93GvErVRG5UC78jahMsV81dX4NwtuD8jcUkdkoyX",
+  "price": 6.691487538744714e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6691.487538744714,
+  "market_cap": 6691.487538744714
+}

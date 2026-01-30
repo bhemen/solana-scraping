@@ -1,0 +1,16 @@
+{
+  "address": "BpMmHyvcX1wW1Jc8ky5NPhywHJMhG7fpB7xaPvB4pump",
+  "name": "Zelenskyy",
+  "symbol": "ZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskyy is the GOAT\ud83d\udc10 \nPutin sucks\nSlava Ukraine "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdWUWgFNixWWVZhsDSzcyw8HKjQ7HPNL1pZV9ncx4L3RG",
+  "price": 4.7680555715864645e-06,
+  "liquidity": 0.6565228580585515,
+  "total_supply": 999999999.999998,
+  "circulating_supply": 999999999.999998,
+  "fdv": 4768.055571586455,
+  "market_cap": 4768.055571586455
+}

@@ -1,0 +1,19 @@
+{
+  "address": "D6WiPjNte9DxYQpWUsdVPPHYxsCLvfjnRvf6Jndapump",
+  "name": "The teacher",
+  "symbol": "teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "The teacher every man hated of.",
+    "twitter": "https://x.com/teacheronsolana",
+    "website": "https://teacherpump.fun/",
+    "telegram": "https://t.me/teacheronsolana"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYM7qg8M1j9LCyH1rJdyqkHVTkhA2djwfxgku1r1WJP2a",
+  "price": 5.332317179834536e-06,
+  "liquidity": 0.41667304153468815,
+  "total_supply": 999999999.999789,
+  "circulating_supply": 999999999.999789,
+  "fdv": 5332.317179833411,
+  "market_cap": 5332.317179833411
+}

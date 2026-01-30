@@ -1,0 +1,17 @@
+{
+  "address": "EEBcTozJfMfiDuMQXyDZiuEu4CGfqfdcQaMcfFKppump",
+  "name": "vegan teacher",
+  "symbol": "VEGAN",
+  "decimals": 6,
+  "extensions": {
+    "description": "the vegan teacher",
+    "twitter": "https://beluga.fandom.com/wiki/Vegan_Teacher",
+    "website": "https://beluga.fandom.com/wiki/Vegan_Teacher",
+    "telegram": "https://beluga.fandom.com/wiki/Vegan_Teacher"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZGS3FYiN1WFwUE4EeiSYV2Da9UdZvWFfLijh2MtFiCPk",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,14 @@
+{
+  "address": "7s1W8oT5feKARqVsYKbL31vzkomCugDJKHxQuDsnpump",
+  "name": "Pavel",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX8wjNpcj6D3WW5H34MJNHq5DySYxSGEthwHe6LUQeMi9",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

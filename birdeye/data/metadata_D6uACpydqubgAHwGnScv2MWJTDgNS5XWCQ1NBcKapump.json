@@ -1,0 +1,39 @@
+{
+  "address": "D6uACpydqubgAHwGnScv2MWJTDgNS5XWCQ1NBcKapump",
+  "name": "Jail Tyler Robinson",
+  "symbol": "Tyler ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/AZ_Intel_/status/1966505795035570658"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/Qmf6VHzrQvFGDahtv621tFnp5uUAQWJ59K8FuujS5z1Pue",
+  "price": 7.182633305405876e-06,
+  "liquidity": 0.7113347453836008,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7182.633305405876,
+  "market_cap": 7182.633305405876,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757686553,
+      "slot": 366343935,
+      "tx_hash": "3Jv4qVQBzwBcJz2qSoXqv4SBpz4ZvXHtzZU7wTVaakPGBHAMUQVBnS8PCjWEqr3WPATjCa7y6NNxZSLM1Eavx6CM"
+    },
+    "creator": "z1SurXQxDme52e8cQeDjJoq1kzvcmcyrpXonWwr3dAJ",
+    "address": "D6uACpydqubgAHwGnScv2MWJTDgNS5XWCQ1NBcKapump",
+    "creation_time": 1757686553,
+    "graduated": false,
+    "pool": {
+      "address": "Bhu1bv1pGkiMHRgxcByvWZWMMHt3KmgJK6uTJCXaDnh7",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 8.45574,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

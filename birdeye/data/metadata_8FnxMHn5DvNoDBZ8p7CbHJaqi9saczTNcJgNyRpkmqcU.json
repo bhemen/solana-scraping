@@ -1,0 +1,13 @@
+{
+  "address": "8FnxMHn5DvNoDBZ8p7CbHJaqi9saczTNcJgNyRpkmqcU",
+  "name": "pepe",
+  "symbol": "pepe",
+  "decimals": 6,
+  "extensions": {},
+  "price": 6.862728817002376e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6862.728817002376,
+  "market_cap": 6862.728817002376
+}

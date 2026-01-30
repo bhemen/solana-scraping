@@ -1,0 +1,40 @@
+{
+  "address": "3vF5jbkEvr5uEuHmd2NGgHHWdstpDnMUvUJKydYNpump",
+  "name": "Super Sperm Donor",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Telegraph/status/1936569865248084284",
+    "website": "https://x.com/Telegraph/status/1936569865248084284"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSQjMtB5Jo6ViDe492FQYpDQHALD5t16JH9Nugc6GaysQ",
+  "price": 3.763118788341624e-06,
+  "liquidity": 0.5579544823503283,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3763.118788341624,
+  "market_cap": 3763.118788341624,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1750549283,
+      "slot": 348347189,
+      "tx_hash": "4jUJNeKN3SM4UNVz4w2wG6gHiu4SwNwk3fN3sqKuDcU1R8YdckMGWTPLtmuuLsdQyLCw8sSAnMagBjBxwDvU29Dv"
+    },
+    "creator": "CEUA7zVoDRqRYoeHTP58UHU6TR8yvtVbeLrX1dppqoXJ",
+    "address": "3vF5jbkEvr5uEuHmd2NGgHHWdstpDnMUvUJKydYNpump",
+    "creation_time": 1750549283,
+    "graduated": false,
+    "pool": {
+      "address": "Y33eGWXvxzug8jgR7JAV1UMVJmcek2JzYZEgNeya86c",
+      "real_sol_reserves": "21",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

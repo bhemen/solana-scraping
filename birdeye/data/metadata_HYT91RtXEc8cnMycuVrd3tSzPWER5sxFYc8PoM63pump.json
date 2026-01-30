@@ -1,0 +1,17 @@
+{
+  "address": "HYT91RtXEc8cnMycuVrd3tSzPWER5sxFYc8PoM63pump",
+  "name": "Pope Leo 14",
+  "symbol": "PL1",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/TheNotoriousMMA/status/1920939196698484934"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GqiMBM3XcAAcaP-.jpg",
+  "price": 4.831065085278936e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4831.065085278921,
+  "market_cap": 4831.065085278921
+}

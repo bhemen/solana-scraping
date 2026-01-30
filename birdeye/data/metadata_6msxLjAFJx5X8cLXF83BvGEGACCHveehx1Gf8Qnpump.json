@@ -1,0 +1,18 @@
+{
+  "address": "6msxLjAFJx5X8cLXF83BvGEGACCHveehx1Gf8Qnpump",
+  "name": "Pope Leo XIV",
+  "symbol": "LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "OUR GLORIOUS POPE. An american GOAT. Villianova winning the Natty next year. ",
+    "twitter": "https://x.com/VaticanNews",
+    "website": "https://en.wikipedia.org/wiki/Pope_Leo_XIV"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWPXXRkK6BPsW8XF6MCmzxLNxsFieNgVxsnTSEsRiQRKH",
+  "price": 4.676723764082969e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4676.723764082969,
+  "market_cap": 4676.723764082969
+}

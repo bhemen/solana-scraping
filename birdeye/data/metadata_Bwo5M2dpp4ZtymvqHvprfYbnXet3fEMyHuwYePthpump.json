@@ -1,0 +1,17 @@
+{
+  "address": "Bwo5M2dpp4ZtymvqHvprfYbnXet3fEMyHuwYePthpump",
+  "name": "Zelenskyy",
+  "symbol": "Zelenskyy",
+  "decimals": 6,
+  "extensions": {
+    "description": "President of Ukraine / \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+    "twitter": "https://x.com/ZelenskyyUa"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYWT6qfobSHN5gNCdsY3ejcoAD5LTdboJw6MovrMepgjh",
+  "price": 7.142636639933678e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 999999999.9,
+  "circulating_supply": 999999999.9,
+  "fdv": 7142.636639219414,
+  "market_cap": 7142.636639219414
+}

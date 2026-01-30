@@ -1,0 +1,39 @@
+{
+  "address": "ECLtm5KiJ86WkfTC5ZDd5QVNNwXb7RrTMg2ML5Vgpump",
+  "name": "The AI Teacher",
+  "symbol": "Kia",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://youtu.be/Uv0rqeVgIho"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmeddtP4kLn97RPPqxpTmxaSRXAU7e1HEbxocFuwe2y1aX",
+  "price": 5.991248336807877e-06,
+  "liquidity": 0.5829920390783803,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5991.2483368078765,
+  "market_cap": 5991.2483368078765,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1756414128,
+      "slot": 363148176,
+      "tx_hash": "2haM4bYjggBw92Dg4SbDaQ3iQARD6fr9MCoFGedvig4e5TLYHQuaQvkzn5o8hkuwg7oAVvRAacwGTDjTjnSCBPya"
+    },
+    "creator": "DoWxTJ9qgLr6hMpyr9zLXYvKv3MCkZUa77rNcwevWN1K",
+    "address": "ECLtm5KiJ86WkfTC5ZDd5QVNNwXb7RrTMg2ML5Vgpump",
+    "creation_time": 1756414128,
+    "graduated": false,
+    "pool": {
+      "address": "8pPPVhU8oxUJMcKP5B37SNaabtXEQdejCUY9TyCfGLs3",
+      "real_sol_reserves": "5",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

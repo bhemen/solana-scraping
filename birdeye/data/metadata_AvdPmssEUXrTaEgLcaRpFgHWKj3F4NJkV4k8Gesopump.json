@@ -1,0 +1,17 @@
+{
+  "address": "AvdPmssEUXrTaEgLcaRpFgHWKj3F4NJkV4k8Gesopump",
+  "name": "teacher",
+  "symbol": "freaky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.instagram.com/reel/DGkLXqTu8Gs/?igsh=NnM0Mml3OWFodmZ0"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmajjctMLzwz5Px82SamzjRhTuDFArG7aRSZRoSHGM5nuU",
+  "price": 3.483336703933855e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3483.336703933855,
+  "market_cap": 3483.336703933855
+}

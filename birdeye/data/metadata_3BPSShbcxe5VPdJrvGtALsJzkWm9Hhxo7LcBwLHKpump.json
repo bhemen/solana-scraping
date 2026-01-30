@@ -1,0 +1,19 @@
+{
+  "address": "3BPSShbcxe5VPdJrvGtALsJzkWm9Hhxo7LcBwLHKpump",
+  "name": "Nick \ud83c\udfc6",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Gm to everyone! \u2615\ufe0f \u2600\ufe0f\r\n\r\nIt's Friday!",
+    "twitter": "https://x.com/NickNFTn/status/1870011082984828977",
+    "website": "https://x.com/NickNFTn"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZBEYvS5dWf9Ask2adPGVLytrRRB7pXKzNWPvWTaxwFF2",
+  "price": 5.291577227570551e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5291.577227570551,
+  "market_cap": 5291.577227570551,
+  "meme_info": null
+}

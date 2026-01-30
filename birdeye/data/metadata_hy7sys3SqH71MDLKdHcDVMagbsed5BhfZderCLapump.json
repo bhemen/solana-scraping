@@ -1,0 +1,16 @@
+{
+  "address": "hy7sys3SqH71MDLKdHcDVMagbsed5BhfZderCLapump",
+  "name": "nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nick_emmons",
+    "website": "https://www.allora.network/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUA2AyaTKoVsZdUS9QPv6GtjegBwrrpXRKBZ5io1AT9no",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

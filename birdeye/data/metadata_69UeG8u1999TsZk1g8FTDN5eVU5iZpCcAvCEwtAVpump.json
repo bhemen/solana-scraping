@@ -1,0 +1,19 @@
+{
+  "address": "69UeG8u1999TsZk1g8FTDN5eVU5iZpCcAvCEwtAVpump",
+  "name": "HARO",
+  "symbol": "HARO",
+  "decimals": 6,
+  "extensions": {
+    "description": "You wanted divine intervention? Here I am heaven's outcast, hell's rejection, humanity's answer\r\n$HARO is not just any crypto mascot. He's a Fallen Angel who traded his $HARO and Wings for true Justice, The one who bring consequences.",
+    "twitter": "https://x.com/harocatlol",
+    "website": "https://harocat.ink",
+    "telegram": "https://t.me/harocatlol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVHU18FANxqSbcdQPmqLmBSeChWUAuQcdPr1DFkGj6q97",
+  "price": 5.278886265815023e-06,
+  "liquidity": 0.42004443385080553,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5278.886265815023,
+  "market_cap": 5278.886265815023
+}

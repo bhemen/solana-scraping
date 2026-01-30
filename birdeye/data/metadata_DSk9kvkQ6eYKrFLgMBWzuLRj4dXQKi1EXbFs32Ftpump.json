@@ -1,0 +1,17 @@
+{
+  "address": "DSk9kvkQ6eYKrFLgMBWzuLRj4dXQKi1EXbFs32Ftpump",
+  "name": "Zelenskiy",
+  "symbol": "ZELENSKIY",
+  "decimals": 6,
+  "extensions": {
+    "description": "Support for Ukraine",
+    "telegram": "https://t.me/zelenkiymeme"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX5LGCb5UawzsyQiTU73HpAz8bfWk1VeGa3jjzywCkPq9",
+  "price": 4.871880909325836e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 4871.880909325831,
+  "market_cap": 4871.880909325831
+}

@@ -1,0 +1,15 @@
+{
+  "address": "8iQQQ49fudtVK2sKR8Ve9dfUqG9YQKGwqBR3enbqpump",
+  "name": "Free Pavel Durov",
+  "symbol": "FREEPAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free Pavel Durov, you French Bastards",
+    "telegram": "https://t.me/FreePavelonSOL"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmQYDqfYiDCMgESqMrGfrWPbrfKf9gaWXo9vwSpMRJYjtp",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

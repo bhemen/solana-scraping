@@ -1,0 +1,15 @@
+{
+  "address": "7XGMm1bpdbu8QNDXEVmUfv7Y2KyrYcS1txNrDVVFpump",
+  "name": "pepe",
+  "symbol": "royal",
+  "decimals": 6,
+  "extensions": {
+    "description": "king of the market \ud83d\udfe9\ud83d\udfe5\ud83d\udfe9\ud83d\udfe5\ud83d\udfe9\ud83d\udfe5",
+    "twitter": "https://x.com/DonCrypto_/status/1858935842636812664"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdwqaFyBiu8SVXSLjrm74hZ2ek45sbX9kJ34JDaJ3NKwG",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

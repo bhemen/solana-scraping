@@ -1,0 +1,17 @@
+{
+  "address": "2Wx54NnYwNmZiDoegRCXs3DEu8GwJ3F8eV5ENJa3pump",
+  "name": "Pope Leo's X Elephant Pet",
+  "symbol": "Hanno",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://en.wikipedia.org/wiki/Hanno_(elephant)",
+    "website": "https://en.wikipedia.org/wiki/Hanno_(elephant)",
+    "telegram": "https://en.wikipedia.org/wiki/Hanno_(elephant)"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNrhdEC4qDmndp5jKYdkSngqkWzZQEGcyQNR3MZ6LEAkt",
+  "price": null,
+  "total_supply": 999999999.170865,
+  "circulating_supply": 999999999.170865,
+  "meme_info": null
+}

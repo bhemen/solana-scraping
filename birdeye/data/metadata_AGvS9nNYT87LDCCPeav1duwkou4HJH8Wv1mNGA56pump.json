@@ -1,0 +1,17 @@
+{
+  "address": "AGvS9nNYT87LDCCPeav1duwkou4HJH8Wv1mNGA56pump",
+  "name": "Cannon",
+  "symbol": "CANNO",
+  "decimals": 6,
+  "extensions": {
+    "description": "tabesco ciminatio statua vesper bene",
+    "website": "https://canqc.net"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRVQc8GDLZHLjGvWo25oBqtXuAB8XDSpANJ24jDQfBuYs",
+  "price": 5.282123930071641e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5282.123930071642,
+  "market_cap": 5282.123930071642
+}

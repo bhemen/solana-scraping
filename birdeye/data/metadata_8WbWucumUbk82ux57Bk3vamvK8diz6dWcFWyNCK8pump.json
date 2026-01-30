@@ -1,0 +1,17 @@
+{
+  "address": "8WbWucumUbk82ux57Bk3vamvK8diz6dWcFWyNCK8pump",
+  "name": "cannon dog",
+  "symbol": "Cannon",
+  "decimals": 6,
+  "extensions": {
+    "description": "chinese cannon dog",
+    "website": "https://v.douyin.com/nQ-WWccefoY"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdRHGvWePpTowH4sf6Fgz9Z5bsgCDm7WZnpdpmhuFn6BM",
+  "price": 3.691377830850718e-06,
+  "liquidity": 0.41666627710387727,
+  "total_supply": 999999999.98665,
+  "circulating_supply": 999999999.98665,
+  "fdv": 3691.377830801438,
+  "market_cap": 3691.377830801438
+}

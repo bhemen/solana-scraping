@@ -1,0 +1,19 @@
+{
+  "address": "Ar7ZG3tGzkzJ3cr8cvEWhzrQf2FkzBNEaF7yhbhWpump",
+  "name": "JUSTICE FOR PAVEL DUROV",
+  "symbol": "JFPD",
+  "decimals": 6,
+  "extensions": {
+    "description": "WE LOVE PAVEL",
+    "twitter": "https://x.com/durov",
+    "website": "https://web.telegram.org/",
+    "telegram": "https://web.telegram.org/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdV89MzeQhVq8TXe4trfZ5E5hGoWN3q86k1CWacrr4uL1",
+  "price": 3.8089201872600143e-06,
+  "liquidity": 0.4166683064331205,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3808.9201872600142,
+  "market_cap": 3808.9201872600142
+}

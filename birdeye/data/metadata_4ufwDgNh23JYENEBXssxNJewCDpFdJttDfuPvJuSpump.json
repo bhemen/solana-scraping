@@ -1,0 +1,16 @@
+{
+  "address": "4ufwDgNh23JYENEBXssxNJewCDpFdJttDfuPvJuSpump",
+  "name": "PEPE",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "My mother is dying, my total assets are $50, please help"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmf9cCZ9qgS18v552bSyvSf1tZKNcEGTa14f3j5vxwsabe",
+  "price": 7.599689469526305e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7599.6894695263045,
+  "market_cap": 7599.6894695263045
+}

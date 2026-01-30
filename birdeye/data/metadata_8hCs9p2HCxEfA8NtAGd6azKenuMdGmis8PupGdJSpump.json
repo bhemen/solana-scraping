@@ -1,0 +1,17 @@
+{
+  "address": "8hCs9p2HCxEfA8NtAGd6azKenuMdGmis8PupGdJSpump",
+  "name": "POPE LEO XIV HOUSE",
+  "symbol": "APOSTOLIC",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/MarioNawfal/status/1923428230859456578"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVSpd9fPt2WurBdbJ6Q5y8cA2qDugqYcB5WAkYjb8CBd5",
+  "price": 4.646910972529222e-06,
+  "liquidity": 0.6523931792216204,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4646.910972529222,
+  "market_cap": 4646.910972529222
+}

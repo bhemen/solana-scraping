@@ -1,0 +1,17 @@
+{
+  "address": "3x9EhZuyKEu1u423CvbB1FkrEAoNEzdW3RkqPx5zpump",
+  "name": "Pavelski",
+  "symbol": "Pavelski",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/PavelskiBH"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qme1x9xFvv9wosMjprP3L5Fk3KLqtCXnnRTiQ31QVpuDTQ",
+  "price": 7.268582097278287e-06,
+  "liquidity": 4.805303845200018,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7268.582097278287,
+  "market_cap": 7268.582097278287
+}

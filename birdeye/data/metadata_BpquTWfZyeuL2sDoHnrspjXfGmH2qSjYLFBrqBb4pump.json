@@ -1,0 +1,17 @@
+{
+  "address": "BpquTWfZyeuL2sDoHnrspjXfGmH2qSjYLFBrqBb4pump",
+  "name": "Goon Teacher",
+  "symbol": "Megan",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/dailystar/status/1917925560296116236"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRqtiB7XzwmKWeod1ETPycqoobXUJi1b1fxaBSknFn2MT",
+  "price": 4.2285822546574795e-06,
+  "liquidity": 0.7845529349238494,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4228.582254657479,
+  "market_cap": 4228.582254657479
+}

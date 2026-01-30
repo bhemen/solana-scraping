@@ -1,0 +1,15 @@
+{
+  "address": "7Wfw4kiHyK3CiC2x1oLNTHyBDn8pFQdEveGiKn6upump",
+  "name": "haro",
+  "symbol": "HARO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/haro_the_hippo"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWytABNi2gQjniArW4seCjjbZQCLkrDXLofATtzDwc6E7",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,40 @@
+{
+  "address": "8VG2j3gau3C7qE63VKugxzu1DDBMFFvBQo8CMRSBpump",
+  "name": "Tyler Robinson  father Matt",
+  "symbol": "HERO",
+  "decimals": 6,
+  "extensions": {
+    "description": "Tyler Robinson with his father Matt in earlier days, who turned him in.\n",
+    "twitter": "https://x.com/joshryanjames/status/1966491986463965269",
+    "website": "https://nypost.com/2025/09/12/us-news/we-have-him-trump-says-suspect-in-custody-for-charlie-kirk-assassination/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeiegiiee7mc4hlzjaakrsk6p4mbwmn7k2i2svkzfrukdbw4tel6wem",
+  "price": 6.916728650892565e-06,
+  "liquidity": 0.948042073456773,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6916.728650892565,
+  "market_cap": 6916.728650892565,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757684040,
+      "slot": 366337601,
+      "tx_hash": "4qsFNNezxqtcNatyrRaD53jFrn89qdwxzxn19VoPFFErPiAmwxpfyTXb6Q1tutpLj3dUVKV2Qva5YYhACxQ9XcUk"
+    },
+    "creator": "CcACvZ81kQyE3RLmTCnXy6L9soPC3kKcKXnQakKYt3DD",
+    "address": "8VG2j3gau3C7qE63VKugxzu1DDBMFFvBQo8CMRSBpump",
+    "creation_time": 1757684040,
+    "graduated": false,
+    "pool": {
+      "address": "4igtA3M7ToMhcQieQXqnuQPTBAGzHGmMaGWuhZnwEYzy",
+      "real_sol_reserves": "3",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

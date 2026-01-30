@@ -1,0 +1,14 @@
+{
+  "address": "9bNFLLSuy2x9xkrJKqwwSaALwPmVi6pf7DoSReecpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "Can we name it \"Nick\"? Based on Zootopia\r\n\r\n1) OMG FAVORITE BACKSTREET BOY TOO \r\n2) Wen sequel ugh like have they made detective yet \ud83d\ude2d"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQkbxU8QtQNVhgs6EZxbfU3QtPxy1Gkj8J8PQpkuxDftx",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

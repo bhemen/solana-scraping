@@ -1,0 +1,16 @@
+{
+  "address": "3Zeowm9oFGmeLBq9AZSF6mm3iPoDTSxFMGS5Lwippump",
+  "name": "ZELENSKIY",
+  "symbol": "ZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Token in support of the president of Ukraine and the situation in the world",
+    "website": "https://ze2019.com/",
+    "telegram": "https://t.me/V_Zelenskiy_official"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPzXDyjHXHY56ULHrmJZGSJyksw1yT94u4woapaQXC8WQ",
+  "price": null,
+  "total_supply": 999999999.112961,
+  "circulating_supply": 999999999.112961,
+  "meme_info": null
+}

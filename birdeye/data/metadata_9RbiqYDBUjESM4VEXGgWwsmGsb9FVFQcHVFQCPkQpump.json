@@ -1,0 +1,18 @@
+{
+  "address": "9RbiqYDBUjESM4VEXGgWwsmGsb9FVFQcHVFQCPkQpump",
+  "name": "ARNOLD",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": "Hey there, neighbor! I\u2019m Arnold\u2014a kid with a football-shaped head and a knack for finding adventure. Hillwood\u2019s my home, and every corner\u2019s got a story. Whether I\u2019m helping a friend, hanging out with Grandpa, or just staring at the city lights from my rooftop, it\u2019s all about the little moments. So yeah, welcome to my world\u2014kick back, stay a while, and let\u2019s see where this goes.\r\n",
+    "twitter": "https://twitter.com/HeyArnoldSol",
+    "website": "https://heyarnold.fun/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQewkUS9KtC9qNaNEkzw4u2hMZm3ziuheBW63dEuN1Ppv",
+  "price": 5.31292520234382e-06,
+  "liquidity": 0.41667507086393135,
+  "total_supply": 999999999.990018,
+  "circulating_supply": 999999999.990018,
+  "fdv": 5312.925202290787,
+  "market_cap": 5312.925202290787
+}

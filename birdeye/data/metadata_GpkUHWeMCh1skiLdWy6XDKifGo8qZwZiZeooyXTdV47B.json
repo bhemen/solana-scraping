@@ -1,0 +1,17 @@
+{
+  "address": "GpkUHWeMCh1skiLdWy6XDKifGo8qZwZiZeooyXTdV47B",
+  "name": "FREE PAVEL",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "[#FreePavel](https://x.com/hashtag/FreePavel)",
+    "twitter": "https://x.com/elonmusk/status/1827572720936030703",
+    "website": "https://x.com/elonmusk/status/1827572720936030703",
+    "telegram": "https://x.com/elonmusk/status/1827572720936030703"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmRWsjE1864ebmT8dE8VLRkauaXhnsaYqiaqKG3Sf5Jq4a",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

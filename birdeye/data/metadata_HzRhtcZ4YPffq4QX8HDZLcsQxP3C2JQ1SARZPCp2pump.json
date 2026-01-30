@@ -1,0 +1,17 @@
+{
+  "address": "HzRhtcZ4YPffq4QX8HDZLcsQxP3C2JQ1SARZPCp2pump",
+  "name": "Free Pavel Durov",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "t.me",
+    "website": "t.me",
+    "telegram": "t.me"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmeT4eFkYsVbet1EjUTc2AjJg96YzDpTSN7dvr6GYCQ3RW",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

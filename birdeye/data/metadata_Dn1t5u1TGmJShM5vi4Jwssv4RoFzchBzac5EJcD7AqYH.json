@@ -1,0 +1,38 @@
+{
+  "address": "Dn1t5u1TGmJShM5vi4Jwssv4RoFzchBzac5EJcD7AqYH",
+  "name": "TYLER ROBINSON ",
+  "symbol": "KILLERROB",
+  "decimals": 6,
+  "extensions": {
+    "description": "TYLER ROBINSON THE SNIPER KILLER"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXNVU5xomuBmTnZCGCbNXgf4bCjpE2TkfkVQZz1W6eTrj",
+  "price": 6.743776614699795e-06,
+  "liquidity": 0.9403947918800506,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6743.776614699795,
+  "market_cap": 6743.776614699795,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757687562,
+      "slot": 366346490,
+      "tx_hash": "4wyCJhFEALovj8ZYtTg9eo7xmV7r3uazKpc3bLWKQUhiFJTjKzsL5AdGcYkqqYpjoCf6mjk66VMqErnd9bkG4mch"
+    },
+    "creator": "FWKEVRjFsnWgpRmSLuzfx9yPZ6PbdtZVxYh1ELUpiDWL",
+    "address": "Dn1t5u1TGmJShM5vi4Jwssv4RoFzchBzac5EJcD7AqYH",
+    "creation_time": 1757687562,
+    "graduated": false,
+    "pool": {
+      "address": "8uQq9fppxKXk7gU6Tg6KzAT92YisrvDMq8wcRquRDwZ3",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

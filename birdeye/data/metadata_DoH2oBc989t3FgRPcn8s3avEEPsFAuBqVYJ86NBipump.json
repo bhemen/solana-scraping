@@ -1,0 +1,17 @@
+{
+  "address": "DoH2oBc989t3FgRPcn8s3avEEPsFAuBqVYJ86NBipump",
+  "name": "PEDO TEACHER-",
+  "symbol": "Bryan",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1920931370701926489"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUZFt1ncZ5WBtGuvcTFM4f7b89CprNmVrLvSyNm46Ni8k",
+  "price": 4.81738758361041e-06,
+  "liquidity": 0.9039450945558409,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4817.38758361041,
+  "market_cap": 4817.38758361041
+}

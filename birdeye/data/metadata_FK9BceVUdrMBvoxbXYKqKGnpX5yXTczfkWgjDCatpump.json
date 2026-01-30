@@ -1,0 +1,38 @@
+{
+  "address": "FK9BceVUdrMBvoxbXYKqKGnpX5yXTczfkWgjDCatpump",
+  "name": "Tyler Robinson",
+  "symbol": "TylerR",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeigdun322uhvmde5japkixkszmmzylvpeitgg6ekpdfoel6w5un33q",
+  "price": 6.697509279934172e-06,
+  "liquidity": 0.9416282073219152,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6697.509279934172,
+  "market_cap": 6697.509279934172,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757689591,
+      "slot": 366351632,
+      "tx_hash": "55VvaVqPACGiinxMaZmaQc1TTu9JLFF91MNiTqm6qxoJdPWGbj8QQEgEavFiVNhipzMUbtyUFm6EK95sLnhHLMVh"
+    },
+    "creator": "4U8A1Q77FUB4wNA4yxDvgdT3uxMBbxieJaUhHny9yZX2",
+    "address": "FK9BceVUdrMBvoxbXYKqKGnpX5yXTczfkWgjDCatpump",
+    "creation_time": 1757689591,
+    "graduated": false,
+    "pool": {
+      "address": "H43vUafjqaLJsRBQ9MCkSbWtEPjeAYriiKRkXnv8GYrc",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

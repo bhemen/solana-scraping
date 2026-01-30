@@ -1,0 +1,17 @@
+{
+  "address": "4b9V1fQHhYSGPU6kSp9if6wDjdAbJacGgwQgBa4WNQ6E",
+  "name": "pope leo",
+  "symbol": "pope leo",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GqcV2GvXQAA7gp1.jpg",
+  "price": 4.477169724547766e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4477.169724547766,
+  "market_cap": 4477.169724547766
+}

@@ -1,0 +1,14 @@
+{
+  "address": "7hGA15pYnLAeSu3KqKVMpfqZviE6Aiy3WpZx4ctzgH2k",
+  "name": "arnold",
+  "symbol": "arnold",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYT4txJ5naLPrS5Tzu2RSCeBNfVkLMRje9ZLXYXBkKsrn",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

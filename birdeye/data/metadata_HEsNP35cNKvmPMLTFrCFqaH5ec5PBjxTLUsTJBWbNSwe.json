@@ -1,0 +1,17 @@
+{
+  "address": "HEsNP35cNKvmPMLTFrCFqaH5ec5PBjxTLUsTJBWbNSwe",
+  "name": "nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "they call me nick. no neck",
+    "twitter": "https://t.me/BullxBetaBot?start=access_C1X7PWOSI7",
+    "website": "https://t.me/BullxBetaBot?start=access_C1X7PWOSI7",
+    "telegram": "https://t.me/BullxBetaBot?start=access_C1X7PWOSI7"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmZYoBpMedUUn51vMzunQ9qe9vXmA7mUjRQXjk1NzH4fcf",
+  "price": null,
+  "total_supply": 999999999.792333,
+  "circulating_supply": 999999999.792333,
+  "meme_info": null
+}

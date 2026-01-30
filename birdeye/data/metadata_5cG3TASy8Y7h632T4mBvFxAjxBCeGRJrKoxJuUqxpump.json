@@ -1,0 +1,18 @@
+{
+  "address": "5cG3TASy8Y7h632T4mBvFxAjxBCeGRJrKoxJuUqxpump",
+  "name": "Pavel Durov Officiel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Ride the 'Durov Wave'\u2014the memecoin that\u2019s breaking the internet and could break your wallet (in a good way)!",
+    "twitter": "https://x.com/telegram",
+    "website": "https://telegram.org/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmT27TFjuPAzZYf91iCBJiYo82zCdDWBvCa67R1weMcryP",
+  "price": 7.408431150272123e-06,
+  "liquidity": 45.186513488107536,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7408.431150272123,
+  "market_cap": 7408.431150272123
+}

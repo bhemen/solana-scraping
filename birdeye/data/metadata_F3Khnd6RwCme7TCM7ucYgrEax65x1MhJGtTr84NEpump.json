@@ -1,0 +1,17 @@
+{
+  "address": "F3Khnd6RwCme7TCM7ucYgrEax65x1MhJGtTr84NEpump",
+  "name": "DIDDY TEACHER",
+  "symbol": "DIDDYHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/home"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTzVWPHShHJhyriG5igrzKa4u8cGUQuf2CPUuvaY72d97",
+  "price": 3.534575054633873e-06,
+  "liquidity": 0.31005205127285335,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3534.5750546338727,
+  "market_cap": 3534.5750546338727
+}

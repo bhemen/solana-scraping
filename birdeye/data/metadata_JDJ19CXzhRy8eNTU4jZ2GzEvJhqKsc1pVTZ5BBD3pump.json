@@ -1,0 +1,17 @@
+{
+  "address": "JDJ19CXzhRy8eNTU4jZ2GzEvJhqKsc1pVTZ5BBD3pump",
+  "name": "haro ",
+  "symbol": "haro",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.youtube.com/watch?v=rNMmVxhZP98"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPiUi7xdEKjNuLCjTPue1dAmPESt2HLQ2hEDhWquATQXh",
+  "price": 2.923602009195248e-06,
+  "liquidity": 0.41666526243925567,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 2923.6020091952482,
+  "market_cap": 2923.6020091952482
+}

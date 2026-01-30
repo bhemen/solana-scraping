@@ -1,0 +1,19 @@
+{
+  "address": "6aFcYV66Ns1c54e3YYD6eFyXndkQTYAnHGeQVHQZpump",
+  "name": "Justice For Pavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.nzherald.co.nz/business/young-bitcoin-millionaire-dies-in-suspected-suicide-after-having-fortune-stolen/YT7W4UIHZ3UPK7YH2SBL43JPEM/",
+    "website": "https://www.nzherald.co.nz/business/young-bitcoin-millionaire-dies-in-suspected-suicide-after-having-fortune-stolen/YT7W4UIHZ3UPK7YH2SBL43JPEM/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmY8L7zxXGWD4igZiqbAFi1VzPeftztfMv1MnwgygziZPZ",
+  "price": 6.29883077113219e-06,
+  "liquidity": 0.416676085528553,
+  "total_supply": 999999999.774194,
+  "circulating_supply": 999999999.774194,
+  "fdv": 6298.830769709876,
+  "market_cap": 6298.830769709876,
+  "meme_info": null
+}

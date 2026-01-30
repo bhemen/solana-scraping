@@ -1,0 +1,15 @@
+{
+  "address": "GMY3SSUYRmwZ8KeM5x6A9XVR5p4sdpK5szZqy5HYpump",
+  "name": "Pavel Durov",
+  "symbol": "PnD",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/WatcherGuru/status/1827450423608795287"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmSjJ2ZdpW9saAVjuppnYtPnmnruvZwhnTCsF2cPkPyjzv",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,16 @@
+{
+  "address": "BZANvMymu2VAzAQ8cgQZ2FNekQ7WHWbaQ1Bu8i9CVrMg",
+  "name": "zelensky",
+  "symbol": "zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "ukraine"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmR6Bj2vdcs8FN5Cj8bhyp4hHh5FcTyxNCR2ZmcaWCkZYW",
+  "price": 4.003404596858163e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4003.4045968581627,
+  "market_cap": 4003.4045968581627
+}

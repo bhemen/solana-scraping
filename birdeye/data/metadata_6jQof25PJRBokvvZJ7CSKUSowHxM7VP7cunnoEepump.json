@@ -1,0 +1,16 @@
+{
+  "address": "6jQof25PJRBokvvZJ7CSKUSowHxM7VP7cunnoEepump",
+  "name": "Robert Prevost",
+  "symbol": "prevost",
+  "decimals": 6,
+  "extensions": {
+    "description": "New Pope Robert Prevost"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcBicvTxpPf8Ncsimxb8UBN5sjNMGpAxmjm6ySRPra5p4",
+  "price": 4.512731747548469e-06,
+  "liquidity": 0.9039447563343004,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4512.731747548469,
+  "market_cap": 4512.731747548469
+}

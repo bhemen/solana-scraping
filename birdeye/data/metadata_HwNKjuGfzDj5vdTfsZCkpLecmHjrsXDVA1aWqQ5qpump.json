@@ -1,0 +1,16 @@
+{
+  "address": "HwNKjuGfzDj5vdTfsZCkpLecmHjrsXDVA1aWqQ5qpump",
+  "name": "Zelensky",
+  "symbol": "0.000052",
+  "decimals": 6,
+  "extensions": {
+    "description": "Ukraine President "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQsxBTvKsJBGYoAbZNpGAHNxs2VZRSa8Xi9W3uY1xtmHk",
+  "price": 4.179258595190837e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 999999999.997395,
+  "circulating_supply": 999999999.997395,
+  "fdv": 4179.25859517995,
+  "market_cap": 4179.25859517995
+}

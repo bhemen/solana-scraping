@@ -1,0 +1,17 @@
+{
+  "address": "AsQAsJJMAaUfdQGDedsTkiq5BTqCPpc5q1z6MDScpump",
+  "name": "TEACHER",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "Help me resign my teacher! He claims that memecoins is a scam that insiders pump to fool the masses. I told him it\u2019s not and that I will create one to put the theory to the test. He said that he will literally resign if we pull this off guys."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRB59auQYVN2hEbks5rVWaZFZd3RX2EHsiJNP2Pqze9rS",
+  "price": 5.002620332207923e-06,
+  "liquidity": 0.4879972807576475,
+  "total_supply": 999999999.623763,
+  "circulating_supply": 999999999.623763,
+  "fdv": 5002.620330325752,
+  "market_cap": 5002.620330325752,
+  "meme_info": null
+}

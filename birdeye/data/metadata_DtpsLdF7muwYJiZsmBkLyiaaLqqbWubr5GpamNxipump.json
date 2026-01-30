@@ -1,0 +1,17 @@
+{
+  "address": "DtpsLdF7muwYJiZsmBkLyiaaLqqbWubr5GpamNxipump",
+  "name": "Andy's Teacher",
+  "symbol": "MattNicoll",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/AndyAyrey/status/306670175149768704",
+    "twitter": "https://x.com/AndyAyrey/status/306670175149768704",
+    "website": "https://x.com/AndyAyrey/status/306670175149768704",
+    "telegram": "https://x.com/AndyAyrey/status/306670175149768704"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmahLez2k8vABbQ6uu9Kj5n97nxpggdCvFrQnXpCuGcY67",
+  "price": null,
+  "total_supply": 999999999.995532,
+  "circulating_supply": 999999999.995532,
+  "meme_info": null
+}

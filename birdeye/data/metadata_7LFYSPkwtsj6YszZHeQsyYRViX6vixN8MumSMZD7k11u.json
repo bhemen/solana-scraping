@@ -1,0 +1,17 @@
+{
+  "address": "7LFYSPkwtsj6YszZHeQsyYRViX6vixN8MumSMZD7k11u",
+  "name": "real teachers",
+  "symbol": "RT",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.x.com/"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmbUwwVXdaX8fG3aQCiQqyQf1CG1fxLPySjzjCbe3KhW4P",
+  "price": 5.464637531363118e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5464.637531363118,
+  "market_cap": 5464.637531363118
+}

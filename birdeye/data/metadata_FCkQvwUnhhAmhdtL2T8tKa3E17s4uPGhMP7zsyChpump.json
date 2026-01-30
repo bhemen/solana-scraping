@@ -1,0 +1,39 @@
+{
+  "address": "FCkQvwUnhhAmhdtL2T8tKa3E17s4uPGhMP7zsyChpump",
+  "name": "Death Penalty For Tyler Robinson",
+  "symbol": "TYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/AZ_Intel_/status/1966505795035570658"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSWxDdvrbK2gdx1YsV4eEreHUBk1CDrxW7PzqpKm1QM4m",
+  "price": 6.740389155899488e-06,
+  "liquidity": 0.9443080726116918,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6740.389155899487,
+  "market_cap": 6740.389155899487,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757686545,
+      "slot": 366343917,
+      "tx_hash": "Xm6X72HJpTfohow3sj5fJbieUVNv3q2ae9j8QhRR7FfVHCLZxM2hZjFnPMUfnxofcVatmTCpvhwan1d7TmnfGhU"
+    },
+    "creator": "BforxpJjqhTcHGJpe8u2vnkJhbzH1rXHxcHmoNYv5C33",
+    "address": "FCkQvwUnhhAmhdtL2T8tKa3E17s4uPGhMP7zsyChpump",
+    "creation_time": 1757686545,
+    "graduated": false,
+    "pool": {
+      "address": "AzGqgg5oCWEQLAWbKHrequcwjhNbty5W99EYap6Bovyc",
+      "real_sol_reserves": "5",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

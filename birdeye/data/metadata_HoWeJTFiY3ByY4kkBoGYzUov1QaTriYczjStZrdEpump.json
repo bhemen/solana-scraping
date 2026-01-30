@@ -1,0 +1,20 @@
+{
+  "address": "HoWeJTFiY3ByY4kkBoGYzUov1QaTriYczjStZrdEpump",
+  "name": "Justice For Pavel",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Crypto_Briefing/status/1865390219647737883",
+    "website": "https://x.com/Crypto_Briefing/status/1865390219647737883",
+    "telegram": "https://x.com/Crypto_Briefing/status/1865390219647737883"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma4FE7bqQumov6hk3wqbFFo44cx8Cia3TfBmmBQPn3swv",
+  "price": 6.7246263229776365e-06,
+  "liquidity": 0.41667270331314754,
+  "total_supply": 999999999.000001,
+  "circulating_supply": 999999999.000001,
+  "fdv": 6724.626316253017,
+  "market_cap": 6724.626316253017,
+  "meme_info": null
+}

@@ -1,0 +1,16 @@
+{
+  "address": "DyEp6cLvXW7iBs1amJ3t3sEAxD2vTaFENMK4eW7hpump",
+  "name": "Zelensky ",
+  "symbol": "ZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Introducing \"Zelensky\" \u2013 the meme coin with a mission! Inspired by the resilience of Ukraine, Zelensky combines humor and heart by turning memes into meaningful impact. A portion of every transaction and profits generated will be directly donated to humanitarian aid and rebuilding efforts in Ukraine. Holders can enjoy the fun of meme culture while knowing their investments are supporting a noble cause. "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXvHzCyV6tKUbkQBxtZ39vp9LjEx6PEKCfwtDrBPmJAKZ",
+  "price": 3.9920133368576735e-06,
+  "liquidity": 3.7988783003031923,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3992.0133368576735,
+  "market_cap": 3992.0133368576735
+}

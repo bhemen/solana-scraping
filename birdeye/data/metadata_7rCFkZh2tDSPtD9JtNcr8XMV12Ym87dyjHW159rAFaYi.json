@@ -1,0 +1,17 @@
+{
+  "address": "7rCFkZh2tDSPtD9JtNcr8XMV12Ym87dyjHW159rAFaYi",
+  "name": "Pope Leo ",
+  "symbol": "Pope Leo ",
+  "decimals": 6,
+  "extensions": {
+    "description": "meow",
+    "twitter": "https://x.com/dogeofficialceo/status/1920533085038272864"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GqcamK8WgAEAXvK.jpg",
+  "price": 4.528518883443911e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4528.518883443898,
+  "market_cap": 4528.518883443898
+}

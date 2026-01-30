@@ -1,0 +1,40 @@
+{
+  "address": "F9Jk8xCgU3in3rp4EG67kuPYBQVm4Jrb2CAQszqdpump",
+  "name": "Notices, Bulges, OWO",
+  "symbol": "OWO",
+  "decimals": 6,
+  "extensions": {
+    "description": "TYLER ROBINSON WAS A FURRY",
+    "twitter": "https://x.com/CapitolModerate/status/1966506133310386636",
+    "website": "https://x.com/CapitolModerate/status/1966506133310386636"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreieisjvaxuki4rcg63l4b4ojqctn57pxlfjtzyyekuxug5icvehuua",
+  "price": 7.115268035354979e-06,
+  "liquidity": 1.4203182379048553,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7115.2680353549795,
+  "market_cap": 7115.2680353549795,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757689344,
+      "slot": 366351008,
+      "tx_hash": "7viuQ7uNgYmK8FHY3n3GwGKCtMiqqY6EEFefpDTEGf2yBztLbxbNLVJE4EYQCrJmtJyntQC3JvigA1WH4dr8mo8"
+    },
+    "creator": "6PHU41vPxA3jopSLvpjLLSDCqSqh3nJqx3dkAEZTRcLu",
+    "address": "F9Jk8xCgU3in3rp4EG67kuPYBQVm4Jrb2CAQszqdpump",
+    "creation_time": 1757689344,
+    "graduated": false,
+    "pool": {
+      "address": "CPJYhdQQhPapdYoLHM7Y32nzyYLZw2j7YD7wwkhbm2de",
+      "real_sol_reserves": "987655",
+      "real_token_reserves": "793064676071528",
+      "virtual_token_reserves": "1072964676071528",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0.00445,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

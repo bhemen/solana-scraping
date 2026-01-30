@@ -1,0 +1,44 @@
+{
+  "address": "6MyijVQx29egLefQDoA7JwSFcLydJWxagSXgKfyXpump",
+  "name": "Bot Teacher",
+  "symbol": "AI Teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1858982807676031324"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPLULMwU5zx8xATPqCvHZp9zdM2z84u3VYK6N3C5RsGfU",
+  "price": 4.219677536547547e-06,
+  "liquidity": 0.5976933215949839,
+  "total_supply": 999999999.764254,
+  "circulating_supply": 999999999.764254,
+  "fdv": 4219.677535552774,
+  "market_cap": 4219.677535552774,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1732051057,
+      "slot": 302404916,
+      "tx_hash": "EwohfSi5CTn9SjyCkkoxFEK5XbRR2QdkyiTntSSboB29UdSg3sSXt4iqtJaSxBx7KGrjNhPsip6b67dH2SuGrCr"
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": "79DXB7vitxeU1AyfahUtCm8ncvuCPmW9hgF4ZMeinmsF",
+    "address": "6MyijVQx29egLefQDoA7JwSFcLydJWxagSXgKfyXpump",
+    "creation_time": 1732051057,
+    "graduated": false,
+    "pool": {
+      "address": "AnCnW8HjB3Gp9LMP5gjgret57a2M2BB6RxfUuZAZoUnK",
+      "real_sol_reserves": "14",
+      "real_token_reserves": "793099999764254",
+      "virtual_token_reserves": "1072999999764254",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

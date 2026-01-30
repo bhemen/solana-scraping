@@ -1,0 +1,18 @@
+{
+  "address": "Hekj42yNEAQJjtRVRaFXQt9WiSdnWHidmxbSqsnopump",
+  "name": "Nick ",
+  "symbol": "Nick ",
+  "decimals": 6,
+  "extensions": {
+    "description": "Nick ",
+    "twitter": "https://x.com/NickNFTn",
+    "website": "https://nicks.com/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmR8eTMcESoXn9AfnRUi3KUCdWSvBQybWSCdWdT9nz4RFz",
+  "price": 5.089298456766322e-06,
+  "liquidity": 0.4166676299900395,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5089.298456766322,
+  "market_cap": 5089.298456766322
+}

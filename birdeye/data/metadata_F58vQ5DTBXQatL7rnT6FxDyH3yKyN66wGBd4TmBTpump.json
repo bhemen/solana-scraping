@@ -1,0 +1,17 @@
+{
+  "address": "F58vQ5DTBXQatL7rnT6FxDyH3yKyN66wGBd4TmBTpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "PEPE",
+    "twitter": "t.me/pepered",
+    "website": "t.me/pepered",
+    "telegram": "t.me/pepered"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmaPnajxkRBBor9b87zBEn7LA1Af8HpEuJxcQNmb7GNPr1",
+  "price": null,
+  "total_supply": 999999999.000001,
+  "circulating_supply": 999999999.000001,
+  "meme_info": null
+}

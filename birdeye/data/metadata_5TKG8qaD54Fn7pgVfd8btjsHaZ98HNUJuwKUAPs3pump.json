@@ -1,0 +1,15 @@
+{
+  "address": "5TKG8qaD54Fn7pgVfd8btjsHaZ98HNUJuwKUAPs3pump",
+  "name": "TEACHERS TATE",
+  "symbol": "TEACHERS",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/Cobratate/status/1849527588093374660",
+    "twitter": "https://x.com/Cobratate/status/1849527588093374660"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVxBf3ux1oP55HJoxzYKCGr89ncKPS6dfXh6BRJfEiCCE",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

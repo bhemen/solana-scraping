@@ -1,0 +1,16 @@
+{
+  "address": "BF1PhM7PimanV2VMezJWM7Hf52Rrhz6xwkWiE3FQpump",
+  "name": "Teacher dog",
+  "symbol": "tg",
+  "decimals": 6,
+  "extensions": {
+    "description": "In order to succeed, you must fail first in order to learn from your mistakes",
+    "twitter": "https://t.me/+NrOqRw1-aMk0Y2Jk",
+    "telegram": "https://t.me/+NrOqRw1-aMk0Y2Jk"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmemWopEqJvG9okknxqXZ5T1WrpzWGW3hLagMc1zPdJGkZ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

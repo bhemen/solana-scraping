@@ -1,0 +1,16 @@
+{
+  "address": "CfJ3y6bFVyVye5HSKu2ZL6vhQdQ39u4CibHELrRwpump",
+  "name": "Zelenskiy yap",
+  "symbol": "ZELENSKYAP",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskiy yapping about russia taking over the world or smthn bro is going crazy at this point."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXfuQufQ7i1YbyEbTubekXJ7K6DA1vUBxHmfywJJmBgQL",
+  "price": 4.635158948582518e-06,
+  "liquidity": 0.42654459625422875,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4635.158948582518,
+  "market_cap": 4635.158948582518
+}

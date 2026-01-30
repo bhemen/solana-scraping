@@ -1,0 +1,16 @@
+{
+  "address": "HrT4MxCrx4XqJFbWr9KVik6AE5pSpqcMkbvjEG7Ppump",
+  "name": "Zelen$ky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "He\u2019s just greedy "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmdz2ThvtWVBQ1tNG6kFbDv4DFyzgkgxzXGr1DpAyaba2b",
+  "price": 4.048239872095961e-06,
+  "liquidity": 0.4331009430815556,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4048.2398720959604,
+  "market_cap": 4048.2398720959604
+}

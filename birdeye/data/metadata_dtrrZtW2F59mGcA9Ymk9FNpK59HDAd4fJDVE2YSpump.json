@@ -1,0 +1,17 @@
+{
+  "address": "dtrrZtW2F59mGcA9Ymk9FNpK59HDAd4fJDVE2YSpump",
+  "name": "TEACHER QUANT",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://kick.com/mommyramblings",
+    "website": "https://kick.com/mommyramblings"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmf2UjN75XNCJiML4B69GxtMthygGHuo4zH8p6zcsgZbky",
+  "price": 4.75543517905783e-06,
+  "liquidity": 0.41667304153468815,
+  "total_supply": 999999999.856415,
+  "circulating_supply": 999999999.856415,
+  "fdv": 4755.435178375022,
+  "market_cap": 4755.435178375022
+}

@@ -1,0 +1,17 @@
+{
+  "address": "2YvLkMUrpN7Zq9jV8WWL9n6hR3YAuAT9CgQujUhDpump",
+  "name": "Pavel Durov Coin",
+  "symbol": "TON",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/durov2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTJ7qUe66DYGKJ2FBGaoLpSpVEobdYEhqjACLq5MqYZPa",
+  "price": 4.0864278537005645e-06,
+  "liquidity": 0.9039484767712465,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4086.4278537005644,
+  "market_cap": 4086.4278537005644
+}

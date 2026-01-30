@@ -1,0 +1,16 @@
+{
+  "address": "FdefobErxNX3KQVquRpyU71sNB322RDCcpt2aHSFpump",
+  "name": "Cardinal Robert Francis",
+  "symbol": "Prevost",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcBicvTxpPf8Ncsimxb8UBN5sjNMGpAxmjm6ySRPra5p4",
+  "price": 4.5082883263795655e-06,
+  "liquidity": 0.9039450945558409,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4508.288326379552,
+  "market_cap": 4508.288326379552
+}

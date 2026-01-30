@@ -1,0 +1,16 @@
+{
+  "address": "9VkFdUn2FapPG1enwwSBxN3ojrSEsn4BgJ56jrF9pump",
+  "name": "zelenskyA\u0130",
+  "symbol": "ZELENA\u0130",
+  "decimals": 6,
+  "extensions": {
+    "description": "zelensky ai \ud83e\udd16"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeMSmokeSuFJrurZpaBYUzhHUmKmTKbbJsuACBKZd43GR",
+  "price": 3.901020176929136e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3901.0201769291357,
+  "market_cap": 3901.0201769291357
+}

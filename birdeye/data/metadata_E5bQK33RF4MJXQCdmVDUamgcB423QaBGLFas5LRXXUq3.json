@@ -1,0 +1,17 @@
+{
+  "address": "E5bQK33RF4MJXQCdmVDUamgcB423QaBGLFas5LRXXUq3",
+  "name": "Zelenskiy pidor",
+  "symbol": "QATAR",
+  "decimals": 6,
+  "extensions": {
+    "description": "Launched via @LaunchOnPump",
+    "twitter": "https://x.com/pr1nt77/status/1923794070528315803"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbWvXp5nHoLeec8utKdQ9Ngad1s4yZt7yHCsvah8mxszj",
+  "price": 4.673994850266151e-06,
+  "liquidity": 0.6410596480567429,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4673.994850266151,
+  "market_cap": 4673.994850266151
+}

@@ -1,0 +1,14 @@
+{
+  "address": "AuhE3apePbVbH45QAbN6qRzanvZGfqc53U5pFk6mpump",
+  "name": "pepe",
+  "symbol": "blue",
+  "decimals": 6,
+  "extensions": {
+    "description": "The most memeable memecoin in existence. The dogs have had their day, it\u2019s time for Pepe to take reign."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmbwt4MKQzfKjwZf8cdwYtT7B4z3kDUvPBoRxT8z3chChc",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

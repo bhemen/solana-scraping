@@ -1,0 +1,38 @@
+{
+  "address": "55fDsFBq5oT4yvM1WbuwMs2SDxNmh44vYBAT6bMTpump",
+  "name": "TEACHER",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "Help me resign my teacher! He claims that memecoins is a scam that insiders pump to fool the masses. I told him it\u2019s not and that I will create one to put the theory to the test. He said that he will literally resign if we pull this off guys."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRB59auQYVN2hEbks5rVWaZFZd3RX2EHsiJNP2Pqze9rS",
+  "price": 4.494535571110729e-06,
+  "liquidity": 0.6709136997063184,
+  "total_supply": 999999999.623763,
+  "circulating_supply": 999999999.623763,
+  "fdv": 4494.535569419718,
+  "market_cap": 4494.535569419718,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 309196715,
+      "tx_hash": "Ew8VegXeM55eKm7v5vwapChSYznoiR1Dk9mxicUwFVKBZNa4ByFqP47ytYGknnB7mKDKiRRDq8dqQ7XtM3opgtD",
+      "block_time": 1734914859
+    },
+    "creation_time": 1734914859,
+    "creator": "FH6yYCc4CooEaCNgeZCd24YGkSXi2muYjt7S1Wydzn62",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "AAPr7HJj5guKBC9XzT6EAJxGmDUp7ryi5dR1vGGzMTXc",
+      "real_sol_reserves": "35",
+      "real_token_reserves": "793099998990799",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1072999998990799"
+    },
+    "progress_percent": 0,
+    "address": "55fDsFBq5oT4yvM1WbuwMs2SDxNmh44vYBAT6bMTpump"
+  }
+}

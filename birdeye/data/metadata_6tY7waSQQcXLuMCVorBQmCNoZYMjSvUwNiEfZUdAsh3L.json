@@ -1,0 +1,17 @@
+{
+  "address": "6tY7waSQQcXLuMCVorBQmCNoZYMjSvUwNiEfZUdAsh3L",
+  "name": "gym teacher",
+  "symbol": "$GYMTCR",
+  "decimals": 6,
+  "extensions": {
+    "description": "Hey guys! I'm the only gym\r\nteacher on the Solana\r\nnetwork, put on your tights\r\nand come rock your skeleton\r\non my dance floor",
+    "twitter": "https://x.com/gymteachersol",
+    "website": "https://gymteacher.fun/",
+    "telegram": "https://t.me/+1DDzngQEtnZmZjE5"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcmY8rDHfByhqTJ6FBRbnDNm5u1pZHCYzC3jyx2jbEoKN",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

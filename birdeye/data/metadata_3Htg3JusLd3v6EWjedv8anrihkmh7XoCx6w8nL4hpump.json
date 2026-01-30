@@ -1,0 +1,16 @@
+{
+  "address": "3Htg3JusLd3v6EWjedv8anrihkmh7XoCx6w8nL4hpump",
+  "name": "Teacher Huzz",
+  "symbol": "TUZZ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/tuzzonsolana",
+    "website": "https://x.com/tuzzonsolana"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfEPGMsUJY3f9SD9mx1gFVSf1UsEiX4YxqkXuXyFMWZtT",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

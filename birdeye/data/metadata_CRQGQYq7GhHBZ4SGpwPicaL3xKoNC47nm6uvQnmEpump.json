@@ -1,0 +1,19 @@
+{
+  "address": "CRQGQYq7GhHBZ4SGpwPicaL3xKoNC47nm6uvQnmEpump",
+  "name": "Pavel Dobryakov",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Creator of Fluid Simulation\r\n",
+    "twitter": "https://x.com/PavelDoGreat",
+    "website": "https://paveldogreat.games"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdAYthgRcVKptrFDcUYkpDmGfTzfrWEudGpdDds4nPbJB",
+  "price": 5.145520124305748e-06,
+  "liquidity": 0.4813801217178595,
+  "total_supply": 999999999.132139,
+  "circulating_supply": 999999999.132139,
+  "fdv": 5145.520119840152,
+  "market_cap": 5145.520119840152,
+  "meme_info": null
+}

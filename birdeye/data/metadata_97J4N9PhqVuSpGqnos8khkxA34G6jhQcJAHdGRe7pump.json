@@ -1,0 +1,16 @@
+{
+  "address": "97J4N9PhqVuSpGqnos8khkxA34G6jhQcJAHdGRe7pump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "Market is green, send the frog"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdpTczQQhSKoWMsZB5vmKbaqJkTiWGHxk1DXYQLtUm7r1",
+  "price": 4.965678393506461e-06,
+  "liquidity": 0.9039521972081923,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4965.678393506461,
+  "market_cap": 4965.678393506461
+}

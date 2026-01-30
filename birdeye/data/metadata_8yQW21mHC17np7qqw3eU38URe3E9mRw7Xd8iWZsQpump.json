@@ -1,0 +1,18 @@
+{
+  "address": "8yQW21mHC17np7qqw3eU38URe3E9mRw7Xd8iWZsQpump",
+  "name": "pnut teacher",
+  "symbol": "Kayleigh",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1920573918378639840",
+    "website": "https://nypost.com/2025/05/08/lifestyle/teacher-uses-food-to-teach-students-a-writing-lesson/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmT5UreXxRhLTnp9n4v3rwqQLYETCmNoa41BH8pLNtZ9qZ",
+  "price": 4.484521249987539e-06,
+  "liquidity": 0.9212156649430605,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4484.521249987539,
+  "market_cap": 4484.521249987539
+}

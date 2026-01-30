@@ -1,0 +1,20 @@
+{
+  "address": "9HAwN94PWeXt4bxmbQ6miyFPQwP6y5NbhMc4tgh9pump",
+  "name": "Rip Teacher",
+  "symbol": "Badbat",
+  "decimals": 6,
+  "extensions": {
+    "description": "Calif. art teacher, 60, dies of rabies after getting bitten by bat in classroom",
+    "twitter": "https://x.com/nypost/status/1862281668523860089",
+    "website": "https://x.com/nypost/status/1862281668523860089",
+    "telegram": "https://x.com/nypost/status/1862281668523860089"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTJqoWxTCfucfXswiTTbR7QJjoUsUdDMWKeVdgxnYAnY8",
+  "price": 6.727611226255808e-06,
+  "liquidity": 0.41667168864852594,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6727.611226255808,
+  "market_cap": 6727.611226255808,
+  "meme_info": null
+}

@@ -1,0 +1,18 @@
+{
+  "address": "AVcLxLryLYJVSNRpRkh4HfzBofARSmZCaAHVZ4s5sSia",
+  "name": "Zelensky Vogue",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Ukraines president Zelensky posing in a Vogue portrait.",
+    "twitter": "https://x.com/elonmusk/status/1892425653447688353",
+    "website": "https://www.vogue.com/article/portrait-of-bravery-ukraines-first-lady-olena-zelenska"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYaSA8ycJTw34yqMe6Qo6NarYerPmbswb1g1sqzbhEXQs",
+  "price": 4.883534994401253e-06,
+  "liquidity": 2.4536599586829198,
+  "total_supply": 999999999.995154,
+  "circulating_supply": 999999999.995154,
+  "fdv": 4883.534994377587,
+  "market_cap": 4883.534994377587
+}

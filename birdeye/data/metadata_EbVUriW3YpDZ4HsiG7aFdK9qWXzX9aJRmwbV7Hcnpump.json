@@ -1,0 +1,19 @@
+{
+  "address": "EbVUriW3YpDZ4HsiG7aFdK9qWXzX9aJRmwbV7Hcnpump",
+  "name": "ZELENSKY",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "ZELENSKY",
+    "twitter": "https://x.com/MarioNawfal/status/1866151332878364956",
+    "website": "https://www.president.gov.ua/storage/j-image-storage/46/43/13/e99dfedf4f71ca1b5c178d4d5f33105c_1733742724_slider_large.jpeg",
+    "telegram": "https://www.president.gov.ua/storage/j-image-storage/46/43/13/e99dfedf4f71ca1b5c178d4d5f33105c_1733742724_slider_large.jpeg"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXzyYLk9Gz1pNtW9t7zbeq24T3gjbTGWvtSKVCN17HvW8",
+  "price": 5.413971198058186e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 999999999.984577,
+  "circulating_supply": 999999999.984577,
+  "fdv": 5413.971197974686,
+  "market_cap": 5413.971197974686
+}

@@ -1,0 +1,17 @@
+{
+  "address": "DFDMrz22j8qAFWHi3oUHb5Lf8AhwgsLsBvA6LPuJpump",
+  "name": "Pope Leo bobbleheads",
+  "symbol": "LEO XIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://nypost.com/2025/05/10/world-news/pope-leo-bobbleheads-already-make-their-debut/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRH8LyKg7e9abtEpTQVzKKRZKNZSnwHbz4vXDVaDnnuQT",
+  "price": 4.965706391766644e-06,
+  "liquidity": 0.9039484767712465,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4965.706391766644,
+  "market_cap": 4965.706391766644
+}

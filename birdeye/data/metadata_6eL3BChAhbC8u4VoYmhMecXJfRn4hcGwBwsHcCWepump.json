@@ -1,0 +1,17 @@
+{
+  "address": "6eL3BChAhbC8u4VoYmhMecXJfRn4hcGwBwsHcCWepump",
+  "name": "Green Goblin",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "But you promised me 'whatever it takes'  -- The little green goblin",
+    "twitter": "https://x.com/OlgaBazova/status/1856440690223480843",
+    "website": "https://x.com/OlgaBazova/status/1856440690223480843",
+    "telegram": "https://x.com/OlgaBazova/status/1856440690223480843"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWTS8Xyh96gfC1PTbdVU153BV4TuawiVk8GifRJAKDVF6",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,20 @@
+{
+  "address": "BFvyhPQ4iWqiCUByd2zifypbYWaNNUkt99Ld2dvNpump",
+  "name": "Teacher Baldi",
+  "symbol": "BAlDI",
+  "decimals": 6,
+  "extensions": {
+    "description": "Baldi's Basics in Education and Learning!",
+    "twitter": "https://x.com/baldi_onsol",
+    "website": "https://baldionsol.cc/",
+    "telegram": "https://t.me/baldi_onsol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmR6snjS57Prt2gjtgWUuHHJhu5RZ2vLWcjMuEY8DwyMCs",
+  "price": 6.889703230140624e-06,
+  "liquidity": 0.4166794677439584,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6889.703230140624,
+  "market_cap": 6889.703230140624,
+  "meme_info": null
+}

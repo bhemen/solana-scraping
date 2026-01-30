@@ -1,0 +1,19 @@
+{
+  "address": "PsGyr788EsHnPqEFKv3H9yqnttjwLnvvhmuVaNmpump",
+  "name": "POPE LEO XIV",
+  "symbol": "POPE LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "The first to rise from the New World, Pope Leo XIV breaks centuries of tradition. An American by birth, he brings bold vision, modern clarity, and unwavering conviction to a role once bound by ancient walls. A new chapter of leadership begins.",
+    "twitter": "https://twitter.com/popeleoxiv_pro",
+    "website": "https://popeleoxiv.pro/",
+    "telegram": "https://t.me/popeleoxiv_pro"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNXKFfBXzQgiBCRBDv7XzXQACtS5Q9xiT3mDrhZDrTGMj",
+  "price": 4.704308878520507e-06,
+  "liquidity": 0.41667067398390434,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4704.308878520507,
+  "market_cap": 4704.308878520507
+}

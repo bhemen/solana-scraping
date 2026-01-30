@@ -1,0 +1,14 @@
+{
+  "address": "Vb61wfdgDocK7cmwxc8wYpt88tJntAuTVqynxhApump",
+  "name": "Pavel Durov",
+  "symbol": "TGJAIL",
+  "decimals": 6,
+  "extensions": {
+    "description": "free Pavel Durov"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/Qmc8nAT5BmjkALB5jPS3RfUwyBVuJHLAHoxvVg5jCy9Eeb",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

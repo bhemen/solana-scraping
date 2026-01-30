@@ -1,0 +1,17 @@
+{
+  "address": "DUnZaKz4k5bTPKzVreoTEDjeuFustiBTD9j58Scpump",
+  "name": "Pavel Durov's cat",
+  "symbol": "nana",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://www.instagram.com/p/y4v36LL7Wo/",
+    "twitter": "https://www.instagram.com/p/y4v36LL7Wo/",
+    "website": "https://www.instagram.com/p/y4v36LL7Wo/",
+    "telegram": "https://www.instagram.com/p/y4v36LL7Wo/"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmT7qb42ihDgdAv1UtEvxvo6EgradXonPbYZ32jAQr4AF1",
+  "price": null,
+  "total_supply": 999999999.000001,
+  "circulating_supply": 999999999.000001,
+  "meme_info": null
+}

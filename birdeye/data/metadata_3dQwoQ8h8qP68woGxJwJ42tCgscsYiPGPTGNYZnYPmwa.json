@@ -1,0 +1,16 @@
+{
+  "address": "3dQwoQ8h8qP68woGxJwJ42tCgscsYiPGPTGNYZnYPmwa",
+  "name": "POPE LEO",
+  "symbol": "PL",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pbs.twimg.com/media/Gqcab-gW4AAu4TN.jpg",
+  "price": 4.519950770817664e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4519.950770817663,
+  "market_cap": 4519.950770817663
+}

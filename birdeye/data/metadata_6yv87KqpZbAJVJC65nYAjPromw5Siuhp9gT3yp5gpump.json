@@ -1,0 +1,14 @@
+{
+  "address": "6yv87KqpZbAJVJC65nYAjPromw5Siuhp9gT3yp5gpump",
+  "name": "Nick",
+  "symbol": "$nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "Everyone's nickname is special."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUngVCJbJFwGteZb3NgTAbgAg7VWbAzZAEU22gJY8h6er",
+  "price": null,
+  "total_supply": 999999999.994705,
+  "circulating_supply": 999999999.994705,
+  "meme_info": null
+}

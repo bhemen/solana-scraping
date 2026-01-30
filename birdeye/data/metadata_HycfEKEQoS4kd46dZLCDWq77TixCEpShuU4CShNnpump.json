@@ -1,0 +1,17 @@
+{
+  "address": "HycfEKEQoS4kd46dZLCDWq77TixCEpShuU4CShNnpump",
+  "name": "JD POPE LEO XIV",
+  "symbol": "JDLEOXIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/AutismCapital/status/1924164969454838180"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWiGfYteFsq3kTZn9R13YUFBSXxd9MQzeeBpky14ECSBv",
+  "price": 4.796967517450331e-06,
+  "liquidity": 0.6512627124877771,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4796.967517450331,
+  "market_cap": 4796.967517450331
+}

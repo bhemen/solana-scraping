@@ -1,0 +1,16 @@
+{
+  "address": "U1eZpuZqQY1nBPsHR6e9651ePTwEyPPSN8KAD8Tpump",
+  "name": "Nick",
+  "symbol": "$NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "I choose rich EVERY TIME",
+    "twitter": "https://x.com/chooserich/status/1828126956673732981?t=BrSFugr_UNza3ln_gwLjrw&s=19",
+    "telegram": "https://x.com/chooserich/status/1828126956673732981?t=BrSFugr_UNza3ln_gwLjrw&s=19"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmY9mDWYEF3CXWYSR5CsQWSjyna9fP1fAu1Dx8AU1Sw4uB",
+  "price": null,
+  "total_supply": 999999999.299166,
+  "circulating_supply": 999999999.299166,
+  "meme_info": null
+}

@@ -1,0 +1,39 @@
+{
+  "address": "4WiSBXtX5CJqZGLzyaJTkkj3QSp9GmyAUCaaobxq7mT3",
+  "name": "Death to Tyler Robinson",
+  "symbol": "TYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "Death to Tyler Robinson token launched via manual interface",
+    "twitter": "https://nypost.com/video/watch-live-suspect-apprehended-in-charlie-kirk-assassination/"
+  },
+  "logo_uri": "http://127.0.0.1:8080/ipfs/QmXoAw67YfCyHCEQVp5jmBdYgByrx1cLovNbFaqAk3umRq",
+  "price": 7.3619667835142814e-06,
+  "liquidity": 0.9503954545902216,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7361.966783514282,
+  "market_cap": 7361.966783514282,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757681868,
+      "slot": 366332099,
+      "tx_hash": "5DrHWjazPUcZWEK8RA7iVhDHEPFZJZNjneRXoQidf8SzpAX5tKwkQ5YbMK3GecRCWNZubbfV8ZbrVHAEzijCDcec"
+    },
+    "creator": "CAsnX1Z2Du9yqKtnTiMWYYWNJzwAobFbyzkdJpSuV2VG",
+    "address": "4WiSBXtX5CJqZGLzyaJTkkj3QSp9GmyAUCaaobxq7mT3",
+    "creation_time": 1757681868,
+    "graduated": false,
+    "pool": {
+      "address": "Kx4YSADg3xreprQpjUZjkYjTPH6Taea8mnHfCHdyW7s",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 12.29926,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

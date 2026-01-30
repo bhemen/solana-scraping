@@ -1,0 +1,14 @@
+{
+  "address": "9eZoazvDZvvvKJzR5gMZDjn8pWVYf2k6KFHyUNhqpump",
+  "name": "Free pavel",
+  "symbol": "$FP",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free my nigga pavel\r\nhttps://x.com/6ix9ine/status/1827486551938330759?s=46"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmagiZocczKthw8jFK4v96wx6H1xyXvLReuTMWz7qKznZZ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

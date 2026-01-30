@@ -1,0 +1,17 @@
+{
+  "address": "7kiNwoddpchN3D9anJyvC7BZtFowcqu4gkwxM7tRpump",
+  "name": "man with no cards to play",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://truthsocial.com/@realDonaldTrump/posts/114388111141848447"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNomKtNRSFvUsc1zRLho7w7E7vkP3aZEyii4YHQpsG84a",
+  "price": 4.2014816444703416e-06,
+  "liquidity": 0.9039450945558409,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4201.481644470342,
+  "market_cap": 4201.481644470342
+}

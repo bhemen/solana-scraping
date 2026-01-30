@@ -1,0 +1,17 @@
+{
+  "address": "BVZvQaer1397VcXrkmUBtiEs4ucJUvR46ubN6n1bpump",
+  "name": "Diddy Teacher",
+  "symbol": "Molly",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://nypost.com/2025/02/12/us-news/texas-high-school-teacher-molly-spears-accused-of-having-sex-with-male-student/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZKmwJv6sW9mjfK6ugtxSwKTjnck415AfpYoysrusaaDA",
+  "price": 5.514614145901952e-06,
+  "liquidity": 0.41666526243925567,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5514.614145901952,
+  "market_cap": 5514.614145901952
+}

@@ -1,0 +1,18 @@
+{
+  "address": "DDCqocy9KG8e8ZxFkR8bsXyndRndG8YQ7BSNAgkapump",
+  "name": "ZELENSKY",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "Resignation of President Zelenskyy",
+    "twitter": "https://x.com/FoxNews/status/1896387588128149743",
+    "website": "https://www.foxnews.com/world/who-could-lead-zelenskyy-resigned"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaPH4gaJ3GQFuhbLsQzgqUxayG8UgcKypGtsECQzqYmUZ",
+  "price": 4.975979579403017e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4975.979579403017,
+  "market_cap": 4975.979579403017
+}

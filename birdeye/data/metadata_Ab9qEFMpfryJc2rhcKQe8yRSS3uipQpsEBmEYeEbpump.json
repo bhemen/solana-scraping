@@ -1,0 +1,17 @@
+{
+  "address": "Ab9qEFMpfryJc2rhcKQe8yRSS3uipQpsEBmEYeEbpump",
+  "name": "@drprevost",
+  "symbol": "@drprevost",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/drprevost/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaWJkNXWUtdwJ5pkNKDabqva9LQ1KX7H9E7Wk2Jurkubd",
+  "price": 4.540697214901828e-06,
+  "liquidity": 0.9039450945558409,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4540.697214901828,
+  "market_cap": 4540.697214901828
+}

@@ -1,0 +1,20 @@
+{
+  "address": "7EHARpL66gHXL9xrzDGvmVEjafgoeTTh3uk9o4vWc3CM",
+  "name": "1ST AI TEACHER",
+  "symbol": "CAPTCHA",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.reuters.com/video/watch/idRW857120122024RP1/",
+    "website": "https://www.reuters.com/video/watch/idRW857120122024RP1/",
+    "telegram": "https://www.reuters.com/video/watch/idRW857120122024RP1/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVLkhbMT3sCGDnV8QxyDqFtRGVgAGnU74Q9FWKDcuZVNy",
+  "price": 5.584042698338089e-06,
+  "liquidity": 0.4486465116284897,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5584.0426983380885,
+  "market_cap": 5584.0426983380885,
+  "meme_info": null
+}

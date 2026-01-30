@@ -1,0 +1,16 @@
+{
+  "address": "7DuFfg2qRuWCuM1sWR6mYVsktCWbMhcKFQfzP2ZSpump",
+  "name": "BEGGAR KING",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Give more money please \ud83d\ude4f"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUQQ7bPaAeBfdUhwFfHWZy9aHWdiYzpQpyVxigkZ65nMa",
+  "price": 4.765603858101013e-06,
+  "liquidity": 0.3512776574602734,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4765.6038581010125,
+  "market_cap": 4765.6038581010125
+}

@@ -1,0 +1,17 @@
+{
+  "address": "DFGudBCTEj41F2gUryiJ6GioYzapksrWMPGyQtsopump",
+  "name": "Nick ",
+  "symbol": "NK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Nick represents the art of relaxation.",
+    "twitter": "https://x.com/DamienNick88?t=8bGC8SbJnLvF0O7lAgz_nw&s=09"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfX2AiRjomcbHTXaVKEqcJzuLsHPcVLTNqcoBr2UU7uGC",
+  "price": 4.076638797502345e-06,
+  "liquidity": 0.9039467856635436,
+  "total_supply": 999999999.993849,
+  "circulating_supply": 999999999.993849,
+  "fdv": 4076.6387974772697,
+  "market_cap": 4076.6387974772697
+}

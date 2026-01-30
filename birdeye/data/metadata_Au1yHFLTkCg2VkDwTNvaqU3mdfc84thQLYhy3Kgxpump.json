@@ -1,0 +1,19 @@
+{
+  "address": "Au1yHFLTkCg2VkDwTNvaqU3mdfc84thQLYhy3Kgxpump",
+  "name": "Iris Ai Teacher",
+  "symbol": "IrisAi",
+  "decimals": 6,
+  "extensions": {
+    "description": "Iris. Created by Maker Labs, this revolutionary powered by generative Ai is set to redefine the learning landscape and push the boundaries of what's possible in education.",
+    "twitter": "https://x.com/theirisai",
+    "website": "https://iris.ai"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQzc99LVGzguoeSp1vwKQAwZZBqqpTXGD5UpV3NSApV7Q",
+  "price": 5.872783024607854e-06,
+  "liquidity": 0.41666560066079616,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5872.783024607854,
+  "market_cap": 5872.783024607854,
+  "meme_info": null
+}

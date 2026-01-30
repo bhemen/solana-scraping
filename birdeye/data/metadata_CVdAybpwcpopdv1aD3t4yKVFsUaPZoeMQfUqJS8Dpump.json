@@ -1,0 +1,17 @@
+{
+  "address": "CVdAybpwcpopdv1aD3t4yKVFsUaPZoeMQfUqJS8Dpump",
+  "name": "POPE LEO'S DOG",
+  "symbol": "GERALD",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://apnews.com/live/conclave-pope-catholic-church-updates-5-8-2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmawERpEzoxjNkshH1hZUCh3JJWPmtkp747Gupn8Dh2tU8",
+  "price": 4.807472263998037e-06,
+  "liquidity": 0.9235344382964624,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4807.472263998037,
+  "market_cap": 4807.472263998037
+}

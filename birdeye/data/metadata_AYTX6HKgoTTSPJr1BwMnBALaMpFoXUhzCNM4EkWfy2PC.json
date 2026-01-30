@@ -1,0 +1,17 @@
+{
+  "address": "AYTX6HKgoTTSPJr1BwMnBALaMpFoXUhzCNM4EkWfy2PC",
+  "name": "X Hacker",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1899204847011766487#ref=2e6a36fa-5fa0-467d-97b6-1431c1350686"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmVX9rzyyTrVnPjiTCiyEetkwvgheVhDChTA4DRDpQUDgY",
+  "price": 3.3191695924325278e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3319.1695924325277,
+  "market_cap": 3319.1695924325277
+}

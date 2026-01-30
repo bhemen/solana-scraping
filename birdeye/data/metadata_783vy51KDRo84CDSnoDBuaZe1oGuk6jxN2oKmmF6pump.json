@@ -1,0 +1,16 @@
+{
+  "address": "783vy51KDRo84CDSnoDBuaZe1oGuk6jxN2oKmmF6pump",
+  "name": "ARNOLD",
+  "symbol": "AS",
+  "decimals": 6,
+  "extensions": {
+    "description": "Arnold Schwarzenegger is an Austrian and American actor, businessman, former politician, and former professional bodybuilder, known for his roles in high-profile action films.\r\n\r\n$AS is just a meme token"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPAQvrqAgqz6vjMYQW4TZfMLMbamDz4L2ZfV9HfGBA8Pd",
+  "price": 4.867718069347603e-06,
+  "liquidity": 0.6508888912789931,
+  "total_supply": 999999999.991677,
+  "circulating_supply": 999999999.991677,
+  "fdv": 4867.7180693070895,
+  "market_cap": 4867.7180693070895
+}

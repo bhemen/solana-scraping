@@ -1,0 +1,17 @@
+{
+  "address": "FpeCJRqCp8iD6Xc5CErGS21szaBbX4iD5UCk37DUMHpN",
+  "name": "Robert Prevost",
+  "symbol": "RP",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/nypost/status/1920544988045230126"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmb2VGdoQKyQkBu4hWnDePA5r92HLDH2X74bu9zTuUSNKT",
+  "price": 5.0744420676229016e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5074.442067622902,
+  "market_cap": 5074.442067622902
+}

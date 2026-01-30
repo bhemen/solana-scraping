@@ -1,0 +1,14 @@
+{
+  "address": "HXGbZsTB4dehN6BEeoMPhYNWMkHz9pLHmct8epdpju54",
+  "name": "Meth Teacher",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": "Meth Teacher"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmPTEibkbihz9bfCZgfkZh1xdXwTGBZgR1MmXn2hiSDBvh",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

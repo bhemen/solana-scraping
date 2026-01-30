@@ -1,0 +1,14 @@
+{
+  "address": "3fZEUys9uB97LrinoBp8uifNBrLhg1ptVDYNRtzfpump",
+  "name": "AI-Teacher",
+  "symbol": "AI-TE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pakistan has introduced its first female AI-powered teacher in a school in Karachi."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWPoVSMJn4Jr9aLmc3XMqTpcL2ZA9PvmCdGxLxx4C1Sxq",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

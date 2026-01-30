@@ -1,0 +1,17 @@
+{
+  "address": "AA4kfBzbWds7LHGQTSaM9YyPi2YdjYgUUW5ZV2Gvpump",
+  "name": "Nick",
+  "symbol": "Nick Kerr",
+  "decimals": 6,
+  "extensions": {
+    "description": "Nick Kerr, son of Steve Kerr. Great name.",
+    "website": "https://en.wikipedia.org/wiki/Nick_Kerr"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdAfrBAiJRbFPCLp7aLT7rtiybJyGQtEsbk5xHrXFfKKs",
+  "price": 4.2366773715329055e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4236.677371532905,
+  "market_cap": 4236.677371532905
+}

@@ -1,0 +1,39 @@
+{
+  "address": "7j7MEVj9uuSHCB3oqC3UoXDqxXK2keYZv9U2Hj6pump",
+  "name": "Zelenskyy",
+  "symbol": "ZELENSKYY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/SkyNews/status/1957456688056840536"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GypHW3TXcAAyvxg.jpg",
+  "price": 5.119861156798045e-06,
+  "liquidity": 0.5439911529089068,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5119.861156798045,
+  "market_cap": 5119.861156798045,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1755529440,
+      "slot": 360901751,
+      "tx_hash": "2n5g8Pt3Mu6sKMTWD37czN7hwHd8Xj69meRAJ95gJ1etKgSNeNBY6A9Buwyzip2ozrhK9o469Fo9uMjknKpsQs56"
+    },
+    "creator": "BcmcbHMvvo3X7Vn13wKShpqfjSro5XxC41AjrjWGNy7r",
+    "address": "7j7MEVj9uuSHCB3oqC3UoXDqxXK2keYZv9U2Hj6pump",
+    "creation_time": 1755529440,
+    "graduated": false,
+    "pool": {
+      "address": "CtR1PjRq62xu7KAJitiQhCpXXwhEUfkS8hBU5hkvGQNg",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

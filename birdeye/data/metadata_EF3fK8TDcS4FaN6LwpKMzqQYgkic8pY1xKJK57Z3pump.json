@@ -1,0 +1,17 @@
+{
+  "address": "EF3fK8TDcS4FaN6LwpKMzqQYgkic8pY1xKJK57Z3pump",
+  "name": "OFFICIAL POPE LEO LOGO",
+  "symbol": "POPE LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/AFpost/status/1921212235507999229"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmakStgt8ehWwFpdSUCQ4to5EtcWkrnC1zeKgmSJEoBGT5",
+  "price": 4.878824428390126e-06,
+  "liquidity": 0.9039467856635436,
+  "total_supply": 999999999.999998,
+  "circulating_supply": 999999999.999998,
+  "fdv": 4878.824428390117,
+  "market_cap": 4878.824428390117
+}

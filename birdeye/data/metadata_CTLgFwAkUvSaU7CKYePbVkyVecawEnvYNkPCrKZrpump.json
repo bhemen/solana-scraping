@@ -1,0 +1,39 @@
+{
+  "address": "CTLgFwAkUvSaU7CKYePbVkyVecawEnvYNkPCrKZrpump",
+  "name": "$teacher",
+  "symbol": "$teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "Teach me how to play",
+    "telegram": "https://t.me/+clWhLAM8UAliZmIx"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmSYMvd4EyANuA6GGMQZsuwK41A85ekSFrhwVK3TXpg4pB",
+  "price": 5.626605525658156e-06,
+  "liquidity": 0.762419247956814,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5626.605525658156,
+  "market_cap": 5626.605525658156,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 274120234,
+      "tx_hash": "3G6eYCFzjAbdHP9SsK3ja3ikLyXF4nLT8XxBWQiaQeRPsvVYjtMFkJfS7mM9mkdihy4azJ97zhm4XzrCATGHMVMJ",
+      "block_time": 1719407934
+    },
+    "creation_time": 1719407934,
+    "creator": "4myfZBzJksoBBa7yCwfBUGiqJ19vU9ncRPH71hX4Vjrw",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "97eVYNEryur7WUzJAA8pzQeHn959NgQp42GDuSuQqSNj",
+      "real_sol_reserves": "75",
+      "real_token_reserves": "793100000000000",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1073000000000000"
+    },
+    "progress_percent": 0,
+    "address": "CTLgFwAkUvSaU7CKYePbVkyVecawEnvYNkPCrKZrpump"
+  }
+}

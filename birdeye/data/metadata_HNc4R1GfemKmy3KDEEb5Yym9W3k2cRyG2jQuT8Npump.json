@@ -1,0 +1,18 @@
+{
+  "address": "HNc4R1GfemKmy3KDEEb5Yym9W3k2cRyG2jQuT8Npump",
+  "name": "Arnold Haro",
+  "symbol": "Haro",
+  "decimals": 6,
+  "extensions": {
+    "description": "Crypto-gambler 'killed himself on an X livestream' after losing $500 on a memecoin investment",
+    "twitter": "https://x.com/MailOnline/status/1894410184975392787",
+    "website": "https://www.dailymail.co.uk/news/article-14433361/Crypto-gambler-killed-X-livestream-losing-500-memecoin-investment.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailus"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQrjw91GHPnwcUEWyQruK23rtnEuuyBAuRw556w36j4ek",
+  "price": 4.744374426939844e-06,
+  "liquidity": 0.3563939516181959,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4744.374426939844,
+  "market_cap": 4744.374426939844
+}

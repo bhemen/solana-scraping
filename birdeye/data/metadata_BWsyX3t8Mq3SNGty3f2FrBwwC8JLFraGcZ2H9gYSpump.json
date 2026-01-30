@@ -1,0 +1,17 @@
+{
+  "address": "BWsyX3t8Mq3SNGty3f2FrBwwC8JLFraGcZ2H9gYSpump",
+  "name": "Zelenskyy",
+  "symbol": "Zelenskyy",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskyy before he became a CIA plant for regime change in Ukraine.",
+    "twitter": "https://x.com/RealJessica05/status/1892253624018808914"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdU2JosWEgGw5qzwA5q1dDLhRgCvmPAABrCPco66qjdGk",
+  "price": 4.666034977616899e-06,
+  "liquidity": 0.41469175993226504,
+  "total_supply": 999999999.990825,
+  "circulating_supply": 999999999.990825,
+  "fdv": 4666.034977574089,
+  "market_cap": 4666.034977574089
+}

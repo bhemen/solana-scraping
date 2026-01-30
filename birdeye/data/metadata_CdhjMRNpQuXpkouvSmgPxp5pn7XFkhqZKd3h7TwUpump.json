@@ -1,0 +1,14 @@
+{
+  "address": "CdhjMRNpQuXpkouvSmgPxp5pn7XFkhqZKd3h7TwUpump",
+  "name": "Meth teacher",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": "your average meth teacher"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTTNwu4qBEUQXQGFxpAF4qahMiibRwP6embGvhhD1LvTL",
+  "price": null,
+  "total_supply": 999999999.23077,
+  "circulating_supply": 999999999.23077,
+  "meme_info": null
+}

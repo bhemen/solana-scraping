@@ -1,0 +1,17 @@
+{
+  "address": "aekwVSMUFZNz7ymibVE543CJfAqrZ23d5t2ShK5pump",
+  "name": "Pavel Durov",
+  "symbol": "ReleaseD",
+  "decimals": 6,
+  "extensions": {
+    "description": "\u203c\ufe0fTELEGRAM CEO PAVEL DUROV HAS BEEN RELEASED\r\n",
+    "twitter": "https://x.com/RadarHits/status/1828796510680813893",
+    "website": "https://x.com/durov",
+    "telegram": "https://t.me/durov"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmd2huqTqmtKyjLMd5LFZbEtmMMMhypCjyxLb3BTBZpYbB",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

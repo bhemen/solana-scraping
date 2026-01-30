@@ -1,0 +1,15 @@
+{
+  "address": "7Pv3VB2QBwZwdVD7BkE6PZ3Z1XBYLg7LWiqHmEvrpump",
+  "name": "PAVEL DUROV",
+  "symbol": "FREE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/cb_doge/status/1828800771732959303"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfNwF7N2RQtuzgWNT1eejKBxzDSPAgZzg59iBBksgUtTr",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

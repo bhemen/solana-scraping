@@ -1,0 +1,15 @@
+{
+  "address": "FPVik8BH6aG9muvBXd3tcDdopQGqu6rwFAqL8bCJpump",
+  "name": "ARNOLD",
+  "symbol": "Arnold",
+  "decimals": 6,
+  "extensions": {
+    "description": "Move it, Football Head!",
+    "twitter": "https://x.com/redactedctosol"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeyDFp1zrYp3TD4kfcxRx3gxs8QJ2CRqxTsLZh3Uwhq74",
+  "price": null,
+  "total_supply": 999999999.999398,
+  "circulating_supply": 999999999.999398,
+  "meme_info": null
+}

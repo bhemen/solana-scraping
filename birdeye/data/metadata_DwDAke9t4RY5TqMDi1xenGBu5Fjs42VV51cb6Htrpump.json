@@ -1,0 +1,44 @@
+{
+  "address": "DwDAke9t4RY5TqMDi1xenGBu5Fjs42VV51cb6Htrpump",
+  "name": "Arnold ",
+  "symbol": "AD ",
+  "decimals": 6,
+  "extensions": {
+    "description": "Mildly confused, always curious.",
+    "twitter": "https://x.com/AlexanderA27292?t=tM9WPXd9B8dZxvlzNttGEg&s=09"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmePrSCCK6k5XePeiuvbszr65HRoiri8fT3QoiPPdbvaHP",
+  "price": 4.930598358013316e-06,
+  "liquidity": 0.6757510652543145,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4930.598358013316,
+  "market_cap": 4930.598358013316,
+  "meme_info": {
+    "created_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": null,
+    "address": "DwDAke9t4RY5TqMDi1xenGBu5Fjs42VV51cb6Htrpump",
+    "creation_time": null,
+    "graduated": false,
+    "pool": {
+      "address": "8Xr7XDa6V6B9pirTWbsXAgWhcAykF4XixrtNtR1mkja6",
+      "real_sol_reserves": "7",
+      "real_token_reserves": "793099999857628",
+      "virtual_token_reserves": "1072999999857628",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

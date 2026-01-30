@@ -1,0 +1,17 @@
+{
+  "address": "3AdBT3v7aZbaX8NQFXHnFJYLPmrM3KDL7XVfJa4Apump",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/alx/status/1891319077307638029"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmazjBf4LM5w3MBWHuFazksbJTn44QGQFzcwgzSj968r2M",
+  "price": 4.981035879989186e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4981.035879989186,
+  "market_cap": 4981.035879989186
+}

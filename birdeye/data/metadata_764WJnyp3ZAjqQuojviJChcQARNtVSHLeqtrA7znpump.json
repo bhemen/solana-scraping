@@ -1,0 +1,17 @@
+{
+  "address": "764WJnyp3ZAjqQuojviJChcQARNtVSHLeqtrA7znpump",
+  "name": "Official Pope Leo Mascot",
+  "symbol": "FRITZ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://mascothalloffame.com/mascots/fritz/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYug2X4xwfHDGUZH6BPPqLedShjvMdgCo72okAFkhmLa2",
+  "price": 4.5715790054168575e-06,
+  "liquidity": 0.9039461092204626,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4571.579005416844,
+  "market_cap": 4571.579005416844
+}

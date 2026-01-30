@@ -1,0 +1,15 @@
+{
+  "address": "5SpaZT3w9iVc4Biix5WYS275DT3aY67aXs1Zpx6Qpump",
+  "name": "Telegram MASCOT BY Pavel Durov",
+  "symbol": "Durovy",
+  "decimals": 6,
+  "extensions": {
+    "description": "Telegram MASCOT BY Pavel Durov",
+    "twitter": "ttps://x.com/Pavaldurovmas"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaWtcrVk95bj9q2auvg7PNu8dSpBzpUGF3h8MesDzmCgG",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,16 @@
+{
+  "address": "EkRyGqQf3w84biC4AGB2Emtsv7bg81TEWFzDipEJpump",
+  "name": "Nick Cannons Cribs",
+  "symbol": "Cribs",
+  "decimals": 6,
+  "extensions": {
+    "description": "52 of em"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZUtWGuG38N72afBiPA4ABph5gXGjvocmqNkwSvGN7hme",
+  "price": 4.065221130949524e-06,
+  "liquidity": 0.34582312249604596,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4065.2211309495237,
+  "market_cap": 4065.2211309495237
+}

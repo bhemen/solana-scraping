@@ -1,0 +1,16 @@
+{
+  "address": "EpY3xZiviGkeY4BgaJmfQTXPLYRHCbTSu6D5kqGjjZvZ",
+  "name": "POPE LEO XIV",
+  "symbol": "PLX",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GrPepOzXcAARFSY.jpg",
+  "price": 4.712955305016299e-06,
+  "liquidity": 0.6495524244434974,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4712.9553050162995,
+  "market_cap": 4712.9553050162995
+}

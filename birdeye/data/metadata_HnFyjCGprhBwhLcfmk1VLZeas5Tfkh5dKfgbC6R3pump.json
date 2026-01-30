@@ -1,0 +1,16 @@
+{
+  "address": "HnFyjCGprhBwhLcfmk1VLZeas5Tfkh5dKfgbC6R3pump",
+  "name": "POPE LEO",
+  "symbol": "LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "Let's get this LEO to the MOON!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXCT8L5HYeKiwA8gM2yrAt6mgGSYknizwN3fa64ysgYp8",
+  "price": 4.9241400477277784e-06,
+  "liquidity": 0.9125498606744321,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4924.140047727778,
+  "market_cap": 4924.140047727778
+}

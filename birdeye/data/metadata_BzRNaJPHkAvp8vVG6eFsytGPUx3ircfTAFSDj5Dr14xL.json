@@ -1,0 +1,20 @@
+{
+  "address": "BzRNaJPHkAvp8vVG6eFsytGPUx3ircfTAFSDj5Dr14xL",
+  "name": "putins new opp",
+  "symbol": "zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/MarioNawfal/status/1870131572076064950",
+    "website": "https://x.com/MarioNawfal/status/1870131572076064950",
+    "telegram": "https://x.com/MarioNawfal/status/1870131572076064950"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcU9EKMVM9qPvKA2LAxbvTRu8DT8Y2Wk2oQp5eADLYsDv",
+  "price": 5.3248927494124605e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5324.89274941246,
+  "market_cap": 5324.89274941246,
+  "meme_info": null
+}

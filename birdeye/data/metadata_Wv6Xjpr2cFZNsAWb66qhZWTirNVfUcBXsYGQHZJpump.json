@@ -1,0 +1,17 @@
+{
+  "address": "Wv6Xjpr2cFZNsAWb66qhZWTirNVfUcBXsYGQHZJpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/realDonaldTrump"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX7RKpkxGeqUhFkLi6K86Do2E3qEkjBaFnGhok5iLDor4",
+  "price": 5.771686950062306e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5771.686950062306,
+  "market_cap": 5771.686950062306
+}

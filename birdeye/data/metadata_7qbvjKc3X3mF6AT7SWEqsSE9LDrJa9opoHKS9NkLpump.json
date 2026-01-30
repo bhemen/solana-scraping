@@ -1,0 +1,18 @@
+{
+  "address": "7qbvjKc3X3mF6AT7SWEqsSE9LDrJa9opoHKS9NkLpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "part time strangler, full time builder, ",
+    "twitter": "https://x.com/NickIsBuilding",
+    "website": "https://t.co/PIZtSyqWMR"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmY6Dkd1Tirt83C8HYYhrjTJePQDmtKZgv8HurV6R18GgW",
+  "price": 6.247701883880861e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6247.701883880862,
+  "market_cap": 6247.701883880862
+}

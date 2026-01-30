@@ -1,0 +1,15 @@
+{
+  "address": "GTqrTmE4aBMnx2RkmWmTrpvbhYkLk56pzs3jHU7xpump",
+  "name": "ZELENSKY",
+  "symbol": "PERFECT",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/realDonaldTrump"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmQrtPnxrxUEwAHEFG3Wmi4muhLqN7XCDqm6BBzBSXUggm",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

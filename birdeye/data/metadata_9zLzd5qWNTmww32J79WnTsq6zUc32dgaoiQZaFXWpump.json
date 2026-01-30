@@ -1,0 +1,17 @@
+{
+  "address": "9zLzd5qWNTmww32J79WnTsq6zUc32dgaoiQZaFXWpump",
+  "name": "Official Emblem Of Pope Leo XIV",
+  "symbol": "Leo VIX",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/VaticanNews/status/1921172981138575547"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeC7EJG53P6hgfZCi3PRStvxP7wVkXy63ve73hRifUkDE",
+  "price": 4.955310029789601e-06,
+  "liquidity": 0.9333796904005179,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4955.310029789601,
+  "market_cap": 4955.310029789601
+}

@@ -1,0 +1,17 @@
+{
+  "address": "3W8AqHdmbmnMh5EzX34fQRc9qBJ6KLeaMz6tU4Mdfump",
+  "name": "PAVEL DUROV",
+  "symbol": "PAVEL DURO",
+  "decimals": 6,
+  "extensions": {
+    "description": "PAVEL DUROV",
+    "twitter": "https://x.com/ScottyTheCoach/status/1916573201707991089"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTShrLz7ZEM5XvHDAwbR6qNav9c5JTrSGJaM3DQZUrTYc",
+  "price": 4.0786573555123855e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4078.6573555123855,
+  "market_cap": 4078.6573555123855
+}

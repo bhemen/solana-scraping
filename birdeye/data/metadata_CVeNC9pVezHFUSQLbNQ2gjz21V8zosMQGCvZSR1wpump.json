@@ -1,0 +1,45 @@
+{
+  "address": "CVeNC9pVezHFUSQLbNQ2gjz21V8zosMQGCvZSR1wpump",
+  "name": "Diddy teacher ",
+  "symbol": "Natalia",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/i/status/1924835247092375723",
+    "website": "https://x.com/i/status/1924835247092375723"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmctkAxC7HbgXLrJT3FV4HHqgBawNTgtwRLA6yjMXtpjHo",
+  "price": 5.177257252058459e-06,
+  "liquidity": 0.6647686495337567,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5177.257252058459,
+  "market_cap": 5177.257252058459,
+  "meme_info": {
+    "created_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": null,
+    "address": "CVeNC9pVezHFUSQLbNQ2gjz21V8zosMQGCvZSR1wpump",
+    "creation_time": null,
+    "graduated": false,
+    "pool": {
+      "address": "3BYC3TgjdEivaRbme4jJhH3CfDrqHiDTQP8JbFpAZLLc",
+      "real_sol_reserves": "7",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

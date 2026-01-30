@@ -1,0 +1,16 @@
+{
+  "address": "6pWoNm6EeMZnWJS4TteivYDVpaTgq7EUhcWwsdjGpump",
+  "name": "Zelenskiy pop",
+  "symbol": "Zelenskiy",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelya"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaRuKLwroRCCSSy3V5QWSdHtvkEnFeBtwxdvypicUf4T6",
+  "price": 5.32098030401152e-06,
+  "liquidity": 3.7460074935704943,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5320.980304011519,
+  "market_cap": 5320.980304011519
+}

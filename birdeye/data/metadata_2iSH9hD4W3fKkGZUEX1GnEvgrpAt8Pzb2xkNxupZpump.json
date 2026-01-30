@@ -1,0 +1,17 @@
+{
+  "address": "2iSH9hD4W3fKkGZUEX1GnEvgrpAt8Pzb2xkNxupZpump",
+  "name": "Free Pavel",
+  "symbol": "FP",
+  "decimals": 6,
+  "extensions": {
+    "description": "#FreePavel",
+    "twitter": "https://x.com/elonmusk/status/1827572720936030703",
+    "website": "https://x.com/elonmusk/status/1827572720936030703",
+    "telegram": "https://x.com/elonmusk/status/1827572720936030703"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQQVaGeDR44MBQ8cWpETahRapadRmsBpCBRpJ6aRfPr3X",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

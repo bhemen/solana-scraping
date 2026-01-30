@@ -1,0 +1,20 @@
+{
+  "address": "4eVsecucy8HKpe2D9PsC5kZRKG1kjG4qhqozEqonpump",
+  "name": "ARNOLD",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": "Arnold's Ark. Riding the Waves of Memes to the Moon.",
+    "twitter": "https://x.com/HeyArnoldCTO/status/1864803301402788236",
+    "website": "https://heyarnold.us",
+    "telegram": "https://t.me/ArnoldSOLofficial"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQuTqdy9SPvDz7T3Zzwydvt1ZwtxXsrVvNJ3fa7PLkEBa",
+  "price": 6.9198882204467765e-06,
+  "liquidity": 0.41667270331314754,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6919.888220446776,
+  "market_cap": 6919.888220446776,
+  "meme_info": null
+}

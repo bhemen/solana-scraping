@@ -1,0 +1,17 @@
+{
+  "address": "5eDYzJvhxnjLYwwwDyuscLDiQZkmCz8wiqC8hF5opump",
+  "name": "PAVEL DUROV'S CAT",
+  "symbol": "SCOUT",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.instagram.com/p/y4v36LL7Wo/",
+    "website": "https://www.instagram.com/p/y4v36LL7Wo/",
+    "telegram": "https://www.instagram.com/p/y4v36LL7Wo/"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmYEixAv217DQ2gvB7AKKbbX8WvAPWkGjzeatsHUjUKa5k",
+  "price": null,
+  "total_supply": 999999999.741004,
+  "circulating_supply": 999999999.741004,
+  "meme_info": null
+}

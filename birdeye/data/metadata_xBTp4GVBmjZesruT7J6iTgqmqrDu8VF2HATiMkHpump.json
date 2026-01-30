@@ -1,0 +1,19 @@
+{
+  "address": "xBTp4GVBmjZesruT7J6iTgqmqrDu8VF2HATiMkHpump",
+  "name": "Naked teacher",
+  "symbol": "JoeUrias",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://twitter.com/nypost/status/1864378475932487722",
+    "website": "https://nypost.com/2024/12/04/us-news/naked-teacher-caught-inside-school-with-sex-toys-drugs-and-womens-underwear/?utm_campaign=nypost&utm_source=twitter&utm_medium=social"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUH631orEUZY3z59MeWRYKBvHWQ9LGU3ZCec26ANevCYL",
+  "price": 6.858634671916676e-06,
+  "liquidity": 0.41667168864852594,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6858.634671916676,
+  "market_cap": 6858.634671916676,
+  "meme_info": null
+}

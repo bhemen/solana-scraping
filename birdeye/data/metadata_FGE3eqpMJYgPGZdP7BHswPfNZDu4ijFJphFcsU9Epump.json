@@ -1,0 +1,19 @@
+{
+  "address": "FGE3eqpMJYgPGZdP7BHswPfNZDu4ijFJphFcsU9Epump",
+  "name": "teacher",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "Are you ready to meet an unconventional teacher? The \"Teacher\" token allows you to step into the world of chemistry and the adventures of Walter White, former chemistry teacher and blue crystal manufacturer! Join \"Teacher\" and see how an ordinary teacher can become a legend.",
+    "twitter": "https://x.com/Teacher_Solana",
+    "website": "https://alienfart.pro",
+    "telegram": "https://t.me/Teacher_Solana"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmc3BPgXW8GRsRUAYLocwVUSdDtcDYbB17J5KamrrHDP1Y",
+  "price": 4.161938400867721e-06,
+  "liquidity": 0.9039535500943545,
+  "total_supply": 999999999.989002,
+  "circulating_supply": 999999999.989002,
+  "fdv": 4161.938400821949,
+  "market_cap": 4161.938400821949
+}

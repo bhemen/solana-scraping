@@ -1,0 +1,16 @@
+{
+  "address": "DQoyvUctiLfRcX6eUaLRx9dvjATaJi1CbDRn3UgMpump",
+  "name": "Zelenski",
+  "symbol": "zelenski",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenski loves to ski !"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTXDnBgcxAyyd9iUQQ7dcf7fwzuczLBhLwy8Mat8J2Db6",
+  "price": 4.788592714762997e-06,
+  "liquidity": 7.171408393682968,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4788.592714762997,
+  "market_cap": 4788.592714762997
+}

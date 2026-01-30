@@ -1,0 +1,17 @@
+{
+  "address": "G4RryBksDPofnrJH9rxitqt3EDgp6Rvcc6z5gJSGpump",
+  "name": "AI TEACHER",
+  "symbol": "MS MARPLE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/TheEconomist/status/1921178917320192255"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbJ6G8xPykrwzS7XjtbpwC8kb11dWjLjHriJ2spLt6gsD",
+  "price": 4.832743502654146e-06,
+  "liquidity": 0.9039467856635436,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4832.743502654146,
+  "market_cap": 4832.743502654146
+}

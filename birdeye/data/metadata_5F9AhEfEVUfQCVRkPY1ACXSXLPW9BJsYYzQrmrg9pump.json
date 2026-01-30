@@ -1,0 +1,16 @@
+{
+  "address": "5F9AhEfEVUfQCVRkPY1ACXSXLPW9BJsYYzQrmrg9pump",
+  "name": "Jail zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Jail him for gambling with World War III"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTKZzAZUbVS1jvZ6mymPzC2XZoX5BENEgvGSfF9WVEGQf",
+  "price": 4.116729799944415e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 999999999.998655,
+  "circulating_supply": 999999999.998655,
+  "fdv": 4116.7297999388775,
+  "market_cap": 4116.7297999388775
+}

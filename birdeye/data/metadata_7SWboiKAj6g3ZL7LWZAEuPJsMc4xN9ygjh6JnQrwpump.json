@@ -1,0 +1,16 @@
+{
+  "address": "7SWboiKAj6g3ZL7LWZAEuPJsMc4xN9ygjh6JnQrwpump",
+  "name": "kicked but worth billions",
+  "symbol": "zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNeAswn1mjnDCp2FQrP69UbxCAtmSEYV64qpnGKvwmZqG",
+  "price": 3.929294697465168e-06,
+  "liquidity": 0.4166659388823368,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3929.294697465168,
+  "market_cap": 3929.294697465168
+}

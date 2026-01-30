@@ -1,0 +1,17 @@
+{
+  "address": "HJpP2KdRZjmjSLqCe8qz94gpud9qTQNiRqDom6udpump",
+  "name": "POPE LEO",
+  "symbol": "FATHER BOB",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/CTVNews/status/1923365373912531122"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaQ8p8ACxHxSby4GbagTFZVKuTivsPNwpvJnbsnxGivct",
+  "price": 4.77598703025198e-06,
+  "liquidity": 0.65004334368845,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4775.98703025198,
+  "market_cap": 4775.98703025198
+}

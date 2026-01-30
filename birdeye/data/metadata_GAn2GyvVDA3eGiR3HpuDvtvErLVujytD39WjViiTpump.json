@@ -1,0 +1,39 @@
+{
+  "address": "GAn2GyvVDA3eGiR3HpuDvtvErLVujytD39WjViiTpump",
+  "name": "if you read this youre gay lmao",
+  "symbol": "gay",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.youtube.com/watch?v=jAN3LRfsPDM"
+  },
+  "logo_uri": "https://thumbnails.padre.gg/SOLANA-PZSQPCmekAXPgh6bdmdAErxE6FnZewyZhXb4EjMpump",
+  "price": 7.430605283091055e-06,
+  "liquidity": 0.7125267277016168,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7430.605283091055,
+  "market_cap": 7430.605283091055,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757686221,
+      "slot": 366343096,
+      "tx_hash": "64Z6g1JXWLreyH4HV1Zz9rynhporYVqi58D7uQY96fVKbqDpaqaLXXsnyCBZu1QuwMAEreC351K9tpPNk2aPSGrf"
+    },
+    "creator": "6CZP1rbVHQv2WrFbu4StvjVQDp6iwa8tHy2dJU5owkmZ",
+    "address": "GAn2GyvVDA3eGiR3HpuDvtvErLVujytD39WjViiTpump",
+    "creation_time": 1757686221,
+    "graduated": false,
+    "pool": {
+      "address": "7gTbXt1bbV4LVrLeZzeksp7P1ToE7nE8nXZJ29dzUJVU",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 12.29926,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

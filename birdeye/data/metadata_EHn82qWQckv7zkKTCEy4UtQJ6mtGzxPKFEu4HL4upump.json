@@ -1,0 +1,38 @@
+{
+  "address": "EHn82qWQckv7zkKTCEy4UtQJ6mtGzxPKFEu4HL4upump",
+  "name": "Jail Tyler Robinson",
+  "symbol": "$kirkkille",
+  "decimals": 6,
+  "extensions": {
+    "description": "Jail this guy"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeihjl2yz5pmln7yzoja42vgwferl76ay4wpfl2nkxtjbvezqxjs2f4",
+  "price": 6.69255578268896e-06,
+  "liquidity": 0.9477151171767358,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6692.55578268896,
+  "market_cap": 6692.55578268896,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757684722,
+      "slot": 366339325,
+      "tx_hash": "6MzLMxCocUGevnuYQmkm9JmrAL2rJBLMF8LJosjPD6uhiHDXamDUtaqGsCRrg9JmiCRHMbGsDaLuSZky6R7D8t4"
+    },
+    "creator": "FdeGjvRLgJpMTDjSL7HJQffYh71d9pYxANZvuhXHdM9p",
+    "address": "EHn82qWQckv7zkKTCEy4UtQJ6mtGzxPKFEu4HL4upump",
+    "creation_time": 1757684722,
+    "graduated": false,
+    "pool": {
+      "address": "9LCc8cKKFTSL4JLL6L8bw3ostaBBxMp41GEGBqZWK2W3",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

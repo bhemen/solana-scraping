@@ -1,0 +1,16 @@
+{
+  "address": "CKhT6coGiZ1HrWru2HPKSERUJBYcMzzUjcGDHaNxpump",
+  "name": "Zelenskyy Trump",
+  "symbol": "Trumpz ",
+  "decimals": 6,
+  "extensions": {
+    "description": "\u201cAll dressed up today\u201d"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYxWbTth4EqmTYHbbsjP55LdWJhiEJiEq5UComA5vHv1p",
+  "price": 3.933463234829368e-06,
+  "liquidity": 0.6545631914037757,
+  "total_supply": 999975686.769271,
+  "circulating_supply": 999975686.769271,
+  "fdv": 3933.367599630176,
+  "market_cap": 3933.367599630176
+}

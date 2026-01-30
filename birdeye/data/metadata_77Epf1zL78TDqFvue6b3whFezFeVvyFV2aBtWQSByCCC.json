@@ -1,0 +1,17 @@
+{
+  "address": "77Epf1zL78TDqFvue6b3whFezFeVvyFV2aBtWQSByCCC",
+  "name": "TeacherDog",
+  "symbol": "TeacherDog",
+  "decimals": 6,
+  "extensions": {
+    "description": "Smartest dog on solana",
+    "twitter": "https://x.com/TeacherDogSOL",
+    "website": "https://teacherdog.xyz/",
+    "telegram": "https://t.me/teacherdogSOL"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmcnFJwXFDGiyLBWPNoVqthRXhopLEwAPHHC2ET7wsuwER",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "3VX2eBqgc98N78WfFb4nkMr7HhEDchxy5WH6sRhppump",
+  "name": "ARNOLD",
+  "symbol": "\u2688_\u0296\u2688",
+  "decimals": 6,
+  "extensions": {
+    "description": "HEY ARNOLD!",
+    "twitter": "https://x.com/arnoldonsoI",
+    "website": "https://arnoldonsol.fun",
+    "telegram": "https://t.me/arnoldonsoI"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdciKsuqLNAgJqKu9UDDuS6v6qjmjN3VfVFkJbc1EGKhh",
+  "price": null,
+  "total_supply": 999999999.044553,
+  "circulating_supply": 999999999.044553,
+  "meme_info": null
+}

@@ -1,0 +1,15 @@
+{
+  "address": "J8CmjrufK4RHAtTpwHK4sy19PVBCm1Mpa5UmZp3spump",
+  "name": "First Dog of Pavel Durov",
+  "symbol": "DDOG",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel Durov's Dog",
+    "website": "https://www.instagram.com/durov/p/0hq1xAL7Wx/"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmRpGPBN9KP4GBv72HFaWTacwW9mCU6g39CS4EbaUu19yy",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

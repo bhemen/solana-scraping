@@ -1,0 +1,15 @@
+{
+  "address": "HvVwMH34MFu12Qg1zjpn9sdu3oKbzrFbhwmCPEJZpump",
+  "name": "FreePavel",
+  "symbol": "FREE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Cobratate/status/1827486935041921211"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmXQr5hAvKJUXoEjTrZ6svGre3zHgAYSLrK1ydo4Af8Ydd",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

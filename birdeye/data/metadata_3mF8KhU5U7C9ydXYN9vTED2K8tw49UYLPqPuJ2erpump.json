@@ -1,0 +1,16 @@
+{
+  "address": "3mF8KhU5U7C9ydXYN9vTED2K8tw49UYLPqPuJ2erpump",
+  "name": "Zelenskyy",
+  "symbol": "ZLS",
+  "decimals": 6,
+  "extensions": {
+    "description": "In a time of unprecedented challenge, we stand firmly with President Zelenskyy and the people of Ukraine. His courage, resilience, and unwavering commitment to democracy inspire us all. Together, we must continue to support Ukraine's fight for freedom, sovereignty, and a brighter future. Let us unite in our commitment to justice and peace, ensuring that their voices are heard and their rights are upheld. Slava Ukraini!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmX7h1UbwaVhV7VKH7TgdtFJqHANAofqhN3vdGdBLJV6KT",
+  "price": 5.059847381826042e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5059.847381826042,
+  "market_cap": 5059.847381826042
+}

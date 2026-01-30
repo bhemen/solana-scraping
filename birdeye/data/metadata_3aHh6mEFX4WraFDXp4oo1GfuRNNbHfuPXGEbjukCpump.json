@@ -1,0 +1,40 @@
+{
+  "address": "3aHh6mEFX4WraFDXp4oo1GfuRNNbHfuPXGEbjukCpump",
+  "name": "HEY FASCIST! CATCH!",
+  "symbol": "CATCH",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/EricLDaugh/status/1966505350959394857",
+    "website": "https://www.youtube.com/watch?v=jAN3LRfsPDM"
+  },
+  "logo_uri": "https://thumbnails.padre.gg/SOLANA-42qzEiW84WGVLVhRipxasAHV2nMaP1FkoG8eBaXrpump",
+  "price": 6.784606611298541e-06,
+  "liquidity": 0.9416306406193824,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6784.606611298541,
+  "market_cap": 6784.606611298541,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757687431,
+      "slot": 366346162,
+      "tx_hash": "5NRXH1oRvPfgfyiGxm3dGgq3jpEYy3Fj7WB4kAXkvhkNByWmVPqc8d3Hn4DMRhMNBTXXPA7pvu5bpNrVxMD7A16b"
+    },
+    "creator": "DYHCtdabUcezuJhSw8MwxNHobUrjhMWH7u4HtbsT87m3",
+    "address": "3aHh6mEFX4WraFDXp4oo1GfuRNNbHfuPXGEbjukCpump",
+    "creation_time": 1757687431,
+    "graduated": false,
+    "pool": {
+      "address": "Axx9S5vWn17MBHSW5hE7fYAGx2wLMUZfqRvn49kxUpAH",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

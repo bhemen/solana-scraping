@@ -1,0 +1,38 @@
+{
+  "address": "AA9cJ41bHF2XYJeHYNj4QRcCFxuxFGLvNwE48KCDpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "PUMP PEPE TO 0,1$!!!\n"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTRRxCJAYjSmMDuCnPR4eZvr2pCtvCp8CWrDGh2whsoej",
+  "price": 4.69802300936453e-06,
+  "liquidity": 0.5980273458669535,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4698.02300936453,
+  "market_cap": 4698.02300936453,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "tx_hash": "5CyQAbUMHQPHd8TuuzaZMRiKibQwGRMXo21P9QyabbZnfr7LzJax1SW3sxZwQkduGdDSnZYpeRQyot3cx3qMSWNA",
+      "slot": 379072888,
+      "block_time": 1762742394
+    },
+    "creation_time": 1762742394,
+    "creator": "ChxJiCy5KbUtUzJhHNbgi6f9XyQt15BCLCsbGuQVoHXD",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "2z8Wjjsz4p64BNncESY5vxBWDYApuvrSGVr7RhWbEQJE",
+      "real_sol_reserves": "26",
+      "real_token_reserves": "793099999990000",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1072999999990000"
+    },
+    "progress_percent": 0,
+    "address": "AA9cJ41bHF2XYJeHYNj4QRcCFxuxFGLvNwE48KCDpump"
+  }
+}

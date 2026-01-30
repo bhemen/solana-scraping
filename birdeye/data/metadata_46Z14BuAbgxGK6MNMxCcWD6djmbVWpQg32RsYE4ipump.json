@@ -1,0 +1,16 @@
+{
+  "address": "46Z14BuAbgxGK6MNMxCcWD6djmbVWpQg32RsYE4ipump",
+  "name": "Sleepy Zelenskiy",
+  "symbol": "SLEEPYZELY",
+  "decimals": 6,
+  "extensions": {
+    "description": "Video of Zelensky sleeping in the entryway when the U.S. Treasury Department came to visit him"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfDS6c69gpn65zJdKt4b8yt8hUD14Xv72ZoS7LqtyMdsq",
+  "price": 4.901533808167009e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 999999999.997552,
+  "circulating_supply": 999999999.997552,
+  "fdv": 4901.53380815501,
+  "market_cap": 4901.53380815501
+}

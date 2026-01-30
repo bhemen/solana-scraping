@@ -1,0 +1,17 @@
+{
+  "address": "DbMUK8c77FQd71GfSnUAQzQAgVQL7dvAzDg9FsiFpump",
+  "name": "teacher",
+  "symbol": "Pedo",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/iFightForKids/status/1922763726211436575"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPjjcs5ymA51FxP9wBxter8E1WaMnmtngEo5XqwXEX94b",
+  "price": 4.7319556009302426e-06,
+  "liquidity": 0.6392114733726598,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4731.955600930242,
+  "market_cap": 4731.955600930242
+}

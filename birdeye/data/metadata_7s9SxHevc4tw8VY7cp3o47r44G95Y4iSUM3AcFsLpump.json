@@ -1,0 +1,18 @@
+{
+  "address": "7s9SxHevc4tw8VY7cp3o47r44G95Y4iSUM3AcFsLpump",
+  "name": "Clown",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/DeItaone/status/1890349481381523758",
+    "website": "https://x.com/DeItaone/status/1890349481381523758"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdxLwHqotZXyKJMoVWV2m1aFSHUUYwAVbXoKhFYq2BSfA",
+  "price": 5.719352119353489e-06,
+  "liquidity": 0.8408421318723961,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5719.352119353489,
+  "market_cap": 5719.352119353489
+}

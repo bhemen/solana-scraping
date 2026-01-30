@@ -1,0 +1,17 @@
+{
+  "address": "8inhjTsSzp5g8xA52aLx8aohfcP2JzsHkKnLnuwDpump",
+  "name": "Teacher",
+  "symbol": "TEACH",
+  "decimals": 6,
+  "extensions": {
+    "description": "If you can read this, thanks a teacher "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPsxQPj1DtSFAjEPGvpBTF6tvFKzDQRmuQHEuKbMRXNHZ",
+  "price": 6.135938258646871e-06,
+  "liquidity": 0.4166659388823368,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6135.938258646871,
+  "market_cap": 6135.938258646871,
+  "meme_info": null
+}

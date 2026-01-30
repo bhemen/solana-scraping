@@ -1,0 +1,17 @@
+{
+  "address": "DbKTioQqgoY84eiMyePmixD4sZ7tZgiAhdPdv54upump",
+  "name": "POPE LEOS CAT",
+  "symbol": "GIZMO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Awtismcapital/status/1920538181658649060"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmc1gJLZoiEfdBoNWy81WzFdj1NaQTAiFcERpwP1f5p2RL",
+  "price": 4.511094208879463e-06,
+  "liquidity": 0.9039447563343004,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4511.094208879464,
+  "market_cap": 4511.094208879464
+}

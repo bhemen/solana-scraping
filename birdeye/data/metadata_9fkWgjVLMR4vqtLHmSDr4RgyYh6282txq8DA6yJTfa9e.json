@@ -1,0 +1,17 @@
+{
+  "address": "9fkWgjVLMR4vqtLHmSDr4RgyYh6282txq8DA6yJTfa9e",
+  "name": "Pope Leo",
+  "symbol": "POPELEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/AutismCapital/status/1924602430635049361"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcAWdmgnHZ8c61x1BCapRMh13j4Uh9NW3xddagGDnPbWg",
+  "price": 4.64783662510229e-06,
+  "liquidity": 0.6889180520147408,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4647.83662510229,
+  "market_cap": 4647.83662510229
+}

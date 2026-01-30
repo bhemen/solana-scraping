@@ -1,0 +1,17 @@
+{
+  "address": "CThDa4H1VQNPei5psrTfyuKgq3eiDT5n6deu54w9pump",
+  "name": "LI TEACHER'S COIN",
+  "symbol": "$LIVISION",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.theguardian.com/world/2025/jan/17/teacher-li-memecoin-cryptocurrency-chinese-activist"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWmuZBhnqWytzmSSexgArbFTtjTM7gKgvGb2oK6PFBp31",
+  "price": 3.5181289854686746e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3518.1289854686747,
+  "market_cap": 3518.1289854686747
+}

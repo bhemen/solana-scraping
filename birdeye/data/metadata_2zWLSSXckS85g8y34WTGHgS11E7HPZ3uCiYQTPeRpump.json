@@ -1,0 +1,14 @@
+{
+  "address": "2zWLSSXckS85g8y34WTGHgS11E7HPZ3uCiYQTPeRpump",
+  "name": "teacher",
+  "symbol": "teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaCm5tbjwAucSCMGhvH1juydfUfEtEmfiVMMfwGb4vZtV",
+  "price": null,
+  "total_supply": 999999999.381311,
+  "circulating_supply": 999999999.381311,
+  "meme_info": null
+}

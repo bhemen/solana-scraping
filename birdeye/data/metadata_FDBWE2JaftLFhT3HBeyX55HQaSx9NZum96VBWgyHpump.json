@@ -1,0 +1,17 @@
+{
+  "address": "FDBWE2JaftLFhT3HBeyX55HQaSx9NZum96VBWgyHpump",
+  "name": "ZELENSKY",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/elonmusk/status/1872380387378573683"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXvNsN59sMstnUw6LL8GTiq7Mk4svasWjmJmwd7fpKj5M",
+  "price": 5.27536079364668e-06,
+  "liquidity": 0.47481669796699205,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5275.36079364668,
+  "market_cap": 5275.36079364668
+}

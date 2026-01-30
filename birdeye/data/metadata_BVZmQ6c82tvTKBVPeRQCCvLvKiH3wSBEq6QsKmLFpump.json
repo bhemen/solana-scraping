@@ -1,0 +1,18 @@
+{
+  "address": "BVZmQ6c82tvTKBVPeRQCCvLvKiH3wSBEq6QsKmLFpump",
+  "name": "\u201cThe Teacher\u201d ",
+  "symbol": "Columbo",
+  "decimals": 6,
+  "extensions": {
+    "description": "we the people kept our republic. Benjamin Franklin would be very proud.\r\n",
+    "twitter": "https://x.com/Columbo_1971"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPUMoMrgdo1jNMXaSaBH5dePaMGi47iSau4Y988VEd81n",
+  "price": 5.513297922975138e-06,
+  "liquidity": 0.4166686446546611,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5513.297922975138,
+  "market_cap": 5513.297922975138,
+  "meme_info": null
+}

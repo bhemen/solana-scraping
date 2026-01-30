@@ -1,0 +1,14 @@
+{
+  "address": "Fhyfcdun1JCTny4mY6aXXZqKLJ5opjyGsEF1ocRHpump",
+  "name": "Ai Teacher",
+  "symbol": "ATR",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVyy7hdj8VyAYjMKinnU7v9q1N38nnozFuXxxjXRisyQb",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

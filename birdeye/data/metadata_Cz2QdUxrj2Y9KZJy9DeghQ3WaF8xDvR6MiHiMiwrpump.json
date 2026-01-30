@@ -1,0 +1,16 @@
+{
+  "address": "Cz2QdUxrj2Y9KZJy9DeghQ3WaF8xDvR6MiHiMiwrpump",
+  "name": "Pump Teacher",
+  "symbol": "TEACH",
+  "decimals": 6,
+  "extensions": {
+    "description": "LEGO teacher teaching Pump.fun coins."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSEMeaj4rxHoJRAU9tDzUCwAaxssXkSZYKEiipapAATUQ",
+  "price": 3.657575003137535e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 999999999.998821,
+  "circulating_supply": 999999999.998821,
+  "fdv": 3657.5750031332227,
+  "market_cap": 3657.5750031332227
+}

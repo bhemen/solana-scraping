@@ -1,0 +1,17 @@
+{
+  "address": "EwHjccsNU6ErNXjpRHtXyE8kkxGmdQ25aUC4BF44pump",
+  "name": "Pavel Durov",
+  "symbol": "DUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "$DUROV is a community-driven coin on TON, inspired by Pavel Durov - the founder of Telegram.\r\n",
+    "twitter": "https://x.com/durov_tonchain?s=21",
+    "website": "https://www.durovton.com/",
+    "telegram": "https://t.me/PavelDurovOnTon"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmQvZRGPja8959P2rnEWExuMMsRFC4ikYScFdzaFiiWL2A",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

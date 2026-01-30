@@ -1,0 +1,14 @@
+{
+  "address": "2GSppWdmq7A2kyK6JrV61r5JcgpWHu5T2tESwsWApump",
+  "name": "Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "OG USA PRESIDENT"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmepGqgud2NZMM6NBhaSPziovSRfnhei88cUJDGtMq2FWB",
+  "price": null,
+  "total_supply": 999999999.987385,
+  "circulating_supply": 999999999.987385,
+  "meme_info": null
+}

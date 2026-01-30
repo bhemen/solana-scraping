@@ -1,0 +1,20 @@
+{
+  "address": "A5tZhAXWVkNKUmQoB3qYswN4nN2wj6FwGRRQekAmpump",
+  "name": "Bit teacher",
+  "symbol": "BitTeacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Bitcoin/status/1868290728754810981",
+    "website": "https://x.com/Bitcoin/status/1868290728754810981",
+    "telegram": "https://x.com/Bitcoin/status/1868290728754810981"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmefPnAegEXAZZYKijNEWkpmSVj8vML3H3xLoPQVAsvm4M",
+  "price": 6.142790953604695e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6142.790953604695,
+  "market_cap": 6142.790953604695,
+  "meme_info": null
+}

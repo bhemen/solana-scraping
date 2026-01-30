@@ -1,0 +1,18 @@
+{
+  "address": "HKPuJsLji5ceEN5jgQkkBYvNMToDZhUQ7Goq2CXnpump",
+  "name": "Goon Teacher",
+  "symbol": "Victoria",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/MailOnline/status/1918446632867078330",
+    "website": "https://www.dailymail.co.uk/news/article-14673689/dance-teacher-victoria-montgomery-suspended-sexual-relationship-student.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailus"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVWFe2fof7wS42wDL1DXy6KwMCiSmiXRRHQRUiA9bXS1B",
+  "price": 4.118160097827271e-06,
+  "liquidity": 0.9039549029805167,
+  "total_supply": 999999999,
+  "circulating_supply": 999999999,
+  "fdv": 4118.160093709111,
+  "market_cap": 4118.160093709111
+}

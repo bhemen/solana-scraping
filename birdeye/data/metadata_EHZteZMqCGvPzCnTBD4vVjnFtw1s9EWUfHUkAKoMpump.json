@@ -1,0 +1,16 @@
+{
+  "address": "EHZteZMqCGvPzCnTBD4vVjnFtw1s9EWUfHUkAKoMpump",
+  "name": "zelensky ai",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "When you buy $zelensky its not just a meme coin, its tributing to zelensky and his ww3"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSRwZso1NQwvn51HU4n4BwtTZswTHQkdbtVArj1ByBTvC",
+  "price": 3.895085098102901e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3895.085098102901,
+  "market_cap": 3895.085098102901
+}

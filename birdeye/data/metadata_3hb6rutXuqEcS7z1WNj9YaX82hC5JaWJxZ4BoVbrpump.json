@@ -1,0 +1,18 @@
+{
+  "address": "3hb6rutXuqEcS7z1WNj9YaX82hC5JaWJxZ4BoVbrpump",
+  "name": "Pepe",
+  "symbol": "PABLO",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pablo is pepes friend and hes bringing tacos",
+    "twitter": "https://x.com/PepesPablo2100",
+    "website": "https://www.coinbase.com/price/pepe"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTyyAffLLxZS2pUFCwxZPVpScgFxTJyFckRSUKtbm62T6",
+  "price": 6.495628872633814e-06,
+  "liquidity": 3.680189597296379,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6495.628872633814,
+  "market_cap": 6495.628872633814
+}

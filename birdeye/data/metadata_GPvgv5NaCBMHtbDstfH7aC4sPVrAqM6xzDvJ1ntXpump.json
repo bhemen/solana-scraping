@@ -1,0 +1,17 @@
+{
+  "address": "GPvgv5NaCBMHtbDstfH7aC4sPVrAqM6xzDvJ1ntXpump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "How to tell is your Pepe is genuine or counterfeit\r\n",
+    "website": "https://www.reddit.com/r/MemeEconomy/comments/5njou8/how_to_tell_is_your_pepe_is_genuine_or_counterfeit/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPYPXSWRA966QZjFY1SD1WXBEMo9UNv5hhp5iBccwr9tx",
+  "price": 4.86931769321692e-06,
+  "liquidity": 0.6612918018205093,
+  "total_supply": 999999999.989546,
+  "circulating_supply": 999999999.989546,
+  "fdv": 4869.3176931660155,
+  "market_cap": 4869.3176931660155
+}

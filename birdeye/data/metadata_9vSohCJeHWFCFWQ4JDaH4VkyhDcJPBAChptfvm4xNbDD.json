@@ -1,0 +1,19 @@
+{
+  "address": "9vSohCJeHWFCFWQ4JDaH4VkyhDcJPBAChptfvm4xNbDD",
+  "name": "Good Teachers",
+  "symbol": "GOOD",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://twitter.com/cz_binance/status/1871159329325465887",
+    "twitter": "https://twitter.com/cz_binance/status/1871159329325465887",
+    "website": "https://twitter.com/cz_binance/status/1871159329325465887",
+    "telegram": "https://twitter.com/cz_binance/status/1871159329325465887"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaffGH8boSyb6mKvQ1mBNgRhkFmprnPoTnBZuk6qMfnqJ",
+  "price": 5.4103052217377774e-06,
+  "liquidity": 0.41666526243925567,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5410.305221737777,
+  "market_cap": 5410.305221737777
+}

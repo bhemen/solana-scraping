@@ -1,0 +1,14 @@
+{
+  "address": "8asRNrRd3ZiaFsGJj94qnT9vMqXASGDdBYindawAskMX",
+  "name": "PAVEL",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmVcUHPN18F1HzXTXVuMsyveh7dzTE78VRTgJr81vA8zJx",
+  "price": null,
+  "total_supply": 999999999.969477,
+  "circulating_supply": 999999999.969477,
+  "meme_info": null
+}

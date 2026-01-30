@@ -1,0 +1,19 @@
+{
+  "address": "632D33JVDiw4yyGS1iPxRHy4nuj2xfSiwR7cjSqgpump",
+  "name": "Pavel",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel loves to make me laugh",
+    "twitter": "https://t.me/",
+    "website": "/",
+    "telegram": "https://t.me/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmST5urK7Yn1uski1oM34kQfVpu9edCqb7PUkMm2HWttHm",
+  "price": 6.0753044307753454e-06,
+  "liquidity": 0.41667371797776925,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6075.304430775345,
+  "market_cap": 6075.304430775345
+}

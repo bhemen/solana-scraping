@@ -1,0 +1,17 @@
+{
+  "address": "6AVV1V5ZvG9vvKq83ZZcQpHKYaj4WR5UXjGS2rB1pump",
+  "name": "ARNOLD",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "extensions": {
+    "description": "If you haven't heard about Arnold yet, where have you been hiding? Arnold isn't just a public figure, he's a vibrant force of sweetness and fun, now making waves as a meme coin on the Solana blockchain!  \r\n",
+    "twitter": "https://x.com/meet_arnold_"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXA7pxyYK1pJuiKvxmVJHmPBBSvjjFr5ES4pXWb9uZ8VT",
+  "price": 6.072933241777457e-06,
+  "liquidity": 0.41667473264239085,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6072.933241777458,
+  "market_cap": 6072.933241777458
+}

@@ -1,0 +1,14 @@
+{
+  "address": "9HP2964cstvwjG4k6Y1sHzddDbRy2mxF5NothNZbpump",
+  "name": "Release Pavel Durov",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "We want to get the French government's attention and plant the seed of freedom in their mind"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSUzVPNrYLJnZerQwNupe8DZuP3FmeDLLAEYceckzt3sh",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

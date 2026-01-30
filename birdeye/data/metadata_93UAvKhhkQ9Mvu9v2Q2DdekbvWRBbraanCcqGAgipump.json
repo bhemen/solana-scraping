@@ -1,0 +1,17 @@
+{
+  "address": "93UAvKhhkQ9Mvu9v2Q2DdekbvWRBbraanCcqGAgipump",
+  "name": "Elon Company CO-Owner",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.bloomberg.com/news/articles/2017-12-12/cryptic-russian-crusader-says-his-5-billion-app-can-t-be-bought"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSyJm3bFHtk4DUZdTfTgyWbaU9CCnY84d7yuSABq9NYj7",
+  "price": 4.0510247984412536e-06,
+  "liquidity": 0.903946447442003,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4051.0247984412536,
+  "market_cap": 4051.0247984412536
+}

@@ -1,0 +1,17 @@
+{
+  "address": "7q4Yj9aaugB3g35g6m3mRxotaBEME6oweDmHRoFqpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.pepe.vip/",
+    "website": "https://www.pepe.vip/",
+    "telegram": "https://www.pepe.vip/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPcDhD8okbeLMauVcAVRrEoBcXsErLwETMg3eQjHwpjcg",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

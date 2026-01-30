@@ -1,0 +1,16 @@
+{
+  "address": "4zR5tZLtZYi1ZR8bcE6ZZ8jS2yBcn7a9oaH7F1JjvDJj",
+  "name": "Pepe",
+  "symbol": "PEPEAI",
+  "decimals": 6,
+  "extensions": {
+    "description": "A mysterious frog lost on the blockchain. Knowing all the secrets for wealth.\r\nMade with vvaifu.fun \r\nCreate AI characters with tokens.",
+    "twitter": "https://x.com/vvaifudotfun",
+    "website": "https://vvaifu.fun"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma2DmrXqXHCZ8G5MfiBPj4XAJFxwtSsFbu7y1G7jCFnzm",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,14 @@
+{
+  "address": "8mMpZsDE8SodgQNj1qHyYqvCJuVHK4Wsxypo7wmQpump",
+  "name": "pepe",
+  "symbol": "P",
+  "decimals": 6,
+  "extensions": {
+    "description": "P"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmbwBN4jQC7EU3aBGVEBox2NgyQAKqd6iuiku77Uuh17xG",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

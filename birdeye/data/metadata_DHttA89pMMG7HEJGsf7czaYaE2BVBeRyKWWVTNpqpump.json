@@ -1,0 +1,14 @@
+{
+  "address": "DHttA89pMMG7HEJGsf7czaYaE2BVBeRyKWWVTNpqpump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Cute little dog"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRZhPMZ4uqEteXPcjDqx2p8HKJANmNJEtHJUP4BDRKUYA",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

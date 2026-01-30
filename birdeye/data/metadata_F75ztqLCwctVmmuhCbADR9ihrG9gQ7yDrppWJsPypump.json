@@ -1,0 +1,39 @@
+{
+  "address": "F75ztqLCwctVmmuhCbADR9ihrG9gQ7yDrppWJsPypump",
+  "name": "Hey fascist! Catch!",
+  "symbol": "CATCH",
+  "decimals": 6,
+  "extensions": {
+    "description": "Tyler Robinson \u2018full of hate\u2019 before Charlie Kirk shooting",
+    "website": "https://nypost.com/2025/09/12/us-news/tyler-robinson-full-of-hate-before-charlie-kirk-shooting-says-family-friends/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWi9rTGH28gHJbzAKYfanscqrYJmfSjah3mnkXLBCrogg",
+  "price": 6.718859761857307e-06,
+  "liquidity": 0.9506447919064576,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6718.859761857307,
+  "market_cap": 6718.859761857307,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757690983,
+      "slot": 366355154,
+      "tx_hash": "61euf1KtYk27ottA1kMcPoW5nRhggmF5Nh8kT52yzeBi31wFFTC3htXp2jeUVfvwJs9xFokMZj39cveZdiJifaJe"
+    },
+    "creator": "zTTUEbrynp9UZM5r8UrXas1pyeLPKaNE877BrpJcyLx",
+    "address": "F75ztqLCwctVmmuhCbADR9ihrG9gQ7yDrppWJsPypump",
+    "creation_time": 1757690983,
+    "graduated": false,
+    "pool": {
+      "address": "GmXXNEoR7ez9Zh71pZauqBDRgZEoRov25KnHMxt1EWbD",
+      "real_sol_reserves": "4",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

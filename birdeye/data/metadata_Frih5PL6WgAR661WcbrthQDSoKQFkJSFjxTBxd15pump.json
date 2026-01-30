@@ -1,0 +1,38 @@
+{
+  "address": "Frih5PL6WgAR661WcbrthQDSoKQFkJSFjxTBxd15pump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "PEPE ON SOLANA"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmV5THmAjZHJ9pEXk2XyQwiCjUsJwjjd7u73RACQjbTJ22",
+  "price": 4.738775929483391e-06,
+  "liquidity": 0.7046388776540278,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4738.775929483391,
+  "market_cap": 4738.775929483391,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "slot": 309428007,
+      "tx_hash": "3pV6hWJsgSN5bZBRyAmyr6U4WMiF6aXiDCrLiNKcddPBeWT23DMrh9uYBWQtB2vtSsgKJUuVC14f73oPXa8YUgtu",
+      "block_time": 1735010602
+    },
+    "creation_time": 1735010602,
+    "creator": "71VbCKorsBFj1EGVyQxBhBzarHXqhEmHPZhjv9LYdw84",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "CD6hGBkN7LfYgbirtDnAXzSiXMy9ZutsnzVgBhDQaK78",
+      "real_sol_reserves": "2812",
+      "real_token_reserves": "793099899926247",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1072999899926247"
+    },
+    "progress_percent": 1e-05,
+    "address": "Frih5PL6WgAR661WcbrthQDSoKQFkJSFjxTBxd15pump"
+  }
+}

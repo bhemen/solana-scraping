@@ -1,0 +1,19 @@
+{
+  "address": "6uKzAtJ4WKmMzqzeQihhUKxUW63bUCKbdJp1U6sxpump",
+  "name": "PAVEL DUROV",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel Durov, the CEO of Telegram.",
+    "twitter": "https://x.com/MustStopMurad",
+    "website": "https://x.com/MustStopMurad",
+    "telegram": "https://t.me/CryptoSpekulacjaPodgrupy"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbiZBX8pRF7aHE1631TdJeeBvvhhmS5XYxUbijAF7hsmk",
+  "price": 6.125732195658021e-06,
+  "liquidity": 0.4166666153254179,
+  "total_supply": 999999999.986616,
+  "circulating_supply": 999999999.986616,
+  "fdv": 6125.7321955760335,
+  "market_cap": 6125.7321955760335
+}

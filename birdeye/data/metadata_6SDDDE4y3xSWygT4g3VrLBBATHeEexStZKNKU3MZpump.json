@@ -1,0 +1,16 @@
+{
+  "address": "6SDDDE4y3xSWygT4g3VrLBBATHeEexStZKNKU3MZpump",
+  "name": "Zelensky",
+  "symbol": "ZLS",
+  "decimals": 6,
+  "extensions": {
+    "description": "FUCK ZLS"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWng5S8YLHnzod5jnKXNvaitFim5QC8LTKgZJhjimzpXD",
+  "price": 4.8562230336097115e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 999999999.996678,
+  "circulating_supply": 999999999.996678,
+  "fdv": 4856.223033593579,
+  "market_cap": 4856.223033593579
+}

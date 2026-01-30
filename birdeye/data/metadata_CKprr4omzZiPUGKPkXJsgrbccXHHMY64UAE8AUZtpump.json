@@ -1,0 +1,14 @@
+{
+  "address": "CKprr4omzZiPUGKPkXJsgrbccXHHMY64UAE8AUZtpump",
+  "name": "MY TEACHER",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQezcLRJcrvyfCrzx84mFNAY5gseYP4BMBUBbEv67iK1H",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

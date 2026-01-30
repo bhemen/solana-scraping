@@ -1,0 +1,15 @@
+{
+  "address": "7AD4ZkjCuw92Y7FgvrpUdLg5wnqqVRHHFvs13CuDpump",
+  "name": "nick",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "alientologist",
+    "twitter": "https://x.com/NickMystic_"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYsV3QSH2cpDGKHHcGQFkY1mQvaNbqRC1zTjGvXVr4h8X",
+  "price": null,
+  "total_supply": 999999999.99585,
+  "circulating_supply": 999999999.99585,
+  "meme_info": null
+}

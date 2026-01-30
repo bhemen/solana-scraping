@@ -1,0 +1,40 @@
+{
+  "address": "HtGV4brumBDXbZgc7uEKn74xikFMVqHxf39KDiqypump",
+  "name": "Teacher Bae",
+  "symbol": "TEACHERBAE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/yabaleftonline/status/1963957616150728839",
+    "website": "https://www.dailymail.co.uk/news/article-15065635/teacher-bae-outrage-tight-fitting-classroom-outfits.html"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmP1mbhGcagvYfYhdEh4aqexXZtqdWVvkQrqqLB9HKGhjW",
+  "price": 6.093235470623978e-06,
+  "liquidity": 0.7868896301432262,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6093.2354706239785,
+  "market_cap": 6093.2354706239785,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757079114,
+      "slot": 364828720,
+      "tx_hash": "cHVsioGfrZr2kaCNTbaVaNoWb44MWAz4KcBMzsy8uMVe5ZY8cCvVhfDx7eDcSJ7VZNs6XkkzdPTnsWuzFVvPstt"
+    },
+    "creator": "BcmcbHMvvo3X7Vn13wKShpqfjSro5XxC41AjrjWGNy7r",
+    "address": "HtGV4brumBDXbZgc7uEKn74xikFMVqHxf39KDiqypump",
+    "creation_time": 1757079114,
+    "graduated": false,
+    "pool": {
+      "address": "6pV4xLYivTyEcPLd9kPMjDeffwYVEe7EKpZKnhpDwiUj",
+      "real_sol_reserves": "4",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

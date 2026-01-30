@@ -1,0 +1,14 @@
+{
+  "address": "9N3Gz724XQoHkqEiWeyw36XTDbyEv6c5qTioP99Rpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPWVpESfcD7TPXc85tCfE5J11pKCxVueRbpsDb6SCiwZd",
+  "price": null,
+  "total_supply": 999999999.052651,
+  "circulating_supply": 999999999.052651,
+  "meme_info": null
+}

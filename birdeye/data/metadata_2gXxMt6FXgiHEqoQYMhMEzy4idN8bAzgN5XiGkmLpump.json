@@ -1,0 +1,16 @@
+{
+  "address": "2gXxMt6FXgiHEqoQYMhMEzy4idN8bAzgN5XiGkmLpump",
+  "name": "impeachment Zelenskiy",
+  "symbol": "imZelenski",
+  "decimals": 6,
+  "extensions": {
+    "description": "Before he takes even more lives."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbJZ5xnbZUHHF8qCoYSfLmdJzzw2yHN5PEoZXdH9viKzs",
+  "price": 4.687625846659711e-06,
+  "liquidity": 1.0004994713930062,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4687.625846659711,
+  "market_cap": 4687.625846659711
+}

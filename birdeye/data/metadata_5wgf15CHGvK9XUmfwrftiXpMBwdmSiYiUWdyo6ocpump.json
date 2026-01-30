@@ -1,0 +1,16 @@
+{
+  "address": "5wgf15CHGvK9XUmfwrftiXpMBwdmSiYiUWdyo6ocpump",
+  "name": "Elmo's Teacher",
+  "symbol": "Beto",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcMi1cfhVpKij95C3JS9BCk1AawdmdrUjhdPvhzAEG3o5",
+  "price": 5.313034547282997e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5313.034547282997,
+  "market_cap": 5313.034547282997
+}

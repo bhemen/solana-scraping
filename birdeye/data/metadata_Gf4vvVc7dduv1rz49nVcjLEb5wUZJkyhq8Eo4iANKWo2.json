@@ -1,0 +1,17 @@
+{
+  "address": "Gf4vvVc7dduv1rz49nVcjLEb5wUZJkyhq8Eo4iANKWo2",
+  "name": "arnold",
+  "symbol": "arnold",
+  "decimals": 6,
+  "extensions": {
+    "description": "hey arnold",
+    "twitter": "https://x.com/arnold",
+    "website": "https://www.schwarzenegger.com/",
+    "telegram": "https://t.me/arnold"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmU5vgUhWbn66APixDpaJGuigd1eVseLJ54pzW8gSRfmc6",
+  "price": null,
+  "total_supply": 999999998.880932,
+  "circulating_supply": 999999998.880932,
+  "meme_info": null
+}

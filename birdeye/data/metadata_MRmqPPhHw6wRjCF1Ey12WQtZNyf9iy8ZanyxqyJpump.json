@@ -1,0 +1,38 @@
+{
+  "address": "MRmqPPhHw6wRjCF1Ey12WQtZNyf9iy8ZanyxqyJpump",
+  "name": "PEPE",
+  "symbol": "Police ",
+  "decimals": 6,
+  "extensions": {
+    "description": "PePe the police coin to catch thieves"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfFyBJ5JiZsAbnALwedwQEgFD2ogb2msWC9utwsGKzUnN",
+  "price": 6.525152880656435e-06,
+  "liquidity": 0.8544110930703748,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6525.152880656436,
+  "market_cap": 6525.152880656436,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1740374909,
+      "slot": 322714945,
+      "tx_hash": "2UTnVt38KCmDZkJa6FvjEJVx257ZaF8dgYNA8nW9ef5uGv1Ck1aBoJRapJq9GHfYoUriqSVdVkrNgZLE9mXY6Nxd"
+    },
+    "creator": "1o9orJppqeFG3bkbGbpcswE7xQmt1KwkZDmHKZCw1v4",
+    "address": "MRmqPPhHw6wRjCF1Ey12WQtZNyf9iy8ZanyxqyJpump",
+    "creation_time": 1740374909,
+    "graduated": false,
+    "pool": {
+      "address": "8fFJ4m4fqBsvC7ro8aysmEPQtgMBU38csrxP2T9ovQ72",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793099999999959",
+      "virtual_token_reserves": "1072999999999959",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

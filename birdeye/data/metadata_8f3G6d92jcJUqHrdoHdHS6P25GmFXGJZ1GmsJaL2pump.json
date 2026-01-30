@@ -1,0 +1,16 @@
+{
+  "address": "8f3G6d92jcJUqHrdoHdHS6P25GmFXGJZ1GmsJaL2pump",
+  "name": "POPE LEO",
+  "symbol": "LEO",
+  "decimals": 6,
+  "extensions": {
+    "description": "LETS GO POPEYYY"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUsgYZqSgxFF6cx4DDFjonawDkhPoQk4BYATEi4WvyYi3",
+  "price": 4.495984934861476e-06,
+  "liquidity": 0.9039450945558409,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4495.9849348614625,
+  "market_cap": 4495.9849348614625
+}

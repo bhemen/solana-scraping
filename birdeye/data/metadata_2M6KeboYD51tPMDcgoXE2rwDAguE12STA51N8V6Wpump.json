@@ -1,0 +1,16 @@
+{
+  "address": "2M6KeboYD51tPMDcgoXE2rwDAguE12STA51N8V6Wpump",
+  "name": "ZELENSKYY",
+  "symbol": "ZELE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Officially token of Vladimir Zelenskyy "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcNHycW1zpgf2Ad862LqPnnewVXtrPZ4SfenGNstw8xvQ",
+  "price": 6.935075303194077e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 999999999.999773,
+  "circulating_supply": 999999999.999773,
+  "fdv": 6935.075303192503,
+  "market_cap": 6935.075303192503
+}

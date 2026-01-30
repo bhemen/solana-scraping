@@ -1,0 +1,16 @@
+{
+  "address": "4z46YB3fKQXsp2HgkWT4vuAAGVakZp25oN6huAXjpump",
+  "name": "FreePavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "PAVEL is more than just a token\u2014it's a movement to rally the crypto community in the fight for freedom of speech and privacy. Join us in spreading Pavel's spirit of resistance and help support the cause of liberty. Together, we can make our voices heard and #FreePavel!",
+    "twitter": "https://x.com/FranklinBi/status/1827472269893103940",
+    "website": "https://x.com/FranklinBi/status/1827472269893103940"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmcES7LfZ2XsVVoLeQaG9GmYGV6sWgJnggeJwbRUGAVkS4",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

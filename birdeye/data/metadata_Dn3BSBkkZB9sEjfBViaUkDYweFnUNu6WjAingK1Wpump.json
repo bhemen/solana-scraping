@@ -1,0 +1,15 @@
+{
+  "address": "Dn3BSBkkZB9sEjfBViaUkDYweFnUNu6WjAingK1Wpump",
+  "name": "Pevel Derov",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/WatcherGuru/status/1827450423608795287"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmP84aExrdP1xAKHiMoDaSFUbomUXa9nhF6vymVFJHHwG8",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

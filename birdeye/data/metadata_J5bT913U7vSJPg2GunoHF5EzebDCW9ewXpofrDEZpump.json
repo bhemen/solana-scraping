@@ -1,0 +1,15 @@
+{
+  "address": "J5bT913U7vSJPg2GunoHF5EzebDCW9ewXpofrDEZpump",
+  "name": "Arnold",
+  "symbol": "Kamala",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/RadarHits/status/1851673365708263461",
+    "twitter": "https://x.com/RadarHits/status/1851673365708263461"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPCGu2MLknzgcCLJTBdKFBUeZGF1AQYEcwHswXCyfKRsE",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,39 @@
+{
+  "address": "DScLzg2EhxmaP57mPoTbHmm2whPwaUSTs8K3fmPNpump",
+  "name": "Just a Chill Zelensky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/search?q=zelensky%20t-shirt&src=typed_query"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreih7rs6sv5c45cue6bkn5mr5a7ujmsbcspgi6xgorgf5cg3p7ctwse",
+  "price": 5.201619842002272e-06,
+  "liquidity": 0.7119447133842676,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5201.619842002272,
+  "market_cap": 5201.619842002272,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1755531396,
+      "slot": 360906743,
+      "tx_hash": "46ecvXCotrEakgcRWdkL2GxTfVg67QN1s2rUQoWpsKzLRdzYBd4qaBtosHQ8eyCBsFUg71sfUgYQEanYXYfqewmq"
+    },
+    "creator": "Bt6Viy98AkYwFL5VD15ScWY6BvzDCX3HJCM7Mj6pHJMa",
+    "address": "DScLzg2EhxmaP57mPoTbHmm2whPwaUSTs8K3fmPNpump",
+    "creation_time": 1755531396,
+    "graduated": false,
+    "pool": {
+      "address": "5oGTqkhyGFocfLLtgMLsktmL4LWFjWSNWf3jLCPKEL1T",
+      "real_sol_reserves": "6",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

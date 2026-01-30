@@ -1,0 +1,17 @@
+{
+  "address": "4ZNmncabG376vKaZyzLHdkLZewDbiQumAXfrwSuZiR3i",
+  "name": "Hey Zelensky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "Hey Zelensky\u2026 https://t.co/vBKBI7vudC",
+    "twitter": "https://twitter.com/GuntherEagleman/status/1906030498104709566"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfAcqFctcM4YbMr6StWTirEPB3rpSETPehXKuTkCjYvL1",
+  "price": 3.5209647512038317e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3520.964751203832,
+  "market_cap": 3520.964751203832
+}

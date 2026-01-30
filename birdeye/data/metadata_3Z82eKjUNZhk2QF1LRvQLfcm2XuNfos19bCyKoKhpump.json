@@ -1,0 +1,14 @@
+{
+  "address": "3Z82eKjUNZhk2QF1LRvQLfcm2XuNfos19bCyKoKhpump",
+  "name": " Hippo Teacher",
+  "symbol": " Hippo T",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXgP6qhRjPBhyZ5eFWYghYKKJpKonqVGTc4x77UVoiCdB",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

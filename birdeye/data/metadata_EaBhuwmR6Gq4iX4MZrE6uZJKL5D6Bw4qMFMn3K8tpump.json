@@ -1,0 +1,16 @@
+{
+  "address": "EaBhuwmR6Gq4iX4MZrE6uZJKL5D6Bw4qMFMn3K8tpump",
+  "name": "zelenski ",
+  "symbol": "YZY",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUMfxvhZrEixgnooCTCc4it2dsMM88DTZrjUoHfDzvwwE",
+  "price": 4.017101972860652e-06,
+  "liquidity": 0.3644031337568449,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4017.1019728606525,
+  "market_cap": 4017.1019728606525
+}

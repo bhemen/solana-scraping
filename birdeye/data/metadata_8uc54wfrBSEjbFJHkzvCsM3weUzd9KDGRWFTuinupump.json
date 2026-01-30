@@ -1,0 +1,14 @@
+{
+  "address": "8uc54wfrBSEjbFJHkzvCsM3weUzd9KDGRWFTuinupump",
+  "name": "ARNOLD",
+  "symbol": "ARNY",
+  "decimals": 6,
+  "extensions": {
+    "description": "woof is the dog out  "
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmZz9vUaoqzotp7CqW4qewXgcS88pwoMdho5VSbiqnSXaG",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

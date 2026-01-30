@@ -1,0 +1,40 @@
+{
+  "address": "9Fd44wHUvWwVDHXNCGyM4frcyKNeTGBx7zJ35BXmpump",
+  "name": "HEY FASCIST! CATCH",
+  "symbol": "CATCH",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/LeadingReport/status/1966506332199977312",
+    "website": "https://www.youtube.com/watch?v=jAN3LRfsPDM"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmYpkdaRf47EcAHPLp4DFg8RNJmNmyJWAunpUHbMcxGoJ5",
+  "price": 6.769581559638438e-06,
+  "liquidity": 0.7098487229122732,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6769.581559638437,
+  "market_cap": 6769.581559638437,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757686772,
+      "slot": 366344496,
+      "tx_hash": "5uc2kTzkXDuKXyMVALouysSWtZQp9QVHcASQRAQS5aYTYmvzCgy1ZryVzeYTsSTsSiLpFfZZUw7wxJAW9eSMfo7g"
+    },
+    "creator": "8oHT5pwfWgCVfFJUyBXeWNDhSTtPc17TcjLcHsuKs6Ue",
+    "address": "9Fd44wHUvWwVDHXNCGyM4frcyKNeTGBx7zJ35BXmpump",
+    "creation_time": 1757686772,
+    "graduated": false,
+    "pool": {
+      "address": "2D5bNEGbDLx8mvCZmPh35wpttpfbZG56s2ziDVLToDWH",
+      "real_sol_reserves": "3",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

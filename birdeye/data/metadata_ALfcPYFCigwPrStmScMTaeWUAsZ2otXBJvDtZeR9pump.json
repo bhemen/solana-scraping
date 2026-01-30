@@ -1,0 +1,16 @@
+{
+  "address": "ALfcPYFCigwPrStmScMTaeWUAsZ2otXBJvDtZeR9pump",
+  "name": "Arnold",
+  "symbol": "ARD",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pump & Musculate"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTU3PUkXG9NauUnTp5tBtmyS45xhAQNpB3ndsJQRDgPGM",
+  "price": 4.944940490942638e-06,
+  "liquidity": 0.6482260294990566,
+  "total_supply": 999999999.990432,
+  "circulating_supply": 999999999.990432,
+  "fdv": 4944.940490895326,
+  "market_cap": 4944.940490895326
+}

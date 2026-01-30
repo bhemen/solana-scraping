@@ -1,0 +1,17 @@
+{
+  "address": "J3c85uUDCduKufCMuy6CWioEQKXY9q8UWfth4Nxpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/home",
+    "website": "https://solana.com/",
+    "telegram": "https://web.telegram.org/k/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbQg3aa2q2QEhMyULgZFQwoSVSUeEDPoNe1wf3eNYL9iZ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "C6C8k1Hz8DcPY7SnCT4165SebZa1vuGkfEdZFJp8P1pU",
+  "name": "TEACHERGPT",
+  "symbol": "TEACHERGPT",
+  "decimals": 6,
+  "extensions": {
+    "description": "TeacherGPT (teacherGPT)",
+    "twitter": "https://x.com/DailyMail/status/1923496401280930257"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdPziDtkyxN21WSjvKztYZwN7ohiK7UdJVVnnjZZYU4ap",
+  "price": 4.698724388725151e-06,
+  "liquidity": 0.6246836038216906,
+  "total_supply": 999999999.99835,
+  "circulating_supply": 999999999.99835,
+  "fdv": 4698.724388717398,
+  "market_cap": 4698.724388717398
+}

@@ -1,0 +1,17 @@
+{
+  "address": "9L944UrmHg3y5yE5u8xc53XGsibaFSSGiQrQT4wwpump",
+  "name": "PAVELSUPER",
+  "symbol": "SNAIPER",
+  "decimals": 6,
+  "extensions": {
+    "description": "olga lol pashka",
+    "twitter": "https//x.com/super",
+    "website": "deephome.com",
+    "telegram": "https://t.me/violen"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYLJyYG2SDjHYC8eZG3Gc5puD6jh9F8uLfJWi2uBMQ8T9",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

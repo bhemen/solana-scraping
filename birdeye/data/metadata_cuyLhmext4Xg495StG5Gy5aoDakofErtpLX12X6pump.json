@@ -1,0 +1,17 @@
+{
+  "address": "cuyLhmext4Xg495StG5Gy5aoDakofErtpLX12X6pump",
+  "name": "TRENCHER ZELENSKYY",
+  "symbol": "TRENCHSKYY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/ZelenskyyUa/status/1918303652587987052"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaCjw3eqzH5qfMCnABXRhCnn2VGHGGsTvbqQCcEPje5o8",
+  "price": 4.228106531142216e-06,
+  "liquidity": 0.9039471238850842,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4228.106531142216,
+  "market_cap": 4228.106531142216
+}

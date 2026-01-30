@@ -1,0 +1,17 @@
+{
+  "address": "2uUW3sB6443trMLtDRizTGKD8mRiCNQS9efcFRyBpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "This is Nick, Nick wears sunshades inside because he doesn't give a fuck about your opinion"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdiFDxADuNg7KUVpGEarDSrtggwV9G3GedxKadMXHeFka",
+  "price": 6.429043532472998e-06,
+  "liquidity": 0.5792988729277904,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6429.043532472998,
+  "market_cap": 6429.043532472998,
+  "meme_info": null
+}

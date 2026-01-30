@@ -1,0 +1,17 @@
+{
+  "address": "EGmiNrchhPCs2Jf1iLKXTd2q6BsPSXxWJBEWhinTQQSW",
+  "name": "justice for zelensky",
+  "symbol": "zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com"
+  },
+  "logo_uri": "https://metadata.pumployer.fun/data/e1ed4218-d8e2-45f0-a839-e738192b7120",
+  "price": 5.432310036109403e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5432.310036109403,
+  "market_cap": 5432.310036109403
+}

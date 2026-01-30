@@ -1,0 +1,17 @@
+{
+  "address": "J559vm8PkCewmcQdHcABs5Z1iBYHMKXZcCA9gZomVNRA",
+  "name": "new titkok ceo",
+  "symbol": "pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com"
+  },
+  "logo_uri": "https://metadata.pumployer.fun/data/3d04765d-e1a2-46fe-a2e9-1da28dec6cd3",
+  "price": 3.4083474490866723e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 3408.3474490866693,
+  "market_cap": 3408.3474490866693
+}

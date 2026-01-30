@@ -1,0 +1,17 @@
+{
+  "address": "6eMTPExiQ2x9dNGJUMYfG8obPwGyHkCnY6kV3xYgpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://www.telegram.com/",
+    "website": "https://www.telegram.com/",
+    "telegram": "https://www.telegram.com/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmb8MbzR2eeDwxykRwMP1Dn5xLa5Ao12SACuw3ScparCfC",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

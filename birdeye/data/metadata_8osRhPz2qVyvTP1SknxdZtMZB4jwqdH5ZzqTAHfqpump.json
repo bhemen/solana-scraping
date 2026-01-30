@@ -1,0 +1,17 @@
+{
+  "address": "8osRhPz2qVyvTP1SknxdZtMZB4jwqdH5ZzqTAHfqpump",
+  "name": "X HACKER",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://x.com/cb_doge/status/1899197520070504760"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPvTdvdqV4WWaG5qbkPxMDqx2ct63fFQyb4BKHK2w7EXB",
+  "price": 3.3264866522548164e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3326.4866522548164,
+  "market_cap": 3326.4866522548164
+}

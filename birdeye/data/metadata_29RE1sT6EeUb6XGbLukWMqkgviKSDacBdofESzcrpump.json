@@ -1,0 +1,17 @@
+{
+  "address": "29RE1sT6EeUb6XGbLukWMqkgviKSDacBdofESzcrpump",
+  "name": "Official Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Offcial Zelensky",
+    "twitter": "https://x.com/VZelenskyUA"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZ31u9dptSgdRrMr8g6n3hCMn7NnRNB1JJkt2kZ3ywX7N",
+  "price": 6.7623509262865545e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 999999999.997733,
+  "circulating_supply": 999999999.997733,
+  "fdv": 6762.350926271224,
+  "market_cap": 6762.350926271224
+}

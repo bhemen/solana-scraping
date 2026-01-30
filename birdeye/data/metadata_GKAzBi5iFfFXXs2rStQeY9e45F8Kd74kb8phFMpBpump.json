@@ -1,0 +1,18 @@
+{
+  "address": "GKAzBi5iFfFXXs2rStQeY9e45F8Kd74kb8phFMpBpump",
+  "name": "Rapey Teacher",
+  "symbol": "RT",
+  "decimals": 6,
+  "extensions": {
+    "description": "Christina Formella, 30, is facing sexual assault and abuse charges for allegedly raping a 15-year-old student",
+    "twitter": "https://x.com/DailyLoud/status/1907439415300890752",
+    "website": "https://www.dailymail.co.uk/news/article-14570291/Christina-Formella-memoir-rape-student.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWXqUykP5LuNVxtB5Sf534NhpVh5q9RiW5SufqJ7KNykp",
+  "price": 3.3359602074206968e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 999999999.991306,
+  "circulating_supply": 999999999.991306,
+  "fdv": 3335.960207391694,
+  "market_cap": 3335.960207391694
+}

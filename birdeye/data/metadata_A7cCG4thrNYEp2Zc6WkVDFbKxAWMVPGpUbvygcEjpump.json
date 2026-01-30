@@ -1,0 +1,14 @@
+{
+  "address": "A7cCG4thrNYEp2Zc6WkVDFbKxAWMVPGpUbvygcEjpump",
+  "name": "ZELENSKY",
+  "symbol": "ZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZMWKt1ddRTwHhDBnQj2pWQxrHh1GYUpeLKZPnNfsRYun",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

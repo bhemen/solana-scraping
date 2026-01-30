@@ -1,0 +1,17 @@
+{
+  "address": "4He8UoGeLXy5qr84jEwJ19tArSebksxWmcVfjbvEpump",
+  "name": "Zelenskis maximus",
+  "symbol": "ZM",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/zelmaximus?s=21"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZc4itXdNr6chQX57ZXdgRK9NmPe1suBh65mVyb5HT5uM",
+  "price": 5.428257294789294e-06,
+  "liquidity": 0.4166754090854719,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5428.257294789294,
+  "market_cap": 5428.257294789294
+}

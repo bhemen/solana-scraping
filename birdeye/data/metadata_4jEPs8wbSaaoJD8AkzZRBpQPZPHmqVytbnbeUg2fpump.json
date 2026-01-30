@@ -1,0 +1,17 @@
+{
+  "address": "4jEPs8wbSaaoJD8AkzZRBpQPZPHmqVytbnbeUg2fpump",
+  "name": "Pray For Pavel",
+  "symbol": "PFP",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "none",
+    "website": "none",
+    "telegram": "none"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmYxJnkmpSnwUs2BnA3uDHSU25isNo9aTn9YEUYTNWunyQ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

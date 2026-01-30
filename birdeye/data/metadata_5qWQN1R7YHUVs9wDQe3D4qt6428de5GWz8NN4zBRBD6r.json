@@ -1,0 +1,14 @@
+{
+  "address": "5qWQN1R7YHUVs9wDQe3D4qt6428de5GWz8NN4zBRBD6r",
+  "name": "Live in school with teacher dev",
+  "symbol": "SCHOOL",
+  "decimals": 6,
+  "extensions": {
+    "description": "streaming with our teacher"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qme4ixQJFouHop6ZgngZKPREF8Y34hJ5wxZH2UChaRRYQe",
+  "price": null,
+  "total_supply": 999999999.000001,
+  "circulating_supply": 999999999.000001,
+  "meme_info": null
+}

@@ -1,0 +1,18 @@
+{
+  "address": "3fXBDL7Zip6k9FU6Mjd2PHu7nqoriPnbXeqQjSdZpump",
+  "name": "ED TEACHER",
+  "symbol": "ED",
+  "decimals": 6,
+  "extensions": {
+    "description": "Special ed teacher accused of slamming nonverbal 3-year-old\u2019s arm, throwing away his lunch as he wept ",
+    "twitter": "https://x.com/nypost/status/1869188236981027126"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbiFpZY8sJ6t4hPc7vLgeSoaNfX4QXkz2Uxgok1nkxpJe",
+  "price": 6.44932843192996e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6449.32843192996,
+  "market_cap": 6449.32843192996,
+  "meme_info": null
+}

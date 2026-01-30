@@ -1,0 +1,17 @@
+{
+  "address": "AcT6rcds6W7KpuvqDsUetiD3e9cyPpokEmqpLGEkEFJZ",
+  "name": "The Art Of The Deal",
+  "symbol": "zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/YourAnonCentral/status/1917938350394409162"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmSFzcKbGff2jnSVd8KCZqYE9vBM1X5SeEKFzUsTR9tGpR",
+  "price": 4.235028262026051e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 999999999.999998,
+  "circulating_supply": 999999999.999998,
+  "fdv": 4235.028262026042,
+  "market_cap": 4235.028262026042
+}

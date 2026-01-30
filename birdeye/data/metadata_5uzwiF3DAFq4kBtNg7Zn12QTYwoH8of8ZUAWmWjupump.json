@@ -1,0 +1,18 @@
+{
+  "address": "5uzwiF3DAFq4kBtNg7Zn12QTYwoH8of8ZUAWmWjupump",
+  "name": "Zelenskyy",
+  "symbol": "UAP",
+  "decimals": 6,
+  "extensions": {
+    "description": "Support Ukraine by pumping this coin. \u0413\u0435\u0440\u043e\u044f\u043c \u0421\u043b\u0430\u0432\u0430!",
+    "website": "https://www.president.gov.ua/en"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbpM5dn2c49vkjiRYud8YLUKAP8TjYRGPDVjwdH3bg8XW",
+  "price": 6.292030383964556e-06,
+  "liquidity": 0.4166669535469584,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6292.030383964556,
+  "market_cap": 6292.030383964556,
+  "meme_info": null
+}

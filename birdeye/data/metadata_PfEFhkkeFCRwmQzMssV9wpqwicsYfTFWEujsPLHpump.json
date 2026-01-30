@@ -1,0 +1,15 @@
+{
+  "address": "PfEFhkkeFCRwmQzMssV9wpqwicsYfTFWEujsPLHpump",
+  "name": "Free Pavel",
+  "symbol": "FreePavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free Pavel Durov Now",
+    "twitter": "https://x.com/durov"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbpE5z1Uo66GEMGysvP6QwZ1A7ty45W2cWaQN4mhgzQ7c",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

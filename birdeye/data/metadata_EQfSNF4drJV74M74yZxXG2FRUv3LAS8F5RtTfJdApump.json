@@ -1,0 +1,16 @@
+{
+  "address": "EQfSNF4drJV74M74yZxXG2FRUv3LAS8F5RtTfJdApump",
+  "name": "Zelenskyi coin",
+  "symbol": "ZLKI",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRxuzMpk9ZD1HoA2xYmkfHdYzfejMt6ZRbB2BfpJuhkkJ",
+  "price": 7.589482919151294e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 999999999.997956,
+  "circulating_supply": 999999999.997956,
+  "fdv": 7589.482919135781,
+  "market_cap": 7589.482919135781
+}

@@ -1,0 +1,20 @@
+{
+  "address": "J2EtGCZBUpFNGRkfMfZktH1rrfGKXBTtt1Zx6haqb8H9",
+  "name": "Teacher Coin",
+  "symbol": "TCH",
+  "decimals": 6,
+  "extensions": {
+    "description": "The most academic meme coin: transforming knowledge into a global trend and committing to high-quality public education",
+    "twitter": "https://x.com/UTLAnow",
+    "website": "https://utla.net/",
+    "telegram": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FUTLAnow"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUVHqYBTCR4MjG7npUeuyTxxhVT1WaxETUjxWzrgEDpjW",
+  "price": 6.296123117095423e-06,
+  "liquidity": 0.41667202687006655,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6296.123117095423,
+  "market_cap": 6296.123117095423,
+  "meme_info": null
+}

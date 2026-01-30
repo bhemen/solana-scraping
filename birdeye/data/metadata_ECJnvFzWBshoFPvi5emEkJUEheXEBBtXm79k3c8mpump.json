@@ -1,0 +1,16 @@
+{
+  "address": "ECJnvFzWBshoFPvi5emEkJUEheXEBBtXm79k3c8mpump",
+  "name": "teacher ai",
+  "symbol": "THAI",
+  "decimals": 6,
+  "extensions": {
+    "description": "teacher ai"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbhrGP3NYijczLrWcrDKs2EBQhe767desf9X8qaVvmzJt",
+  "price": 5.920398460707555e-06,
+  "liquidity": 0.62971206267401,
+  "total_supply": 999999999.988911,
+  "circulating_supply": 999999999.988911,
+  "fdv": 5920.3984606419035,
+  "market_cap": 5920.3984606419035
+}

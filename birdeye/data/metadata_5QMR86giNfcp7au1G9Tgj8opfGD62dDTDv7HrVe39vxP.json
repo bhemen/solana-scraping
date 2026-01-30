@@ -1,0 +1,17 @@
+{
+  "address": "5QMR86giNfcp7au1G9Tgj8opfGD62dDTDv7HrVe39vxP",
+  "name": "Pope Leo XIV",
+  "symbol": "POPELEOXIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/alx/status/1923385920700424616"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSqDr1ASTrypUyB3HNLmsVvRWzZeHLsZj6yFCwh9dxSAo",
+  "price": 4.763171080302191e-06,
+  "liquidity": 0.6413935738909438,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4763.1710803021915,
+  "market_cap": 4763.1710803021915
+}

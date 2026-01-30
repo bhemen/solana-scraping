@@ -1,0 +1,17 @@
+{
+  "address": "5PC8nJSP9BFwdAjwBgTSB8CDMFFPE1uQpH3fkJXtNHLJ",
+  "name": "Pavel Durov",
+  "symbol": "PavelDurov",
+  "decimals": 6,
+  "extensions": {
+    "description": "\ud83d\ude80 Welcome to the world of $\u0414\u0443\u0440\u043e\u0432! \ud83d\ude80\r\n\r\nYou\u2019ve joined a vibrant, unstoppable community. \r\n\r\nHere, there are no rules\u2014only freedom and the power of memes.\r\n",
+    "twitter": "https://x.com/PavelDurov_meme",
+    "website": "http://paveldurov.io/",
+    "telegram": "https://t.me/Pavel_Durov_portal"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmRAFzUd7brPxDmC3maqrVPopFgkuGdN1iZ6bZMBdwhQiD",
+  "price": null,
+  "total_supply": 999999999.914445,
+  "circulating_supply": 999999999.914445,
+  "meme_info": null
+}

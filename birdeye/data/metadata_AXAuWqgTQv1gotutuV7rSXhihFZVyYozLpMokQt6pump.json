@@ -1,0 +1,16 @@
+{
+  "address": "AXAuWqgTQv1gotutuV7rSXhihFZVyYozLpMokQt6pump",
+  "name": "Zelensky",
+  "symbol": "ZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Give us help plz"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbTHAcc9mYx6veoByWLt8Rh55hxjNCjfmXw5Qzt96W6eF",
+  "price": 3.932643314684213e-06,
+  "liquidity": 0.31421154094755266,
+  "total_supply": 999999999.991323,
+  "circulating_supply": 999999999.991323,
+  "fdv": 3932.64331465009,
+  "market_cap": 3932.64331465009
+}

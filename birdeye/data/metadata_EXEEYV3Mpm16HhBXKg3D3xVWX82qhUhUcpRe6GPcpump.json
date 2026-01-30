@@ -1,0 +1,40 @@
+{
+  "address": "EXEEYV3Mpm16HhBXKg3D3xVWX82qhUhUcpRe6GPcpump",
+  "name": "Tyler Robinson",
+  "symbol": "TYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/TrumpDailyPosts/status/1962294983958163876",
+    "website": "https://truthsocial.com/@realDonaldTrump/posts/115125333667466412"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeifd25hwmxuzlo5aly6ot6dz5w4h7pssoar6m4fnj3ph7vwrzyna5q",
+  "price": 6.672383098881699e-06,
+  "liquidity": 0.9465406950743086,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6672.383098881699,
+  "market_cap": 6672.383098881699,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757694056,
+      "slot": 366362935,
+      "tx_hash": "3niqczYapnQDRW3b5FA7zBraJES99TQQZ662xwRMJ9cxyDtE96sixnUM8S5wXwyXc3TUZhMhybc41FGfHMU1z8FY"
+    },
+    "creator": "7Htr3HW2Zgt9PuKzMYp7B8g15WQSJcsy7c5MxszV1Skq",
+    "address": "EXEEYV3Mpm16HhBXKg3D3xVWX82qhUhUcpRe6GPcpump",
+    "creation_time": 1757694056,
+    "graduated": false,
+    "pool": {
+      "address": "21NwFJtY1GdAHQogN55dqnUBqArDJNszgxzoshYMu6hv",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

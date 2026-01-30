@@ -1,0 +1,14 @@
+{
+  "address": "EpU7oe2bRiWSq88FD5cbzUV2E76HutFJTZNoULG7pump",
+  "name": "Zelensky",
+  "symbol": "NATOhelp",
+  "decimals": 6,
+  "extensions": {
+    "description": "We need ze muney for leopard tanks"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZXdG2NGq28LUPiFwF8GRWo4MLrvWYqQQmA5oSwuwd2wg",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

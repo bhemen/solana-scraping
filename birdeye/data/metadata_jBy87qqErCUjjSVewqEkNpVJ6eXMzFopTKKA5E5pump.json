@@ -1,0 +1,14 @@
+{
+  "address": "jBy87qqErCUjjSVewqEkNpVJ6eXMzFopTKKA5E5pump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Paul0x - My legendary comeback arc."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+  "price": null,
+  "total_supply": 999999998.525244,
+  "circulating_supply": 999999998.525244,
+  "meme_info": null
+}

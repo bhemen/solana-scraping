@@ -1,0 +1,17 @@
+{
+  "address": "3ysVNAWhPMfzoGkMU2T4mqbHteu5R5UQKQrYhdcLpump",
+  "name": "draw my teacher",
+  "symbol": "teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "draw my teacher"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcB9mzxEeNmK1EhhF4gtWdaVsiEwqUcxZ9BHb4tLRanDu",
+  "price": 6.106130464386973e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6106.1304643869735,
+  "market_cap": 6106.1304643869735,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "Fjry2tP5XiKwt1P76A7gnMGPxMHAAeqyX3JWFqTrpump",
+  "name": "cannon",
+  "symbol": "CANNON",
+  "decimals": 6,
+  "extensions": {
+    "description": "just a cannon that launches green chart patterns.",
+    "twitter": "https://x.com/cannontoken",
+    "website": "https://cannontoken.fun",
+    "telegram": "https://t.me/cannontoken"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXktghbnsnY2NTEYNF4ZZuQ4QzUvoQVabgB9cvNXfn7G3",
+  "price": null,
+  "total_supply": 999999999.86916,
+  "circulating_supply": 999999999.86916,
+  "meme_info": null
+}

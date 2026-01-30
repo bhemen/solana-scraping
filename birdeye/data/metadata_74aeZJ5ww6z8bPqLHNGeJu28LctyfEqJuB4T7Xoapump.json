@@ -1,0 +1,17 @@
+{
+  "address": "74aeZJ5ww6z8bPqLHNGeJu28LctyfEqJuB4T7Xoapump",
+  "name": "Zelens to the sky",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/insaneposes/status/1922728306723459140"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbfEdy5ULJNkQQ6ECtjiyEG7LtsUj8CdBPNEeoF9oxeXg",
+  "price": 4.780125537488231e-06,
+  "liquidity": 0.6477423336837586,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4780.12553748823,
+  "market_cap": 4780.12553748823
+}

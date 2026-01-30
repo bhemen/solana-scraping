@@ -1,0 +1,17 @@
+{
+  "address": "DCQHAuXo9HEu83Uj7W5dbeTpGLYXXgkyZbZo33Hepump",
+  "name": "FREE PAVEL",
+  "symbol": "FREEPAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "boss is free lfg",
+    "twitter": "https://pump.fun/",
+    "website": "https://pump.fun/",
+    "telegram": "https://pump.fun/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYnETPr8SBXqge2PP7TGeYRyCUvu3wYDJUcAT1C1yWgJ8",
+  "price": null,
+  "total_supply": 999999999.7341,
+  "circulating_supply": 999999999.7341,
+  "meme_info": null
+}

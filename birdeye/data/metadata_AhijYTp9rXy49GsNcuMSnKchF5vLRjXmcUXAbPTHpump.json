@@ -1,0 +1,14 @@
+{
+  "address": "AhijYTp9rXy49GsNcuMSnKchF5vLRjXmcUXAbPTHpump",
+  "name": "Volodymyr Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmchtBphcXxZEPAb5KC25fC7XgzPcExC67nESAc78KuVA4",
+  "price": null,
+  "total_supply": 999999999.454546,
+  "circulating_supply": 999999999.454546,
+  "meme_info": null
+}

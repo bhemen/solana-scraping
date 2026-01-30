@@ -1,0 +1,14 @@
+{
+  "address": "DNEJ3QWLcUgKz2Md8s3knwUbR2D7m4md8BVo7mFLpump",
+  "name": "Pavel Durov",
+  "symbol": "Durov",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmQTG8FQtYrjGEPhuoUVPBXFWL2NWL2reqq4x2uX2fk9vp",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

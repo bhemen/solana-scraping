@@ -1,0 +1,17 @@
+{
+  "address": "CvnAQLX38VHvoRsq7DJzqCJCce9sUYsfiZZi1ykwpump",
+  "name": "Pavel Durov",
+  "symbol": "durov2025",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/1Z1izy/status/1916569178427064750"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWZnEreT7L2PtBrWtK17CwJe4G4ZUvZuLrLYz3jDQd1uu",
+  "price": 4.056532816377231e-06,
+  "liquidity": 0.9039454327773816,
+  "total_supply": 999999999.999999,
+  "circulating_supply": 999999999.999999,
+  "fdv": 4056.532816377227,
+  "market_cap": 4056.532816377227
+}

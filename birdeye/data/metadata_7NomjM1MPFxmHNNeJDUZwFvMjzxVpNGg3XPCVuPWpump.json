@@ -1,0 +1,17 @@
+{
+  "address": "7NomjM1MPFxmHNNeJDUZwFvMjzxVpNGg3XPCVuPWpump",
+  "name": "PAVEL DUROV",
+  "symbol": "RELEASED",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/RadarHits/status/1828796510680813893",
+    "website": "https://x.com/RadarHits/status/1828796510680813893",
+    "telegram": "https://x.com/RadarHits/status/1828796510680813893"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXtAePXmARPoCkA17wNiiZL2b2SERtFyq4Cn5s6HmKDAw",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

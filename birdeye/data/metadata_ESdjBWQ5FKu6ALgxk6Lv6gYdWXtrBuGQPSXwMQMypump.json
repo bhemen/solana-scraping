@@ -1,0 +1,19 @@
+{
+  "address": "ESdjBWQ5FKu6ALgxk6Lv6gYdWXtrBuGQPSXwMQMypump",
+  "name": "Nick",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "#Crypto Crusader | Investor, Creator & Researcher | Founder of \r\n@TheWeb3Alert\r\n \r\n@TokenizeThreads\r\n \r\n@CryptoPostersCo\r\n | \u2694\ufe0f 9,000+ In The Discord \u2b07\ufe0f",
+    "twitter": "https://x.com/NCashOfficial",
+    "website": "https://whop.com/cryptocrusaders/?pass=prod_kMpHoF9HbzFfO"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma4dSFSYMmW69zZo7U9dqfUnb2uZwrddLzMfj8sbRWagB",
+  "price": 5.307126499785208e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5307.126499785208,
+  "market_cap": 5307.126499785208,
+  "meme_info": null
+}

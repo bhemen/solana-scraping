@@ -1,0 +1,17 @@
+{
+  "address": "9DMepAQK6bN1EoAXwyrHXm6KHERL1AA2a2dkwjb1pump",
+  "name": "24k Gold Pope Leo XIV Coin",
+  "symbol": "Pope Coin",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.bradfordexchange.com/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbVuEhxub7fMBhjydmJyWuowP1xo2FmzFn5Nk2sdngHCg",
+  "price": 4.662878688455273e-06,
+  "liquidity": 0.6939928348304728,
+  "total_supply": 999999999.992831,
+  "circulating_supply": 999999999.992831,
+  "fdv": 4662.878688421845,
+  "market_cap": 4662.878688421845
+}

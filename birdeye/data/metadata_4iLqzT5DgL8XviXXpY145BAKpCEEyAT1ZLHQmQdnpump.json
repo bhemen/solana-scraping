@@ -1,0 +1,16 @@
+{
+  "address": "4iLqzT5DgL8XviXXpY145BAKpCEEyAT1ZLHQmQdnpump",
+  "name": "Zelenskiy",
+  "symbol": "ZLSK",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZUhrskmKBjSJwNT93qzEbBsWztUg3sdhnokLQjZu4ihE",
+  "price": 4.935849744118066e-06,
+  "liquidity": 0.6519709061532731,
+  "total_supply": 999999999.994004,
+  "circulating_supply": 999999999.994004,
+  "fdv": 4935.84974408847,
+  "market_cap": 4935.84974408847
+}

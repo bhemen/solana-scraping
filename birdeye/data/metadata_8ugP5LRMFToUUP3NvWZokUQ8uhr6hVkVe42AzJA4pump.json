@@ -1,0 +1,17 @@
+{
+  "address": "8ugP5LRMFToUUP3NvWZokUQ8uhr6hVkVe42AzJA4pump",
+  "name": "green unshaved jerk",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/RT_com/status/1918610200644186543"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTWxjQWdkVr9kJLGgFRXyavwLePNNkMuCrX7bUKDd2YBC",
+  "price": 4.118052781423531e-06,
+  "liquidity": 0.7848188157617197,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4118.052781423531,
+  "market_cap": 4118.052781423531
+}

@@ -1,0 +1,20 @@
+{
+  "address": "39kHnYSwKMdmyMzUCZce2sZ2RnU7GjxLZ8PQScuA7iGM",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/NICK",
+    "website": "https://NICK.ai",
+    "telegram": "https://t.me/NICK"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZFNWgWpMPRSuL4bhEo9TfXeqhjuXUXRk1fPUk6U2KBMC",
+  "price": 6.101480443305568e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6101.480443305568,
+  "market_cap": 6101.480443305568,
+  "meme_info": null
+}

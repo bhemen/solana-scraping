@@ -1,0 +1,17 @@
+{
+  "address": "5FTVkZWfBSUxAfj3GEAnSc62Z1eeZfm9pqdnPReLbGjG",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Poe_Ether/status/1907291938291634663"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/GngP6NXWgAAW6NT.jpg",
+  "price": 3.595715482794553e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3595.7154827945533,
+  "market_cap": 3595.7154827945533
+}

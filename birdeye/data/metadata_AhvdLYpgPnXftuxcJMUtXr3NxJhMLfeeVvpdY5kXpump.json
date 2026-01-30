@@ -1,0 +1,16 @@
+{
+  "address": "AhvdLYpgPnXftuxcJMUtXr3NxJhMLfeeVvpdY5kXpump",
+  "name": "Trump's dog",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNbBeVrxCAH7MwRLigfDJqfiHwLBnMcTBSRCEGNgfnevo",
+  "price": 3.665574045456185e-06,
+  "liquidity": 0.41666424777463407,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3665.574045456185,
+  "market_cap": 3665.574045456185
+}

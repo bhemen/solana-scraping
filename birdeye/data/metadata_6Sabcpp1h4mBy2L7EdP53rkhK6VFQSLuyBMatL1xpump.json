@@ -1,0 +1,17 @@
+{
+  "address": "6Sabcpp1h4mBy2L7EdP53rkhK6VFQSLuyBMatL1xpump",
+  "name": "Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Support of Ukraine\r\nVolume 100%\r\nCharity",
+    "twitter": "https://x.com/zelenskyyua"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUgng2oXURgjcfPbZSu2MtW6JZahziFkFdVrK9DyrgNWC",
+  "price": 7.774397781686815e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 999999999.999748,
+  "circulating_supply": 999999999.999748,
+  "fdv": 7774.3977816848555,
+  "market_cap": 7774.3977816848555
+}

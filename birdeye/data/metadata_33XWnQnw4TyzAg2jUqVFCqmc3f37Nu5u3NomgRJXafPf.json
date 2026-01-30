@@ -1,0 +1,19 @@
+{
+  "address": "33XWnQnw4TyzAg2jUqVFCqmc3f37Nu5u3NomgRJXafPf",
+  "name": "Pepe",
+  "symbol": "SUMMER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/CryptoSummer25",
+    "website": "https://cryptosummer.su",
+    "telegram": "https://t.me/CryptoSummer2025"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmduK7igGtQf1SYv3kmyLbZe651bvxrSbn1LRNsMeoXVhc",
+  "price": 3.859541611393751e-06,
+  "liquidity": 0.4166632331100124,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3859.5416113937513,
+  "market_cap": 3859.5416113937513
+}

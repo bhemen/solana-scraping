@@ -1,0 +1,16 @@
+{
+  "address": "8owsDVd7WZ7eor7vosHWKAW5S1DnHvqfkxKp5fewUQJE",
+  "name": "Meth Teacher",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": "Meth Teacher",
+    "twitter": "https://t.me/BullxBetaBot?start=access_Q7TTS39RP8J&fbclid=IwY2xjawErBQNleHRuA2FlbQIxMAABHabY9ihUB7xopEaVy-YUvN4mKXtTJX0kl3ntinSwRGCVK5x_BKLimmeDwQ_aem_YTG_QQrhiTYhqzCKjebFZQ",
+    "telegram": "https://t.me/BullxBetaBot?start=access_Q7TTS39RP8J&fbclid=IwY2xjawErBQNleHRuA2FlbQIxMAABHabY9ihUB7xopEaVy-YUvN4mKXtTJX0kl3ntinSwRGCVK5x_BKLimmeDwQ_aem_YTG_QQrhiTYhqzCKjebFZQ"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPTEibkbihz9bfCZgfkZh1xdXwTGBZgR1MmXn2hiSDBvh",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

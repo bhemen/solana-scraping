@@ -1,0 +1,18 @@
+{
+  "address": "8ZEmhCtXEjjSsEXj5VWhbjUFZQHQwTjtuakjg4Typump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "What is the project about?\r\nPepe is a community based meme token surround the iconic meme Pepe the frog. Pepe aims to leverage the power of such an iconic meme to become the most memeable memecoin in existence.\r\nWhat makes your project unique?\r\nPepe is here to make memecoins great again.\r\nUshering in a new paradigm for memecoins, Pepe represents the memecoin in it's purest simplicity. With zero taxes, liquidity locked forever, and contract immutable, Pepe is for the people, forever. Pepe is about culture, rallying together a community to have fun and enjoy memes, fueled purely by memetic power.\r\nHistory of your project.\r\nPepe was stealth launched on Friday, April 14th, 2023.\r\nWhat's next for your project?\r\nPepe will focus on developing a tight-knit community around the token and building resources to enrich the communities\r\nknowledge and success in crypto through a token gated group, newsletter, and more tools.\r\nWhat can your token be used for?\r\nPepe can be used to speculate on the power of memes, and does not pretend to be anything more.\r\n",
+    "website": "https://pepediamond.vip",
+    "telegram": "https://t.me/pepesolofficial"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPAwqBBLw3jULJVzzhnU6V5uLBqjeYkeUR25idayzyTij",
+  "price": 3.893275917235147e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 999999999.992214,
+  "circulating_supply": 999999999.992214,
+  "fdv": 3893.2759172048336,
+  "market_cap": 3893.2759172048336
+}

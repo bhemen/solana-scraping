@@ -1,0 +1,17 @@
+{
+  "address": "J38HPuetBouqrHwc3BpatwDzMDHrZtR7aPDUcSgWtts3",
+  "name": "Pavel Popescu",
+  "symbol": "bad guys",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/elonmusk/status/1899107086237102229"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmcy9ap41BVfGTXzb5MiE9pZcnm5iS1gMhWDYMuXs2VPka",
+  "price": 3.5280234288830465e-06,
+  "liquidity": 0.41666458599617456,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3528.0234288830466,
+  "market_cap": 3528.0234288830466
+}

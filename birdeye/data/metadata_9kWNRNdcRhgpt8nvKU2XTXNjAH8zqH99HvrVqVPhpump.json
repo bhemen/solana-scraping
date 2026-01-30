@@ -1,0 +1,17 @@
+{
+  "address": "9kWNRNdcRhgpt8nvKU2XTXNjAH8zqH99HvrVqVPhpump",
+  "name": "Pope Leo XIV",
+  "symbol": "Leo XIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/VaticanNews/status/1920529171664507289"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTDfyGuVcEhfMWkfHgDzmWJHut4oiWNEvAKgU12yvBgsx",
+  "price": 4.50922610280516e-06,
+  "liquidity": 0.9039467856635436,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4509.22610280516,
+  "market_cap": 4509.22610280516
+}

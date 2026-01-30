@@ -1,0 +1,16 @@
+{
+  "address": "5wpPfZyuHztZb8YqZWGDTaCs9re2ukxEkmfUyVvMpump",
+  "name": "Nick",
+  "symbol": "Nk",
+  "decimals": 6,
+  "extensions": {
+    "description": "You just s nick"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmfHjAwX3Mw848F8meVRduqCevH12x5a331nWmheHNsDG2",
+  "price": 4.023787710745259e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4023.7877107452596,
+  "market_cap": 4023.7877107452596
+}

@@ -1,0 +1,18 @@
+{
+  "address": "BiXsJD1idTHke2LCcZ2HE6pzcRoCQhgZKRo4ktHZpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "Although traditions of Santa Claus have transcended the religious roots of St. Nicholas, his spirit of generosity and the Christian virtue of charity lives on strongly. ",
+    "twitter": "https://x.com/CatholicTV/status/1865067820674937246"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdLNThsZDgLdpM8dZdyYpnUmB9fV9JfhFw4zUoQbg8vR6",
+  "price": 6.576161628057976e-06,
+  "liquidity": 1.3623844376889143,
+  "total_supply": 999999999.991216,
+  "circulating_supply": 999999999.991216,
+  "fdv": 6576.161628000211,
+  "market_cap": 6576.161628000211,
+  "meme_info": null
+}

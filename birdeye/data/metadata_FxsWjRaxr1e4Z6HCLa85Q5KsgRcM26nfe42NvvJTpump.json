@@ -1,0 +1,15 @@
+{
+  "address": "FxsWjRaxr1e4Z6HCLa85Q5KsgRcM26nfe42NvvJTpump",
+  "name": "Kacy Teacher",
+  "symbol": "DORA",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/mark_kacy/status/1821220174881837306"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSSYAGxiN4LhygvbjotVXPmg7rmbgP8LtZoVqAAV7deWn",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

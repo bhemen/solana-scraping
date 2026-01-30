@@ -1,0 +1,16 @@
+{
+  "address": "3R2omg7NwcAN7XTnantm2yeGDcGyk4WgKY4dXpLZpump",
+  "name": "Nick",
+  "symbol": "nickwink",
+  "decimals": 6,
+  "extensions": {
+    "description": ";D"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPcdv5EgCzuRQEjuiqFa1ULkNVQ9sdLZSJxvxCRwLUka9",
+  "price": 4.714683390484024e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4714.683390484024,
+  "market_cap": 4714.683390484024
+}

@@ -1,0 +1,16 @@
+{
+  "address": "Ff1Xb7USANQ7ehx9rDSvv1XeWRWTBuiMhJZxKy1Mdry7",
+  "name": "ZELENSKY",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pbs.twimg.com/profile_images/1892722746817236992/-pDs8pfw.jpg",
+  "price": 4.867944392075476e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4867.944392075477,
+  "market_cap": 4867.944392075477
+}

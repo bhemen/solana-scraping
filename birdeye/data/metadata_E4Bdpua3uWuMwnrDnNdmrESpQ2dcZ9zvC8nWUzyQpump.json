@@ -1,0 +1,14 @@
+{
+  "address": "E4Bdpua3uWuMwnrDnNdmrESpQ2dcZ9zvC8nWUzyQpump",
+  "name": "Pavel Dog ",
+  "symbol": "Freedom",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free Dog"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPWdbPmXfWFpXAkKiRqVZTM63X1QDFoiWUCxFcgxAAXK5",
+  "price": null,
+  "total_supply": 999999999.864476,
+  "circulating_supply": 999999999.864476,
+  "meme_info": null
+}

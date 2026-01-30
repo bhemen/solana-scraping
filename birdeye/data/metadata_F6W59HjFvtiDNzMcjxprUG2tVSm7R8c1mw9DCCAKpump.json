@@ -1,0 +1,17 @@
+{
+  "address": "F6W59HjFvtiDNzMcjxprUG2tVSm7R8c1mw9DCCAKpump",
+  "name": "Pavel",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/0xMert_/status/1900984190285607414"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcJZThG3zd2SH4cmN3V8wKsrFLaaXxeowKf7Ls1VtqWPD",
+  "price": 4.252729556751144e-06,
+  "liquidity": 0.3200071427315777,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4252.729556751144,
+  "market_cap": 4252.729556751144
+}

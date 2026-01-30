@@ -1,0 +1,17 @@
+{
+  "address": "D6iRmLKn8jkNmYFs5TApUFLZzzshhiN9bSA6Ekjgpump",
+  "name": "TEACHER",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "World Teachers' Day",
+    "twitter": "https://www.unesco.org/en/days/teachers#:~:text=World%20Teachers'%20Day%20is%20held,all%20teachers%20around%20the%20globe.",
+    "website": "https://www.unesco.org/en/days/teachers#:~:text=World%20Teachers'%20Day%20is%20held,all%20teachers%20around%20the%20globe.",
+    "telegram": "https://www.unesco.org/en/days/teachers#:~:text=World%20Teachers'%20Day%20is%20held,all%20teachers%20around%20the%20globe."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaXpCgPEJ2szLkYC64v1FCta7b51ipQzkp1t45TFUWdLd",
+  "price": null,
+  "total_supply": 999999999.718017,
+  "circulating_supply": 999999999.718017,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "HXL3z38FQRkSs1nkam3fvdf4DxFYXkgbrnvdJeS7pump",
+  "name": "Justice for Pavel Durov",
+  "symbol": "PAVELDUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/solidintel_x/status/1900925920426311700"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSLB5oYjipK4tx2VUUNQrPRmRPYBNZ7VNnnbcSqiBL2kb",
+  "price": 4.278675616887825e-06,
+  "liquidity": 0.3126756734061245,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4278.675616887825,
+  "market_cap": 4278.675616887825
+}

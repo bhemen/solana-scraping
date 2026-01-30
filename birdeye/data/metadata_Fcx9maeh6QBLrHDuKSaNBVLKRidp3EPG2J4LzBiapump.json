@@ -1,0 +1,17 @@
+{
+  "address": "Fcx9maeh6QBLrHDuKSaNBVLKRidp3EPG2J4LzBiapump",
+  "name": "Arrest of Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/trumpbarronnews/status/1892316606627197021?s=46"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmVDDGyEDs8VZVRS6WZt9fWbZwPHA97QWSEKCiDD7HdMno",
+  "price": 4.755509084099809e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 999999999.992882,
+  "circulating_supply": 999999999.992882,
+  "fdv": 4755.5090840659595,
+  "market_cap": 4755.5090840659595
+}

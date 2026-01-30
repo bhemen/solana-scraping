@@ -1,0 +1,40 @@
+{
+  "address": "JnMV89aRQbDrBs8fKVaeyxatGDfKSDjfM22qJcmpump",
+  "name": "Tyler Robinson",
+  "symbol": "SCAPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/RogerHahn/status/1966482906756350225",
+    "website": "https://nypost.com/2025/09/12/us-news/we-have-him-trump-says-suspect-in-custody-for-charlie-kirk-assassination/"
+  },
+  "logo_uri": "https://thumbnails.padre.gg/SOLANA-EADzYA7ub7LFbCMJEL7xjgkSvouUzzfE82VWDcJdpump",
+  "price": 6.946121077660258e-06,
+  "liquidity": 0.7079751758188899,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6946.121077660258,
+  "market_cap": 6946.121077660258,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757708066,
+      "slot": 366398336,
+      "tx_hash": "3dFerAFKF8vYspLxjkUxXLtH9M1ab6TBLZTN46v9Bnt5GYNucY4w2J7DbD5g1HLtqaTisaHoN3SBFeZSitF39Scp"
+    },
+    "creator": "7kRuTF7NTweJCXphAfNN99Wk7bQh87kP1ZpgJ5AkBfxH",
+    "address": "JnMV89aRQbDrBs8fKVaeyxatGDfKSDjfM22qJcmpump",
+    "creation_time": 1757708066,
+    "graduated": false,
+    "pool": {
+      "address": "CKrKh8TXgfvivG7EXy7KbSFqMiUMitR9KVkq5xUo6naQ",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793099999999999",
+      "virtual_token_reserves": "1072999999999999",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 4.36425,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

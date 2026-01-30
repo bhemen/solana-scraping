@@ -1,0 +1,16 @@
+{
+  "address": "HKWSdCWKQQEtzWkVgX1jJvKfqXfnvGoY92fRsL5Rpump",
+  "name": "Teacher Praew",
+  "symbol": "Teacher ",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/teacherpraew",
+    "website": "https://linktr.ee/teacherpraew"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUb4BhNvyxrQg7NZCs7spCBXfSkP7Fxfwh4WFdGjrSLNV",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

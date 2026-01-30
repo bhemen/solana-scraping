@@ -1,0 +1,17 @@
+{
+  "address": "7JrVaTy5v8XHZCdHGT98KpE9aYAnceCqcwj38oQQpump",
+  "name": "Arnold",
+  "symbol": "Arnold",
+  "decimals": 6,
+  "extensions": {
+    "description": "Hey Arnold 1996 \r\n"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQuTqdy9SPvDz7T3Zzwydvt1ZwtxXsrVvNJ3fa7PLkEBa",
+  "price": 6.668830005016668e-06,
+  "liquidity": 0.41667236509160704,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6668.830005016668,
+  "market_cap": 6668.830005016668,
+  "meme_info": null
+}

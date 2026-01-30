@@ -1,0 +1,17 @@
+{
+  "address": "AWG2D7wTQkmQeTDmd7tHgQGkedFbRm4R4kakqbatpump",
+  "name": "Live teacher",
+  "symbol": "Teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "LIVE STREAM!!!\r\nPhysics and mathematics teacher interacts with cryptocurrency, goal is $10 million to create a school with cryptocurrency",
+    "twitter": "@celestedesjar16",
+    "website": "@celestedesjar16",
+    "telegram": "https://t.me/ns_fizika"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qma1AH3k6Mapt73FynPTgnUia4UVmHEnawBKfci9jAM3PB",
+  "price": null,
+  "total_supply": 999999999.986896,
+  "circulating_supply": 999999999.986896,
+  "meme_info": null
+}

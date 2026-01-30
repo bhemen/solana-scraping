@@ -1,0 +1,39 @@
+{
+  "address": "8qKyxStPqwTxruSes1w19B3ykYnFjw3ezgjzDLx6pump",
+  "name": "Tyler Robinson",
+  "symbol": "TYLER",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://boards.4chan.org/pol/thread/515672628"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreiffalg5liqqovbcdiouuhonksueofvrfxl5cljhzxibwlewyk53gu",
+  "price": 7.364471250588418e-06,
+  "liquidity": 0.9478727462632557,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7364.471250588418,
+  "market_cap": 7364.471250588418,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757682141,
+      "slot": 366332794,
+      "tx_hash": "ypKqfjFK3GpEvAcNoFenm6rZypHWLdnUfrpw7zfRf828G3zTXE7kmWgQDBhqet8aT7RFLib233ZTjG92YgWW5RF"
+    },
+    "creator": "C4udGwTg6oqcrr8SmSLmkcXDbaFEcopsiaT21KUE4psU",
+    "address": "8qKyxStPqwTxruSes1w19B3ykYnFjw3ezgjzDLx6pump",
+    "creation_time": 1757682141,
+    "graduated": false,
+    "pool": {
+      "address": "5rk54AMnCZToCTNpKrH3G9JPrnCxTqbKdz1eQLQFWWa1",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "address": "5k28Vv1NRz3oLDMP6dFPEDmqmjozne8wTcHCYWPspump",
+  "name": "OFFICIAL ZELENSKY",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "ZELENSKY Memes are intended to function as an expression of support for, and engagement with, the ideals and beliefs embodied by the symbol \"$ZELENSKY\" and the associated artwork, and are not intended to be, or to be the subject of, an investment opportunity, investment contract, or security of any type.\r\n\r\n $ZELENSKY is not political and has nothing to do with any political campaign or any political office or governmental agency. ",
+    "twitter": "https://x.com/zelenskyyua?s=21",
+    "website": "https://zelenskycoin.net/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPgPayXDqp51FbHiuVrr1ZwEutaXvPzXjPiFL3As1ra1B",
+  "price": 4.147122139270208e-06,
+  "liquidity": 0.41666390955309346,
+  "total_supply": 999999999.999758,
+  "circulating_supply": 999999999.999758,
+  "fdv": 4147.122139269205,
+  "market_cap": 4147.122139269205
+}

@@ -1,0 +1,17 @@
+{
+  "address": "98LkJKumnAxCyDLpUWUmHraumcrirjq2zoiCFFF6oqVV",
+  "name": "PAVEL MOTHER",
+  "symbol": "Albina",
+  "decimals": 6,
+  "extensions": {
+    "description": "PAVEL MOTHER",
+    "twitter": "PAVEL MOTHER",
+    "website": "PAVEL MOTHER",
+    "telegram": "PAVEL MOTHER"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmdsZXdcn9t86JMx34R57KyrP698gSGNZgjcwaAReNCoFy",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

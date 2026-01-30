@@ -1,0 +1,40 @@
+{
+  "address": "HycToud4ZC1QLHKFKq6pENrQedzh29r5d8zDaWP8pump",
+  "name": "Death Penalty For Tyler Robinson",
+  "symbol": "Tyler",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/ImJustDylanHi/status/1966487684865577201",
+    "website": "https://www.facebook.com/amber.j.robinson.1/posts/pfbid02eKFEQAfGz3h8dj6qu4kfG3N4V72uZNG9sNe3zApUG1oNC6VeqVSyswEGQiyFzLHl"
+  },
+  "logo_uri": "https://thumbnails.padre.gg/SOLANA-CwAMr7GGtev4ckka6dQFGy6G4mpE2wGXKuNH7spepump",
+  "price": 7.155908064385908e-06,
+  "liquidity": 0.9513925329773468,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7155.908064385908,
+  "market_cap": 7155.908064385908,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757682820,
+      "slot": 366334521,
+      "tx_hash": "3rrc5wKjSPgK97RUT4Xz5guKdhwyT2qD1BwjN81coTpsc9Epjbhnre6LiV61zUF12N4Hm6CoNgbFQxpJB5w5eYki"
+    },
+    "creator": "Fi4Axr77LxrZdfdcLqrzU1WJasHMPJShpDd4cAojhj1S",
+    "address": "HycToud4ZC1QLHKFKq6pENrQedzh29r5d8zDaWP8pump",
+    "creation_time": 1757682820,
+    "graduated": false,
+    "pool": {
+      "address": "HAnxN3dfQwAZcSU7cLWWixGLjQYpBUujZSS7jFXzfEdN",
+      "real_sol_reserves": "4",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

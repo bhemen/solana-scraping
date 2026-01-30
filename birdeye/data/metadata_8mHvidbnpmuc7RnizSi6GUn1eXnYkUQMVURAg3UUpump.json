@@ -1,0 +1,17 @@
+{
+  "address": "8mHvidbnpmuc7RnizSi6GUn1eXnYkUQMVURAg3UUpump",
+  "name": "Teacher Quant",
+  "symbol": "Teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://kick.com/bbsradiotv"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZQ9qrWpLhSnrimF6UhQDgPSNWgowZt1i38K8M2xRUeLw",
+  "price": 5.337659074412181e-06,
+  "liquidity": 0.41666932109774213,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5337.65907441218,
+  "market_cap": 5337.65907441218
+}

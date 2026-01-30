@@ -1,0 +1,39 @@
+{
+  "address": "5yZoxe7xZRRMY3NX52eagZDFZ8EhaPv1no27Nyohpump",
+  "name": "Kill Tyler Robinson",
+  "symbol": "KILLHIM",
+  "decimals": 6,
+  "extensions": {
+    "description": "Utah prosecutors charged Tyler Robinson, the 22-year-old suspect in the assassination of Charlie Kirk, with first-degree aggravated murder and said they will seek the death penalty",
+    "twitter": "https://x.com/business/status/1968034798984663247?s=46&t=suDXXF1VgbstM8sBYEUTyA"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaYeVdBwf5euVjZF6zQfPSswu2kLzP7d7nbE3LijcDmMM",
+  "price": 6.701088063234187e-06,
+  "liquidity": 0.9605796895016667,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6701.088063234188,
+  "market_cap": 6701.088063234188,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1758052124,
+      "slot": 367270698,
+      "tx_hash": "5Pao55wtsqZPEg8Zov5RCDXyJiwxLDaHsoPNafTRkyn6cunMzATRGCsQUntUyDZn9mjyQJJQmoScpoK3JcST5nxd"
+    },
+    "creator": "ALoo7ngmTaVYaTLFwaM96h9wySUgUTV2oiVxLqgHZf2b",
+    "address": "5yZoxe7xZRRMY3NX52eagZDFZ8EhaPv1no27Nyohpump",
+    "creation_time": 1758052124,
+    "graduated": false,
+    "pool": {
+      "address": "CRpiE5tTCgUVQPQp1MbQjmGXG1AYxpnrzwRHYWZHPGo3",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

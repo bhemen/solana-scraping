@@ -1,0 +1,45 @@
+{
+  "address": "HXA7KhbFUyyX5Y3hXua1C8jFLArB1kkg19zafKUmGhaD",
+  "name": "pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "Launch meme tokens on Pumpfun, Bonkfun and Moonit with ultimate Omni Launch Bot. https://x.com/OmniLaunchApp",
+    "twitter": "https://x.com/OmniLaunchApp",
+    "telegram": "https://t.me/OmniLaunchBot"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmap9iZ7cbuiqmW2y5YRhV6kYfu8re2oZzuNKuediw29xW",
+  "price": 5.069025227563479e-06,
+  "liquidity": 0.651388488999412,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5069.025227563478,
+  "market_cap": 5069.025227563478,
+  "meme_info": {
+    "created_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": null,
+    "address": "HXA7KhbFUyyX5Y3hXua1C8jFLArB1kkg19zafKUmGhaD",
+    "creation_time": null,
+    "graduated": false,
+    "pool": {
+      "address": "7LjdgwLM881VCbFeR4oua17GQw1oFLAiovyMA1fKDMhv",
+      "real_sol_reserves": "17",
+      "real_token_reserves": "793099999562668",
+      "virtual_token_reserves": "1072999999562668",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

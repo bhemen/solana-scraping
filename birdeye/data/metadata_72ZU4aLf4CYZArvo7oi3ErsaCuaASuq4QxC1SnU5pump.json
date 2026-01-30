@@ -1,0 +1,17 @@
+{
+  "address": "72ZU4aLf4CYZArvo7oi3ErsaCuaASuq4QxC1SnU5pump",
+  "name": "BROKIE PRESIDENT",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/RT_com/status/1906712592472535216#ref=51975482-d505-44f6-84b2-9d24faef50a2"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdHmU4EWJfAkF6Z3VQ7dqTGT1KvX3vsztHpT4yV5Z5TwP",
+  "price": 3.521997931289739e-06,
+  "liquidity": 0.4166771001931746,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3521.997931289739,
+  "market_cap": 3521.997931289739
+}

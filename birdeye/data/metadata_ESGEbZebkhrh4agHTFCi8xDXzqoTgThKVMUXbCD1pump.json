@@ -1,0 +1,15 @@
+{
+  "address": "ESGEbZebkhrh4agHTFCi8xDXzqoTgThKVMUXbCD1pump",
+  "name": "Nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "A Tasmanian devil named Nick",
+    "website": "https://www.japantimes.co.jp/news/2016/06/03/world/sporting-pacemaker-san-diego-zoos-tasmanian-devil-nick-set-screech-anew/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYwFvsXksgEgFNcuFycNXeDQEu5QCG4FFGar2GWf716SW",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

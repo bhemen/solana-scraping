@@ -1,0 +1,17 @@
+{
+  "address": "CPoyyU1UWNDq5ijLT94gfAUazChfaVBXubWpR5AGdUKW",
+  "name": "Haro",
+  "symbol": "HARO",
+  "decimals": 6,
+  "extensions": {
+    "description": "harry the monker",
+    "twitter": "https://",
+    "website": "https://",
+    "telegram": "https://"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUtHNyXSw8ycTecvpVBP7ZwioUMrpyWpEQmU74nyaRhMs",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

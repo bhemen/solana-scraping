@@ -1,0 +1,16 @@
+{
+  "address": "BpCZ88MWUbbJgN7QKwymBCZF3AzQbV1227YAEy87pump",
+  "name": "ZELENSKY INTERVIEW",
+  "symbol": "ZELENSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQ4FsRnKLfaJafGXanpnsv6taVowNGKLytG9SBeT1EKUE",
+  "price": 6.023055051292953e-06,
+  "liquidity": 0.4777748849391009,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6023.055051292953,
+  "market_cap": 6023.055051292953
+}

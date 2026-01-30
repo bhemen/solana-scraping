@@ -1,0 +1,15 @@
+{
+  "address": "Acj3wSGb81R6GBrr37zxTE8yxrE91VuBSWYL2y2opump",
+  "name": "Pavel Durov's Mascot",
+  "symbol": "SPOTTY",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/spottythedog_"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmYXBTTXEwgA66UczVbxoNpHUVN5a8SAE5JAemmcvXHNhg",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

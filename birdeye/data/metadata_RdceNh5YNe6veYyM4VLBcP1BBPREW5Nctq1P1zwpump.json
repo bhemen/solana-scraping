@@ -1,0 +1,18 @@
+{
+  "address": "RdceNh5YNe6veYyM4VLBcP1BBPREW5Nctq1P1zwpump",
+  "name": "KICK ZELENSKYY",
+  "symbol": "KICKZEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 President Trump considers ending all US aid for Ukraine after kicking Zelensky out of the White House.",
+    "twitter": "https://x.com/WatcherGuru/status/1895595256441422000",
+    "telegram": "https://t.me/WatcherGuru/7804"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXVZwRrEe5XL7yyot8Qx4j5uEDnH2suVgUz7oMNvs8PWR",
+  "price": 4.124400000898986e-06,
+  "liquidity": 0.41666492421771517,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4124.400000898986,
+  "market_cap": 4124.400000898986
+}

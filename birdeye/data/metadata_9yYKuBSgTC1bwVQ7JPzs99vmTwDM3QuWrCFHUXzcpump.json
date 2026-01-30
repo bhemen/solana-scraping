@@ -1,0 +1,16 @@
+{
+  "address": "9yYKuBSgTC1bwVQ7JPzs99vmTwDM3QuWrCFHUXzcpump",
+  "name": "PAVEL DUROV",
+  "symbol": "PCOIN",
+  "decimals": 6,
+  "extensions": {
+    "description": "Make this pavel duron PUMP !\r\n"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNWj5YRBKcBCafwap6re2Wdj6j6vddKheGUkypJ6xcycu",
+  "price": 7.235648359650497e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7235.648359650497,
+  "market_cap": 7235.648359650497
+}

@@ -1,0 +1,16 @@
+{
+  "address": "EZpwk53K61fUXiZsiC5ericcsg6XhCopu1Qp62Nppump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "PEPE Gonna Ride"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcxDMbPSaGgFmwc7YzBnGL15TGoUU64Zje1mWdgDcXtQN",
+  "price": 4.079647832239212e-06,
+  "liquidity": 0.9039447563343004,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4079.647832239212,
+  "market_cap": 4079.647832239212
+}

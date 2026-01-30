@@ -1,0 +1,16 @@
+{
+  "address": "GHJAny7JauTUj5Agq1mcwMFvmt5Fgb9scF4gnRiopump",
+  "name": "Pope Leo XIV",
+  "symbol": "PopeLeoXIV",
+  "decimals": 6,
+  "extensions": {
+    "description": "hes the goat"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYydrgjiEzwJYeyHctnHvkkVueDRaUVyanuTZWvnDArwz",
+  "price": 4.590732300843784e-06,
+  "liquidity": 0.9489083057537409,
+  "total_supply": 999999999.999997,
+  "circulating_supply": 999999999.999997,
+  "fdv": 4590.732300843771,
+  "market_cap": 4590.732300843771
+}

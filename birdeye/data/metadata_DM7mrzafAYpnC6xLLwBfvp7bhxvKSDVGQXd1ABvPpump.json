@@ -1,0 +1,17 @@
+{
+  "address": "DM7mrzafAYpnC6xLLwBfvp7bhxvKSDVGQXd1ABvPpump",
+  "name": "PEPE",
+  "symbol": "PPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "New Pepe Coin "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmesynbUBcPvZQ1ztqdf2Jg983FpbwnWeLn2stuvBzB6Xk",
+  "price": 6.216040244856752e-06,
+  "liquidity": 0.41667101220544484,
+  "total_supply": 999999999.995407,
+  "circulating_supply": 999999999.995407,
+  "fdv": 6216.040244828202,
+  "market_cap": 6216.040244828202,
+  "meme_info": null
+}

@@ -1,0 +1,17 @@
+{
+  "address": "E3TKcC3NXWTAQfCcxHnsjusrNMKduCLw6NaMExSHpump",
+  "name": "nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "they call me nick no neck",
+    "twitter": "https://t.me/+9Tyd32DcISg3OWMy",
+    "website": "https://t.me/+9Tyd32DcISg3OWMy",
+    "telegram": "https://t.me/+9Tyd32DcISg3OWMy"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmUQKkUFCHG7Qnk67FkagLaGzaz8jT6LtT1pa4kVfqHHot",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

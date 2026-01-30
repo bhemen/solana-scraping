@@ -1,0 +1,14 @@
+{
+  "address": "B1NqhNGWXDRY8A9oJsyq6jtE1m5i9xfLux6aw5xYj3sU",
+  "name": "PAVEL FREE",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmS3F9w3m28TubM3eGeC6rpxkxXgNXJocY5gtGH5WQ8zTd",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

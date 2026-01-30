@@ -1,0 +1,16 @@
+{
+  "address": "8BDTYZKcbxR5dzk9HVL9nLLwQh9ziuopm4hWaqjapump",
+  "name": "Pavel Durov",
+  "symbol": "PD",
+  "decimals": 6,
+  "extensions": {
+    "description": "Founder, CEO at \r\n@telegram\r\n (2013), founder, ex-CEO of \r\n@vkontakte\r\n (2006), part-time troll.",
+    "twitter": "https://x.com/durov",
+    "website": "https://x.com/durov"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmY1htJrw6BvKXx78VjGXBgGfyxeLuenaxQ17XqyvvruHJ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

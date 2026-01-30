@@ -1,0 +1,17 @@
+{
+  "address": "8m3Eo2PJRvvZZHF5UgF2hP3ma9rqQHZW3UDevkHypump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Nick the Shiba Inu",
+    "twitter": "https://www.reddit.com/r/dogecoin/comments/1fbucva/what_a_deal/#lightbox",
+    "website": "https://www.reddit.com/r/dogecoin/comments/1fbucva/what_a_deal/#lightbox",
+    "telegram": "https://www.reddit.com/r/dogecoin/comments/1fbucva/what_a_deal/#lightbox"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSSw1zZAkM9BF6bpz89UH2dPxFcDYHzo55478qzq6MhLP",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

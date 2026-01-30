@@ -1,0 +1,14 @@
+{
+  "address": "2yZkJdDR7BmHWgiLic3PimK1UMQ4XVe7fU47xVTLuVNc",
+  "name": "PAVEL DUROV",
+  "symbol": "DUROV",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free DUROV"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUYmybsbJ5LDYBuv7Rmx7T7MfPiuFsSRdm2DuJ3dc1Gvu",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

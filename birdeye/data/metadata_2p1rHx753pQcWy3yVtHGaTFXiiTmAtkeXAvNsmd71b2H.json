@@ -1,0 +1,19 @@
+{
+  "address": "2p1rHx753pQcWy3yVtHGaTFXiiTmAtkeXAvNsmd71b2H",
+  "name": "Real Teachers",
+  "symbol": "TEACHERS",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/kanyewest/status/1888275892579008976",
+    "website": "https://x.com/kanyewest/status/1888275892579008976",
+    "telegram": "https://x.com/kanyewest/status/1888275892579008976"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmbUwwVXdaX8fG3aQCiQqyQf1CG1fxLPySjzjCbe3KhW4P",
+  "price": 5.462282295380036e-06,
+  "liquidity": 0.41666289488847186,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5462.282295380036,
+  "market_cap": 5462.282295380036
+}

@@ -1,0 +1,16 @@
+{
+  "address": "5c1FpYejWi699wKjeEtMAq52ECyqz4d4xjaBXURdS6ZV",
+  "name": "Pavel",
+  "symbol": "Pavel",
+  "decimals": 6,
+  "extensions": {
+    "description": "Pavel loves to make me laugh",
+    "twitter": "/",
+    "telegram": "/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmST5urK7Yn1uski1oM34kQfVpu9edCqb7PUkMm2HWttHm",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

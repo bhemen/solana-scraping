@@ -1,0 +1,16 @@
+{
+  "address": "E8GKfGqymJWkSTmpsUZgCZ5dQs81RS2KfzKCsGM3pump",
+  "name": "Zelensky",
+  "symbol": "ZLNSK",
+  "decimals": 6,
+  "extensions": {
+    "description": "HE NEEDS ALL YOUR MONEY.GIVE GIVE GIVE"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcKeTJJM6nZ4qsPcRKe56At4oMF94c2o5VJ6xJbMGHxp5",
+  "price": 5.950530943122074e-06,
+  "liquidity": 0.42542350923157707,
+  "total_supply": 999999073.606133,
+  "circulating_supply": 999999073.606133,
+  "fdv": 5950.525430586703,
+  "market_cap": 5950.525430586703
+}

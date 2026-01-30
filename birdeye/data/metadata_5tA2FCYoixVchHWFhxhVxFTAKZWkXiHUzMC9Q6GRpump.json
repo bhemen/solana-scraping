@@ -1,0 +1,17 @@
+{
+  "address": "5tA2FCYoixVchHWFhxhVxFTAKZWkXiHUzMC9Q6GRpump",
+  "name": "Black Teacher ",
+  "symbol": "Black",
+  "decimals": 6,
+  "extensions": {
+    "description": "im just a chill guy "
+  },
+  "logo_uri": "https://ipfs.io/ipfs/Qmcu2PVYsrqGfkk58r2A1pyytT58SHk9DqCNYuxYbbw7tD",
+  "price": 6.987709758463176e-06,
+  "liquidity": 0.41666526243925567,
+  "total_supply": 999999999.990882,
+  "circulating_supply": 999999999.990882,
+  "fdv": 6987.709758399463,
+  "market_cap": 6987.709758399463,
+  "meme_info": null
+}

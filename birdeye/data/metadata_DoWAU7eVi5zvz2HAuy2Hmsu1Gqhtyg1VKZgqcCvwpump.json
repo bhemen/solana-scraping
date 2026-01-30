@@ -1,0 +1,14 @@
+{
+  "address": "DoWAU7eVi5zvz2HAuy2Hmsu1Gqhtyg1VKZgqcCvwpump",
+  "name": "nick",
+  "symbol": "nick",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmVqV3XwyMWa1nqgwc2LBa5x5AuFemWCTJKgZPvAh9fuLy",
+  "price": null,
+  "total_supply": 999999999.687495,
+  "circulating_supply": 999999999.687495,
+  "meme_info": null
+}

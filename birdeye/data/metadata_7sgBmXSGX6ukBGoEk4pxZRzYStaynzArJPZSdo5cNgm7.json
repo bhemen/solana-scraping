@@ -1,0 +1,18 @@
+{
+  "address": "7sgBmXSGX6ukBGoEk4pxZRzYStaynzArJPZSdo5cNgm7",
+  "name": "Rat Zelensky",
+  "symbol": "Zelensky",
+  "decimals": 6,
+  "extensions": {
+    "description": "Free ukraine from Zelensky! Trump and Elon are right about him !!!!",
+    "twitter": "https://x.com/elonmusk/status/1892425653447688353",
+    "website": "https://www.bbc.com/news/articles/clyj3j2r25wo"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPfBzrvyQJxZc5mnk9pNc2YLriCQUofbkCdRnCY8rwgsm",
+  "price": 4.8865538932182316e-06,
+  "liquidity": 1.9669811462438769,
+  "total_supply": 999999999.993659,
+  "circulating_supply": 999999999.993659,
+  "fdv": 4886.553893187246,
+  "market_cap": 4886.553893187246
+}

@@ -1,0 +1,14 @@
+{
+  "address": "kdxHVCCeMe3rPdYJXQVhwZc4vz6EUU2Xryon7ZVpump",
+  "name": "NICK",
+  "symbol": "NICK",
+  "decimals": 6,
+  "extensions": {
+    "description": "Nick the dog that loves to have fun!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXVAdKW76p1d9Tj1NBp92uF41vWzAtma4mQHMgMt1F4KV",
+  "price": null,
+  "total_supply": 999999999.978057,
+  "circulating_supply": 999999999.978057,
+  "meme_info": null
+}

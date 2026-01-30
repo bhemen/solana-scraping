@@ -1,0 +1,16 @@
+{
+  "address": "B5tUBdwMZxhUJT7BAcyAJyrmMxT9APd9uZ5bRLGTpump",
+  "name": "PAVEL DUROV",
+  "symbol": "PAVEL",
+  "decimals": 6,
+  "extensions": {
+    "description": "Founder CEO of Telegram ",
+    "twitter": "https://x.com/durov?t=5fVm72AGD4QBuYJnBKLQSw&s=09",
+    "telegram": "https://t.me/durov"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmaAVc2eXVP5JkQxfZwdciPmSQ7E5k57aZb65B7U3eZAYT",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

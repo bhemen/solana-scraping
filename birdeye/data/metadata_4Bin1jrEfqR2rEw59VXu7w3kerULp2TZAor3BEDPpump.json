@@ -1,0 +1,39 @@
+{
+  "address": "4Bin1jrEfqR2rEw59VXu7w3kerULp2TZAor3BEDPpump",
+  "name": "Tyler Robinson",
+  "symbol": "TR",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/DailyMail/status/1966485812033224991"
+  },
+  "logo_uri": "https://metadata.pumplify.eu/data/QmdcwSgf1EagmKX3WfeuVtnYwaf19SyfbhvG9nRx1rboV4",
+  "price": 6.921236786280796e-06,
+  "liquidity": 0.7143185217803526,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6921.236786280796,
+  "market_cap": 6921.236786280796,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757681911,
+      "slot": 366332209,
+      "tx_hash": "2iuemJbC18WhysfBD93gZroaowkyQzSZafUWTRfAV8ogWpktVJXvozgNztHnfjZkbCRbpH9APqu1WD1fXVMUBM7W"
+    },
+    "creator": "BmzjJKFL3xqJKcKtVvPRdrFYEBQprCRmHQCyJM7UGEux",
+    "address": "4Bin1jrEfqR2rEw59VXu7w3kerULp2TZAor3BEDPpump",
+    "creation_time": 1757681911,
+    "graduated": false,
+    "pool": {
+      "address": "DBTmaTmY6cPWRBtGvFadVvCU8Wwf9CDqEmPLGEPhTjQu",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

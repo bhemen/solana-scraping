@@ -1,0 +1,39 @@
+{
+  "address": "Cka8ezcZ3Twers872YkNQ1mcKuiZY4UMm1fPpGkapump",
+  "name": "Teacher Coin",
+  "symbol": "TCH",
+  "decimals": 6,
+  "extensions": {
+    "description": "The Most Scholarly Meme Coin: Turning Knowledge into a Global Trend",
+    "twitter": "https://x.com/TCHCoin"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXB4nUCDPosNd8ami6vRxLeCxG8Y6H7RM2Lfd4g9YkSUT",
+  "price": 4.18164054040825e-06,
+  "liquidity": 11.568145252495512,
+  "total_supply": 999999999.994462,
+  "circulating_supply": 999999999.994462,
+  "fdv": 4181.640540385092,
+  "market_cap": 4181.640540385092,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1732722531,
+      "slot": 303959132,
+      "tx_hash": "5Afdfh4DbtYVsPfJwA6fCXxdU6XssQvvzqWJHbNSKQYe9jeM51E4hzonNzzTyQHA3kJiDPNjdCYNvf7kVjH6p4ws"
+    },
+    "creator": "23Q14FnrVbkhdrVKdTC7ZHGUrymG4G9z5vcAjr6LqyNh",
+    "address": "Cka8ezcZ3Twers872YkNQ1mcKuiZY4UMm1fPpGkapump",
+    "creation_time": 1732722531,
+    "graduated": false,
+    "pool": {
+      "address": "GS6Am2a11jWS1TD6qdePUnxz52SPqXJPBkfrRhKqc8Xh",
+      "real_sol_reserves": "36346137",
+      "real_token_reserves": "791801593805267",
+      "virtual_token_reserves": "1071701593805267",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0.16371,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

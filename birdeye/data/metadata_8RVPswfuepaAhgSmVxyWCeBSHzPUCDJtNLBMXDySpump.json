@@ -1,0 +1,43 @@
+{
+  "address": "8RVPswfuepaAhgSmVxyWCeBSHzPUCDJtNLBMXDySpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUqaQC1wBWRLPCRJ9TwQTAUtM7HkVEif9iBtKNzCpPCBv",
+  "price": 4.217453961488515e-06,
+  "liquidity": 0.6437528577032277,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4217.453961488515,
+  "market_cap": 4217.453961488515,
+  "meme_info": {
+    "created_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": null,
+    "address": "8RVPswfuepaAhgSmVxyWCeBSHzPUCDJtNLBMXDySpump",
+    "creation_time": null,
+    "graduated": false,
+    "pool": {
+      "address": "3KkX99XBA6yxDpsorabJ1jjyxGcSCfhRprKx2heMUbBM",
+      "real_sol_reserves": "996",
+      "real_token_reserves": "793099964591002",
+      "virtual_token_reserves": "1072999964591002",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

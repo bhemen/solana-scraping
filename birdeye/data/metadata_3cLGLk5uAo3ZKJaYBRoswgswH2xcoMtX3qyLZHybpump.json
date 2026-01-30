@@ -1,0 +1,14 @@
+{
+  "address": "3cLGLk5uAo3ZKJaYBRoswgswH2xcoMtX3qyLZHybpump",
+  "name": "My Teacher",
+  "symbol": "mtea",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZzS9BWtGtZMQdQXKkTMQL7tR7uQyVQjz4vrZRgtyFEj1",
+  "price": null,
+  "total_supply": 999999999.984364,
+  "circulating_supply": 999999999.984364,
+  "meme_info": null
+}

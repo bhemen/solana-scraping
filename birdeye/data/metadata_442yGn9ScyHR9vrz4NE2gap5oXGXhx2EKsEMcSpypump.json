@@ -1,0 +1,38 @@
+{
+  "address": "442yGn9ScyHR9vrz4NE2gap5oXGXhx2EKsEMcSpypump",
+  "name": "Nick",
+  "symbol": "SOLANAGUY",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeibtd4druf633aorhes252zo73idclmskdax4f3obpjeqomnekyef4",
+  "price": 4.154441801519608e-06,
+  "liquidity": 0.608926558586973,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4154.441801519608,
+  "market_cap": 4154.441801519608,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1750458595,
+      "slot": 348121981,
+      "tx_hash": "4Bd5RmakXXMG1WUhrTAdrnusaiHnew9kCVwo9KMNgg1FkZikjbcTmGdU1tFpVojpnteTNcywj8riQUHa3muk4qGt"
+    },
+    "creator": "8VLxWb8ZYXAS1uiLfNpt9E3USaraTciHwNDg39Fhdhzb",
+    "address": "442yGn9ScyHR9vrz4NE2gap5oXGXhx2EKsEMcSpypump",
+    "creation_time": 1750458595,
+    "graduated": false,
+    "pool": {
+      "address": "6aborsHAWmpqv66huKAXRbbAwsVjQsr6hXAFe7ZX8C6S",
+      "real_sol_reserves": "14",
+      "real_token_reserves": "793099999999999",
+      "virtual_token_reserves": "1072999999999999",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

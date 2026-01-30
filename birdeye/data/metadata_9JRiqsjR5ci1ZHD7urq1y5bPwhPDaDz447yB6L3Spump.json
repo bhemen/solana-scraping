@@ -1,0 +1,39 @@
+{
+  "address": "9JRiqsjR5ci1ZHD7urq1y5bPwhPDaDz447yB6L3Spump",
+  "name": "Tyler Robinson",
+  "symbol": "Tyler",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/dogeofficialceo/status/1966490890924392815"
+  },
+  "logo_uri": "https://pbs.twimg.com/media/G0phCLIaYAA2VKA.jpg",
+  "price": 7.3776733871459444e-06,
+  "liquidity": 0.7142973361423711,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 7377.673387145945,
+  "market_cap": 7377.673387145945,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757682948,
+      "slot": 366334843,
+      "tx_hash": "FwxyJhvZ539g72WkXXVt3DHy6Bto4xiKS7B5L2RMhn1GqnFAKHvB44EEqvQauD63uwrbdJyw58htWDwwpKq7fyM"
+    },
+    "creator": "AvcWA3ngM55sSpjh1FZthmqA7V6BHo4f555a8w3Wv3ij",
+    "address": "9JRiqsjR5ci1ZHD7urq1y5bPwhPDaDz447yB6L3Spump",
+    "creation_time": 1757682948,
+    "graduated": false,
+    "pool": {
+      "address": "9FoLQdtob9tfNuBN4ShqBkDeRXbfkVhi42L95KB8F8rm",
+      "real_sol_reserves": "14",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

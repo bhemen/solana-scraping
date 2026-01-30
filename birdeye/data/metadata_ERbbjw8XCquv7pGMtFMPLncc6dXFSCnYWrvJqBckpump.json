@@ -1,0 +1,15 @@
+{
+  "address": "ERbbjw8XCquv7pGMtFMPLncc6dXFSCnYWrvJqBckpump",
+  "name": "Pavel Durov",
+  "symbol": "Durov",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/AP/status/1828502775514157109",
+    "twitter": "https://x.com/AP/status/1828502775514157109"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUKLzm4ZNpzqL75CU12xBbQ3eJp73uZjLKCy7mK1Da9ez",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

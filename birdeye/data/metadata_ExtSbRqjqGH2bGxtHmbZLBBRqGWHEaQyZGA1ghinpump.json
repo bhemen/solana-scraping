@@ -1,0 +1,17 @@
+{
+  "address": "ExtSbRqjqGH2bGxtHmbZLBBRqGWHEaQyZGA1ghinpump",
+  "name": "Pope Leone XIV",
+  "symbol": "POPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://www.reuters.com/world/europe/usa-cardinal-prevost-elected-pope-leo-xiv-2025-05-08/"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmaGxgaEjx9wHteEEmdbWYsrpTMsFHGEBXniuH2pXSBvoP",
+  "price": 4.998017266443583e-06,
+  "liquidity": 0.41667168864852594,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4998.017266443582,
+  "market_cap": 4998.017266443582
+}

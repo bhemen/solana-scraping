@@ -1,0 +1,44 @@
+{
+  "address": "98PF6qJP4rmB75JdkgyamwBWEgnqUFYYehRCFy8uFLbo",
+  "name": "Diddy Teacher",
+  "symbol": "Cheyne",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/DailyMail/status/1928060126977528143"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZqRyCXz4es3qMD9psgzvJFPzbC9YxftGCX7Zb8BSpn2s",
+  "price": 4.777346078457027e-06,
+  "liquidity": 0.45291836085437137,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4777.346078457027,
+  "market_cap": 4777.346078457027,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1748520428,
+      "slot": 343239610,
+      "tx_hash": "3CT1kvMeamQXuJbDcyKeLvQiwx3RgjoY3cFwsgVy9iqrJGM4YT8PuXif51z2bdmctf2qajpK1V6uf1c8MjaiXsCg"
+    },
+    "graduated_at": {
+      "block_time": null,
+      "slot": null,
+      "tx_hash": null
+    },
+    "creator": "HZio8jHNYHJ994x7cyr9T1o7eua6PnxSpwjm1g34eHZe",
+    "address": "98PF6qJP4rmB75JdkgyamwBWEgnqUFYYehRCFy8uFLbo",
+    "creation_time": 1748520428,
+    "graduated": false,
+    "pool": {
+      "address": "9zfnWNHWTVG2m2WxybWpXynujfLzbH1fZgxgHMgyBEYH",
+      "real_sol_reserves": "5",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

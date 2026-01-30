@@ -1,0 +1,16 @@
+{
+  "address": "8J2ecmMqwLFpAV5fws3WzPz7aWqq357R2H2StFN1pump",
+  "name": "ZELENSKII",
+  "symbol": "ZELENSKII",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmdV1bJxTu9NhctGtniLjCZ53vuHWwLKRZDrxf5APeDwjT",
+  "price": 5.552758228853495e-06,
+  "liquidity": 0.4712177156528682,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5552.758228853495,
+  "market_cap": 5552.758228853495
+}

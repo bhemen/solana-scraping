@@ -1,0 +1,20 @@
+{
+  "address": "AQYDkwsTwtFcLCNVfTuwo5oLmpJFxRa1vx225aat5LVG",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://twitter.com/binance/status/1866150826601075180",
+    "twitter": "https://twitter.com/binance/status/1866150826601075180",
+    "website": "https://twitter.com/binance/status/1866150826601075180",
+    "telegram": "https://twitter.com/binance/status/1866150826601075180"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmYATn1u2P3Rew1LZiDMPN2rgP68U1Nstrfs754484ubjd",
+  "price": 6.7013069010281215e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6701.3069010281215,
+  "market_cap": 6701.3069010281215,
+  "meme_info": null
+}

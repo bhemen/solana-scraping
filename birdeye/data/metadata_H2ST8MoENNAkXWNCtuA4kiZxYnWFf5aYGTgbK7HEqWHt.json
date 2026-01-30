@@ -1,0 +1,18 @@
+{
+  "address": "H2ST8MoENNAkXWNCtuA4kiZxYnWFf5aYGTgbK7HEqWHt",
+  "name": "Teacher Li Mascot",
+  "symbol": "Fufuland",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://twitter.com/x/migrate?tok=7b2265223a222f776879796f75746f757a68656c652f7374617475732f313836383537393139373338353636373034363f743d4d4b5f7a526e5a4f4867703555674335487a5a47377726733d3139222c2274223a313733343534323136317d91771dc2c3cdb5d4cfd87a74c7cde284"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmNPNnUQcRAU7qPKfjwBFzGzVChn1buYEJeyQ5qCc4FxHH",
+  "price": 6.052998177995982e-06,
+  "liquidity": 0.41666560066079616,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6052.998177995982,
+  "market_cap": 6052.998177995982,
+  "meme_info": null
+}

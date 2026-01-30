@@ -1,0 +1,14 @@
+{
+  "address": "BhQjvAMkjL4GSuwyEFHWKSpWZpKBEQpjGun7Q4enpump",
+  "name": "Black Pavel Durov",
+  "symbol": "BPD",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmapeYTgnvCVCvvPpP6iz3KMqpNTtFkHh5N5GLKJX679sM",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

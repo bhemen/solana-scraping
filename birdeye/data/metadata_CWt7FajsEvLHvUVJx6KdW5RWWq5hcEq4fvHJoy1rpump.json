@@ -1,0 +1,39 @@
+{
+  "address": "CWt7FajsEvLHvUVJx6KdW5RWWq5hcEq4fvHJoy1rpump",
+  "name": "Execute Tyler Robinson",
+  "symbol": "Tyler",
+  "decimals": 6,
+  "extensions": {
+    "description": "Execute Tyler Robinson!!!",
+    "twitter": "https://x.com/realDonaldTrump"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafybeihkikfuzasxrt732har3lh5rpiin67peqjxtho3jbwqxjmuzoq4ny",
+  "price": 6.781536914151039e-06,
+  "liquidity": 0.9370435965628935,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6781.536914151039,
+  "market_cap": 6781.536914151039,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757687145,
+      "slot": 366345439,
+      "tx_hash": "wJsf53MJWyeF18evMdKZJzYhLyB1Fh8i6zysiR5kAQPwFw3mhEXBuhAMtxHFhh79Y3NMSGFRLPTo8qTw2sGMD4R"
+    },
+    "creator": "G7utJyf58kUiHf9BsAXmqDaJALwqbrB1KdRm1z1jenDo",
+    "address": "CWt7FajsEvLHvUVJx6KdW5RWWq5hcEq4fvHJoy1rpump",
+    "creation_time": 1757687145,
+    "graduated": false,
+    "pool": {
+      "address": "7wTQ6DY6xcadsPDpHTjw4DDg21u5VytvNFf3wPVSZJ4G",
+      "real_sol_reserves": "3",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

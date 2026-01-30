@@ -1,0 +1,18 @@
+{
+  "address": "3NW8C1Qb3y8bZWWdRiMeE84Y4FmpHEsmgdhbqp5WtNDA",
+  "name": "pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/elonmusk/status/1870187673240965204"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmQztXa9icoAd776BuKFEK7qKknsT44PkyxnMqNQoWUc5P",
+  "price": 6.0037005756919114e-06,
+  "liquidity": 0.41666255666693136,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6003.700575691912,
+  "market_cap": 6003.700575691912,
+  "meme_info": null
+}

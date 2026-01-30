@@ -1,0 +1,17 @@
+{
+  "address": "HXW1thDrPKTMViEM9hc4FXsnHUDcadjFzm4JTejSpump",
+  "name": "Nick",
+  "symbol": "Nick",
+  "decimals": 6,
+  "extensions": {
+    "description": "AI/ML R&D | Classics | Math | Athletics. From Neolithic to Hellenic \u2014 reviving overlooked math and ideas for the AI age from Ancient Greece and the Near East\r\n",
+    "twitter": "https://x.com/renegadesilicon"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmTfRAgy8cbK62bypc7ypEY5gJgdytPkaZL7epgBce5eKC",
+  "price": 3.6247037188116074e-06,
+  "liquidity": 0.4166659388823368,
+  "total_supply": 999999999.995917,
+  "circulating_supply": 999999999.995917,
+  "fdv": 3624.7037187968076,
+  "market_cap": 3624.7037187968076
+}

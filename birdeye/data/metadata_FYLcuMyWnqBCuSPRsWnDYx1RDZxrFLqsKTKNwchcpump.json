@@ -1,0 +1,17 @@
+{
+  "address": "FYLcuMyWnqBCuSPRsWnDYx1RDZxrFLqsKTKNwchcpump",
+  "name": "Diddy Teacher",
+  "symbol": "teacher",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "website": "https://x.com/MailOnline/status/1906635352183304639#ref=fdcdbae7-958e-4daa-b459-42b9d75aae3d"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmcAUMTD7h4sK8umYetrRzVkkm9EM1PbjFNdGY66tojWV2",
+  "price": 3.478701593856281e-06,
+  "liquidity": 0.41666357133155296,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3478.701593856281,
+  "market_cap": 3478.701593856281
+}

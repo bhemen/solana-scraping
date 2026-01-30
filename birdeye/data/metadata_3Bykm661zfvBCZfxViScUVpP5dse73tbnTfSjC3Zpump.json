@@ -1,0 +1,38 @@
+{
+  "address": "3Bykm661zfvBCZfxViScUVpP5dse73tbnTfSjC3Zpump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmUmypBXGfoAa3HkxppZfHGQH7k56jsWTgVMchHwFPJpJ2",
+  "price": 4.376867280301603e-06,
+  "liquidity": 22.138150467919825,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4376.867280301603,
+  "market_cap": 4376.867280301603,
+  "meme_info": {
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "created_at": {
+      "tx_hash": "5eiJCo2rqQP3UgaQyCPW9ygUVPWmpmVzhoxGpZr3TaPRWujiZFmpX6dquyMKPVbgAYh514eenrZy1n3XzUUzohsn",
+      "slot": 377907743,
+      "block_time": 1762275917
+    },
+    "creation_time": 1762275917,
+    "creator": "BrM18F9KRNbZuWTfTGz25P9MxZDiQSktCXuk8XnR91RX",
+    "graduated": false,
+    "graduated_time": null,
+    "pool": {
+      "address": "76TMeB6iaqv55NhrSMfJnGjx1nCTSeCJfXi6n3Bzric1",
+      "real_sol_reserves": "69066507",
+      "real_token_reserves": "790635395355259",
+      "token_total_supply": "1000000000000000",
+      "virtual_token_reserves": "1070535395355259"
+    },
+    "progress_percent": 0.31076,
+    "address": "3Bykm661zfvBCZfxViScUVpP5dse73tbnTfSjC3Zpump"
+  }
+}

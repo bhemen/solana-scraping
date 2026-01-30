@@ -1,0 +1,18 @@
+{
+  "address": "47XHJReT3KjoKAKCpK1px4YijyBT3p2k9hWmRHQRpump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "",
+    "twitter": "https://x.com/Official_Peepe",
+    "website": "https://peepe.fun/lander"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmeZeXe5g8Edz71WoABunPVR7WT4s3dtXgRKFYGzMeFRef",
+  "price": 3.967172922014586e-06,
+  "liquidity": 0.4166622184453908,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3967.1729220145858,
+  "market_cap": 3967.1729220145858
+}

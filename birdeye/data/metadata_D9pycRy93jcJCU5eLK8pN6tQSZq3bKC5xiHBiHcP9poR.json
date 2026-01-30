@@ -1,0 +1,14 @@
+{
+  "address": "D9pycRy93jcJCU5eLK8pN6tQSZq3bKC5xiHBiHcP9poR",
+  "name": "Zelenskyy",
+  "symbol": "Zelenskyy",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskyy win win win!"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmZNTemZ5QPLMntFuxb2drpNDo3Q1y71rZUy9fpESQ69fn",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

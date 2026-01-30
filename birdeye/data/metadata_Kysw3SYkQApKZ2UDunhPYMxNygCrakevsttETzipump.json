@@ -1,0 +1,16 @@
+{
+  "address": "Kysw3SYkQApKZ2UDunhPYMxNygCrakevsttETzipump",
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "extensions": {
+    "description": "pepe robot the coolest most powerful ai on solana",
+    "twitter": "https://x.com/pepebotsol",
+    "telegram": "https://t.me/pepebotportal"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSStYe1h4MBtPubCSCpNjoAewzTFfH4SK52x7mKfF3e8c",
+  "price": null,
+  "total_supply": 999999999.999,
+  "circulating_supply": 999999999.999,
+  "meme_info": null
+}

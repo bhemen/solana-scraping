@@ -1,0 +1,16 @@
+{
+  "address": "D1diFZAsz3xPDLGbjGVxS1mqsuNL3pr1Rq1QbwsEpump",
+  "name": "Pope Leo Xiv",
+  "symbol": "Pope",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmXcUYEHAgp2YRV6RUvv4SsTn2WSmXSygYDbCUx1j16oBv",
+  "price": 4.509069306394477e-06,
+  "liquidity": 0.9039461092204626,
+  "total_supply": 999999999.994741,
+  "circulating_supply": 999999999.994741,
+  "fdv": 4509.069306370763,
+  "market_cap": 4509.069306370763
+}

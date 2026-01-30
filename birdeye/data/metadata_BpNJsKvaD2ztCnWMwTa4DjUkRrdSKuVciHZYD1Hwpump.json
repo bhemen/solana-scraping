@@ -1,0 +1,40 @@
+{
+  "address": "BpNJsKvaD2ztCnWMwTa4DjUkRrdSKuVciHZYD1Hwpump",
+  "name": "Tyler Robinson Electric Chair",
+  "symbol": "electric",
+  "decimals": 6,
+  "extensions": {
+    "description": "Give Tyler the Electric Chair.",
+    "twitter": "https://x.com/blakepccarter/status/1966500886835835029",
+    "website": "https://www.nbcnews.com/news/us-news/suspect-charlie-kirk-shooting-tyler-robinson-rcna230504"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreihnc22qldqbf7elgeeigc7u36nyc2goc7ussbte3civpccmfvf6vm",
+  "price": 6.847744724009944e-06,
+  "liquidity": 0.9374084358240385,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 6847.744724009944,
+  "market_cap": 6847.744724009944,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1757688322,
+      "slot": 366348410,
+      "tx_hash": "1PPVmqpkJ8iJmDLGrRhWptQtfJ7vBMeQ3DT8nZUhdDjWBk7T5krP2ANJLJGrXUYbdTmwd9yEyoXkkxbRU6RtaTe"
+    },
+    "creator": "CyU31VXvm1LrKkC3KiTEs1c5fDcNMfSXFtBaCERXCons",
+    "address": "BpNJsKvaD2ztCnWMwTa4DjUkRrdSKuVciHZYD1Hwpump",
+    "creation_time": 1757688322,
+    "graduated": false,
+    "pool": {
+      "address": "9feQ1xduNLajh6Nrqe1faLucRbc776xZdCK4ZDj7V2S4",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

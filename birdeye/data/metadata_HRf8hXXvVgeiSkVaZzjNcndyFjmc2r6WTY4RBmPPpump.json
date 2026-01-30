@@ -1,0 +1,17 @@
+{
+  "address": "HRf8hXXvVgeiSkVaZzjNcndyFjmc2r6WTY4RBmPPpump",
+  "name": "Pepe",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "extensions": {
+    "description": "$PEPE. The most memeable memecoin in existence.",
+    "twitter": "https://x.com/pepecoineth",
+    "website": "https://www.pepe.vip/",
+    "telegram": "\thttps://t.me/pepecoineth"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmWoETfzdWpdMb9MNrttKnUx4oFPBViqYdyvXidTrQAHXZ",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

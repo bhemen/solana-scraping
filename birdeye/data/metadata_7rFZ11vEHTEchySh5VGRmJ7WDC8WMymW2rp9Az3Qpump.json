@@ -1,0 +1,15 @@
+{
+  "address": "7rFZ11vEHTEchySh5VGRmJ7WDC8WMymW2rp9Az3Qpump",
+  "name": "Pavel Durov's dog ",
+  "symbol": "Chester",
+  "decimals": 6,
+  "extensions": {
+    "description": "Just legendary telegram founder Pavel Durov's dog in a hoodie.",
+    "website": "https://medium.com/dfrlab/digitalresistance-protest-grows-in-russia-b318b1304cc7"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmcnjG5CwDKwafuNQ4cwHeqtHAjqL9Jdds8KRbdC42HSsu",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

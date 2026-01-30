@@ -1,0 +1,16 @@
+{
+  "address": "CMgG4crT1Sw8XwGCfS7XmS8V1AVAoUeguDWLRq4qpump",
+  "name": "Meth Teacher",
+  "symbol": "MT",
+  "decimals": 6,
+  "extensions": {
+    "description": ""
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmPTEibkbihz9bfCZgfkZh1xdXwTGBZgR1MmXn2hiSDBvh",
+  "price": 4.883401616887085e-06,
+  "liquidity": 0.352795188857152,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 4883.401616887086,
+  "market_cap": 4883.401616887086
+}

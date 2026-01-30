@@ -1,0 +1,38 @@
+{
+  "address": "F5GhH5RFQchAWYsWS6jhVCLK9nqafjiPYySiwyq7pump",
+  "name": "Zelenskiy",
+  "symbol": "ZLNSKY",
+  "decimals": 6,
+  "extensions": {
+    "description": "ZLNSKY"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreif2ikwfoq67efdv2ixy3xzeawovhltcmnrrool26yctuslsxxyssq",
+  "price": 5.110769440775836e-06,
+  "liquidity": 0.784852657585991,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5110.769440775836,
+  "market_cap": 5110.769440775836,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1755793440,
+      "slot": 361572367,
+      "tx_hash": "n3cKms4yA5VsBuKDhgPdnEUF65isXrvDfHM5Y9vhR9wGUikadYhQkPDSaH8SFipGxi4BWUuiBwmXkbjT5vo2dDK"
+    },
+    "creator": "GC2hgsc1wxHdgw8siffzVCP6h4Xe1L3qVHxhBY6Dn3eY",
+    "address": "F5GhH5RFQchAWYsWS6jhVCLK9nqafjiPYySiwyq7pump",
+    "creation_time": 1755793440,
+    "graduated": false,
+    "pool": {
+      "address": "5Ku3iXQWikBNR8BsafrL5nubScVTHR31yyvmUvbi1oeR",
+      "real_sol_reserves": "1",
+      "real_token_reserves": "793100000000000",
+      "virtual_token_reserves": "1073000000000000",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}

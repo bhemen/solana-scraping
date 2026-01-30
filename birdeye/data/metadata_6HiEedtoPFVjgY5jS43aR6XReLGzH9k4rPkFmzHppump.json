@@ -1,0 +1,17 @@
+{
+  "address": "6HiEedtoPFVjgY5jS43aR6XReLGzH9k4rPkFmzHppump",
+  "name": "Elon Teacher",
+  "symbol": "TEACHER",
+  "decimals": 6,
+  "extensions": {
+    "description": "https://x.com/cb_doge/status/1819374797190557860",
+    "twitter": "https://x.com/cb_doge/status/1819374797190557860",
+    "website": "https://x.com/cb_doge/status/1819374797190557860",
+    "telegram": "https://x.com/cb_doge/status/1819374797190557860"
+  },
+  "logo_uri": "https://pump.mypinata.cloud/ipfs/QmaCXh6Jo8SUGQaAkHZ4LwpKM4nzAdHxcrcTrS1t9NW9mu",
+  "price": null,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "meme_info": null
+}

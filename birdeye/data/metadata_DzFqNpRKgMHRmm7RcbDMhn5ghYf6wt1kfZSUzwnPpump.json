@@ -1,0 +1,16 @@
+{
+  "address": "DzFqNpRKgMHRmm7RcbDMhn5ghYf6wt1kfZSUzwnPpump",
+  "name": "Zelenskyy",
+  "symbol": "Ukraine ",
+  "decimals": 6,
+  "extensions": {
+    "description": "The President of Ukraine, Volodymyr Zelensky, is a former comedian and television producer who rose to prominence for his leadership during the ongoing Russian invasion, earning international recognition for his resilience and commitment to his country's sovereignty."
+  },
+  "logo_uri": "https://ipfs.io/ipfs/QmSRwZso1NQwvn51HU4n4BwtTZswTHQkdbtVArj1ByBTvC",
+  "price": 3.958119508688881e-06,
+  "liquidity": 0.3313932312057679,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 3958.119508688881,
+  "market_cap": 3958.119508688881
+}

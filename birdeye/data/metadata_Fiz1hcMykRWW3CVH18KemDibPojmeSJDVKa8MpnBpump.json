@@ -1,0 +1,40 @@
+{
+  "address": "Fiz1hcMykRWW3CVH18KemDibPojmeSJDVKa8MpnBpump",
+  "name": "Zelenskini Planenini",
+  "symbol": "Zelenskini",
+  "decimals": 6,
+  "extensions": {
+    "description": "Zelenskini Planenini",
+    "twitter": "https://x.com/deer007d31/status/1957495253335777634",
+    "website": "https://www.tiktok.com/@gondon_345/video/7538911177695366418?lang=en-GB"
+  },
+  "logo_uri": "https://ipfs.io/ipfs/bafkreihprskg2v3lycoibiufwshfctjocgjzvu6psty72qcne6xbwc55cu",
+  "price": 5.224191753805263e-06,
+  "liquidity": 0.7130653707837594,
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "fdv": 5224.191753805263,
+  "market_cap": 5224.191753805263,
+  "meme_info": {
+    "created_at": {
+      "block_time": 1755538417,
+      "slot": 360924620,
+      "tx_hash": "4u5QtqCBEzk4HR8qq8cWQ8UBAzTZtA6A8tRRE4YUeaQCHhsUBXdhsdsGLqYP3ovD87JvZDBi2QFKLboJdyEG1p2W"
+    },
+    "creator": "FXTc3geaJqtcjcDGFUEyztU9SmBWLXgMSQ7Tc5s8LrLK",
+    "address": "Fiz1hcMykRWW3CVH18KemDibPojmeSJDVKa8MpnBpump",
+    "creation_time": 1755538417,
+    "graduated": false,
+    "pool": {
+      "address": "7dCFMpvsGpKA6HoCMjkNgCKPjyG8zPMjCnYR9Uy6KNB4",
+      "real_sol_reserves": "4",
+      "real_token_reserves": "793099999999998",
+      "virtual_token_reserves": "1072999999999998",
+      "token_total_supply": "1000000000000000"
+    },
+    "progress_percent": 0,
+    "source": "pump_dot_fun",
+    "platform_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "graduated_time": null
+  }
+}
